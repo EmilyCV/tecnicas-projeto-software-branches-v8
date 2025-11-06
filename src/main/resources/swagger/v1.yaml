@@ -1,0 +1,558 @@
+openapi: 3.1.0
+info:
+  title: API Agência de Viagens
+  description: >-
+    Documentação interativa da API da Agência de Viagens usando Springdoc
+    OpenAPI.
+  version: 1.0.0
+servers:
+  - url: 'http://localhost:8080'
+    description: Generated server url
+paths:
+  '/v1/pacotes/{pacoteId}/contratacoes':
+    post:
+      tags:
+        - contratacao
+      operationId: contratar
+      parameters:
+        - name: pacoteId
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ContratacaoRequest'
+        required: true
+      responses:
+        '200':
+          description: OK
+  /v1/pacotes:
+    get:
+      tags:
+        - pacote
+      operationId: listarTodosPacotes
+      parameters:
+        - name: pageable
+          in: query
+          required: true
+          schema:
+            $ref: '#/components/schemas/Pageable'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Pacote'
+  '/v1/pacotes/{id}':
+    get:
+      tags:
+        - pacote
+      operationId: buscarPacotePorId
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Pacote'
+  '/v1/pacotes/{id}/compras':
+    get:
+      tags:
+        - pacote
+      operationId: buscarComprasPorPacote
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+        - name: pageable
+          in: query
+          required: true
+          schema:
+            $ref: '#/components/schemas/Pageable'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Compra'
+  '/v1/pacotes/{idPacote}/compras/{idCompra}':
+    get:
+      tags:
+        - pacote
+      operationId: buscarCompraDePacotePorId
+      parameters:
+        - name: idPacote
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+        - name: idCompra
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Compra'
+  /v1/localidades:
+    get:
+      tags:
+        - localidade
+      operationId: listarTodasLocalidades
+      parameters:
+        - name: pageable
+          in: query
+          required: true
+          schema:
+            $ref: '#/components/schemas/Pageable'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Localidade'
+  '/v1/localidades/{id}':
+    get:
+      tags:
+        - localidade
+      operationId: buscarLocalidadePorId
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Localidade'
+  '/v1/contratacoes/{contratacaoId}':
+    get:
+      tags:
+        - contratacao
+      operationId: buscarContratacaoPorId
+      parameters:
+        - name: contratacaoId
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Compra'
+  /v1/clientes:
+    get:
+      tags:
+        - cliente
+      operationId: listarTodosClientes
+      parameters:
+        - name: pageable
+          in: query
+          required: true
+          schema:
+            $ref: '#/components/schemas/Pageable'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Cliente'
+  '/v1/clientes/{id}':
+    get:
+      tags:
+        - cliente
+      operationId: buscarClientePorId
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Cliente'
+  '/v1/clientes/{id}/compras':
+    get:
+      tags:
+        - cliente
+      operationId: buscarComprasDeCliente
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+        - name: pageable
+          in: query
+          required: true
+          schema:
+            $ref: '#/components/schemas/Pageable'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Compra'
+  '/v1/clientes/{idCliente}/compras/{idCompra}':
+    get:
+      tags:
+        - cliente
+      operationId: buscarCompraDeClientePorId
+      parameters:
+        - name: idCliente
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+        - name: idCompra
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Compra'
+components:
+  schemas:
+    Cartao:
+      type: object
+      properties:
+        numero:
+          type: string
+        cvc:
+          type: string
+        validade:
+          type: string
+          pattern: '^\d{4}-\d{2}$'
+          example: "2025-12"
+      required:
+        - cvc
+        - numero
+        - validade
+    ContratacaoRequest:
+      type: object
+      properties:
+        cartao:
+          $ref: '#/components/schemas/Cartao'
+        dataIda:
+          type: string
+          format: date
+      required:
+        - cartao
+        - dataIda
+    Pageable:
+      type: object
+      properties:
+        page:
+          type: integer
+          format: int32
+          minimum: 0
+        size:
+          type: integer
+          format: int32
+          minimum: 1
+        sort:
+          type: array
+          items:
+            type: string
+    ItemPacote:
+      type: object
+      discriminator:
+        propertyName: type
+        mapping:
+          ALUGUEL_VEICULO: '#/components/schemas/AluguelCarro'
+          HOTEL: '#/components/schemas/ReservaHotel'
+          TRANSLADO_AEREO: '#/components/schemas/TransladoAereoItem'
+      properties:
+        id:
+          type: string
+          format: uuid
+        preco:
+          type: number
+          format: double
+        type:
+          type: string
+      required:
+        - type
+    AluguelCarro:
+      allOf:
+        - $ref: '#/components/schemas/ItemPacote'
+        - type: object
+          properties:
+            nomeLocadora:
+              type: string
+            categoriaCarro:
+              type: string
+            email:
+              type: string
+            telefone:
+              type: string
+          required:
+            - nomeLocadora
+            - categoriaCarro
+    ReservaHotel:
+      allOf:
+        - $ref: '#/components/schemas/ItemPacote'
+        - type: object
+          properties:
+            nomeHotel:
+              type: string
+            endereco:
+              $ref: '#/components/schemas/Endereco'
+            email:
+              type: string
+            telefone:
+              type: string
+            idPlataforma:
+              type: string
+          required:
+            - nomeHotel
+            - endereco
+    TransladoAereoItem:
+      allOf:
+        - $ref: '#/components/schemas/ItemPacote'
+        - type: object
+          properties:
+            nomeCompanhia:
+              type: string
+            vooIdaNumero:
+              type: string
+            vooVoltaNumero:
+              type: string
+            vooIdaHora:
+              type: string
+            vooVoltaHora:
+              type: string
+            email:
+              type: string
+            telefone:
+              type: string
+          required:
+            - nomeCompanhia
+            - vooIdaNumero
+            - vooVoltaNumero
+    Endereco:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        cep:
+          type: string
+        localidade:
+          $ref: '#/components/schemas/Localidade'
+        logradouro:
+          type: string
+        numero:
+          type: string
+        complemento:
+          type: string
+        bairro:
+          type: string
+    Localidade:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        nomeCidade:
+          type: string
+        estado:
+          type: string
+          enum:
+            - AC
+            - AL
+            - AP
+            - AM
+            - BA
+            - CE
+            - DF
+            - ES
+            - GO
+            - MA
+            - MT
+            - MS
+            - MG
+            - PA
+            - PB
+            - PR
+            - PE
+            - PI
+            - RJ
+            - RN
+            - RS
+            - RO
+            - RR
+            - SC
+            - SP
+            - SE
+            - TO
+        codigoLocadoraVeiculo:
+          type: string
+    Pacote:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        nome:
+          type: string
+        localidade:
+          $ref: '#/components/schemas/Localidade'
+        dataInicio:
+          type: string
+          format: date
+        dataFim:
+          type: string
+          format: date
+        disponibilidade:
+          type: integer
+          format: int32
+        desconto:
+          type: number
+          format: double
+        items:
+          type: array
+          items:
+            oneOf:
+              - $ref: '#/components/schemas/AluguelCarro'
+              - $ref: '#/components/schemas/ReservaHotel'
+              - $ref: '#/components/schemas/TransladoAereoItem'
+        duracao:
+          type: integer
+          format: int32
+        tipoDesconto:
+          type: string
+          enum:
+            - FIXO
+            - COMPRA_ANTECIPADA
+        valorDesconto:
+          type: number
+          format: double
+        preco:
+          type: number
+          format: double
+        custo:
+          type: number
+          format: double
+    Cliente:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        nome:
+          type: string
+        dataNascimento:
+          type: string
+          format: date
+        email:
+          type: string
+        telefone:
+          type: string
+        endereco:
+          $ref: '#/components/schemas/Endereco'
+    Compra:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        cliente:
+          $ref: '#/components/schemas/Cliente'
+        pacote:
+          $ref: '#/components/schemas/Pacote'
+        dataIda:
+          type: string
+          format: date
+        dataVolta:
+          type: string
+          format: date
+        dataCompra:
+          type: string
+          format: date
+        valorTotal:
+          type: number
+          format: double
+        desconto:
+          type: number
+          format: double
+        valorPago:
+          type: number
+          format: double
+        stripeChargeId:
+          type: string
+        reservaHotel:
+          type: string
+        reservaVooIda:
+          type: string
+        assentoVooIda:
+          type: string
+        embarqueVooIda:
+          type: string
+          format: date-time
+        reservaVooVolta:
+          type: string
+        assentoVooVolta:
+          type: string
+        embarqueVooVolta:
+          type: string
+          format: date-time
+        reservaVeiculo:
+          type: string

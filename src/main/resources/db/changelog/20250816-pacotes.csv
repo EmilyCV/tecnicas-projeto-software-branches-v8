@@ -1,0 +1,556 @@
+ID,NOME,DATA_INICIO,DATA_FIM,DISPONIBILIDADE,DESCONTO,TIPO_DESCONTO,LOCALIDADE_ID,DURACAO
+35ec6833-53be-4f36-9b69-cbd4bd87a6d3,Retiro Espiritual em Diamantina,2024-11-01,2024-11-08,3,0.3,FIXO,5b936770-56b7-40ba-b372-9f980906fcbb,5
+abb66fe6-d806-42d1-80ad-7e56f9aa6d47,Passeio de Balão em Caldas Novas,2025-07-20,2225-07-27,10,0.13,COMPRA_ANTECIPADA,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,7
+cc033755-05ee-45f9-8ae1-d5fde82e3122,Expedição em Ouro Preto,2025-12-01,2225-12-08,4,0.27,FIXO,f1afd523-a664-4083-b61d-54300be26c7d,10
+701d2fea-09c2-4a92-ab78-3e36b423e53c,Viagem de Trem em Curitiba,2026-04-01,2226-04-08,2,0.3,FIXO,933243f9-4aec-4288-af69-4d6ecf0cc16b,7
+73116257-16af-4f98-8bd5-ebdc39a2f2b7,Exploração da Patagônia brasileira,2026-03-10,2226-03-17,5,0.18,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,9
+d5d264a8-66cf-4eaf-994a-82249074e5cc,Aventura no Deserto de Jalapão,2026-02-18,2226-02-25,8,0.2,COMPRA_ANTECIPADA,2305bb80-fb90-448f-a70f-856e44fba2a3,9
+5f75e322-ba0e-4042-86e6-d286d7dcbca8,Mergulho na Grande Barreira de Arraial d'Ajuda,2025-09-15,2225-09-22,6,0.16,COMPRA_ANTECIPADA,402cf9ac-8df1-45cb-825c-d7aaf20e224f,8
+0d91ce29-8668-4efc-bd60-673c0f15f880,Férias na Praia de Noronha,2025-08-20,2225-08-27,4,0.1,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,3
+fb11bd2f-be1b-4b03-9da2-9a5830ba868f,Safari no Pantanal Sul-Matogrossense,2025-10-05,2225-10-12,9,0.22,FIXO,f31d2366-3419-4ec8-8806-93ad606c0703,8
+657bc1ce-b0d1-4433-9af4-b45b12ee7138,Pacote Aventura na Amazônia,2025-05-10,2225-05-18,6,0.15,COMPRA_ANTECIPADA,f1a62904-d784-49e4-af77-6f085917d482,2
+b386ec56-232f-41bf-9f7f-402b643c501c,Cruzeiro pela Baía de Todos-os-Santos,2024-03-05,2024-03-12,8,0.2,FIXO,3ba47ebc-5b33-4dc7-bff7-6749b2f76580,7
+64c3e163-0280-453c-892e-162f8ce111ad,Tour Histórico em Petrópolis,2026-01-15,2226-01-22,7,0.25,COMPRA_ANTECIPADA,7bde9250-70cc-4d7e-b44b-e1b910e318f1,5
+c3ea1496-348b-4554-92c8-496447fd3b6b,Caminhada na Muralha da China brasileira,2024-04-10,2024-04-17,7,0.14,FIXO,3b3dd404-b7c9-448d-a7ca-f93cda53d6d8,5
+e9074260-1bc7-4aa8-b304-b1365683045a,Tour Gastronômico na Chapada Diamantina,2025-06-01,2225-06-08,5,0.1,COMPRA_ANTECIPADA,245ecdfc-db63-46da-ac57-166a499d4abd,10
+12e7e53b-93a0-4cfa-9d86-cd95e044b28b,Exploração do Bonito,2025-11-05,2225-11-12,3,0.21,FIXO,9affb74c-7c2f-4e77-b727-f278efe90919,9
+622fae8b-0d68-487e-88dc-698693f79e49,Visita às Pirâmides de Foz do Iguaçu,2024-02-14,2024-02-21,5,0.28,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,10
+aa849c8b-42ca-4ad2-852f-f9c289618b41,Retiro de Yoga em Brasília,2026-05-20,2226-05-27,6,0.19,FIXO,3f725fe9-ba1f-4f8f-8542-1582e80c3724,7
+697cfc64-fbec-45d3-931a-0aa37520e901,Viagem à Ilha do Mel,2025-07-10,2225-07-17,7,0.11,COMPRA_ANTECIPADA,933243f9-4aec-4288-af69-4d6ecf0cc16b,8
+3ee9bade-2796-4bee-b8be-cf49695356fa,Passeio de Caiaque em Florianópolis,2025-10-25,2225-11-01,8,0.24,FIXO,0c8192d8-ce22-4a0f-bcad-4689ea6d3254,10
+1ea051cf-beac-4000-b5aa-4607a49b2c66,Férias na Disney de São Paulo,2025-08-01,2225-08-08,9,0.12,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,4
+afcf8fed-7069-4201-ba43-edeb61e0098f,Tour de Vinícolas em Porto Alegre,2025-09-01,2225-09-08,4,0.17,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,9
+23ed6eb2-fef6-43f1-95c7-1ed2a7e28419,Safari no Serengeti goiano,2025-10-15,2225-10-22,9,0.23,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,10
+f21b1bb5-17f5-4141-a8d6-f8d2026dafa6,Visita ao Japão no inverno gaúcho,2026-03-20,2226-03-27,6,0.19,COMPRA_ANTECIPADA,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,9
+6c440c22-a903-4801-b706-a4036033460e,Tour na Patagônia Chilena,2025-11-20,2225-11-27,5,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,5
+521efc2e-c3b1-4fac-ba4e-7aacb7ab415f,Passeio de Balão na Turquia brasileira,2024-05-01,2024-05-08,8,0.25,FIXO,29a0b9a3-78ff-4aec-ab68-857d08919bef,7
+7c94ec26-9e8d-4cf9-8a10-bbe96ea0a378,Mergulho em Fernando de Noronha,2025-08-05,2225-08-12,4,0.15,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,3
+3c698162-fa7f-4318-b600-695fde4bc23b,Expedição na Amazônia,2025-09-05,2225-09-12,6,0.2,FIXO,f1a62904-d784-49e4-af77-6f085917d482,4
+2c57eafe-0fa9-4aa7-9b8c-fcaf558fcc93,Férias na Costa dos Corais,2025-07-01,2225-07-08,10,0.14,COMPRA_ANTECIPADA,d0ee7149-3425-4a00-a698-043441164dd8,2
+60eb70e6-3825-4486-a829-ec44fc9d2d43,Tour pelo Pantanal Sul-Matogrossense,2025-12-10,2225-12-17,3,0.27,FIXO,f31d2366-3419-4ec8-8806-93ad606c0703,8
+0610acbd-0359-405d-bc4a-2bda1b31d343,Férias em Punta Cana brasileira,2026-05-01,2226-05-08,5,0.13,FIXO,414d3736-de26-453d-9043-ed3d14725527,5
+d85b82c1-e5f4-4e3c-ae41-3c9263dd00e0,Expedição ao Monte Roraima,2025-09-10,2225-09-17,2,0.3,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,7
+74a91fd8-203e-42eb-844e-e901aa47ac01,Viagem à Ilha do Mel,2024-01-20,2024-01-27,4,0.22,FIXO,933243f9-4aec-4288-af69-4d6ecf0cc16b,5
+a74f639c-f3da-486e-9e7f-a1a82ec34e81,Mergulho em Cancun brasileira,2025-10-30,2225-11-06,8,0.16,COMPRA_ANTECIPADA,3ba47ebc-5b33-4dc7-bff7-6749b2f76580,6
+3747fe94-9f4c-4a4a-a24e-6161a0224799,Tour Gastronômico na Bahia,2025-06-15,2225-06-22,7,0.18,FIXO,3ba47ebc-5b33-4dc7-bff7-6749b2f76580,9
+4f09c5ec-3156-4c89-a9d9-ef6059f450ec,Passeio de Lancha em Angra dos Reis,2025-08-25,2225-09-01,6,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,5
+824e6b9a-8578-45a6-aa72-914cdef56416,Férias em Paraty,2024-03-25,2024-04-01,9,0.2,COMPRA_ANTECIPADA,984b955a-2d32-4681-8763-fa0800c4a752,2
+dbbbccfe-7def-4393-8e7d-75b3fb7fcc19,Viagem à Islândia de Lençóis Maranhenses,2025-11-15,2225-11-22,4,0.24,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,6
+03a6ce05-141b-4a0c-82a0-0ab0b7320819,Tour pelo Vietnam brasileiro,2026-02-05,2226-02-12,8,0.15,FIXO,0c8192d8-ce22-4a0f-bcad-4689ea6d3254,10
+9adc4c9a-dfcc-4206-91c9-e94a557bbfda,Caminhada nos Andes brasileiros,2025-10-10,2225-10-17,5,0.21,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,5
+e7e37b04-917a-4bb8-88fa-a3e6c2c974dd,Expedição ao Deserto do Atacama brasileiro,2025-07-25,2225-08-01,3,0.26,FIXO,9affb74c-7c2f-4e77-b727-f278efe90919,2
+cb8f51b0-487c-4c36-9faa-f1c4b1255585,Passeio de Barco na Baía de Todos-os-Santos,2025-09-20,2225-09-27,7,0.19,COMPRA_ANTECIPADA,3ba47ebc-5b33-4dc7-bff7-6749b2f76580,7
+55d3eddc-1bff-456a-89f0-ecaa95d39519,Férias em Ouro Preto,2024-04-15,2024-04-22,6,0.17,COMPRA_ANTECIPADA,f1afd523-a664-4083-b61d-54300be26c7d,7
+3a9bb3e2-3866-48f3-a290-f895ca2227d5,Mergulho em Fernando de Noronha,2025-12-05,2225-12-12,4,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,2
+2409312f-cb03-41db-bd1b-2bfde7a7d9e7,Tour por Machu Picchu goiano,2026-03-01,2226-03-08,8,0.16,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,9
+ea9dd49f-0654-4eab-8493-78df3631ce2b,Viagem à Costa do Sol,2025-10-01,2225-10-08,5,0.14,COMPRA_ANTECIPADA,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,3
+c0db4ecf-462f-4e10-99fe-8015d81e69e4,Exploração do Pampa gaúcho,2025-07-05,2225-07-12,9,0.2,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,2
+a3367a0f-8262-4a90-89e5-f330254b900e,Safari na Chapada Diamantina,2024-02-28,2024-03-07,7,0.25,FIXO,245ecdfc-db63-46da-ac57-166a499d4abd,8
+009ce3cb-25bd-4ef5-ba13-391a2817c19e,Férias na Polinésia Francesa brasileira,2025-11-01,2225-11-08,3,0.3,COMPRA_ANTECIPADA,a3474661-93be-48dc-95c7-ffdf713a1736,3
+944114ad-714a-4264-bc6e-9cd2a664cc8d,Passeio de Lancha em Angra dos Reis,2026-04-20,2226-04-27,6,0.1,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,6
+e6236225-53da-462a-beb7-336cbef21054,Tour por Recife,2025-09-15,2225-09-22,8,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,3
+753ceb51-347e-4e28-8faf-7100ca6aab37,Expedição em Ouro Preto,2025-12-20,2225-12-27,5,0.27,FIXO,f1afd523-a664-4083-b61d-54300be26c7d,9
+72022b26-548b-45af-a4d4-ca8e7d074508,Férias na Serra Gaúcha,2024-05-10,2024-05-17,10,0.18,COMPRA_ANTECIPADA,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,6
+2beebcd5-3dde-40f0-8caf-bcd01ce1cebf,Viagem ao Peru brasileiro,2025-10-05,2225-10-12,4,0.21,FIXO,9affb74c-7c2f-4e77-b727-f278efe90919,5
+928f83c9-d30f-41be-9e7f-26c62093e634,Mergulho em Bonito,2026-03-10,2226-03-17,7,0.16,FIXO,9affb74c-7c2f-4e77-b727-f278efe90919,3
+dd513a22-b708-426b-b281-914325f095b1,Férias em Búzios,2025-08-01,2225-08-08,6,0.13,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,10
+995e316b-f522-42c9-9a1c-3b5e89d0bec4,Tour pela Holanda brasileira,2024-01-15,2024-01-22,9,0.2,COMPRA_ANTECIPADA,9a74d247-2ba3-4f21-b0b0-63d1557c7232,6
+550d66ee-cb5f-43de-948b-c3b1b08d8bd0,Aventura em Nova Zelândia brasileira,2025-11-25,2225-12-02,5,0.24,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,4
+113de264-a13f-443a-85b7-c2dd86d8813f,Passeio de Balão em Caldas Novas,2026-02-15,2226-02-22,8,0.15,COMPRA_ANTECIPADA,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,5
+7f4bc512-c370-4417-a9da-bceb2814ccdf,Viagem ao Vietnã brasileiro,2025-09-01,2225-09-08,3,0.19,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,8
+3d52bedf-efe5-412b-8d91-ee27a757df89,Expedição no Deserto de Lençóis Maranhenses,2024-03-05,2024-03-12,7,0.28,COMPRA_ANTECIPADA,d9f12450-7c19-41fb-8ed7-f6828a2830cd,5
+c3af24f4-bb4b-445d-8a68-58709132c921,Férias em Natal,2025-10-20,2225-10-27,6,0.21,FIXO,f473800b-fd2a-4cba-b6f5-70f014539e40,5
+e1bf55ed-9a99-497a-bf94-0a32fc627330,Tour por Florianópolis,2026-04-10,2226-04-17,4,0.1,COMPRA_ANTECIPADA,0c8192d8-ce22-4a0f-bcad-4689ea6d3254,6
+51686124-3013-4d4e-bb3b-afaee9153899,Aventura na Islândia brasileira,2025-07-01,2225-07-08,8,0.2,COMPRA_ANTECIPADA,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,2
+8cd5e2fd-2072-4357-90fd-75d8a6d44853,Viagem à Irlanda brasileira,2024-05-25,2024-06-01,5,0.17,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,10
+03a15c95-a61d-4e30-9430-679cb502122a,Férias em São Paulo,2025-11-01,2225-11-08,9,0.14,COMPRA_ANTECIPADA,8889ee61-9c8c-4e5f-9609-430d512666b1,9
+efb63e86-62c8-484a-b18b-c4d0aced6054,Tour pela Escócia brasileira,2026-01-15,2226-01-22,6,0.23,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,4
+5da99762-63c2-40ef-9b5f-8cdab8b250dc,Mergulho em Maragogi,2025-09-20,2225-09-27,4,0.16,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,5
+91b99c1a-3f9a-4452-b274-163702966dfe,Férias na Serra Gaúcha,2025-08-05,2225-08-12,7,0.19,COMPRA_ANTECIPADA,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,3
+ccad3244-6162-46cb-8b4b-a7b003503f2a,Expedição ao Deserto de Jalapão,2024-02-10,2024-02-17,5,0.26,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,8
+19d4c584-c2c5-4b4f-885c-1a3701a65288,Tour pela Cidade Histórica de Ouro Preto,2025-12-01,2225-12-08,8,0.1,FIXO,f1afd523-a664-4083-b61d-54300be26c7d,7
+c9ab9c9a-7464-4409-8847-7f726da36f93,Viagem à Jordânia brasileira,2026-03-05,2226-03-12,6,0.28,COMPRA_ANTECIPADA,8889ee61-9c8c-4e5f-9609-430d512666b1,6
+e9a70352-831c-4baa-8e04-ddbad7f99646,Passeio de Lancha em Angra dos Reis,2025-10-10,2225-10-17,4,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,9
+86b584e9-a768-4cf7-930a-cdd7a9f6a20d,Férias em Balneário Camboriú,2025-07-15,2225-07-22,9,0.2,COMPRA_ANTECIPADA,0c8192d8-ce22-4a0f-bcad-4689ea6d3254,2
+a9a15aa7-3be3-4298-b886-7d7a9296be72,Tour pela Escandinávia brasileira,2024-04-05,2024-04-12,7,0.15,FIXO,933243f9-4aec-4288-af69-4d6ecf0cc16b,10
+5fd20425-53d9-47b6-b03e-92bc756e9e3c,Aventura na Islândia brasileira,2025-11-10,2225-11-17,5,0.24,COMPRA_ANTECIPADA,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,10
+26cdfc0a-9dfc-441e-a2ff-09f181638519,Viagem à Nova Zelândia brasileira,2026-02-20,2226-02-27,8,0.17,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,8
+0c81266c-1c62-47ff-ac17-9ba4d5af587a,Férias no Havaí brasileiro,2025-09-01,2225-09-08,6,0.19,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,10
+6f66c5d2-17ef-4752-869e-820e5d06b434,Mergulho em Fernando de Noronha,2024-03-20,2024-03-27,4,0.22,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,2
+b5c2234b-a92b-4f18-938e-7dd0e6e16f97,Tour por Buenos Aires,2025-10-25,2225-11-01,9,0.16,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,9
+774f6a5f-4c22-472d-a3e6-5838d3f41110,Expedição no Monte Fuji brasileiro,2026-04-01,2226-04-08,2,0.3,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,10
+d3f31bfd-4277-4ac0-9b36-cd4588ba4403,Passeio de Lancha em Angra dos Reis,2025-07-20,2225-07-27,7,0.11,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,7
+d4866359-025e-4df1-b9d5-6d73b6766035,Férias em Singapura brasileira,2025-12-15,2225-12-22,5,0.25,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,4
+29a45419-a067-4f3b-b532-4f1f63e01bf3,Viagem à China brasileira,2024-01-25,2024-02-01,8,0.18,COMPRA_ANTECIPADA,8889ee61-9c8c-4e5f-9609-430d512666b1,10
+baccc15a-e666-44b9-bf40-b1ba442fa08d,Mergulho em Fernando de Noronha,2026-05-10,2226-05-17,6,0.14,COMPRA_ANTECIPADA,42ce5f37-4c5a-473b-aca5-cb764a58aae6,8
+db8db476-53ea-4b8b-84df-f877984ab5b4,Tour pela África do Sul brasileira,2025-09-05,2225-09-12,4,0.2,FIXO,f31d2366-3419-4ec8-8806-93ad606c0703,10
+4ca570c3-570e-403a-87ff-96b429f46a2f,Expedição na Indonésia brasileira,2025-11-05,2225-11-12,9,0.15,FIXO,0c8192d8-ce22-4a0f-bcad-4689ea6d3254,6
+7464964d-2d19-41c3-83b6-1e17b79066ff,Férias no Egito brasileiro,2024-03-15,2024-03-22,7,0.27,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,9
+b6049ff6-00aa-4325-8029-8f2b3522e234,Passeio de Balão em Caldas Novas,2026-02-01,2226-02-08,5,0.12,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,10
+ceb8b585-885f-433d-98da-64d0e1b3ccd8,Viagem ao Canadá brasileiro,2025-10-10,2225-10-17,8,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,9
+ec1ca0fc-0640-4fda-b593-b41db7398c92,Mergulho em Fernando de Noronha,2025-07-25,2225-08-01,6,0.16,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,5
+3973ec1e-9707-4071-9ab2-78b02e067af4,Férias em Ouro Preto,2024-04-20,2024-04-27,4,0.22,FIXO,f1afd523-a664-4083-b61d-54300be26c7d,8
+77a28858-2987-49fc-8f51-92a4c960a360,Tour por Recife,2026-03-10,2226-03-17,9,0.14,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,2
+b548dc5b-3ce8-494d-8cb3-aaffd147b13a,Expedição no Deserto de Jalapão,2025-11-20,2225-11-27,7,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,7
+a46d6ac0-2556-487b-86d9-b9db5f424f7c,Aventura na Islândia brasileira,2025-08-01,2225-08-08,5,0.1,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,5
+0aad28da-c65a-47ef-8ecb-0f3ef404fbab,Viagem à Itália brasileira,2024-05-15,2024-05-22,8,0.23,FIXO,3ba47ebc-5b33-4dc7-bff7-6749b2f76580,7
+da1ce1a0-f6ef-41bb-b28f-71db2e4978ff,Férias na Praia do Forte,2025-10-01,2225-10-08,6,0.17,FIXO,3ba47ebc-5b33-4dc7-bff7-6749b2f76580,7
+a0282335-c730-4777-a6bc-0d0dc3c5b877,Tour pela Cidade Histórica de Olinda,2026-01-05,2226-01-12,4,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,3
+c534d96d-4194-44e0-83da-1dd98970ba8c,Mergulho em Maragogi,2025-09-10,2225-09-17,9,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,6
+3644f270-b33c-4abc-8f46-54723944bdaa,Expedição na Amazônia,2025-12-05,2225-12-12,7,0.26,FIXO,f1a62904-d784-49e4-af77-6f085917d482,3
+b05b2427-c47a-4cdf-8183-669b8f7bd3a5,Férias em Porto de Galinhas,2024-03-01,2024-03-08,5,0.19,FIXO,414d3736-de26-453d-9043-ed3d14725527,2
+d85d04df-87da-4931-902a-86cc303334d0,Viagem à Islândia de Lençóis Maranhenses,2026-04-15,2226-04-22,8,0.15,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,5
+d98c5605-9f8b-4f33-856f-f81cb8bf2176,Passeio de Balão em Caldas Novas,2025-09-20,2225-09-27,6,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,7
+de7bceed-860d-47d4-95b4-1440f154255f,Tour pela Serra Gaúcha,2025-11-15,2225-11-22,4,0.24,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,10
+f9c93dc7-1d86-4cf5-8540-863be7160655,Aventura em Nova Zelândia brasileira,2026-02-10,2226-02-17,9,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,7
+de3f63ff-2673-40e7-b76e-4f19f49b0a62,Férias em Búzios,2024-02-25,2024-03-04,7,0.21,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,9
+9798a2f0-80f8-4ff4-a0fe-035d7698376a,Viagem ao Egito brasileiro,2025-10-05,2225-10-12,5,0.27,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,9
+bb7e6240-1acb-4e13-a8e8-f6714b6e1a5d,Mergulho em Fernando de Noronha,2026-03-01,2226-03-08,6,0.16,COMPRA_ANTECIPADA,42ce5f37-4c5a-473b-aca5-cb764a58aae6,8
+576d0b7d-d01d-4836-9b57-669c17fccef7,Férias em Petrópolis,2025-07-10,2225-07-17,8,0.14,COMPRA_ANTECIPADA,7bde9250-70cc-4d7e-b44b-e1b910e318f1,3
+3200f3f0-32ed-44ee-9bee-cc040f81a57c,Tour pela Bahia,2024-05-20,2024-05-27,4,0.23,FIXO,3ba47ebc-5b33-4dc7-bff7-6749b2f76580,8
+7d55e6fd-9665-429b-a46c-f5b36c130fde,Expedição ao Monte Roraima,2025-11-01,2225-11-08,2,0.3,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,2
+0863a7b1-1930-478e-8b99-7431dbb85747,Passeio de Lancha em Angra dos Reis,2026-04-05,2226-04-12,7,0.1,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,7
+e4688c94-9afd-4b47-b262-5954c2eaecfd,Férias na Serra Gaúcha,2025-09-15,2225-09-22,5,0.15,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,5
+57fb6323-18da-40a9-83e5-731de901d798,Viagem à Jordânia brasileira,2024-03-10,2024-03-17,9,0.18,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,5
+d9c1f549-8862-4ec2-bb92-4d1b04b44ced,Mergulho em Fernando de Noronha,2026-05-01,2226-05-08,6,0.14,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,10
+b895630b-5c54-4699-86d1-d3397ccbc0fd,Tour por Buenos Aires brasileiro,2025-10-20,2225-10-27,4,0.2,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,9
+d17b47f9-d4bc-44dd-98d8-b4d3e9e72f84,Expedição na Patagônia brasileira,2025-12-10,2225-12-17,8,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,10
+dd962243-fdd5-4aa3-bb0f-5a7f56c7e4bd,Férias em Morro de São Paulo,2024-01-30,2024-02-06,5,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,7
+187f6ced-5fc4-43ca-9bc5-a26b89e83007,Passeio de Lancha em Angra dos Reis,2026-03-20,2226-03-27,7,0.11,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,8
+f6a6039c-f8ee-457f-83f2-b5b0e1c78f9b,Viagem ao Vietnã brasileiro,2025-09-25,2225-10-02,6,0.16,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,10
+1f01882c-a933-4b5d-91dd-44db3ab81f30,Mergulho em Fernando de Noronha,2024-04-01,2024-04-08,9,0.2,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,4
+f8b3856b-6373-46ff-8637-4373596a58a6,Tour pela Itália brasileira,2025-11-10,2225-11-17,5,0.24,COMPRA_ANTECIPADA,08a22b3b-293f-48bf-8e26-7c469b82a76b,9
+4697eda4-98ae-46de-9daf-140dc28e0e72,Aventura na Escócia brasileira,2026-01-25,2226-02-01,8,0.17,COMPRA_ANTECIPADA,13465e3f-bfb8-495d-8328-a3e6fac08a29,10
+ae28f840-4d17-4e09-af46-391ba64f29c4,Férias no Havaí brasileiro,2025-08-15,2225-08-22,6,0.19,COMPRA_ANTECIPADA,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,9
+135f8016-0e92-483a-aa2a-0f3a40559e40,Viagem à Nova Zelândia brasileira,2024-03-18,2024-03-25,4,0.22,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,5
+806e7f2c-490e-440b-a839-94489282ce74,Expedição no Deserto de Lençóis Maranhenses,2025-10-05,2225-10-12,9,0.28,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,7
+bc117179-9ceb-4779-a50a-25bc1bcf38bc,Tour por Machu Picchu goiano,2026-04-10,2226-04-17,7,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,3
+26b1eccf-f81f-4b2a-b84f-957e5ae0f73b,Férias em Lençóis Maranhenses,2025-12-01,2225-12-08,5,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,4
+96a9669b-0030-45dd-bd4a-06309c42f0c2,Viagem à Irlanda brasileira,2024-02-05,2024-02-12,8,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,2
+09c7382f-47b1-4452-834a-dbdc36109f76,Mergulho em Maragogi,2025-11-20,2225-11-27,6,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,8
+79a0ca89-b5e9-47fd-9cf9-f71263524be9,Tour pela Cidade Histórica de Olinda,2026-03-05,2226-03-12,4,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,5
+c75c5818-9c6c-4a52-ac75-a90c8c8d7222,Expedição na Amazônia,2025-09-25,2225-10-02,9,0.15,COMPRA_ANTECIPADA,f1a62904-d784-49e4-af77-6f085917d482,7
+5b29f0a5-b5ff-4c3a-b17a-311065776132,Férias em Búzios,2024-04-15,2024-04-22,7,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,5
+9fdbf59b-3c92-4c99-a939-9ba03643c2e5,Passeio de Balão em Caldas Novas,2025-10-10,2225-10-17,5,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,6
+d4e3ff99-8331-4ad3-acba-2f0076c34b96,Viagem à Itália brasileira,2026-02-05,2226-02-12,8,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,9
+92fecef1-ece8-462f-902c-49c170848bf9,Aventura em Nova Zelândia brasileira,2025-07-20,2225-07-27,6,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,5
+1d825a5f-103a-4deb-b7b9-244b84ac92c5,Férias em Paraty,2024-01-20,2024-01-27,4,0.21,COMPRA_ANTECIPADA,984b955a-2d32-4681-8763-fa0800c4a752,2
+49b39ac9-60dd-4b67-81fc-f3edb7ec3a48,Mergulho em Fernando de Noronha,2025-11-05,2225-11-12,9,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,6
+f03c373b-1c37-432f-a91a-133a50996886,Expedição ao Monte Roraima,2026-04-10,2226-04-17,7,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,10
+dc1334ec-b97f-4e9e-9ec4-e6e2fffd3c4c,Passeio de Lancha em Angra dos Reis,2025-09-01,2225-09-08,5,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,5
+47e23445-d08c-4dc0-8070-d0250af06a59,Férias na Serra Gaúcha,2024-03-25,2024-04-01,8,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,2
+4d9865fb-9966-4c85-988c-6147486aff07,Viagem à Jordânia brasileira,2025-10-20,2225-10-27,6,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,7
+b9675016-a1ea-4d1f-aa9b-90858792ad20,Mergulho em Fernando de Noronha,2026-02-01,2226-02-08,4,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,7
+e3ce0671-dfb1-47e8-acfd-dde9fde113b8,Tour por Buenos Aires brasileiro,2025-08-10,2225-08-17,9,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,2
+ea71de15-bd21-49bd-bf06-7ea8010a9ded,Expedição na Patagônia brasileira,2024-02-15,2024-02-22,7,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,9
+aaa94aaa-1d22-4fd3-97e5-d2751939d2e3,Férias em Morro de São Paulo,2025-11-15,2225-11-22,5,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,3
+31ec0f02-1e7f-41fa-9fc7-c7c73aa5fd55,Passeio de Lancha em Angra dos Reis,2026-03-01,2226-03-08,8,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,2
+1d3ec0c1-fc23-4cac-8065-367b132a1405,Viagem ao Vietnã brasileiro,2025-10-05,2225-10-12,6,0.15,COMPRA_ANTECIPADA,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,8
+6fb07ff5-bf2e-4b04-a8e5-d4aa5a6464e3,Mergulho em Fernando de Noronha,2024-04-20,2024-04-27,4,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,3
+8b7ef3c1-222c-4b76-a36a-98d363f946bf,Tour pela Itália brasileira,2025-12-01,2225-12-08,9,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,6
+57abb2d9-fe11-41ba-9e9b-fa6a402a4ab4,Aventura na Escócia brasileira,2026-01-10,2226-01-17,7,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,3
+28b18f7e-0ef9-4718-898d-4b23f4c7fbfb,Férias no Havaí brasileiro,2025-09-25,2225-10-02,5,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,9
+f755cb48-609e-4605-81f7-bd981c733aeb,Viagem à Nova Zelândia brasileira,2024-03-05,2024-03-12,8,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,6
+99cb81ab-a58a-48ee-a165-0fd6f42d30e6,Expedição no Deserto de Jalapão,2025-11-20,2225-11-27,6,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,5
+f72c8c79-d49c-4c87-b814-b31f34880d14,Tour por Machu Picchu goiano,2026-03-10,2226-03-17,4,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,3
+051c09b9-9186-453f-b138-08d616112828,Férias em Lençóis Maranhenses,2025-12-15,2225-12-22,9,0.26,COMPRA_ANTECIPADA,d9f12450-7c19-41fb-8ed7-f6828a2830cd,10
+d6c40aa2-ef39-46a5-a3fa-b4c16050a7fe,Viagem à Irlanda brasileira,2024-01-10,2024-01-17,7,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,6
+3098daca-4cc9-4fa3-87df-cd98b1b82ca3,Mergulho em Maragogi,2025-10-01,2225-10-08,5,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,4
+7d63d0bc-aab1-4af8-8261-3da7aa59da57,Tour pela Cidade Histórica de Olinda,2026-04-05,2226-04-12,8,0.2,COMPRA_ANTECIPADA,9a4ee800-0214-42d2-aab7-95fba0d04272,5
+decd6840-e00c-4f9b-9b84-2fcc4f853f80,Expedição na Amazônia,2025-08-25,2225-09-01,6,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,8
+422c6794-9742-49bb-925e-7260cba8639e,Férias em Búzios,2024-05-10,2024-05-17,4,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,5
+25c098c7-b6ee-4f49-9b1d-967e0e336c20,Passeio de Balão em Caldas Novas,2025-11-05,2225-11-12,9,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,5
+0e7dfd5b-54f9-47e6-b6e9-904a82858242,Viagem à Itália brasileira,2026-03-01,2226-03-08,7,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,6
+d90a09ee-8bf3-4a43-8be8-3759adf6e42f,Aventura em Nova Zelândia brasileira,2025-09-15,2225-09-22,5,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,2
+5949afd5-0608-4888-9849-ac7a6a402140,Férias em Paraty,2024-02-10,2024-02-17,8,0.21,FIXO,984b955a-2d32-4681-8763-fa0800c4a752,10
+4230472d-7351-4f50-9095-266802bc612c,Mergulho em Fernando de Noronha,2025-12-05,2225-12-12,6,0.26,COMPRA_ANTECIPADA,42ce5f37-4c5a-473b-aca5-cb764a58aae6,9
+8ae5f71c-08b1-411b-9913-a62475ee2b4f,Expedição ao Monte Roraima,2026-05-01,2226-05-08,4,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,4
+fc286e52-2f6c-4ad2-8159-abb02d6a5e46,Passeio de Lancha em Angra dos Reis,2025-10-25,2225-11-01,9,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,5
+60dfdf6f-24e8-4a00-835d-b4a06695da3c,Férias na Serra Gaúcha,2024-04-20,2024-04-27,7,0.14,COMPRA_ANTECIPADA,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,3
+fa2d5248-f992-44b9-b9f3-fc4d576cba6e,Viagem à Jordânia brasileira,2025-11-10,2225-11-17,5,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,8
+f58a435a-bda3-47e3-a34a-fba9391a4f33,Mergulho em Fernando de Noronha,2026-01-05,2226-01-12,8,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,7
+09f05155-6f96-44cb-8d0b-29ee8c9bc86d,Tour por Buenos Aires brasileiro,2025-09-01,2225-09-08,6,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,6
+817d1eb7-9e9c-4b7f-895a-59124432ade5,Expedição na Patagônia brasileira,2024-03-01,2024-03-08,4,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,9
+afcb5674-bfdd-47af-862b-41c5f33f7ff4,Férias em Morro de São Paulo,2025-12-05,2225-12-12,9,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,2
+aba210ec-d02b-4f8e-bb79-6801fa78de79,Passeio de Lancha em Angra dos Reis,2026-04-10,2226-04-17,7,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,10
+e294c8f1-33d6-46d5-8fa3-d565c652bea9,Viagem ao Vietnã brasileiro,2025-10-25,2225-11-01,5,0.15,COMPRA_ANTECIPADA,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,10
+aaf7bd2c-c0a7-41f5-a354-23dddc384875,Mergulho em Fernando de Noronha,2024-01-25,2024-02-01,8,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,8
+bdf4dce9-d123-4ad4-9f55-8a8903588fc1,Tour pela Itália brasileira,2025-11-15,2225-11-22,6,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,10
+1dbb0583-93cf-4f10-a1fc-9ffcda8cff0e,Aventura na Escócia brasileira,2026-02-15,2226-02-22,4,0.1,COMPRA_ANTECIPADA,13465e3f-bfb8-495d-8328-a3e6fac08a29,2
+1b9924d0-5ae0-43fe-b84e-bc0016324b38,Férias no Havaí brasileiro,2025-09-01,2225-09-08,9,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,9
+392d15a2-d6cc-43d3-b4ff-959d67114412,Viagem à Nova Zelândia brasileira,2024-03-10,2024-03-17,7,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,10
+84b27863-4703-4f98-b49b-985cebefcf61,Expedição no Deserto de Jalapão,2025-12-20,2225-12-27,5,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,7
+d2dd27be-5010-454e-ade3-4d7550ea5eb2,Tour por Machu Picchu goiano,2026-05-01,2226-05-08,8,0.1,COMPRA_ANTECIPADA,1550ce5d-a9bf-45d0-a221-79e1701ce866,4
+4c795530-6c07-4965-9260-67dc33c8a2a6,Férias em Lençóis Maranhenses,2025-10-10,2225-10-17,6,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,10
+d7023ed7-9cf8-4289-a5c0-964cdc5fa318,Viagem à Irlanda brasileira,2024-02-20,2024-02-27,4,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,8
+9b2652bc-267d-4bd0-a67d-8c92bfb85973,Mergulho em Maragogi,2025-11-05,2225-11-12,9,0.13,COMPRA_ANTECIPADA,d0ee7149-3425-4a00-a698-043441164dd8,10
+3ae52458-abc2-4298-bba0-7454fc1ded3e,Tour pela Cidade Histórica de Olinda,2026-03-25,2226-04-01,7,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,6
+cd40d3c8-4eb7-4359-a431-5ea8339570c7,Expedição na Amazônia,2025-09-10,2225-09-17,5,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,9
+0883a3b8-1ee3-4843-bd1f-33bc0f37b796,Férias em Búzios,2024-05-25,2024-06-01,8,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,10
+95541d65-66de-47c8-a8d1-9b609d88f3f2,Passeio de Balão em Caldas Novas,2025-10-20,2225-10-27,6,0.1,COMPRA_ANTECIPADA,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,9
+c1c88b25-77ad-4fbb-9275-59cf4d7d0cb7,Viagem à Itália brasileira,2026-01-15,2226-01-22,4,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,5
+806029ff-af3f-42c0-b539-2b4a96c754b0,Aventura em Nova Zelândia brasileira,2025-08-05,2225-08-12,9,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,8
+7b44c71b-f717-4d8f-adef-cb43d8219bba,Férias em Paraty,2024-03-15,2024-03-22,7,0.21,COMPRA_ANTECIPADA,984b955a-2d32-4681-8763-fa0800c4a752,2
+72ef17f4-4c22-42b9-b837-5af0a737a243,Mergulho em Fernando de Noronha,2025-11-20,2225-11-27,5,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,7
+9d40282d-3397-4383-b8f7-ae055c7066ca,Expedição ao Monte Roraima,2026-04-20,2226-04-27,8,0.1,COMPRA_ANTECIPADA,e33be35c-d5fd-45b5-a146-740020252a98,5
+f5f4e9fb-6ef7-463c-9f3b-8315a3d4caa8,Passeio de Lancha em Angra dos Reis,2025-10-05,2225-10-12,6,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,7
+d5b78859-26bd-4059-ab4f-19785beb563c,Férias na Serra Gaúcha,2024-05-01,2024-05-08,4,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,7
+b0e816ac-0401-473f-94c8-3f399f15c582,Viagem à Jordânia brasileira,2025-12-01,2225-12-08,9,0.19,COMPRA_ANTECIPADA,8889ee61-9c8c-4e5f-9609-430d512666b1,3
+c2048aa2-ad8d-4a21-83df-451b32fac844,Mergulho em Fernando de Noronha,2026-03-05,2226-03-12,7,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,6
+40f8a781-f603-414b-a8ee-59db63568341,Tour por Buenos Aires brasileiro,2025-09-20,2225-09-27,5,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,3
+e82f62f7-be7f-49af-b3c7-2f4ce91a2632,Expedição na Patagônia brasileira,2024-04-10,2024-04-17,8,0.25,COMPRA_ANTECIPADA,b2ee09de-9356-4803-af30-c41348bb2670,2
+0263d1fc-b72e-4b18-8d7d-c6cbe8203853,Férias em Morro de São Paulo,2025-10-01,2225-10-08,6,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,9
+dbbb81c4-ccd5-4b81-b6da-809e5e559120,Passeio de Lancha em Angra dos Reis,2026-05-01,2226-05-08,4,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,13
+a4e7c5c2-40c7-41b3-8997-95716e7eaa30,Viagem ao Vietnã brasileiro,2025-11-10,2225-11-17,9,0.15,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,5
+cba617fb-8abb-4103-a4a1-03fd506fb198,Mergulho em Fernando de Noronha,2024-03-01,2024-03-08,7,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,6
+3f5a3a50-5306-4933-b9f9-699dab50b54a,Tour pela Itália brasileira,2025-12-25,2226-01-01,5,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,15
+01a762e7-7548-4b6c-8962-2c53dd36cc85,Aventura na Escócia brasileira,2026-01-20,2226-01-27,8,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,5
+06a839a7-39e1-4a75-b23b-a96795e6a8e5,Férias no Havaí brasileiro,2025-08-10,2225-08-17,6,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,4
+ce9a1136-7827-45b3-8470-582db4ab3b59,Viagem à Nova Zelândia brasileira,2024-02-15,2024-02-22,4,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,14
+91c0ecde-a93e-486b-9ef5-c6c504e4215c,Expedição no Deserto de Jalapão,2025-11-01,2225-11-08,9,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,7
+f3aa7368-cb08-4277-bb0c-69b0cdd6f0b7,Tour por Machu Picchu goiano,2026-03-20,2226-03-27,7,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,12
+a9e996f7-1958-412a-bb4d-c6bcd0b8b485,Férias em Lençóis Maranhenses,2025-10-25,2225-11-01,5,0.26,COMPRA_ANTECIPADA,d9f12450-7c19-41fb-8ed7-f6828a2830cd,6
+678151d9-9b33-47da-bdea-b3ddc65936ed,Viagem à Irlanda brasileira,2024-03-05,2024-03-12,8,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,15
+80021eef-7a82-463b-8df4-1521c386adb3,Mergulho em Maragogi,2025-11-20,2225-11-27,6,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,4
+71677bb3-1cc3-4812-a012-7b8f36d43957,Tour pela Cidade Histórica de Olinda,2026-04-10,2226-04-17,4,0.2,COMPRA_ANTECIPADA,9a4ee800-0214-42d2-aab7-95fba0d04272,7
+11262ed7-80f8-4b88-87cb-d80850a54b58,Expedição na Amazônia,2025-09-05,2225-09-12,9,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,10
+6ceb43e3-d1cf-462e-97a7-5ed05e0d24f0,Férias em Búzios,2024-04-20,2024-04-27,7,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,12
+7fb69665-03ea-4655-a225-47abc52b7d5f,Passeio de Balão em Caldas Novas,2025-10-15,2225-10-22,5,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,13
+883898be-bf67-4d2a-a9f0-26394a4e3f0a,Viagem à Itália brasileira,2026-02-20,2226-02-27,8,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,5
+ed98f42f-159b-4651-af57-841414c74aa3,Aventura em Nova Zelândia brasileira,2025-08-20,2225-08-27,6,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,9
+e3ea44aa-8451-4877-bce3-7cd26030813d,Férias em Paraty,2024-01-30,2024-02-06,4,0.21,FIXO,984b955a-2d32-4681-8763-fa0800c4a752,9
+8d7cf602-e7b6-4576-965d-0d43fb04f5f1,Mergulho em Fernando de Noronha,2025-11-10,2225-11-17,9,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,5
+4c5923e7-d6d1-466e-978d-0edd1fc0a688,Expedição ao Monte Roraima,2026-05-10,2226-05-17,7,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,9
+02641de8-d3d7-40a8-86bf-2fb89754aafc,Passeio de Lancha em Angra dos Reis,2025-09-10,2225-09-17,5,0.2,COMPRA_ANTECIPADA,2d2e4e88-a069-43b2-bc26-a147d898d477,8
+e70e6ac9-ec92-4e85-aeab-968d7b2038dc,Férias na Serra Gaúcha,2024-03-01,2024-03-08,8,0.14,COMPRA_ANTECIPADA,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,6
+2bfb177c-976e-469c-bf76-5c5aac6d47b5,Viagem à Jordânia brasileira,2025-10-25,2225-11-01,6,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,12
+91d360bc-bd7e-414c-afcd-22ee98c9fcb5,Mergulho em Fernando de Noronha,2026-02-15,2226-02-22,4,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,8
+d5e8af18-40eb-494b-a301-95b0a667cfd6,Tour por Buenos Aires brasileiro,2025-08-20,2225-08-27,9,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,5
+5943c8b6-0bbe-4f94-bfca-4762b0c7b3fd,Expedição na Patagônia brasileira,2024-02-25,2024-03-04,7,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,4
+28e3e2e4-44cb-452e-ac49-57b3f154cb18,Férias em Morro de São Paulo,2025-11-20,2225-11-27,5,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,11
+1ed26a10-883e-4730-8cac-499e598d9f12,Passeio de Lancha em Angra dos Reis,2026-04-01,2226-04-08,8,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,13
+fd4fc3fc-150e-4bee-928c-bf1405293d8e,Viagem ao Vietnã brasileiro,2025-10-15,2225-10-22,6,0.15,COMPRA_ANTECIPADA,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,7
+3ffe00ba-7a61-404c-b9f1-2273ce5f991b,Mergulho em Fernando de Noronha,2024-02-20,2024-02-27,4,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,12
+fee7d1c2-abac-455c-82fe-45eeb4d82a52,Tour pela Itália brasileira,2025-12-10,2225-12-17,9,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,5
+f4eb843c-542e-4737-b82a-2ab09a35b0bf,Aventura na Escócia brasileira,2026-01-25,2226-02-01,7,0.1,COMPRA_ANTECIPADA,13465e3f-bfb8-495d-8328-a3e6fac08a29,8
+bb30a915-b989-4305-b88f-089f72d2efdd,Férias no Havaí brasileiro,2025-09-05,2225-09-12,5,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,12
+cb8760d6-5c81-49dd-a63f-ec6543a66c7a,Viagem à Nova Zelândia brasileira,2024-01-20,2024-01-27,8,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,13
+a7fdad6c-96ab-4449-8123-10b472155412,Expedição no Deserto de Jalapão,2025-12-05,2225-12-12,6,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,7
+4dc2d355-d339-42d8-b255-d0e50f7dc23a,Tour por Machu Picchu goiano,2026-04-20,2226-04-27,4,0.1,COMPRA_ANTECIPADA,1550ce5d-a9bf-45d0-a221-79e1701ce866,15
+93446483-5103-40eb-9060-ec9708cbb6bb,Férias em Lençóis Maranhenses,2025-11-15,2225-11-22,9,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,5
+241de993-3ec3-4ee9-a71e-6102282cf1e6,Viagem à Irlanda brasileira,2024-03-20,2024-03-27,7,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,10
+1c374448-98f3-4dd5-8051-1029cf8aa9a7,Mergulho em Maragogi,2025-10-10,2225-10-17,5,0.13,COMPRA_ANTECIPADA,d0ee7149-3425-4a00-a698-043441164dd8,14
+c8e23ff3-6f9e-4e01-9ca4-290e6d9b31de,Tour pela Cidade Histórica de Olinda,2026-05-01,2226-05-08,8,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,10
+66a0c976-e013-4825-977c-bbc51461eef8,Expedição na Amazônia,2025-09-20,2225-09-27,6,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,14
+7b68e798-56c7-40e6-86b8-e1ce6ba0eafc,Férias em Búzios,2024-04-25,2024-05-02,4,0.23,COMPRA_ANTECIPADA,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,4
+4b6e87b9-e760-41d0-b6de-4f8780411bbe,Passeio de Balão em Caldas Novas,2025-11-10,2225-11-17,9,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,14
+e08387cb-9fc4-468f-8859-b9c966583fd5,Viagem à Itália brasileira,2026-03-10,2226-03-17,7,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,5
+fda38f9c-2460-476b-ba67-1d1f989d6314,Aventura em Nova Zelândia brasileira,2025-09-01,2225-09-08,5,0.18,COMPRA_ANTECIPADA,b2ee09de-9356-4803-af30-c41348bb2670,5
+78731426-c8bc-4942-909d-a08c440af024,Férias em Paraty,2024-02-15,2024-02-22,8,0.21,FIXO,984b955a-2d32-4681-8763-fa0800c4a752,13
+9ae4bfbb-bbc4-4a76-9c9b-96e6d9adc579,Mergulho em Fernando de Noronha,2025-12-10,2225-12-17,6,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,14
+39fc877e-2756-435d-9d34-daf5305e0811,Expedição ao Monte Roraima,2026-05-15,2226-05-22,4,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,10
+258869e7-c1d4-4451-8644-3e4b6c253063,Passeio de Lancha em Angra dos Reis,2025-10-15,2225-10-22,9,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,5
+05ee6f52-85be-45e8-b42c-ef15c905f2d3,Férias na Serra Gaúcha,2024-03-20,2024-03-27,7,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,10
+82d38739-0035-41ba-b5c5-cc8061ffde92,Viagem à Jordânia brasileira,2025-11-25,2225-12-02,5,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,5
+b7ce7616-7e61-4cca-9e3f-ae8e5996d904,Mergulho em Fernando de Noronha,2026-02-25,2226-03-04,8,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,15
+85b0d2a8-a365-4f81-8fd5-8db1fe18e519,Tour por Buenos Aires brasileiro,2025-09-10,2225-09-17,6,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,14
+154f572c-4624-469f-8fe4-cd2f5453d8b7,Expedição na Patagônia brasileira,2024-04-20,2024-04-27,4,0.25,COMPRA_ANTECIPADA,b2ee09de-9356-4803-af30-c41348bb2670,13
+9cb4a09e-d10d-4467-ba57-5a381ad277e8,Férias em Morro de São Paulo,2025-12-10,2225-12-17,9,0.27,COMPRA_ANTECIPADA,482598db-bafc-418d-8873-07cfee6698cb,10
+c44c3ac7-d0c2-4758-af03-0e0a6dbfb57b,Passeio de Lancha em Angra dos Reis,2026-04-20,2226-04-27,7,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,7
+0801a7c5-7a75-4987-b312-43f9136f83cc,Viagem ao Vietnã brasileiro,2025-11-01,2225-11-08,5,0.15,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,6
+0af386be-7763-4d7e-8b61-ef865351105c,Mergulho em Fernando de Noronha,2024-03-10,2024-03-17,8,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,6
+43ea0f95-803d-410d-bc82-306399816f2b,Tour pela Itália brasileira,2025-12-15,2225-12-22,6,0.18,COMPRA_ANTECIPADA,08a22b3b-293f-48bf-8e26-7c469b82a76b,9
+ddad6d7d-c466-4d36-8456-8d4c6ece2160,Aventura na Escócia brasileira,2026-02-10,2226-02-17,4,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,10
+45fd1298-8d9c-49b1-8549-270fd45ee69f,Férias no Havaí brasileiro,2025-09-20,2225-09-27,9,0.2,COMPRA_ANTECIPADA,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,5
+ddf23878-33e3-44b4-89d0-9e103d917628,Viagem à Nova Zelândia brasileira,2024-02-25,2024-03-04,7,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,6
+394c6f84-079e-43da-99f4-f582c8387142,Expedição no Deserto de Jalapão,2025-12-05,2225-12-12,5,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,13
+f5cb496d-31b3-4a47-896e-1bf7abb23e35,Tour por Machu Picchu goiano,2026-04-25,2226-05-02,8,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,7
+c1d433cd-4f0c-496a-88d3-dcf4fefb50b8,Férias em Lençóis Maranhenses,2025-11-20,2225-11-27,6,0.26,COMPRA_ANTECIPADA,d9f12450-7c19-41fb-8ed7-f6828a2830cd,10
+e0d2fdfb-34e4-466f-ad13-39885d84a389,Viagem à Irlanda brasileira,2024-03-15,2024-03-22,4,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,4
+d56e4749-7d57-44c1-a628-b29f48e84e90,Mergulho em Maragogi,2025-10-20,2225-10-27,9,0.13,COMPRA_ANTECIPADA,d0ee7149-3425-4a00-a698-043441164dd8,15
+706661bf-45ea-4b7a-ae7e-1e5ea3dfd3b1,Tour pela Cidade Histórica de Olinda,2026-05-10,2226-05-17,7,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,4
+dc11827a-6a80-4dd4-9c42-0d044aae80b9,Expedição na Amazônia,2025-09-25,2225-10-02,5,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,7
+93864653-dd8b-4502-ab4b-01881ad6a333,Férias em Búzios,2024-05-01,2024-05-08,8,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,9
+4885ebeb-8c84-4961-a04c-ddef199daef9,Passeio de Balão em Caldas Novas,2025-11-15,2225-11-22,6,0.1,COMPRA_ANTECIPADA,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,11
+155f253c-5b03-4e0b-abce-eb35737a01e0,Viagem à Itália brasileira,2026-03-15,2226-03-22,4,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,4
+703cee4e-b091-4b1a-bdb9-9010487e71f2,Aventura em Nova Zelândia brasileira,2025-09-05,2225-09-12,9,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,12
+e94c3bab-3251-40e9-9de6-a53ebc5cebcb,Férias em Paraty,2024-03-01,2024-03-08,7,0.21,COMPRA_ANTECIPADA,984b955a-2d32-4681-8763-fa0800c4a752,6
+a466a81e-d4bb-43b4-bac5-ef5163531835,Mergulho em Fernando de Noronha,2025-12-15,2225-12-22,5,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,8
+8ace33d9-2316-4f5f-8671-6d43036c4ba1,Expedição ao Monte Roraima,2026-05-20,2226-05-27,8,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,15
+49524e7f-7057-430d-88a8-2d63f109430f,Passeio de Lancha em Angra dos Reis,2025-10-20,2225-10-27,6,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,15
+eb29c54b-64fd-45e9-9c20-00022329968c,Férias na Serra Gaúcha,2024-04-05,2024-04-12,4,0.14,COMPRA_ANTECIPADA,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,12
+0d874448-35a2-4e67-8398-04026ee71ab6,Viagem à Jordânia brasileira,2025-12-05,2225-12-12,9,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,13
+60fcd156-5834-4262-8198-23ddebb5e00f,Mergulho em Fernando de Noronha,2026-03-10,2226-03-17,7,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,15
+1cbaa688-0ba9-42a1-99b7-f0ec1fcdfd86,Tour por Buenos Aires brasileiro,2025-09-25,2225-10-02,5,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,10
+25a1082c-7604-4c3b-9e67-331af5b31ef0,Expedição na Patagônia brasileira,2024-05-01,2024-05-08,8,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,10
+e0b6c427-2f38-4c5e-b1f1-271e951ccfdb,Férias em Morro de São Paulo,2025-12-15,2225-12-22,6,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,14
+0839cd7c-6da7-4cb3-bd17-b0626553c957,Passeio de Lancha em Angra dos Reis,2026-05-05,2226-05-12,4,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,6
+4e88cc72-f08d-49ac-bc7a-defe32899db8,Viagem ao Vietnã brasileiro,2025-11-15,2225-11-22,9,0.15,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,6
+7b674258-bd87-409b-83ea-8d6b62b5d301,Mergulho em Fernando de Noronha,2024-03-20,2024-03-27,7,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,14
+93737505-37c7-44c3-bf8e-1f93e5f32b9e,Tour pela Itália brasileira,2025-12-20,2225-12-27,5,0.18,COMPRA_ANTECIPADA,08a22b3b-293f-48bf-8e26-7c469b82a76b,11
+aff7cca6-f074-465a-be42-903981d30bb6,Aventura na Escócia brasileira,2026-02-20,2226-02-27,8,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,10
+a33b826f-6a19-4b28-b83e-1b253b221231,Férias no Havaí brasileiro,2025-10-01,2225-10-08,6,0.2,COMPRA_ANTECIPADA,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,5
+d4861f4c-b157-489a-ad58-6a040aafbd95,Viagem à Nova Zelândia brasileira,2024-03-01,2024-03-08,4,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,12
+6723c5ba-803c-45c0-92a4-f841198a7d81,Expedição no Deserto de Jalapão,2025-12-20,2225-12-27,9,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,8
+08df71d9-86c0-4552-9e15-be09a2ecd885,Tour por Machu Picchu goiano,2026-05-10,2226-05-17,7,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,9
+7329e7de-2628-4ff7-8ef1-69dd7ca38883,Férias em Lençóis Maranhenses,2025-11-25,2225-12-02,5,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,9
+7e2ec396-feb0-4f97-8284-628db6735959,Viagem à Irlanda brasileira,2024-03-25,2024-04-01,8,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,5
+b2049083-7a11-4a0a-a66a-a458c24cf86b,Mergulho em Maragogi,2025-10-25,2225-11-01,6,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,6
+41de89ba-dc4f-428a-a93f-8e37c91b05ad,Tour pela Cidade Histórica de Olinda,2026-05-15,2226-05-22,4,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,14
+108b783a-bf82-480f-a151-e2302ecafed6,Expedição na Amazônia,2025-10-01,2225-10-08,9,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,9
+ed617726-ddcc-4787-80cf-d530bd6239f7,Férias em Búzios,2024-05-05,2024-05-12,7,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,15
+e4c04acd-ec50-4993-9af2-b1552d4cfbba,Passeio de Balão em Caldas Novas,2025-11-20,2225-11-27,5,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,12
+516b4dd2-9285-4839-87e8-65d11013b6da,Viagem à Itália brasileira,2026-03-20,2226-03-27,8,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,14
+c5da239b-188e-4cf6-aa30-4f57959345d4,Aventura em Nova Zelândia brasileira,2025-09-10,2225-09-17,6,0.18,COMPRA_ANTECIPADA,b2ee09de-9356-4803-af30-c41348bb2670,13
+83b6d9fd-afdd-431e-91c4-a7c55779c896,Férias em Paraty,2024-03-05,2024-03-12,4,0.21,FIXO,984b955a-2d32-4681-8763-fa0800c4a752,9
+e8813301-e511-44a7-93d9-ab751f049a54,Mergulho em Fernando de Noronha,2025-12-20,2225-12-27,9,0.26,COMPRA_ANTECIPADA,42ce5f37-4c5a-473b-aca5-cb764a58aae6,8
+ee6fbdb3-9562-45b3-8d22-5dbd7470df5e,Expedição ao Monte Roraima,2026-05-25,2226-06-01,7,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,7
+c2f82865-e95f-492b-863d-6a525fbb5cc0,Passeio de Lancha em Angra dos Reis,2025-10-25,2225-11-01,5,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,13
+8d2670a8-faca-44aa-8b72-07143f5b9f28,Férias na Serra Gaúcha,2024-04-10,2024-04-17,8,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,5
+27c0d90b-2360-4578-8cc3-55e3f6b8cfdb,Viagem à Jordânia brasileira,2025-12-10,2225-12-17,6,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,9
+5ab8da91-a46c-454e-beaf-dadd8cd6d680,Mergulho em Fernando de Noronha,2026-03-15,2226-03-22,4,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,12
+c8f955d0-f876-4097-a285-2fa70eaf0ea6,Tour por Buenos Aires brasileiro,2025-10-01,2225-10-08,9,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,4
+c7c0b720-6f17-4697-b97c-3bee74c5a94e,Expedição na Patagônia brasileira,2024-05-05,2024-05-12,7,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,6
+3ad32ff4-1396-4010-8f4a-767da5d096b6,Férias em Morro de São Paulo,2025-12-20,2225-12-27,5,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,5
+0e93706f-efa0-4abe-b538-59dc05caedcd,Passeio de Lancha em Angra dos Reis,2026-05-10,2226-05-17,8,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,14
+4307b6bb-8233-4dee-9539-9cfe5662e12f,Viagem ao Vietnã brasileiro,2025-11-20,2225-11-27,6,0.15,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,6
+7078ea12-5d08-4fa0-9af4-668b248c5df1,Mergulho em Fernando de Noronha,2024-03-25,2024-04-01,4,0.23,COMPRA_ANTECIPADA,42ce5f37-4c5a-473b-aca5-cb764a58aae6,15
+40c7be40-22fb-4e42-8265-a7706381608c,Tour pela Itália brasileira,2025-12-25,2226-01-01,9,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,6
+e7a4aa16-8567-45fd-bf7a-c02d734e2487,Aventura na Escócia brasileira,2026-02-25,2226-03-04,7,0.1,COMPRA_ANTECIPADA,13465e3f-bfb8-495d-8328-a3e6fac08a29,10
+6d9deb84-494a-4b7e-9dd8-f77f522a57f9,Férias no Havaí brasileiro,2025-10-05,2225-10-12,5,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,7
+42bfbc19-1472-4292-a452-de843f81f045,Viagem à Nova Zelândia brasileira,2024-03-05,2024-03-12,8,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,5
+cfe0860f-d871-47d4-8e50-1bf433d8de64,Expedição no Deserto de Jalapão,2025-12-25,2226-01-01,6,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,7
+e9423c87-ece4-4e18-96ee-68cf5dcbf536,Tour por Machu Picchu goiano,2026-05-15,2226-05-22,4,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,7
+4ee65d21-95c6-4ef4-88b6-3403f24151fb,Férias em Lençóis Maranhenses,2025-12-01,2225-12-08,9,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,9
+0f0c8e1d-2ffd-4d77-8579-7b4b1b91c1d2,Viagem à Irlanda brasileira,2024-04-01,2024-04-08,7,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,15
+8f973b1b-0d92-40db-9882-384b196b6a48,Mergulho em Maragogi,2025-11-01,2225-11-08,5,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,5
+2754ec66-8876-4856-a853-eeab9aba2c31,Tour pela Cidade Histórica de Olinda,2026-05-20,2226-05-27,8,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,10
+32607007-0419-4cb6-82df-f3fdbd71ee7b,Expedição na Amazônia,2025-10-05,2225-10-12,6,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,5
+41c3d658-2035-4263-8417-93c497c30e33,Férias em Búzios,2024-05-10,2024-05-17,4,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,6
+ce824949-aa30-4202-a57d-6cd262a79e81,Passeio de Balão em Caldas Novas,2025-11-25,2225-12-02,9,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,5
+50755c2b-8d33-42b3-a9a0-dd8417f6a6df,Viagem à Itália brasileira,2026-03-25,2226-04-01,7,0.24,COMPRA_ANTECIPADA,08a22b3b-293f-48bf-8e26-7c469b82a76b,6
+ce507a91-29c9-42a9-b0d2-ba0a3295cea8,Aventura em Nova Zelândia brasileira,2025-09-15,2225-09-22,5,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,7
+0018e0da-d903-4181-862b-0127bae799ea,Férias em Paraty,2024-03-10,2224-03-17,8,0.21,COMPRA_ANTECIPADA,984b955a-2d32-4681-8763-fa0800c4a752,15
+c2ee9d28-e664-4456-b6e5-7eba91434083,Mergulho em Fernando de Noronha,2025-12-25,2226-01-01,6,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,8
+e8200302-3ba6-48f7-8ee6-6771709f47af,Expedição ao Monte Roraima,2026-05-30,2226-06-06,4,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,12
+7f0ffc97-41a5-4791-a30a-0e8f9d537330,Passeio de Lancha em Angra dos Reis,2025-10-30,2225-11-06,9,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,6
+8012a90c-f936-4763-8644-36b27b361964,Férias na Serra Gaúcha,2024-04-15,2024-04-22,7,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,4
+29f5a769-b10f-421d-96dc-4072dbd77a97,Viagem à Jordânia brasileira,2025-12-15,2225-12-22,5,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,14
+1a60ee30-7844-4fc6-a823-0cb3d2a967eb,Mergulho em Fernando de Noronha,2026-03-20,2226-03-27,8,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,8
+41cfb03f-db96-4b73-9865-2903d0764867,Tour por Buenos Aires brasileiro,2025-10-05,2225-10-12,6,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,12
+9d79a812-ee02-4a1e-a904-104e295a4623,Expedição na Patagônia brasileira,2024-05-10,2024-05-17,4,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,9
+1dde21fe-cbb0-41f2-a6c3-e2d515158b8e,Férias em Morro de São Paulo,2025-12-25,2226-01-01,9,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,11
+66283a70-cf78-4dd8-8023-a12a186110a6,Passeio de Lancha em Angra dos Reis,2026-05-15,2226-05-22,7,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,11
+270c2804-bcee-415c-9a6a-0025f7fa5014,Viagem ao Vietnã brasileiro,2025-11-25,2225-12-02,5,0.15,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,15
+4c036e63-fa65-4645-a5c1-1390915dfa43,Mergulho em Fernando de Noronha,2024-04-01,2024-04-08,8,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,11
+b5ba6e9a-210b-4851-9d91-902ba5866357,Tour pela Itália brasileira,2025-12-30,2226-01-06,6,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,5
+3acb534c-4acc-4f88-9ef9-399e076f781a,Aventura na Escócia brasileira,2026-03-01,2226-03-08,4,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,14
+d450cf00-0c20-48c7-8369-9aeffa69f935,Férias no Havaí brasileiro,2025-10-10,2225-10-17,9,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,4
+b6ba9b70-5c0a-439c-a39a-512ff54eaa12,Viagem à Nova Zelândia brasileira,2024-03-10,2024-03-17,7,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,13
+c2210bf0-16a7-4998-ae5b-880f781a1c7f,Expedição no Deserto de Jalapão,2025-12-30,2226-01-06,5,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,11
+339e3860-de6a-47e1-be22-28a180935046,Tour por Machu Picchu goiano,2026-05-20,2226-05-27,8,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,7
+94e1804d-5e97-4b0d-be25-e08c3f8041bb,Férias em Lençóis Maranhenses,2025-12-05,2225-12-12,6,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,13
+35e72b34-724f-4323-975c-359f65e9d1c8,Viagem à Irlanda brasileira,2024-04-05,2024-04-12,4,0.15,COMPRA_ANTECIPADA,d43066d2-5762-4fa1-af9a-2258511482f7,9
+b6000fc5-e6ea-46d8-ae12-72e2cb11f6d4,Mergulho em Maragogi,2025-11-05,2225-11-12,9,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,11
+f4d3505a-856e-4a97-8ea4-a340d6a5e046,Tour pela Cidade Histórica de Olinda,2026-05-25,2226-06-01,7,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,6
+5a3ef114-f342-4f52-9a79-293be5ebe06a,Expedição na Amazônia,2025-10-10,2225-10-17,5,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,14
+43615990-d58c-4b62-84c0-01603dd8a840,Férias em Búzios,2024-05-15,2024-05-22,8,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,8
+2c4071b8-39bf-40f6-8c0b-0a9a5f000f74,Passeio de Balão em Caldas Novas,2025-12-01,2225-12-08,6,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,7
+da6c860a-237e-4d36-b8d7-41728e94fdf5,Viagem à Itália brasileira,2026-03-30,2226-04-06,4,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,13
+b776b90a-2a72-452d-8ccb-156f35cbe131,Aventura em Nova Zelândia brasileira,2025-09-20,2225-09-27,9,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,15
+74850037-daba-4b9c-9c5e-63b08bcf20e9,Férias em Paraty,2024-03-15,2024-03-22,7,0.21,FIXO,984b955a-2d32-4681-8763-fa0800c4a752,9
+6ddd106e-ddd4-45f0-ac74-c3f28e9534e1,Mergulho em Fernando de Noronha,2026-01-01,2226-01-08,5,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,5
+98a4f410-2cb1-4698-ae1d-00cded6ed5a0,Expedição ao Monte Roraima,2026-06-05,2226-06-12,8,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,12
+a8c200e7-f4d0-4d88-9edf-dc77ac31b0a3,Passeio de Lancha em Angra dos Reis,2025-11-01,2225-11-08,6,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,12
+be5612b0-fd45-470c-8c95-6cd705d6fa6a,Férias na Serra Gaúcha,2024-04-20,2024-04-27,4,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,12
+783d75f8-be95-477b-b999-b132e44f5342,Viagem à Jordânia brasileira,2025-12-20,2225-12-27,9,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,5
+f02366f3-b19b-4596-a9c8-3f46cc1d675f,Mergulho em Fernando de Noronha,2026-03-25,2226-04-01,7,0.17,COMPRA_ANTECIPADA,42ce5f37-4c5a-473b-aca5-cb764a58aae6,14
+8716586a-0e48-4fb9-849e-eaca6ec9e14f,Tour por Buenos Aires brasileiro,2025-10-15,2225-10-22,5,0.22,COMPRA_ANTECIPADA,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,9
+74352a61-4223-4f99-803e-b10bdbd9c068,Expedição na Patagônia brasileira,2024-05-15,2024-05-22,8,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,11
+b4348c8a-56db-4ad2-97b2-1927e872ae16,Férias em Morro de São Paulo,2026-01-01,2226-01-08,6,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,11
+a4f56bd1-0443-4633-a3ac-610518fb5e67,Passeio de Lancha em Angra dos Reis,2026-05-20,2226-05-27,4,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,8
+41157eb7-3da6-473f-977f-cf54dbf129c8,Viagem ao Vietnã brasileiro,2025-11-30,2225-12-07,9,0.15,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,11
+05f39ea2-b9d3-4a94-89c4-b09c84d105e9,Mergulho em Fernando de Noronha,2024-04-05,2024-04-12,7,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,15
+c500c994-e6c3-421a-9e44-9bca38ef9e11,Tour pela Itália brasileira,2026-01-05,2226-01-12,5,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,4
+3004abe7-3a5d-43bf-9180-dfcf3c41a5e9,Aventura na Escócia brasileira,2026-03-05,2226-03-12,8,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,7
+660f60dd-08b9-4e30-aa07-664d74395e39,Férias no Havaí brasileiro,2025-10-15,2225-10-22,6,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,12
+bf9025f5-3c32-426f-8d9c-c3672f92d5d6,Viagem à Nova Zelândia brasileira,2024-03-15,2024-03-22,4,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,11
+4e477673-5ff8-4a54-91b0-08c86b294527,Expedição no Deserto de Jalapão,2026-01-05,2226-01-12,9,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,8
+5e0048e4-9045-421d-9f71-dafa45751caa,Tour por Machu Picchu goiano,2026-05-25,2226-06-01,7,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,11
+02f2684b-366e-4f8f-8e3f-fa17750a856c,Férias em Lençóis Maranhenses,2025-12-10,2225-12-17,5,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,4
+2f90c904-2f13-4009-a0c9-d23e7a44041b,Viagem à Irlanda brasileira,2024-04-10,2024-04-17,8,0.15,COMPRA_ANTECIPADA,d43066d2-5762-4fa1-af9a-2258511482f7,12
+65f4fafc-7ebc-4ee7-9818-f23d6df19804,Mergulho em Maragogi,2025-11-10,2225-11-17,6,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,14
+c21a587e-95f2-45e4-8766-66bfc0afc683,Tour pela Cidade Histórica de Olinda,2026-05-30,2226-06-06,4,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,14
+72139a00-4ccb-4491-8c0c-c266c4a5be8e,Expedição na Amazônia,2025-10-15,2225-10-22,9,0.15,COMPRA_ANTECIPADA,f1a62904-d784-49e4-af77-6f085917d482,7
+386895c6-6f9d-4a2f-a93b-80e885c874a7,Férias em Búzios,2024-05-20,2024-05-27,7,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,13
+6c10b511-62cd-4251-a3c0-a4909045832c,Passeio de Balão em Caldas Novas,2025-12-05,2225-12-12,5,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,10
+4969e70d-9d3c-423c-9bc1-79a10a0df438,Viagem à Itália brasileira,2026-04-05,2226-04-12,8,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,12
+4f17f0d0-5ca0-41d2-85d7-c7218c38b5c9,Aventura em Nova Zelândia brasileira,2025-09-25,2225-10-02,6,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,4
+48630537-5968-4332-8220-1409b1896615,Férias em Paraty,2024-03-20,2024-03-27,4,0.21,FIXO,984b955a-2d32-4681-8763-fa0800c4a752,15
+ee15baab-e5d8-429c-bd89-f5861d0fc5ca,Mergulho em Fernando de Noronha,2026-01-05,2226-01-12,9,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,13
+397dafa9-c60b-4f4f-8f9c-fe693389e31f,Expedição ao Monte Roraima,2026-06-10,2226-06-17,7,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,12
+5f9f1781-11d7-48b1-97f4-7b103cecbe35,Passeio de Lancha em Angra dos Reis,2025-11-05,2225-11-12,5,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,4
+e1937edc-e9ab-42b4-a165-e626c792577c,Férias na Serra Gaúcha,2024-04-25,2024-05-02,8,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,7
+0847bd11-58c1-477c-97cc-19e945bd1b76,Viagem à Jordânia brasileira,2025-12-25,2225-12-27,6,0.19,COMPRA_ANTECIPADA,8889ee61-9c8c-4e5f-9609-430d512666b1,7
+bb71c7a4-8c77-4adb-b0fb-683baceffee1,Mergulho em Fernando de Noronha,2026-03-30,2226-04-06,4,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,12
+19a61d1c-4026-4de8-88a9-10609e82a0ea,Tour por Buenos Aires brasileiro,2025-10-15,2225-10-22,9,0.22,COMPRA_ANTECIPADA,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,8
+807305f1-89aa-468d-b3a3-1d984989e434,Expedição na Patagônia brasileira,2024-05-20,2024-05-27,7,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,9
+f9d18462-73c4-4fde-bb31-539d8e3bf0dd,Férias em Morro de São Paulo,2026-01-05,2226-01-12,5,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,4
+765f6c58-692b-4b18-90f1-b029fb40937b,Passeio de Lancha em Angra dos Reis,2026-05-25,2226-06-01,8,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,12
+4ac8bffc-0ec2-456a-95b4-268763ee8572,Viagem ao Vietnã brasileiro,2025-12-05,2225-12-12,6,0.15,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,9
+fb1fea60-e635-45a5-9a6d-62c993a7c8d4,Mergulho em Fernando de Noronha,2024-04-10,2024-04-17,4,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,10
+d0cc9215-6553-4aa7-beb9-108d88378e4f,Tour pela Itália brasileira,2026-01-10,2226-01-17,9,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,5
+469cf76c-ef88-42af-a12f-098727efeb60,Aventura na Escócia brasileira,2026-03-10,2226-03-17,7,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,5
+62128504-7185-479f-99de-8bedaf5fb7f6,Férias no Havaí brasileiro,2025-10-20,2225-10-27,5,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,8
+0c5b4de3-15e5-492a-b499-7cfa1523b278,Viagem à Nova Zelândia brasileira,2024-03-20,2024-03-27,8,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,11
+6b6fb261-6cad-4eae-a527-eb1e9aee1f6f,Expedição no Deserto de Jalapão,2026-01-10,2226-01-17,6,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,8
+87d32278-3eda-4477-af5e-68d62c674131,Tour por Machu Picchu goiano,2026-05-30,2226-06-06,4,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,13
+126f3b00-fa81-40f9-bc33-9e9a9a87948c,Férias em Lençóis Maranhenses,2025-12-15,2225-12-22,9,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,10
+43cfc252-7dc2-4664-8b73-945b62913ea4,Viagem à Irlanda brasileira,2024-04-15,2024-04-22,7,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,8
+5ada4a10-e587-488b-88cc-77c528cfff4a,Mergulho em Maragogi,2025-11-15,2225-11-22,5,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,8
+edd0e553-a31f-4d47-94a0-bd8bb9fb0b6f,Tour pela Cidade Histórica de Olinda,2026-06-05,2226-06-12,8,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,14
+80dc78b5-76b6-455a-8c89-df6c15854e4a,Expedição na Amazônia,2025-10-20,2225-10-27,6,0.15,COMPRA_ANTECIPADA,f1a62904-d784-49e4-af77-6f085917d482,11
+eeed5bce-e6c9-41bd-85dc-7c2fa14f90dc,Férias em Búzios,2024-05-25,2024-06-01,4,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,8
+97805e9a-bfe3-427e-976b-7d65d5549478,Passeio de Balão em Caldas Novas,2025-12-10,2225-12-17,9,0.1,COMPRA_ANTECIPADA,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,4
+b7246e27-fa87-4971-9b91-d09a63050445,Viagem à Itália brasileira,2026-04-10,2226-04-17,7,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,14
+8b684cfa-ac6e-4cf5-b160-8da85866c225,Aventura em Nova Zelândia brasileira,2025-09-30,2225-10-07,5,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,14
+79a9490b-eed1-4171-be66-b7036f78f8ad,Férias em Paraty,2024-03-25,2024-04-01,8,0.21,FIXO,984b955a-2d32-4681-8763-fa0800c4a752,5
+3d983c54-ce8d-4d87-b04f-89792be81732,Mergulho em Fernando de Noronha,2026-01-10,2226-01-17,6,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,7
+5c5ee4eb-eefa-45e9-b2ee-38764970168b,Expedição ao Monte Roraima,2026-06-05,2226-06-12,4,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,13
+534fa425-c0ae-4da6-915f-4ebd702a185d,Passeio de Lancha em Angra dos Reis,2025-11-01,2225-11-08,9,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,12
+b0e56445-72cf-4774-97f8-a4300e66dc41,Férias na Serra Gaúcha,2024-04-25,2024-05-02,7,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,10
+88a82025-3192-4381-80a4-91664fc32570,Viagem à Jordânia brasileira,2025-12-25,2225-12-27,5,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,13
+31469361-f12f-4a91-808c-e5094f19018e,Mergulho em Fernando de Noronha,2026-03-30,2226-04-06,8,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,15
+98922eb7-e837-4542-bf15-e726f3df9f28,Tour por Buenos Aires brasileiro,2025-10-15,2225-10-22,6,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,11
+54ddf46a-18be-4d4c-b30c-9493dcab15dd,Expedição na Patagônia brasileira,2024-05-20,2024-05-27,4,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,12
+e3ea841a-f7f2-479b-8d2f-ad4f95fb535c,Férias em Morro de São Paulo,2026-01-05,2226-01-12,9,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,5
+58692347-bc3c-48b3-a2b8-d5621cb0a368,Passeio de Lancha em Angra dos Reis,2026-05-25,2226-06-01,7,0.12,COMPRA_ANTECIPADA,2d2e4e88-a069-43b2-bc26-a147d898d477,7
+6cc7c059-9b6d-49a9-aa72-e8fc74734663,Viagem ao Vietnã brasileiro,2025-12-05,2225-12-12,5,0.15,COMPRA_ANTECIPADA,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,12
+d6c8f57e-d026-40f6-8868-c70f9044083a,Mergulho em Fernando de Noronha,2024-04-05,2024-04-12,8,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,7
+8c6c91f9-ebd2-43ec-8568-ede1e4b6b284,Tour pela Itália brasileira,2026-01-10,2226-01-17,6,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,14
+b8b48cbf-3492-4441-8fac-ee7011b86f51,Aventura na Escócia brasileira,2026-03-10,2226-03-17,4,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,4
+698327aa-758b-41ab-978d-4b7b96b9f945,Férias no Havaí brasileiro,2025-10-20,2225-10-27,9,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,12
+aacf2f4c-aff9-41f2-bf7a-cecf0fdfc2e6,Viagem à Nova Zelândia brasileira,2024-03-20,2024-03-27,7,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,14
+f897816c-42b7-483e-9154-a6034073e6eb,Expedição no Deserto de Jalapão,2026-01-10,2226-01-17,5,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,5
+d69925a0-879b-4883-80fb-802b1704d3f0,Tour por Machu Picchu goiano,2026-05-30,2226-06-06,8,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,10
+864a5835-26b7-49ec-8992-d6f3f331e098,Férias em Lençóis Maranhenses,2025-12-15,2225-12-22,6,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,14
+b2a5ee23-fd6b-444f-8866-2b2adee1a59c,Viagem à Irlanda brasileira,2024-04-15,2024-04-22,4,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,11
+cedea860-8313-4991-82e2-72454e5abac7,Mergulho em Maragogi,2025-11-15,2225-11-22,9,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,8
+736a1811-e306-48a1-8a02-4bd15c2a7daf,Tour pela Cidade Histórica de Olinda,2026-06-05,2226-06-12,7,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,5
+587dc2ab-ffed-4996-ba19-07dfb49ee673,Expedição na Amazônia,2025-10-20,2225-10-27,5,0.15,COMPRA_ANTECIPADA,f1a62904-d784-49e4-af77-6f085917d482,8
+e743073c-0f68-4fc9-8319-742286054806,Férias em Búzios,2024-05-25,2024-06-01,8,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,6
+a71a2bb2-3c12-4b5d-89d5-5d8514909b1f,Passeio de Balão em Caldas Novas,2025-12-10,2225-12-17,6,0.1,COMPRA_ANTECIPADA,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,8
+d0ec4660-f640-4cdf-94e4-83cb19fcb5b4,Viagem à Itália brasileira,2026-04-10,2226-04-17,4,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,11
+90b89e93-22d9-4795-8869-49c0d87d28c1,Aventura em Nova Zelândia brasileira,2025-09-30,2225-10-07,9,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,5
+72ff50dc-7854-4b7b-b03c-808b10f1aa62,Férias em Paraty,2024-03-25,2024-04-01,7,0.21,FIXO,984b955a-2d32-4681-8763-fa0800c4a752,11
+baa1f373-26c9-4db2-a3a9-3877aa1f4824,Mergulho em Fernando de Noronha,2026-01-10,2226-01-17,5,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,14
+ff891e9c-6cd8-4d86-a11f-d890e87adae3,Expedição ao Monte Roraima,2026-06-10,2226-06-17,8,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,14
+be727c6b-85cd-467a-8e64-b803a2b69ffe,Passeio de Lancha em Angra dos Reis,2025-11-01,2225-11-08,6,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,13
+13e5f981-e763-46e7-8055-4ac6a480cc35,Férias na Serra Gaúcha,2024-04-20,2024-04-27,4,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,10
+25300b15-8286-47fa-832b-4369d41e1c68,Viagem à Jordânia brasileira,2025-12-20,2225-12-27,9,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,15
+571631e0-d039-4338-bc69-e57648e5f476,Mergulho em Fernando de Noronha,2026-03-25,2226-04-01,7,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,8
+97585131-258c-4d63-bf48-f9798ac9a0ba,Tour por Buenos Aires brasileiro,2025-10-15,2225-10-22,5,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,8
+c530cdd8-8be8-468b-84e2-dd1af02b04c2,Expedição na Patagônia brasileira,2024-05-20,2024-05-27,8,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,4
+e568122d-8767-4b67-bb26-19b28cc87f71,Férias em Morro de São Paulo,2026-01-05,2226-01-12,6,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,4
+23e4248f-8cce-4648-9780-7f0e2bd874fe,Passeio de Lancha em Angra dos Reis,2026-05-25,2226-06-01,4,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,11
+deecd905-3f36-4553-b3cc-bd1ed72b7eb4,Viagem ao Vietnã brasileiro,2025-12-05,2225-12-12,9,0.15,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,12
+d97b2dc2-6cb7-4f36-b6c7-490de4dc02e3,Mergulho em Fernando de Noronha,2024-04-05,2024-04-12,7,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,12
+8f321cb5-80d1-4334-9a82-8624e77586d4,Tour pela Itália brasileira,2026-01-10,2226-01-17,5,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,6
+ccb444d9-8663-489f-ba95-2b813a940105,Aventura na Escócia brasileira,2026-03-05,2226-03-12,8,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,9
+d13bf0aa-e688-414e-aafc-109dc6132c23,Férias no Havaí brasileiro,2025-10-20,2225-10-27,6,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,4
+51d03f41-5a16-4c1a-a2d3-27d3a998b733,Viagem à Nova Zelândia brasileira,2024-03-20,2024-03-27,4,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,7
+ead777a0-961c-4e22-bfb6-2f86b987ab3b,Expedição no Deserto de Jalapão,2026-01-10,2226-01-17,9,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,6
+fdde4c3e-4576-4bf2-96e7-d28965810dac,Tour por Machu Picchu goiano,2026-05-30,2226-06-06,7,0.1,COMPRA_ANTECIPADA,1550ce5d-a9bf-45d0-a221-79e1701ce866,8
+96788f0f-9739-40a8-b8a2-24483783a36d,Férias em Lençóis Maranhenses,2025-12-15,2225-12-22,5,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,11
+5f6621d4-19db-4f85-8848-68963758cfcd,Viagem à Irlanda brasileira,2024-04-15,2024-04-22,8,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,4
+6dc40e62-4f59-4cf9-84d3-4bd6a355637f,Mergulho em Maragogi,2025-11-15,2225-11-22,6,0.13,COMPRA_ANTECIPADA,d0ee7149-3425-4a00-a698-043441164dd8,4
+5c96aa8a-2126-4452-8dd3-b3fab885cbdf,Tour pela Cidade Histórica de Olinda,2026-06-05,2226-06-12,4,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,5
+3470e565-5377-4155-a5de-1120bf0a4c30,Expedição na Amazônia,2025-10-20,2225-10-27,9,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,14
+439aa925-b83e-445a-bd08-903c0865cabc,Férias em Búzios,2024-05-25,2024-06-01,7,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,8
+e94f9903-eeb5-436d-a107-c544f411d365,Passeio de Balão em Caldas Novas,2025-12-10,2225-12-17,5,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,12
+2bab84bb-3406-404a-b788-846ff687fd68,Viagem à Itália brasileira,2026-04-10,2226-04-17,8,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,4
+7fe1bbf6-812f-445d-90a1-0429c98e16ed,Aventura em Nova Zelândia brasileira,2025-09-30,2225-10-07,6,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,10
+b05410c1-e356-4587-bf84-50f347763f34,Férias em Paraty,2024-03-25,2024-04-01,4,0.21,FIXO,984b955a-2d32-4681-8763-fa0800c4a752,14
+460e10da-9536-409d-add5-d0e96fa469af,Mergulho em Fernando de Noronha,2026-01-10,2226-01-17,9,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,7
+00723f98-a7a7-42cf-ae53-aa2b449c86c6,Expedição ao Monte Roraima,2026-06-10,2226-06-17,7,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,4
+be52f4e5-10a7-46cc-95b9-8795665c57a7,Passeio de Lancha em Angra dos Reis,2025-11-01,2225-11-08,5,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,9
+0baec014-296a-480c-883d-2789f4689f9d,Férias na Serra Gaúcha,2024-04-20,2024-04-27,8,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,6
+a43b06e9-ab80-4517-a3c8-72b5da7dfcfc,Viagem à Jordânia brasileira,2025-12-25,2225-12-27,6,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,11
+21a9fae1-d112-48bc-b8db-619310cde369,Mergulho em Fernando de Noronha,2026-03-25,2226-04-01,4,0.17,COMPRA_ANTECIPADA,42ce5f37-4c5a-473b-aca5-cb764a58aae6,13
+db3fcdc9-fc97-4d5d-88ac-4cdd037917d0,Tour por Buenos Aires brasileiro,2025-10-15,2225-10-22,9,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,15
+17444f78-8923-4ea2-bcd7-8213c0d60ad4,Expedição na Patagônia brasileira,2024-05-20,2024-05-27,7,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,13
+deeeabbf-9ae5-442c-939c-bbd5c546b223,Férias em Morro de São Paulo,2026-01-05,2226-01-12,5,0.27,COMPRA_ANTECIPADA,482598db-bafc-418d-8873-07cfee6698cb,5
+dc095425-8f3a-4333-b3b4-ad971af4d0fd,Passeio de Lancha em Angra dos Reis,2026-05-25,2226-06-01,8,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,4
+745eb1a8-ae9b-43f4-a973-61c07c9294b8,Viagem ao Vietnã brasileiro,2025-12-05,2225-12-12,6,0.15,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,6
+6323d8ab-9586-4bfe-9eea-01f0a3a1c73e,Mergulho em Fernando de Noronha,2024-04-10,2024-04-17,4,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,13
+4c4ee271-3b5b-4c9d-b2d6-183be74f5b01,Tour pela Itália brasileira,2026-01-10,2226-01-17,9,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,5
+ce5bffad-2433-48c3-89bc-9bb8df9df849,Aventura na Escócia brasileira,2026-03-10,2226-03-17,7,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,7
+e8da3df3-026f-4717-9dcc-af67d0744bf6,Férias no Havaí brasileiro,2025-10-20,2225-10-27,5,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,7
+0362ceb8-1482-4067-a5d9-1ce936a6eb45,Viagem à Nova Zelândia brasileira,2024-03-20,2024-03-27,8,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,15
+67320706-e9be-457d-9f3a-2c961080edb7,Expedição no Deserto de Jalapão,2026-01-10,2226-01-17,6,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,8
+28c44431-df7f-4dd2-b1fe-ea43dc62dd85,Tour por Machu Picchu goiano,2026-05-30,2226-06-06,4,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,6
+4b76f1f7-6bc0-4d16-8ffd-921d16fe8041,Férias em Lençóis Maranhenses,2025-12-15,2225-12-22,9,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,6
+28822d6c-0b29-4175-bd32-49795076801d,Viagem à Irlanda brasileira,2024-04-15,2024-04-22,7,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,10
+d87630fa-d0c6-4859-b0ae-3b16db3fa178,Mergulho em Maragogi,2025-11-15,2225-11-22,5,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,10
+8d2d998f-6d4c-4f3f-bdca-6e32100aa185,Tour pela Cidade Histórica de Olinda,2026-06-05,2226-06-12,8,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,9
+1a6a1b15-3cc7-4156-adf9-fdf8660b210c,Expedição na Amazônia,2025-10-20,2225-10-27,6,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,6
+02c5f980-c9b7-4f39-8639-5d62935a7a60,Férias em Búzios,2024-05-25,2024-06-01,4,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,9
+67544a5c-9d66-418f-9075-60e64d79e853,Passeio de Balão em Caldas Novas,2025-12-10,2225-12-17,9,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,13
+dd619b56-768c-4fe6-a29e-0491a6a2d0a4,Viagem à Itália brasileira,2026-04-10,2226-04-17,7,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,8
+b269eaa2-c556-4332-9444-b41866743db0,Aventura em Nova Zelândia brasileira,2025-09-30,2225-10-07,5,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,12
+55c1eec7-98dc-4e0c-aa0a-915944f8bea5,Férias em Paraty,2024-03-25,2024-04-01,8,0.21,FIXO,984b955a-2d32-4681-8763-fa0800c4a752,10
+0b3cedd0-b9e8-4c42-b52c-047608982324,Mergulho em Fernando de Noronha,2026-01-10,2226-01-17,6,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,13
+bd5980ed-ce94-4507-9b47-85268de413e7,Expedição ao Monte Roraima,2026-06-10,2226-06-17,4,0.1,COMPRA_ANTECIPADA,e33be35c-d5fd-45b5-a146-740020252a98,5
+d01aa12a-878c-4957-9d02-f90edf825c9b,Passeio de Lancha em Angra dos Reis,2025-11-01,2225-11-08,9,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,7
+c2de9a19-449c-46ac-a030-38563b685ea2,Férias na Serra Gaúcha,2024-04-25,2024-05-02,7,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,7
+bb81cfe3-cec8-4ec6-a31a-642f05ddc545,Viagem à Jordânia brasileira,2025-12-25,2225-12-27,5,0.19,COMPRA_ANTECIPADA,8889ee61-9c8c-4e5f-9609-430d512666b1,15
+e8c7ba6d-025e-44e4-ad3b-d1be3a3aa04c,Mergulho em Fernando de Noronha,2026-03-25,2226-04-01,8,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,8
+60d26217-cf28-49f0-a463-4109084437fc,Tour por Buenos Aires brasileiro,2025-10-15,2225-10-22,6,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,6
+92b34211-c403-436d-ae29-c137681876a0,Expedição na Patagônia brasileira,2024-05-20,2024-05-27,4,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,6
+992e4262-2bb4-4a41-8b1d-2d0cf32d1da9,Férias em Morro de São Paulo,2026-01-05,2226-01-12,9,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,10
+688a5862-5ba4-4a73-9d49-50ca127d1ab9,Passeio de Lancha em Angra dos Reis,2026-05-25,2226-06-01,7,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,10
+e7d32baf-0bad-49cd-9bb1-cef9de4123a2,Viagem ao Vietnã brasileiro,2025-12-05,2225-12-12,5,0.15,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,9
+b33b3db2-f108-446e-8dc6-ad5b1ae88089,Mergulho em Fernando de Noronha,2024-04-05,2024-04-12,8,0.23,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,6
+e27980ec-a3b7-4402-a647-f92fcbf4b707,Tour pela Itália brasileira,2026-01-10,2226-01-17,6,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,9
+c1ee437d-7535-49f4-af14-0db3bffcfd20,Aventura na Escócia brasileira,2026-03-10,2226-03-17,4,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,13
+9b408b11-a3f5-43c6-a491-a9dcc8965b10,Férias no Havaí brasileiro,2025-10-20,2225-10-27,9,0.2,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,8
+19629614-09c9-4c21-b756-db994578c54a,Viagem à Nova Zelândia brasileira,2024-03-20,2024-03-27,7,0.25,COMPRA_ANTECIPADA,b2ee09de-9356-4803-af30-c41348bb2670,12
+aad668ed-8084-4b37-b3df-7480b3796291,Expedição no Deserto de Jalapão,2026-01-10,2226-01-17,5,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,10
+6d69321c-0b6f-4856-8cc4-1b19df9b208c,Tour por Machu Picchu goiano,2026-05-30,2226-06-06,8,0.1,COMPRA_ANTECIPADA,1550ce5d-a9bf-45d0-a221-79e1701ce866,7
+d014c381-79ea-4d73-93b2-0ec973fa76c4,Férias em Lençóis Maranhenses,2025-12-15,2225-12-22,6,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,4
+a6764bcb-c75d-4e9f-a2ba-160b218bd5b6,Viagem à Irlanda brasileira,2024-04-15,2024-04-22,4,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,9
+a77b3a6a-1058-47d6-a638-2c7d271575bb,Mergulho em Maragogi,2025-11-15,2225-11-22,9,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,6
+4c8768bd-b6f9-49f8-829f-f5f5df29ed92,Tour pela Cidade Histórica de Olinda,2026-06-05,2226-06-12,7,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,11
+fb7057ac-ca8b-434c-b0a9-754e97bdf9a9,Expedição na Amazônia,2025-10-20,2225-10-27,5,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,13
+3aba3fe5-266e-4d56-bd52-e80723d9b6cf,Férias em Búzios,2024-05-25,2024-06-01,8,0.23,FIXO,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,15
+8d965d0f-ae8e-41e0-8a0b-81cfccf70e43,Passeio de Balão em Caldas Novas,2025-12-10,2225-12-17,6,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,13
+5fb8a8ea-2a2d-4131-b300-9ee071efd8ff,Viagem à Itália brasileira,2026-04-10,2226-04-17,4,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,5
+65ecb526-7f76-4068-bc8b-870aaf03a3f2,Aventura em Nova Zelândia brasileira,2025-09-30,2225-10-07,9,0.18,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,4
+4030d116-405c-40dd-898a-8b231fd7ff78,Férias em Paraty,2024-03-25,2024-04-01,7,0.21,FIXO,984b955a-2d32-4681-8763-fa0800c4a752,6
+061f5edb-3c9a-47bd-9448-9e65de229e23,Mergulho em Fernando de Noronha,2026-01-10,2226-01-17,5,0.26,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,13
+3a7b8af1-693d-4757-9d0e-ef4348a6c037,Expedição ao Monte Roraima,2026-06-10,2226-06-17,8,0.1,FIXO,e33be35c-d5fd-45b5-a146-740020252a98,5
+d5d6dab9-9ce5-460d-9a95-48c558263634,Passeio de Lancha em Angra dos Reis,2025-11-01,2225-11-08,6,0.2,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,7
+5fc792ad-372c-4304-95f4-6c196b5f5ca4,Férias na Serra Gaúcha,2024-04-25,2024-05-02,4,0.14,FIXO,99c0d3b2-94ba-44f0-83c5-15ed419f72f7,7
+b7d860a8-c6af-49ea-946d-27168b922e6c,Viagem à Jordânia brasileira,2025-12-25,2225-12-27,9,0.19,FIXO,8889ee61-9c8c-4e5f-9609-430d512666b1,15
+e3af6a15-52ce-469b-9a47-39974b63e994,Mergulho em Fernando de Noronha,2026-03-25,2226-04-01,7,0.17,FIXO,42ce5f37-4c5a-473b-aca5-cb764a58aae6,8
+c07ba4d0-6c01-4b5b-bab7-5b3bf2d2aa24,Tour por Buenos Aires brasileiro,2025-10-15,2225-10-22,5,0.22,FIXO,0c6c715c-8c82-407d-8fc8-5d4fab0c8284,6
+bf99a866-c4cd-418c-bc20-1a6a3c5f1071,Expedição na Patagônia brasileira,2024-05-20,2024-05-27,8,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,6
+f4a2b8ee-e5b2-4a20-9c60-d8d91c49a7b5,Férias em Morro de São Paulo,2026-01-05,2226-01-12,6,0.27,FIXO,482598db-bafc-418d-8873-07cfee6698cb,10
+05893f1c-5226-4d51-8985-1bb82478cb22,Passeio de Lancha em Angra dos Reis,2026-05-25,2226-06-01,4,0.12,FIXO,2d2e4e88-a069-43b2-bc26-a147d898d477,10
+6ae8b224-fe54-47c8-81e2-1969788db3da,Viagem ao Vietnã brasileiro,2025-12-05,2225-12-12,9,0.15,FIXO,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,9
+d5b16c5e-152e-4636-a055-52a327b5f0b5,Mergulho em Fernando de Noronha,2024-04-05,2024-04-12,7,0.23,COMPRA_ANTECIPADA,42ce5f37-4c5a-473b-aca5-cb764a58aae6,6
+57dd385a-5f4e-4886-9dc9-12e8fa61bce4,Tour pela Itália brasileira,2026-01-10,2226-01-17,5,0.18,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,9
+6cc2f291-9c78-4724-ba74-81a9964ab671,Aventura na Escócia brasileira,2026-03-10,2226-03-17,8,0.1,FIXO,13465e3f-bfb8-495d-8328-a3e6fac08a29,13
+fd97016f-4590-48ff-ac25-895c1eaa3674,Férias no Havaí brasileiro,2025-10-20,2225-10-27,6,0.2,COMPRA_ANTECIPADA,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3,8
+8207f059-5d69-4667-a6bc-7e29189b9a71,Viagem à Nova Zelândia brasileira,2024-03-20,2024-03-27,4,0.25,FIXO,b2ee09de-9356-4803-af30-c41348bb2670,12
+86154473-4d78-4190-a250-338c70a93328,Expedição no Deserto de Jalapão,2026-01-10,2226-01-17,9,0.28,FIXO,2305bb80-fb90-448f-a70f-856e44fba2a3,10
+2601ac80-5316-4358-acd9-0713b4f35c1e,Tour por Machu Picchu goiano,2026-05-30,2226-06-06,7,0.1,FIXO,1550ce5d-a9bf-45d0-a221-79e1701ce866,13
+b9a43bd5-bfcd-4953-80d7-07ddae2f565c,Férias em Lençóis Maranhenses,2025-12-15,2225-12-22,5,0.26,FIXO,d9f12450-7c19-41fb-8ed7-f6828a2830cd,5
+4934b7e4-9b6a-43af-bdd2-e9ea0c841732,Viagem à Irlanda brasileira,2024-04-15,2024-04-22,8,0.15,FIXO,d43066d2-5762-4fa1-af9a-2258511482f7,7
+7d7d94f7-619c-4185-b3d2-f462cb02b151,Mergulho em Maragogi,2025-11-15,2225-11-22,6,0.13,FIXO,d0ee7149-3425-4a00-a698-043441164dd8,7
+4f9d6fdf-509d-470b-a8ef-eeb0731c82a1,Tour pela Cidade Histórica de Olinda,2026-06-05,2226-06-12,4,0.2,FIXO,9a4ee800-0214-42d2-aab7-95fba0d04272,15
+9a9a2e5f-6edd-4e19-9b31-278976594ad3,Expedição na Amazônia,2025-10-20,2225-10-27,9,0.15,FIXO,f1a62904-d784-49e4-af77-6f085917d482,8
+2836ad8e-f71f-4f4d-909b-973a2567384b,Férias em Búzios,2024-05-25,2024-06-01,7,0.23,COMPRA_ANTECIPADA,7a27c401-f5d0-41a7-bab8-9cc2544fbc15,6
+5f86b922-79b4-45e5-9a37-103db6ab3599,Passeio de Balão em Caldas Novas,2025-12-10,2225-12-17,5,0.1,FIXO,a6d86c7a-b23c-4ae9-a4ba-4f83b354d2c0,6
+c56c9b84-c83d-4cec-8781-488d97af483d,Viagem à Itália brasileira,2026-04-10,2226-04-17,0,0.24,FIXO,08a22b3b-293f-48bf-8e26-7c469b82a76b,10
+d925f532-04a7-40e0-b778-ffafbf4ab22d,Aventura em Nova Zelândia brasileira,2025-09-30,2225-10-07,6,0.18,COMPRA_ANTECIPADA,b2ee09de-9356-4803-af30-c41348bb2670,6

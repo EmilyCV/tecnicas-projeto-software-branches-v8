@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPathPattern": "/api/v2/hoteis/.*/promocoes/.*/reservas/.*"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": "{{#with (state context=request.path property='fullBody') as | value |}} { \"hospede\": {{jsonPath value '$.hospede'}}, \"check-in\": \"{{jsonPath value '$.check-in'}}\", \"check-out\": \"{{jsonPath value '$.check-out'}}\", \"quarto\": {{substring request.pathSegments.[7] 100 103}}, \"localizador-reserva\": \"{{#base64}}{{substring request.pathSegments.[7] 16 48}}{{/base64}}\" } {{/with}}",
+    "transformers": ["response-template"]
+  }
+}

@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.3.xsd">
+
+    <changeSet id="20250910122300" author="dev">
+        <renameColumn tableName="LOCALIDADE"
+                      oldColumnName="CODIGO_LOCADORA_VEICULO"
+                      newColumnName="CODIGO_PLATAFORMA_LOCACAO_VEICULO"
+                      columnDataType="VARCHAR(255)"/>
+    </changeSet>
+
+    <changeSet id="20250910122330" author="dev">
+        <createTable tableName="PERIODO">
+            <column name="ID" type="VARCHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="INICIO" type="DATE">
+                <constraints nullable="false"/>
+            </column>
+            <column name="FIM" type="DATE">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="20250910122600" author="dev">
+        <sql>INSERT INTO PERIODO (SELECT ID, DATA_INICIO, DATA_FIM FROM PACOTE)</sql>
+    </changeSet>
+
+    <changeSet id="20250910122800" author="dev">
+        <addColumn tableName="PACOTE">
+            <column name="VALIDADE_ID" type="VARCHAR(36)"/>
+        </addColumn>
+        <addForeignKeyConstraint
+            baseTableName="PACOTE"
+            baseColumnNames="VALIDADE_ID"
+            referencedTableName="PERIODO"
+            referencedColumnNames="ID"
+            constraintName="FK_PACOTE_PERIODO"/>
+    </changeSet>
+
+    <changeSet id="20250910122830" author="dev">
+        <sql>UPDATE PACOTE SET VALIDADE_ID = ID</sql>
+    </changeSet>
+
+    <changeSet id="20250910123000" author="dev">
+        <dropColumn tableName="PACOTE" columnName="DATA_INICIO"/>
+        <dropColumn tableName="PACOTE" columnName="DATA_FIM"/>
+    </changeSet>
+
+    <changeSet id="20250910132200" author="dev">
+        <renameColumn tableName="PACOTE"
+                      oldColumnName="NOME"
+                      newColumnName="DESCRICAO"
+                      columnDataType="VARCHAR(255)"/>
+    </changeSet>
+
+    <changeSet id="20250910123600" author="dev">
+        <renameColumn tableName="PACOTE"
+                      oldColumnName="DESCONTO"
+                      newColumnName="PERCENTUAL_DESCONTO"
+                      columnDataType="DOUBLE"/>
+    </changeSet>
+
+    <changeSet id="20250910123700" author="dev">
+        <renameColumn tableName="PACOTE"
+                      oldColumnName="DURACAO"
+                      newColumnName="DURACAO_VIAGEM"
+                      columnDataType="INTEGER"/>
+    </changeSet>
+
+    <changeSet id="20250910153200" author="dev">
+        <renameColumn tableName="PACOTE"
+                      oldColumnName="LOCALIDADE_ID"
+                      newColumnName="DESTINO_ID"
+                      columnDataType="CHAR(36)"/>
+    </changeSet>
+
+    <changeSet id="20250910154300" author="dev">
+        <renameTable oldTableName="ITEM_PACOTE" newTableName="OFERTA"/>
+    </changeSet>
+
+    <changeSet id="20250910154400" author="dev">
+        <createTable tableName="PARCEIRO">
+            <column name="ID" type="VARCHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="NOME" type="VARCHAR(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="EMAIL_CONTATO" type="VARCHAR(255)"/>
+            <column name="TELEFONE_CONTATO" type="VARCHAR(255)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="20250910165300" author="dev">
+        <createTable tableName="LOCADORA_VEICULO_PARCEIRA">
+            <column name="ID" type="VARCHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+        </createTable>
+        <addForeignKeyConstraint
+                baseTableName="LOCADORA_VEICULO_PARCEIRA"
+                baseColumnNames="ID"
+                referencedTableName="PARCEIRO"
+                referencedColumnNames="ID"
+                constraintName="FK_LOCADORA_VEICULO_PARCEIRA"/>
+    </changeSet>
+
+    <changeSet id="20250910165350" author="dev">
+        <createTable tableName="COMPANHIA_AEREA_PARCEIRA">
+            <column name="ID" type="VARCHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+        </createTable>
+        <addForeignKeyConstraint
+                baseTableName="COMPANHIA_AEREA_PARCEIRA"
+                baseColumnNames="ID"
+                referencedTableName="PARCEIRO"
+                referencedColumnNames="ID"
+                constraintName="FK_COMPANHIA_AEREA_PARCEIRA"/>
+    </changeSet>
+
+    <changeSet id="20250910171000" author="dev">
+        <createTable tableName="HOTEL_PARCEIRO">
+            <column name="ID" type="VARCHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="ID_PLATAFORMA" type="VARCHAR(16)"/>
+            <column name="ENDERECO_ID" type="CHAR(36)"/>
+        </createTable>
+        <addForeignKeyConstraint
+                baseTableName="HOTEL_PARCEIRO"
+                baseColumnNames="ID"
+                referencedTableName="PARCEIRO"
+                referencedColumnNames="ID"
+                constraintName="FK_HOTEL_PARCEIRO_PARCEIRO"/>
+        <addForeignKeyConstraint
+                baseTableName="HOTEL_PARCEIRO"
+                baseColumnNames="ENDERECO_ID"
+                referencedTableName="ENDERECO"
+                referencedColumnNames="ID"
+                constraintName="FK_HOTEL_PARCEIRO_ENDERECO"/>
+    </changeSet>
+
+    <changeSet id="20250910160300" author="dev">
+        <sql>
+            INSERT INTO PARCEIRO (ID, NOME, TELEFONE_CONTATO, EMAIL_CONTATO)
+            WITH DISTINCT_HOTELS AS (
+                SELECT DISTINCT
+                    NOME_HOTEL AS NOME,
+                    TELEFONE AS TELEFONE_CONTATO,
+                    EMAIL AS EMAIL_CONTATO
+                FROM HOTEL
+            ),
+                 MIN_ID_HOTEL AS (
+                     SELECT
+                         NOME_HOTEL,
+                         MIN(ID) AS MIN_ID
+                     FROM HOTEL
+                     GROUP BY NOME_HOTEL
+                 ),
+                 HOTEL_MIN AS (
+                     SELECT h.*
+                     FROM HOTEL h JOIN MIN_ID_HOTEL m ON h.ID = m.MIN_ID
+                 )
+            SELECT h.ID, h.NOME_HOTEL, h.TELEFONE, h.EMAIL FROM DISTINCT_HOTELS d LEFT JOIN HOTEL_MIN h ON d.NOME = h.NOME_HOTEL;
+        </sql>
+    </changeSet>
+
+    <changeSet id="20250910163900" author="dev">
+        <sql>
+            INSERT INTO PARCEIRO (ID, NOME, TELEFONE_CONTATO, EMAIL_CONTATO)
+            WITH DISTINCT_LOCADORA_VEICULO AS (
+                SELECT DISTINCT
+                    NOME_LOCADORA AS NOME,
+                    TELEFONE AS TELEFONE_CONTATO,
+                    EMAIL AS EMAIL_CONTATO
+                FROM VEICULO
+            ),
+                 MIN_ID_LOCADORA_VEICULO AS (
+                     SELECT
+                         NOME_LOCADORA,
+                         MIN(ID) AS MIN_ID
+                     FROM VEICULO
+                     GROUP BY NOME_LOCADORA
+                 ),
+                 LOCADORA_VEICULO_MIN AS (
+                     SELECT v.*
+                     FROM VEICULO v JOIN MIN_ID_LOCADORA_VEICULO m ON v.ID = m.MIN_ID
+                 )
+            SELECT v.ID, v.NOME_LOCADORA, v.TELEFONE, v.EMAIL FROM DISTINCT_LOCADORA_VEICULO d LEFT JOIN LOCADORA_VEICULO_MIN v ON d.NOME = v.NOME_LOCADORA;
+        </sql>
+    </changeSet>
+
+    <changeSet id="20250910164200" author="dev">
+        <sql>
+            INSERT INTO PARCEIRO (ID, NOME, TELEFONE_CONTATO, EMAIL_CONTATO)
+            WITH DISTINCT_COMPANHIA_AEREA AS (
+                SELECT DISTINCT
+                    NOME_COMPANHIA AS NOME,
+                    TELEFONE AS TELEFONE_CONTATO,
+                    EMAIL AS EMAIL_CONTATO
+                FROM TRANSLADO_AEREO_ITEM
+            ),
+                 MIN_ID_COMPANHIA_AEREA AS (
+                     SELECT
+                         NOME_COMPANHIA,
+                         MIN(ID) AS MIN_ID
+                     FROM TRANSLADO_AEREO_ITEM
+                     GROUP BY NOME_COMPANHIA
+                 ),
+                 COMPANHIA_AEREA_MIN AS (
+                     SELECT v.*
+                     FROM TRANSLADO_AEREO_ITEM v JOIN MIN_ID_COMPANHIA_AEREA m ON v.ID = m.MIN_ID
+                 )
+            SELECT v.ID, v.NOME_COMPANHIA, v.TELEFONE, v.EMAIL FROM DISTINCT_COMPANHIA_AEREA d LEFT JOIN COMPANHIA_AEREA_MIN v ON d.NOME = v.NOME_COMPANHIA;
+        </sql>
+    </changeSet>
+
+    <changeSet id="20250910171900" author="dev">
+        <sql>
+            INSERT INTO HOTEL_PARCEIRO (ID, ID_PLATAFORMA, ENDERECO_ID)
+            WITH DISTINCT_HOTELS AS (
+                SELECT DISTINCT
+                    NOME_HOTEL AS NOME,
+                    TELEFONE AS TELEFONE_CONTATO,
+                    EMAIL AS EMAIL_CONTATO
+                FROM HOTEL
+            ),
+                 MIN_ID_HOTEL AS (
+                     SELECT
+                         NOME_HOTEL,
+                         MIN(ID) AS MIN_ID
+                     FROM HOTEL
+                     GROUP BY NOME_HOTEL
+                 ),
+                 HOTEL_MIN AS (
+                     SELECT h.*
+                     FROM HOTEL h JOIN MIN_ID_HOTEL m ON h.ID = m.MIN_ID
+                 )
+            SELECT h.ID, h.ID_PLATAFORMA, h.ENDERECO_ID FROM DISTINCT_HOTELS d LEFT JOIN HOTEL_MIN h ON d.NOME = h.NOME_HOTEL;
+        </sql>
+    </changeSet>
+
+    <changeSet id="20250910172200" author="dev">
+        <sql>
+            INSERT INTO LOCADORA_VEICULO_PARCEIRA (ID)
+            WITH DISTINCT_LOCADORA_VEICULO AS (
+                SELECT DISTINCT
+                    NOME_LOCADORA AS NOME,
+                    TELEFONE AS TELEFONE_CONTATO,
+                    EMAIL AS EMAIL_CONTATO
+                FROM VEICULO
+            ),
+                 MIN_ID_LOCADORA_VEICULO AS (
+                     SELECT
+                         NOME_LOCADORA,
+                         MIN(ID) AS MIN_ID
+                     FROM VEICULO
+                     GROUP BY NOME_LOCADORA
+                 ),
+                 LOCADORA_VEICULO_MIN AS (
+                     SELECT v.*
+                     FROM VEICULO v JOIN MIN_ID_LOCADORA_VEICULO m ON v.ID = m.MIN_ID
+                 )
+            SELECT v.ID FROM DISTINCT_LOCADORA_VEICULO d LEFT JOIN LOCADORA_VEICULO_MIN v ON d.NOME = v.NOME_LOCADORA;
+        </sql>
+    </changeSet>
+
+    <changeSet id="20250910172300" author="dev">
+        <sql>
+            INSERT INTO COMPANHIA_AEREA_PARCEIRA (ID)
+            WITH DISTINCT_COMPANHIA_AEREA AS (
+                SELECT DISTINCT
+                    NOME_COMPANHIA AS NOME,
+                    TELEFONE AS TELEFONE_CONTATO,
+                    EMAIL AS EMAIL_CONTATO
+                FROM TRANSLADO_AEREO_ITEM
+            ),
+                 MIN_ID_COMPANHIA_AEREA AS (
+                     SELECT
+                         NOME_COMPANHIA,
+                         MIN(ID) AS MIN_ID
+                     FROM TRANSLADO_AEREO_ITEM
+                     GROUP BY NOME_COMPANHIA
+                 ),
+                 COMPANHIA_AEREA_MIN AS (
+                     SELECT v.*
+                     FROM TRANSLADO_AEREO_ITEM v JOIN MIN_ID_COMPANHIA_AEREA m ON v.ID = m.MIN_ID
+                 )
+            SELECT v.ID FROM DISTINCT_COMPANHIA_AEREA d LEFT JOIN COMPANHIA_AEREA_MIN v ON d.NOME = v.NOME_COMPANHIA;
+        </sql>
+    </changeSet>
+
+    <changeSet id="20250910172500" author="dev">
+        <addColumn tableName="OFERTA">
+            <column name="PARCEIRO_RESPONSAVEL_ID" type="CHAR(36)"/>
+        </addColumn>
+        <addForeignKeyConstraint
+            baseTableName="OFERTA"
+            baseColumnNames="PARCEIRO_RESPONSAVEL_ID"
+            referencedTableName="PARCEIRO"
+            referencedColumnNames="ID"
+            constraintName="FK_OFERTA_PARCEIRO_RESPONSAVEL"/>
+    </changeSet>
+
+    <changeSet id="20250910172530" author="dev">
+        <dropColumn tableName="OFERTA" columnName="TIPO"/>
+    </changeSet>
+
+    <changeSet id="20250910174200" author="dev">
+        <sql>UPDATE OFERTA o, HOTEL h set o.PARCEIRO_RESPONSAVEL_ID=(select p.ID from PARCEIRO p WHERE p.NOME = h.NOME_HOTEL) where o.ID = h.ID</sql>
+    </changeSet>
+
+    <changeSet id="20250910174300" author="">
+        <sql>UPDATE OFERTA o, VEICULO v set o.PARCEIRO_RESPONSAVEL_ID=(select p.ID from PARCEIRO p WHERE p.NOME = v.NOME_LOCADORA) where o.ID = v.ID</sql>
+    </changeSet>
+
+    <changeSet id="20250910174400" author="">
+        <sql>UPDATE OFERTA o, TRANSLADO_AEREO_ITEM a set o.PARCEIRO_RESPONSAVEL_ID=(select p.ID from PARCEIRO p WHERE p.NOME = a.NOME_COMPANHIA) where o.ID = a.ID</sql>
+    </changeSet>
+
+    <changeSet id="20250910175200" author="dev">
+        <renameTable oldTableName="TRANSLADO_AEREO_ITEM" newTableName="OFERTA_TRANSLADO_AEREO"/>
+    </changeSet>
+
+    <changeSet id="20250910173200" author="dev">
+        <dropColumn tableName="OFERTA_TRANSLADO_AEREO" columnName="NOME_COMPANHIA"/>
+        <dropColumn tableName="OFERTA_TRANSLADO_AEREO" columnName="EMAIL"/>
+        <dropColumn tableName="OFERTA_TRANSLADO_AEREO" columnName="TELEFONE"/>
+    </changeSet>
+
+    <changeSet id="20250910175700" author="dev">
+        <renameTable oldTableName="VEICULO" newTableName="OFERTA_LOCACAO_VEICULO"/>
+    </changeSet>
+
+    <changeSet id="20250910175730" author="dev">
+        <renameColumn tableName="OFERTA_LOCACAO_VEICULO"
+                      columnDataType="VARCHAR(50)"
+                      oldColumnName="CATEGORIA_CARRO"
+                      newColumnName="CATEGORIA_VEICULO"/>
+    </changeSet>
+
+    <changeSet id="20250910175800" author="dev">
+        <dropColumn tableName="OFERTA_LOCACAO_VEICULO" columnName="NOME_LOCADORA"/>
+        <dropColumn tableName="OFERTA_LOCACAO_VEICULO" columnName="EMAIL"/>
+        <dropColumn tableName="OFERTA_LOCACAO_VEICULO" columnName="TELEFONE"/>
+    </changeSet>
+
+    <changeSet id="20250910180200" author="dev">
+        <renameTable oldTableName="HOTEL" newTableName="OFERTA_HOSPEDAGEM"/>
+    </changeSet>
+
+    <changeSet id="20250910180400" author="dev">
+        <dropForeignKeyConstraint baseTableName="OFERTA_HOSPEDAGEM" constraintName="FK_HOTEL_ENDERECO"/>
+    </changeSet>
+
+    <changeSet id="20250910180430" author="dev">
+        <dropColumn tableName="OFERTA_HOSPEDAGEM" columnName="NOME_HOTEL"/>
+        <dropColumn tableName="OFERTA_HOSPEDAGEM" columnName="EMAIL"/>
+        <dropColumn tableName="OFERTA_HOSPEDAGEM" columnName="TELEFONE"/>
+        <dropColumn tableName="OFERTA_HOSPEDAGEM" columnName="ENDERECO_ID"/>
+        <dropColumn tableName="OFERTA_HOSPEDAGEM" columnName="ID_PLATAFORMA"/>
+    </changeSet>
+
+    <changeSet id="20250910233600" author="dev">
+        <createTable tableName="DADOS_VOO">
+            <column name="ID" type="CHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="NUMERO" type="VARCHAR(50)"/>
+            <column name="HORARIO" type="TIME"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="20250910234400" author="dev">
+        <sql>
+            INSERT INTO DADOS_VOO (ID, NUMERO, HORARIO) (
+                SELECT CONCAT('00000000-0000-0000-', SUBSTRING(ID, 20, 36)) as ID, VOO_VOLTA_NUMERO as NUMERO, VOO_VOLTA_HORA as HORARIO from OFERTA_TRANSLADO_AEREO union
+                SELECT CONCAT(SUBSTRING(ID, 1, 18),'-0000-000000000000') as ID, VOO_IDA_NUMERO as NUMERO, VOO_IDA_HORA as HORARIO from OFERTA_TRANSLADO_AEREO
+            )
+        </sql>
+    </changeSet>
+
+    <changeSet id="20250910234900" author="dev">
+        <addColumn tableName="OFERTA_TRANSLADO_AEREO">
+            <column name="VOO_IDA_ID" type="VARCHAR(36)"/>
+            <column name="VOO_VOLTA_ID" type="VARCHAR(36)"/>
+        </addColumn>
+        <addForeignKeyConstraint
+            baseTableName="OFERTA_TRANSLADO_AEREO"
+            baseColumnNames="VOO_IDA_ID"
+            referencedTableName="DADOS_VOO"
+            referencedColumnNames="ID"
+            constraintName="FK_OFERTA_TRANSLADO_AEREO_VOO_IDA"/>
+        <addForeignKeyConstraint
+            baseTableName="OFERTA_TRANSLADO_AEREO"
+            baseColumnNames="VOO_VOLTA_ID"
+            referencedTableName="DADOS_VOO"
+            referencedColumnNames="ID"
+            constraintName="FK_OFERTA_TRANSLADO_AEREO_VOO_VOLTA"/>
+    </changeSet>
+
+    <changeSet id="20250910235100" author="dev">
+        <sql>UPDATE OFERTA_TRANSLADO_AEREO SET VOO_IDA_ID = CONCAT(SUBSTRING(ID, 1, 18),'-0000-000000000000'), VOO_VOLTA_ID = CONCAT('00000000-0000-0000-', SUBSTRING(ID, 20, 36))</sql>
+    </changeSet>
+
+    <changeSet id="20250910235200" author="dev">
+        <dropColumn tableName="OFERTA_TRANSLADO_AEREO" columnName="VOO_IDA_NUMERO"/>
+        <dropColumn tableName="OFERTA_TRANSLADO_AEREO" columnName="VOO_VOLTA_NUMERO"/>
+        <dropColumn tableName="OFERTA_TRANSLADO_AEREO" columnName="VOO_IDA_HORA"/>
+        <dropColumn tableName="OFERTA_TRANSLADO_AEREO" columnName="VOO_VOLTA_HORA"/>
+    </changeSet>
+
+    <changeSet id="20250911195200" author="dev">
+        <addColumn tableName="OFERTA_HOSPEDAGEM">
+            <column name="HOTEL_PARCEIRO_ID" type="VARCHAR(36)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="20250911195230" author="dev">
+        <addForeignKeyConstraint
+                baseTableName="OFERTA_HOSPEDAGEM"
+                baseColumnNames="HOTEL_PARCEIRO_ID"
+                referencedTableName="HOTEL_PARCEIRO"
+                referencedColumnNames="ID"
+                constraintName="FK_OFERTA_HOSPEDAGEM_HOTEL_PARCEIRO"/>
+    </changeSet>
+
+    <changeSet id="20250911195245" author="dev">
+        <addColumn tableName="OFERTA_LOCACAO_VEICULO">
+            <column name="LOCADORA_VEICULO_PARCEIRA_ID" type="VARCHAR(36)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="20250911195300" author="dev">
+        <addForeignKeyConstraint
+                baseTableName="OFERTA_LOCACAO_VEICULO"
+                baseColumnNames="LOCADORA_VEICULO_PARCEIRA_ID"
+                referencedTableName="LOCADORA_VEICULO_PARCEIRA"
+                referencedColumnNames="ID"
+                constraintName="FK_OFERTA_LOCACAO_VEICULO_LOCADORA_VEICULO_PARCEIRA"/>
+    </changeSet>
+
+    <changeSet id="20250911195301" author="dev">
+        <addColumn tableName="OFERTA_TRANSLADO_AEREO">
+            <column name="COMPANHIA_AEREA_PARCEIRA_ID" type="VARCHAR(36)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="20250911195330" author="dev">
+        <addForeignKeyConstraint
+                baseTableName="OFERTA_TRANSLADO_AEREO"
+                baseColumnNames="COMPANHIA_AEREA_PARCEIRA_ID"
+                referencedTableName="COMPANHIA_AEREA_PARCEIRA"
+                referencedColumnNames="ID"
+                constraintName="FK_OFERTA_TRANSLADO_AEREO_COMPANHIA_AEREA_PARCEIRA"/>
+    </changeSet>
+
+    <changeSet id="20250911195600" author="dev">
+        <sql>update OFERTA_TRANSLADO_AEREO a SET a.COMPANHIA_AEREA_PARCEIRA_ID = (SELECT o.PARCEIRO_RESPONSAVEL_ID FROM OFERTA o WHERE o.ID = a.ID)</sql>
+    </changeSet>
+
+    <changeSet id="20250911195800" author="dev">
+        <sql>update OFERTA_HOSPEDAGEM h SET h.HOTEL_PARCEIRO_ID = (SELECT o.PARCEIRO_RESPONSAVEL_ID FROM OFERTA o WHERE o.ID = h.ID)</sql>
+    </changeSet>
+
+    <changeSet id="20250911195900" author="dev">
+        <sql>update OFERTA_LOCACAO_VEICULO v SET v.LOCADORA_VEICULO_PARCEIRA_ID = (SELECT o.PARCEIRO_RESPONSAVEL_ID FROM OFERTA o WHERE o.ID = v.ID)</sql>
+    </changeSet>
+
+    <changeSet id="20250911200000" author="dev">
+        <dropForeignKeyConstraint baseTableName="OFERTA" constraintName="FK_OFERTA_PARCEIRO_RESPONSAVEL"/>
+    </changeSet>
+
+    <changeSet id="20250911200100" author="dev">
+        <dropColumn tableName="OFERTA" columnName="PARCEIRO_RESPONSAVEL_ID"/>
+    </changeSet>
+
+    <changeSet id="20250911200500" author="dev">
+        <dropForeignKeyConstraint baseTableName="COMPRA" constraintName="FK_COMPRA_PACOTE"/>
+    </changeSet>
+
+    <changeSet id="20250911200530" author="dev">
+        <renameColumn tableName="COMPRA"
+                      oldColumnName="PACOTE_ID"
+                      newColumnName="PACOTE_CONTRATADO_ID"
+                      columnDataType="VARCHAR(36)"/>
+    </changeSet>
+
+    <changeSet id="20250911200545" author="dev">
+        <addForeignKeyConstraint baseTableName="COMPRA"
+                                 baseColumnNames="PACOTE_CONTRATADO_ID"
+                                 constraintName="FK_COMPRA_PACOTE_CONTRATADO"
+                                 referencedTableName="PACOTE"
+                                 referencedColumnNames="ID"/>
+    </changeSet>
+
+
+    <changeSet id="20250911200600" author="dev">
+        <renameColumn tableName="COMPRA"
+                      oldColumnName="DATA_COMPRA"
+                      newColumnName="MOMENTO_COMPRA"
+                      columnDataType="DATE"/>
+    </changeSet>
+
+    <changeSet id="20250911201200" author="dev">
+        <renameColumn tableName="COMPRA"
+                      oldColumnName="DESCONTO"
+                      newColumnName="VALOR_DESCONTO"
+                      columnDataType="DOUBLE"/>
+    </changeSet>
+
+    <changeSet id="20250911201300" author="dev">
+        <renameColumn tableName="COMPRA"
+                      oldColumnName="RESERVA_VEICULO"
+                      newColumnName="LOCALIZADOR_RESERVA_VEICULO"
+                      columnDataType="VARCHAR(255)"/>
+    </changeSet>
+
+    <changeSet id="20250911201700" author="dev">
+        <sql>INSERT INTO PERIODO (ID, INICIO, FIM) SELECT ID as ID, DATA_IDA as INICIO, DATA_VOLTA as FIM FROM COMPRA</sql>
+    </changeSet>
+
+    <changeSet id="20250911201730" author="dev">
+        <dropColumn tableName="COMPRA" columnName="DATA_IDA"/>
+        <dropColumn tableName="COMPRA" columnName="DATA_VOLTA"/>
+    </changeSet>
+
+    <changeSet id="20250911202000" author="dev">
+        <addColumn tableName="COMPRA">
+            <column name="PERIODO_VIAGEM_ID" type="VARCHAR(36)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="20250911202030" author="dev">
+        <addForeignKeyConstraint
+            baseTableName="COMPRA"
+            baseColumnNames="PERIODO_VIAGEM_ID"
+            referencedTableName="PERIODO"
+            referencedColumnNames="ID"
+            constraintName="FK_COMPRA_PERIODO_VIAGEM"/>
+    </changeSet>
+
+    <changeSet id="20250911202800" author="dev">
+        <sql>UPDATE COMPRA SET PERIODO_VIAGEM_ID=ID</sql>
+    </changeSet>
+
+    <changeSet id="20250911203400" author="dev">
+        <createTable tableName="RESERVA_VOO">
+            <column name="ID" type="VARCHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="ETICKET" type="VARCHAR(25)"/>
+            <column name="ASSENTO" type="CHAR(4)"/>
+            <column name="HORARIO_EMBARQUE" type="DATETIME"/>
+            <column name="DADOS_VOO_ID" type="VARCHAR(36)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="20250911203430" author="dev">
+        <addForeignKeyConstraint
+            baseTableName="RESERVA_VOO"
+            baseColumnNames="DADOS_VOO_ID"
+            referencedTableName="DADOS_VOO"
+            referencedColumnNames="ID"
+            constraintName="FK_RESERVA_VOO_DADOS_VOO"/>
+    </changeSet>
+
+    <changeSet id="20250911204900" author="dev">
+        <sql>
+            INSERT INTO DADOS_VOO (ID, NUMERO, HORARIO) (
+                WITH DADOS_VOO_COMPRA as (SELECT c.ID as ID, ida.NUMERO as VOO_IDA_NUMERO, ida.HORARIO as VOO_IDA_HORA, volta.NUMERO as VOO_VOLTA_NUMERO, volta.HORARIO as VOO_VOLTA_HORA FROM COMPRA c
+                    inner join OFERTA o on o.PACOTE_ID = c.PACOTE_CONTRATADO_ID
+                    inner join OFERTA_TRANSLADO_AEREO a on a.ID = o.ID
+                    inner join DADOS_VOO ida on ida.ID = a.VOO_IDA_ID
+                    inner join DADOS_VOO volta on volta.ID = a.VOO_VOLTA_ID
+                )
+                SELECT CONCAT('00000000-0000-0000-', SUBSTRING(ID, 20, 36)) as ID, VOO_VOLTA_NUMERO as NUMERO, VOO_VOLTA_HORA as HORARIO from DADOS_VOO_COMPRA union
+                SELECT CONCAT(SUBSTRING(ID, 1, 18),'-0000-000000000000') as ID, VOO_IDA_NUMERO as NUMERO, VOO_IDA_HORA as HORARIO from DADOS_VOO_COMPRA
+            )
+        </sql>
+    </changeSet>
+
+    <changeSet id="20250911225300" author="dev">
+        <sql>INSERT INTO RESERVA_VOO (ID, DADOS_VOO_ID, ETICKET, ASSENTO, HORARIO_EMBARQUE)  (
+            WITH RESERVA as (
+                SELECT c.ID as ID,
+                       CONCAT('00000000-0000-0000-', SUBSTRING(ID, 20, 36)) as VOO_VOLTA_ID,
+                       CONCAT(SUBSTRING(ID, 1, 18),'-0000-000000000000') as VOO_IDA_ID,
+                       c.ETICKET_VOO_IDA as ETICKET_IDA,
+                       c.ETICKET_VOO_VOLTA as ETICKET_VOLTA,
+                       c.ASSENTO_VOO_IDA as ASSENTO_IDA,
+                       c.ASSENTO_VOO_VOLTA as ASSENTO_VOLTA,
+                       c.EMBARQUE_VOO_IDA as EMBARQUE_IDA,
+                       c.EMBARQUE_VOO_VOLTA as EMBARQUE_VOLTA
+                FROM COMPRA c
+            )
+            SELECT R.VOO_IDA_ID as ID, R.VOO_IDA_ID as DADOS_VOO_ID, R.ETICKET_IDA as ETICKET, R.ASSENTO_IDA as ASSENTO, R.EMBARQUE_IDA as HORARIO_EMBARQUE FROM RESERVA R
+        )
+        </sql>
+    </changeSet>
+    <changeSet id="20250911225400" author="dev">
+        <sql>INSERT INTO RESERVA_VOO (ID, DADOS_VOO_ID, ETICKET, ASSENTO, HORARIO_EMBARQUE)  (
+            WITH RESERVA as (
+                SELECT c.ID as ID,
+                       CONCAT('00000000-0000-0000-', SUBSTRING(ID, 20, 36)) as VOO_VOLTA_ID,
+                       CONCAT(SUBSTRING(ID, 1, 18),'-0000-000000000000') as VOO_IDA_ID,
+                       c.ETICKET_VOO_IDA as ETICKET_IDA,
+                       c.ETICKET_VOO_VOLTA as ETICKET_VOLTA,
+                       c.ASSENTO_VOO_IDA as ASSENTO_IDA,
+                       c.ASSENTO_VOO_VOLTA as ASSENTO_VOLTA,
+                       c.EMBARQUE_VOO_IDA as EMBARQUE_IDA,
+                       c.EMBARQUE_VOO_VOLTA as EMBARQUE_VOLTA
+                FROM COMPRA c
+            )
+            SELECT R.VOO_VOLTA_ID as ID, R.VOO_VOLTA_ID as DADOS_VOO_ID, R.ETICKET_VOLTA as ETICKET, R.ASSENTO_VOLTA as ASSENTO, R.EMBARQUE_VOLTA as HORARIO_EMBARQUE FROM RESERVA R
+        )
+        </sql>
+    </changeSet>
+
+    <changeSet id="20250911225800" author="dev">
+        <addColumn tableName="COMPRA">
+            <column name="RESERVA_VOO_IDA_ID" type="VARCHAR(36)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="20250911225830" author="dev">
+        <addForeignKeyConstraint
+            baseTableName="COMPRA"
+            baseColumnNames="RESERVA_VOO_IDA_ID"
+            referencedTableName="RESERVA_VOO"
+            referencedColumnNames="ID"
+            constraintName="FK_COMPRA_RESERVA_VOO_IDA"/>
+    </changeSet>
+
+    <changeSet id="20250911225900" author="dev">
+        <addColumn tableName="COMPRA">
+            <column name="RESERVA_VOO_VOLTA_ID" type="VARCHAR(36)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="20250911225930" author="dev">
+        <addForeignKeyConstraint
+                baseTableName="COMPRA"
+                baseColumnNames="RESERVA_VOO_VOLTA_ID"
+                referencedTableName="RESERVA_VOO"
+                referencedColumnNames="ID"
+                constraintName="FK_COMPRA_RESERVA_VOO_VOLTA"/>
+    </changeSet>
+
+    <changeSet id="20250911230030" author="dev">
+        <dropColumn tableName="COMPRA" columnName="ETICKET_VOO_IDA"/>
+        <dropColumn tableName="COMPRA" columnName="ASSENTO_VOO_IDA"/>
+        <dropColumn tableName="COMPRA" columnName="EMBARQUE_VOO_IDA"/>
+
+        <dropColumn tableName="COMPRA" columnName="ETICKET_VOO_VOLTA"/>
+        <dropColumn tableName="COMPRA" columnName="ASSENTO_VOO_VOLTA"/>
+        <dropColumn tableName="COMPRA" columnName="EMBARQUE_VOO_VOLTA"/>
+    </changeSet>
+
+    <changeSet id="20250911231300" author="dev">
+        <sql>UPDATE COMPRA SET RESERVA_VOO_IDA_ID = CONCAT(SUBSTRING(ID, 1, 18),'-0000-000000000000'), RESERVA_VOO_VOLTA_ID = CONCAT('00000000-0000-0000-', SUBSTRING(ID, 20, 36))</sql>
+    </changeSet>
+
+    <changeSet id="20250911231600" author="dev">
+        <renameTable oldTableName="COMPRA" newTableName="CONTRATACAO"/>
+    </changeSet>
+
+    <changeSet id="20250913153100" author="dev">
+        <sql>UPDATE PACOTE SET TIPO_DESCONTO='POR_ANTECIPACAO' where TIPO_DESCONTO='COMPRA_ANTECIPADA'</sql>
+    </changeSet>
+</databaseChangeLog>

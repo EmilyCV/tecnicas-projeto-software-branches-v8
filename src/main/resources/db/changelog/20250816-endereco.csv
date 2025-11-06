@@ -1,0 +1,1001 @@
+ID,CEP,LOGRADOURO,NUMERO,COMPLEMENTO,BAIRRO,LOCALIDADE_ID
+2efd9117-214f-4387-a889-60445a9700df,24611654,Estrada São João,1387,Apto. 101,Centro,cf5c7366-7d19-4f43-bda0-0f8678d20544
+6d71bee1-6887-40cc-a10d-632d87a16364,88575315,Estrada do Comércio,248,Apto. 101,Itaim Bibi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+c9001c75-86a5-4f57-b8c0-a2173d1af703,64800891,Praça Ipiranga,1525,Fundos,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+77a2b583-20b2-43ac-8b51-1206b48e88ca,45713330,Estrada da Liberdade,525,Apto. 101,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+611c2cc7-8981-485c-975f-178ae36e6c62,61180549,Alameda da Liberdade,1026,Fundos,Santa Cecília,d43066d2-5762-4fa1-af9a-2258511482f7
+418bbe46-516c-498c-ada0-5fdece561454,10572515,Travessa da Liberdade,830,Loja 5,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+52ac82d4-6b0e-4c90-8a4f-4f66e404c0ee,48389672,Alameda do Comércio,1217,,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+1cad3ff9-f4d2-42fb-83b9-332bd7601407,87679368,Praça Ipiranga,1304,Fundos,Moema,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+7556d4fb-b161-497b-8425-14b7f70bf9a1,39509209,Avenida dos Andradas,1640,Casa 2,Pinheiros,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+51203fbb-7c51-454e-b4af-9a6766e526bc,81929785,Estrada das Flores,129,Sala 302,Savassi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+950ec5a7-7514-4ebf-b71e-9f0fb3221401,50847780,Avenida Brasil,161,,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+1b80d79e-166d-4753-adb8-7615f2dc398e,56334960,Avenida Dom Pedro II,566,Fundos,Santa Cecília,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+651b1292-77b5-4065-be1f-80db67d7e04a,73826271,Estrada do Comércio,1187,Apto. 101,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+e82e5a5d-3150-43f0-9a28-7b2a9806d7fe,70332312,Praça do Comércio,995,Fundos,Santa Cecília,933243f9-4aec-4288-af69-4d6ecf0cc16b
+dda35448-f979-411d-a8dc-85c16198cce3,89261371,Travessa dos Andradas,778,Casa 2,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+77754757-82fe-4004-b355-0140453b9817,71128202,Avenida São João,653,Casa 2,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+f5bd7d30-cf01-48ac-b55b-3b4367390757,36104656,Rua dos Andradas,933,Sobreloja,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+2179e031-8f14-431c-be30-427a3c5519ac,30482785,Estrada das Flores,1932,Apto. 101,Savassi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+0322c665-db75-40a9-884d-b6738299ff0f,83635347,Praça XV de Novembro,234,Bloco B,Lapa,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+78250faa-1204-4cc6-bf4a-fc55f39680fc,44503362,Estrada do Comércio,916,,Boa Vista,d43066d2-5762-4fa1-af9a-2258511482f7
+33d7b165-ccc8-48af-80e5-56a3f401ec80,47650812,Praça dos Andradas,1019,Sala 302,Pinheiros,933243f9-4aec-4288-af69-4d6ecf0cc16b
+1ea326ff-e1ce-4c36-a517-ca786f46ec26,16846335,Avenida XV de Novembro,366,Apto. 101,Savassi,d43066d2-5762-4fa1-af9a-2258511482f7
+fde02882-2745-48ff-b57d-3b9f346b54dd,68329394,Rua Brasil,522,Bloco B,Savassi,d43066d2-5762-4fa1-af9a-2258511482f7
+aa2a61ad-8db5-4bbe-ba2b-03cab16d72d4,75477718,Rua da Liberdade,1141,,Savassi,d43066d2-5762-4fa1-af9a-2258511482f7
+3d9c072f-198f-4877-a256-d0b6541037c4,13712447,Estrada XV de Novembro,1449,Conjunto 12,Itaim Bibi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+d3288d6b-072a-4d4d-bf44-b28eba81eb78,70639258,Praça Rio Branco,687,Apto. 101,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+3cfaff7c-4747-494c-9605-385ec80c8fc9,12976171,Praça das Flores,110,Conjunto 12,Lapa,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+73857645-569c-4f8d-ac95-7c21facb74c8,97718525,Praça São João,433,Apto. 101,Savassi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+da3131da-0e94-49c1-b0f8-53ffd8ed5ddc,12492237,Rua São João,919,Apto. 101,Boa Vista,d43066d2-5762-4fa1-af9a-2258511482f7
+58eedcb9-c991-49d5-81eb-10ed2a62ddef,26084995,Alameda da Liberdade,1794,Bloco B,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+07b25550-c969-4b1b-890e-3589d332018c,44295127,Avenida Rio Branco,97,Galpão,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+0428cfc9-68bd-4ccc-ab38-f098fa01fb06,23750154,Alameda Ipiranga,1580,Galpão,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+67ad39ce-21e5-4b5e-a6c3-1ed5ce3dfb61,52658438,Alameda São João,958,Loja 5,Santa Cecília,933243f9-4aec-4288-af69-4d6ecf0cc16b
+470210b0-1cf1-4e57-ac4e-053996a4264e,41999922,Praça São João,951,Bloco B,Boa Vista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+3a90681c-798c-4653-bd08-863021433b8b,59206432,Rua Ipiranga,653,Fundos,Boa Vista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+aeb5f301-6bc3-4e8a-9664-ebcd8e4d79b9,60469624,Travessa Rio Branco,1945,Fundos,Copacabana,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+c3a22c8e-5df3-41e0-bac5-beee31a92f4b,36585968,Travessa Ipiranga,846,Loja 5,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+f1a1c9a2-8d05-4251-bc57-511a7137af16,48727221,Praça XV de Novembro,557,Sobreloja,Pinheiros,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+982ad495-d3d5-45d2-a20f-a5eb424b755b,67573852,Travessa do Comércio,1142,,Lapa,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+841535cf-58cd-4808-91b1-9c004a619897,22203497,Travessa das Flores,1451,,Itaim Bibi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+4124dfcb-ca4c-41dd-a478-74a14d35e5b1,72013373,Estrada da Liberdade,1813,Fundos,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+831f7ab6-9c3a-4e77-b693-fb9c24a82554,61971577,Estrada Brasil,1814,Conjunto 12,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+5c7c4010-4127-43e8-aeb5-d4a878f79e62,66054348,Travessa da Liberdade,738,Loja 5,Savassi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+5c03222b-2779-4c64-bf00-5e5085ba43e9,11727128,Alameda do Comércio,315,Sobreloja,Pinheiros,d43066d2-5762-4fa1-af9a-2258511482f7
+cdc34087-bc49-4c1f-a5f7-0c11eeea024d,45523811,Travessa do Comércio,1488,Fundos,Moema,d43066d2-5762-4fa1-af9a-2258511482f7
+d2ea8464-d0df-4701-a4fc-00afc59129d7,18988182,Estrada São João,1619,Loja 5,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+5748acaa-6238-48cf-a5a1-2a0940bf2f5d,88911905,Alameda da Liberdade,1845,Sala 302,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+4166253f-b51a-4ffc-abb1-4ea97456ada2,21086133,Travessa Rio Branco,1104,Sobreloja,Savassi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+f621a30b-0316-4e22-b7e7-ae298184d91a,22486797,Alameda Brasil,608,Loja 5,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+7bc9f760-4c0a-4401-863c-717be1713a65,35460992,Praça Rio Branco,1510,Sala 302,Centro,8889ee61-9c8c-4e5f-9609-430d512666b1
+9d127b40-6a1c-463f-9fa5-1cd4fcfb1b49,82959320,Praça da Liberdade,474,Sala 302,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+5cb74b1e-fc63-4bd8-8b98-a7c83f1dae07,44330170,Avenida Ipiranga,1210,Galpão,Boa Vista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+cb85180b-2270-4bba-9d85-b48c4c9021dc,19276734,Alameda Rio Branco,638,,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+6a3ac969-1a1f-4c06-8c83-7bb51b69250f,57513256,Travessa do Comércio,1938,,Itaim Bibi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+606225a8-c85d-466d-b401-b8086086fa19,12712222,Praça Brasil,1991,Loja 5,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+d6031094-ad2a-4368-a815-5572052a05c9,50905890,Estrada da Liberdade,851,Loja 5,Centro,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+d63c4053-95b6-42a3-8ae1-9272ae102771,64549752,Alameda dos Andradas,1734,Conjunto 12,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+0fdd81d3-8009-4a56-8e9e-79e82ffad031,93611847,Alameda Ipiranga,1612,Galpão,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+b24023d8-a278-4c0b-9336-5aa3afeaaa78,65267681,Estrada Dom Pedro II,163,Conjunto 12,Itaim Bibi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+4699ec31-9a20-41b4-a225-5898d93f346c,99043807,Estrada dos Andradas,298,Loja 5,Jardim Paulista,8889ee61-9c8c-4e5f-9609-430d512666b1
+ba815edd-93e6-4402-a192-f4a2d938bbbf,45586879,Alameda do Comércio,694,Sobreloja,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+e87902c0-e6b9-4b00-9205-d429299c426e,65634173,Praça Ipiranga,255,Sobreloja,Boa Vista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+a1f3fca0-b540-4ad6-b0b9-c06552cd3898,69399155,Avenida Dom Pedro II,875,Loja 5,Itaim Bibi,d43066d2-5762-4fa1-af9a-2258511482f7
+baafc155-946e-4e90-86a5-71b22021db69,17911115,Travessa das Flores,356,Loja 5,Boa Vista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+ead1325c-ea66-49bc-91fb-427a0c2e3f98,49954385,Praça da Liberdade,379,Casa 2,Pinheiros,cf5c7366-7d19-4f43-bda0-0f8678d20544
+d9dff713-5628-462d-9be3-e27e2e60f986,70351153,Estrada Dom Pedro II,710,Loja 5,Pinheiros,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+b2dbf060-8901-4e6f-b4dd-e07478743119,71959942,Rua do Comércio,141,Casa 2,Copacabana,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+818e5e61-5043-48d3-8110-2be821c6c3bf,22903957,Alameda Dom Pedro II,716,Fundos,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+2ae57406-af2a-4a13-a1d4-698347c4d6f4,58898172,Avenida Dom Pedro II,594,Galpão,Pinheiros,cf5c7366-7d19-4f43-bda0-0f8678d20544
+720afa2b-293e-4d2c-9221-7ab26ce30310,66087850,Alameda Rio Branco,404,Sobreloja,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+c5a70fa3-d298-4251-9241-9b230282dbe2,59030562,Travessa do Comércio,689,Loja 5,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+034b4932-eb93-4681-9773-8df5691af0ec,71096982,Estrada Ipiranga,1381,Sala 302,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+9dd5e937-0dc2-405c-9a2d-8ef0d82535d8,59508803,Estrada São João,661,Bloco B,Moema,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+4e704654-36eb-4daf-a359-2f3781a40aa2,93642780,Praça São João,1184,,Copacabana,d43066d2-5762-4fa1-af9a-2258511482f7
+d368e675-838a-4882-a27a-0a73c757e81b,50509275,Avenida dos Andradas,1654,Bloco B,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+4fe18cb0-59aa-44a5-8a4c-4fc167f723a8,23536808,Praça Brasil,1109,Casa 2,Pinheiros,f1a62904-d784-49e4-af77-6f085917d482
+f820ead3-c97f-47d9-91c1-a8316ea5d126,15825397,Rua Brasil,609,Bloco B,Boa Vista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+346e48c6-31fb-4e25-81ea-27d940848d2d,69486457,Rua das Flores,322,Loja 5,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+61e43919-7a53-4775-800a-795e01bb04bb,71283808,Rua XV de Novembro,819,Sala 302,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+030f8077-7697-45f1-8d4e-4d31f4127a9b,27307265,Praça Brasil,1381,,Jardim Paulista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+94fb21b4-f1f7-4582-9de3-81f263e62675,44158286,Rua Ipiranga,1463,,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+65851d39-656d-4ac4-8988-db8789beb6de,74506380,Alameda Rio Branco,1063,Apto. 101,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+d125745e-a996-4d39-9f94-e13ad78e0d96,30306514,Estrada da Liberdade,253,Galpão,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+c6f50d95-1b5b-4ab4-b391-cad6f4a4962f,67364928,Praça Brasil,1813,Casa 2,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+03f090d9-831d-4c4c-9486-2486e36310c2,34935998,Praça Rio Branco,666,Sala 302,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+7fcaed4f-40d2-46b9-8e26-729a482b3716,16825574,Rua das Flores,816,Loja 5,Copacabana,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+d372b1c5-d168-40ae-a18d-b7617d3ceb1b,77763664,Estrada Dom Pedro II,1075,Apto. 101,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+edc666b5-6a8f-40ab-a6a2-ba8549aabd90,65937869,Avenida Ipiranga,284,Fundos,Jardim Paulista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+ceb9d11f-132f-4418-a118-b20590e96389,18743189,Alameda Dom Pedro II,89,Galpão,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+4279797d-08cb-4f1c-b489-a131bb7ca2aa,22583946,Travessa Ipiranga,1209,Fundos,Jardim Paulista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+aecbd3d3-da48-4aa2-a145-1b9ef1d650f1,69935590,Travessa da Liberdade,307,Conjunto 12,Copacabana,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+cda5fa33-4111-4253-8826-b79c2091a554,80777511,Avenida Rio Branco,332,Fundos,Jardim Paulista,d43066d2-5762-4fa1-af9a-2258511482f7
+1d81c8d4-048b-4ae6-8002-3fa4e03deb32,33962382,Travessa Brasil,744,Conjunto 12,Centro,933243f9-4aec-4288-af69-4d6ecf0cc16b
+2996e406-afb6-4c8a-8d62-03f0d83c181b,38818631,Travessa da Liberdade,669,Casa 2,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+ff8b13bf-e9c9-4d1c-a869-8d53d64ca422,87677574,Praça Ipiranga,1970,Apto. 101,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+2040f587-debe-4e4f-a1bf-77e3e56ef4f7,96282749,Rua Ipiranga,1951,Loja 5,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+99281262-d90e-48d6-9721-94a1a97c5c7a,78564559,Alameda do Comércio,1969,Sala 302,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+9b732bf8-1596-48a3-af8e-f07bad7341d4,23872244,Avenida dos Andradas,577,Sobreloja,Moema,d43066d2-5762-4fa1-af9a-2258511482f7
+1e0e2f73-e2fd-436b-957b-93bbc1d697be,76802452,Praça Ipiranga,1980,Sobreloja,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+067e0e4c-ae7b-4daa-b7df-00cac9592130,21098298,Travessa Dom Pedro II,484,Sala 302,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+000e460d-a12a-4864-bf9d-f025cc777a20,11563195,Praça Brasil,1866,Casa 2,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+4190cf6a-8f8a-4c98-97b1-a20be9e8d576,52431329,Travessa Rio Branco,1990,Sala 302,Jardim Paulista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+ab4d18f2-db04-4f9b-8ae7-74e218402c58,42607967,Rua XV de Novembro,1928,Sala 302,Boa Vista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+cbeb05c7-3d2a-41e7-a72f-5861fc3c0902,71692394,Alameda do Comércio,1137,Casa 2,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+a3665897-3d3b-46c4-b1f8-bf6dd5abc105,18436477,Avenida Brasil,1873,Loja 5,Savassi,d43066d2-5762-4fa1-af9a-2258511482f7
+077a02c7-50a8-4b7d-aea5-dce231038086,86215645,Avenida Ipiranga,1783,,Pinheiros,8889ee61-9c8c-4e5f-9609-430d512666b1
+abd04a28-417e-4b62-81ad-6b1e16a84020,43235561,Praça da Liberdade,1207,Apto. 101,Moema,f1a62904-d784-49e4-af77-6f085917d482
+fc29c2bd-d779-4387-ae58-2ddf5e3cb8ea,27600740,Estrada Rio Branco,532,Bloco B,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+34c8ec95-b782-4540-a7b5-52cf67dd36fd,38621601,Avenida Dom Pedro II,793,,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+88f39172-a6cf-4b30-9efd-6a0a9241d438,85678495,Travessa do Comércio,123,Sala 302,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+b6e3e017-753a-4632-af06-32a3710d7992,90552821,Praça da Liberdade,1985,Sala 302,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+45e62d39-f114-4b06-a08f-d1b1f710e554,78257108,Praça das Flores,337,,Centro,933243f9-4aec-4288-af69-4d6ecf0cc16b
+47cc5d42-782e-40d5-8e5a-de8e5082f024,75231448,Estrada do Comércio,333,Galpão,Jardim Paulista,8889ee61-9c8c-4e5f-9609-430d512666b1
+bbfe9060-5c08-4e42-8762-dc35a9a6fad2,16101567,Travessa dos Andradas,1458,Sala 302,Jardim Paulista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+56457f4d-5860-436b-912f-55fcc8afc2fe,22495893,Avenida da Liberdade,1684,Sobreloja,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+1a7bcbdc-63ef-43fc-bf33-69819c5a4078,45979873,Alameda Ipiranga,1857,Galpão,Santa Cecília,d43066d2-5762-4fa1-af9a-2258511482f7
+c0293987-c4a0-448b-846b-518048ff011e,64759681,Rua Rio Branco,584,Galpão,Santa Cecília,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+29edbaa6-1c20-46d1-b4a9-779e922d5135,99371279,Estrada Dom Pedro II,1670,Conjunto 12,Santa Cecília,cf5c7366-7d19-4f43-bda0-0f8678d20544
+0b0f73ec-d535-4e74-bb6d-76fc89c1d2a3,81473291,Travessa da Liberdade,1398,Bloco B,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+23018a71-dcd3-4fb2-b7b1-c7d80f572588,71843509,Rua XV de Novembro,1721,Bloco B,Lapa,d43066d2-5762-4fa1-af9a-2258511482f7
+60a8c3c8-7cb8-44b4-9b25-73a02c8a6705,87226928,Estrada São João,1914,Fundos,Boa Vista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+5e79a3bf-9b73-417a-9f5e-6976be85ab40,65050721,Praça Dom Pedro II,349,,Jardim Paulista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+87b27300-facc-40db-ae3a-b8d55274b175,50704594,Rua das Flores,1252,,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+577e7e18-7716-433c-abe5-619ab2c0967a,99135739,Travessa Brasil,1337,,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+8f865c4d-8a8a-417a-8d83-59dd2dd20d0c,79117644,Travessa do Comércio,941,Sobreloja,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+36150fe3-d2b1-4788-bbc7-3ef4b360dbe6,76415354,Estrada Rio Branco,596,Loja 5,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+87ffa203-5562-4dc2-9f7a-b3da9a3f3c64,64099368,Alameda Rio Branco,918,Bloco B,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+55665ea4-db1c-4ed2-8782-ed069bfce813,53638475,Travessa Ipiranga,1045,Apto. 101,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+f8c29f83-5c4b-44c0-8216-f7706cfa8907,48636982,Praça Ipiranga,1305,Conjunto 12,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+d3885d28-30ad-457e-9b9d-65ae2c36aa00,50548398,Avenida XV de Novembro,199,Fundos,Centro,f1a62904-d784-49e4-af77-6f085917d482
+2f988686-fccf-4fe8-b55d-218e544f1628,91125589,Alameda Dom Pedro II,1055,Galpão,Lapa,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+0f28b478-db92-453b-a0e9-ed487d27220c,22222279,Estrada das Flores,1067,Bloco B,Savassi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+df9f907d-2bb2-473c-b8ed-6742159eda75,60072164,Rua das Flores,1961,Casa 2,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+7e507268-aa93-46be-944e-b801475e2e44,10142906,Estrada Ipiranga,1048,Sobreloja,Copacabana,933243f9-4aec-4288-af69-4d6ecf0cc16b
+a60905bc-f615-43d8-9e5a-74775c872858,23169586,Alameda do Comércio,1109,Casa 2,Boa Vista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+14d0f17c-de6c-49fb-865b-e65e73b65a6f,82308763,Alameda do Comércio,1623,Fundos,Copacabana,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+22d83791-0fe2-4386-8fd9-4f9f5157b15a,95449540,Travessa Ipiranga,1744,,Santa Cecília,cf5c7366-7d19-4f43-bda0-0f8678d20544
+465e4547-3d41-43ae-8286-e73910c982d3,42491713,Estrada Dom Pedro II,1712,Loja 5,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+b9ed1e2a-20d4-4b40-bc71-c24e58ccf861,49555332,Avenida São João,1630,Sobreloja,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+69e68bdd-4c3f-415f-b62b-ef0ca1507b95,39855398,Estrada dos Andradas,914,Bloco B,Boa Vista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+25c6e832-6452-47dd-8d9b-84b6eeb691ee,63178533,Estrada do Comércio,1156,Fundos,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+61b91ecf-0705-4466-9ea7-a2fb9595c3b2,38696991,Estrada São João,1483,Sobreloja,Santa Cecília,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+8cc09730-d641-4197-a98c-2a7cff5d2073,14339773,Travessa da Liberdade,1202,Casa 2,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+27b160ab-256e-4016-af7d-11e6adacdd12,58762945,Estrada Dom Pedro II,302,Bloco B,Santa Cecília,933243f9-4aec-4288-af69-4d6ecf0cc16b
+2947676f-368d-4262-b8a0-90dc64c5a11d,79949289,Praça Rio Branco,1352,Sala 302,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+ba0dc863-89e9-46cf-9fb4-f9d0b4d710a3,31984530,Travessa dos Andradas,1148,Conjunto 12,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+707e0efa-838f-4102-8df8-f07e8c621ebe,30846148,Rua XV de Novembro,1720,Conjunto 12,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+5cbc3b28-826a-49a4-8b3f-44fc4420b9db,78996939,Rua das Flores,752,Bloco B,Pinheiros,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+d5de92fc-014b-4ca2-a4bb-dbf9b3965650,14852132,Estrada Brasil,909,Sobreloja,Santa Cecília,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+c55de9bb-ae09-4835-b1ee-3c5c7c729742,83400475,Rua do Comércio,909,Galpão,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+fa4aa3e3-163b-4aef-b11e-cb67083d2255,23559275,Travessa São João,4,Conjunto 12,Boa Vista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+9ef251c0-b579-4bab-9cc5-8d51b3ed9e79,12489131,Estrada Rio Branco,851,Conjunto 12,Pinheiros,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+966b75d6-7790-46fb-b1ea-f73ce9506888,85705311,Travessa São João,288,Casa 2,Lapa,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+d13f871d-4829-49ba-a431-caca34d9bcdb,21151418,Avenida Ipiranga,655,Conjunto 12,Copacabana,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+5efb0cbe-1ffd-4abc-8e9d-5a6fcc06eb25,73973370,Estrada do Comércio,1836,Sobreloja,Pinheiros,f1a62904-d784-49e4-af77-6f085917d482
+cb10ed10-bed2-4caf-8d59-36998620fc6b,37900129,Travessa Ipiranga,271,Bloco B,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+cf60a0a6-3b3a-4e95-b836-e49bd1678c66,97439360,Estrada dos Andradas,810,Bloco B,Moema,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+c5db8d1b-48a0-494c-accb-71fd4a5d416d,51749225,Travessa Rio Branco,1759,Bloco B,Centro,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+bbdd1ed9-b05f-445e-ba14-cf4c2c8e28db,16697973,Travessa São João,737,Sala 302,Lapa,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+6b132f1e-aaeb-462b-bb57-df990329e53d,50841261,Rua do Comércio,1748,Galpão,Itaim Bibi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+31c6cb6e-a2e7-4785-b51e-6f5b4e4bfe95,72168680,Alameda Brasil,1535,Bloco B,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+c3436a14-d90f-45da-b3a2-34b219234569,49609959,Avenida das Flores,977,Sala 302,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+f4097a95-cc7e-4c21-9082-bf552137e79a,57793251,Avenida da Liberdade,1795,Bloco B,Lapa,cf5c7366-7d19-4f43-bda0-0f8678d20544
+d2416249-ee88-4223-ab76-7ec007df2bb2,99076365,Praça Dom Pedro II,116,Loja 5,Savassi,d43066d2-5762-4fa1-af9a-2258511482f7
+bc40597b-369f-450a-b5cd-fb057b35e154,61188125,Alameda Rio Branco,1409,Loja 5,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+0197e2bb-5fd7-4d39-b434-5e330d31d9b3,59936246,Alameda Brasil,379,Bloco B,Centro,933243f9-4aec-4288-af69-4d6ecf0cc16b
+b607e5ef-7dc5-43ca-a6cb-5c3e693da411,27507100,Estrada Ipiranga,1899,Loja 5,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+cb52a254-e9d8-430c-89fa-cabccd03cad0,80334393,Alameda XV de Novembro,1287,Loja 5,Jardim Paulista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+4be29174-fd88-49ef-b6a7-a831cc363970,40945493,Travessa das Flores,1970,Sobreloja,Jardim Paulista,d43066d2-5762-4fa1-af9a-2258511482f7
+cd548d01-ee7a-462d-93d7-cbf57c994ca6,54176756,Estrada Rio Branco,844,Sobreloja,Savassi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+6bedfa57-43c5-4b1f-9e33-a03bc0547737,44762986,Avenida XV de Novembro,1634,Sobreloja,Savassi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+4a19b6c7-a61f-4b26-87a3-99586dc2ba40,16705911,Avenida das Flores,1386,Casa 2,Boa Vista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+483a6578-862d-4f46-b532-63859b7cc43e,93417174,Travessa XV de Novembro,543,Conjunto 12,Lapa,933243f9-4aec-4288-af69-4d6ecf0cc16b
+efa84212-4d9e-49a5-b201-38269f5e0b5d,72718186,Praça da Liberdade,371,Bloco B,Centro,cf5c7366-7d19-4f43-bda0-0f8678d20544
+9a9c9f65-1d73-40ba-a504-ab1fb0a22228,39177655,Avenida XV de Novembro,241,Fundos,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+9e4afb57-9d50-46c0-a66d-f1ccd08d104e,47234169,Estrada dos Andradas,65,,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+853a8707-007a-4d3b-9fc4-c97f1299da51,94706551,Rua São João,1998,Bloco B,Pinheiros,d43066d2-5762-4fa1-af9a-2258511482f7
+b3ddcdc1-8a59-47e8-a65d-6e2c11f684d7,28260510,Alameda da Liberdade,889,Apto. 101,Centro,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+bd3f56b4-da7b-4d6d-9fae-f0755fa51825,27597889,Rua Rio Branco,196,Fundos,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+54e7a10c-a3ed-4935-9abc-ec7de3135a96,70219626,Rua do Comércio,1275,Loja 5,Santa Cecília,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+5b017e38-0718-4e8e-b804-c10998c76e8a,34490125,Praça da Liberdade,664,Bloco B,Itaim Bibi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+e1131100-36c2-466c-9168-a537f7e70d20,98315194,Avenida Rio Branco,1799,Fundos,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+8c4d0b07-aa3f-4f06-bf59-c4f995bea8d2,91711577,Travessa Rio Branco,1553,,Santa Cecília,933243f9-4aec-4288-af69-4d6ecf0cc16b
+7a0868f5-79a0-449b-ba2e-c198f1f55ec1,62491541,Rua Dom Pedro II,1608,Galpão,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+f145f968-588f-427a-8488-e9ecd3462b1f,59501599,Praça Rio Branco,622,Bloco B,Itaim Bibi,f1a62904-d784-49e4-af77-6f085917d482
+b2ba5377-658b-46b5-a85d-8a2ab8e4cace,25784300,Avenida do Comércio,679,Conjunto 12,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+2a1af20d-f29b-4665-9564-0e7b778745b9,66431789,Rua XV de Novembro,1287,Apto. 101,Boa Vista,f1a62904-d784-49e4-af77-6f085917d482
+14cbd242-9ed6-4f71-b82f-13b8a81c988c,90962384,Travessa dos Andradas,681,Conjunto 12,Itaim Bibi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+8a380e74-3220-428c-b557-65a8c3ea38d4,94584251,Alameda das Flores,844,Galpão,Itaim Bibi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+957255cf-59ee-421c-85a4-ee7784990847,14343315,Travessa Rio Branco,216,Loja 5,Moema,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+f55f9c66-a51b-4b72-8415-cc95e9a07f50,72353278,Estrada Brasil,1745,Galpão,Savassi,8889ee61-9c8c-4e5f-9609-430d512666b1
+446bb2f7-0489-4cbe-b6f1-bd7cb47e6eb3,31239176,Estrada Brasil,25,Galpão,Jardim Paulista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+e88a1ce8-a7b4-43e7-83b7-d15c1f16e401,85329519,Alameda Rio Branco,1305,Sobreloja,Santa Cecília,8889ee61-9c8c-4e5f-9609-430d512666b1
+ebafe1c1-8764-4a8b-9f10-a097589f3c7e,66324992,Alameda Ipiranga,1755,Galpão,Lapa,933243f9-4aec-4288-af69-4d6ecf0cc16b
+5ae63207-9bf5-4773-b932-732f34691d94,94773453,Estrada dos Andradas,155,Galpão,Lapa,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+6bfaae23-d45c-417b-bdc1-55c10e281e80,24538106,Alameda do Comércio,466,,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+f92bccc5-64a4-489f-9608-6c6968c6564b,27529785,Avenida do Comércio,1780,Galpão,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+34d97d55-ad4a-4ee3-abf2-a5b29622bd62,99483907,Estrada Rio Branco,508,Casa 2,Boa Vista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+68b2d675-9381-41a0-9483-1fa7825b0acc,60486865,Praça do Comércio,1596,Galpão,Jardim Paulista,d43066d2-5762-4fa1-af9a-2258511482f7
+2aed0746-462f-4621-9c16-9a9214ed62df,80833506,Travessa XV de Novembro,1708,Conjunto 12,Santa Cecília,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+15fc4fa3-1fd0-4403-b5a0-a15a331fff68,41948592,Alameda XV de Novembro,150,Loja 5,Pinheiros,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+d1cf9edc-739e-4109-ac99-dd71c4815171,28377536,Estrada Dom Pedro II,551,Fundos,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+c27b22e7-aa45-4f03-831b-f9bcc2eb15a8,39636166,Avenida XV de Novembro,946,Apto. 101,Boa Vista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+2ee331ad-9f43-4e42-a31e-1f78082fe607,43292570,Travessa Rio Branco,258,Loja 5,Copacabana,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+20787c41-2acb-4c79-b762-dcd7e5ec8539,84842114,Avenida Brasil,1541,Sobreloja,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+caaf3948-06be-444d-9281-aa6355951d0f,46702729,Estrada da Liberdade,346,Bloco B,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+a0089852-f91d-493a-bfb6-17341f9848d2,20725190,Avenida XV de Novembro,453,Bloco B,Santa Cecília,933243f9-4aec-4288-af69-4d6ecf0cc16b
+00921ef2-5a6b-4c5e-a291-74eec175e079,34314844,Travessa São João,1694,Bloco B,Moema,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+d1b26e69-aace-4ffd-a1d8-5296a6869ac2,53222624,Alameda da Liberdade,1439,Sala 302,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+0ee89980-1a0d-48e6-9979-4306ac335298,45085874,Estrada das Flores,1701,Sobreloja,Boa Vista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+5d3b1d09-8014-400d-b92a-48f453f2669f,25079416,Avenida do Comércio,1270,Casa 2,Pinheiros,f1a62904-d784-49e4-af77-6f085917d482
+203330de-c6da-4d89-a795-805092a00bb7,59458494,Estrada do Comércio,603,Galpão,Savassi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+41ff897e-e5d9-492e-b9d8-79719b789ddc,63154529,Estrada Ipiranga,490,Conjunto 12,Savassi,8889ee61-9c8c-4e5f-9609-430d512666b1
+2368907d-86ca-4d20-9a6c-e7a7623e506b,16694559,Estrada do Comércio,349,Apto. 101,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+0fa81b90-5982-4deb-9893-146464cf30ee,83316813,Avenida Brasil,250,Apto. 101,Lapa,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+b4119e0c-a7df-4eb5-a8bc-541d63ae6f04,86352425,Alameda Dom Pedro II,1248,Fundos,Lapa,cf5c7366-7d19-4f43-bda0-0f8678d20544
+74e5835b-92d0-4610-8e8f-cbbd97a204f8,30120791,Alameda das Flores,496,Casa 2,Copacabana,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+cacd5fa5-dc38-46e3-8587-2aa28624d689,47067496,Praça da Liberdade,1694,Casa 2,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+06115e14-fc16-44ff-87e5-8417a8e2cee4,25062863,Rua dos Andradas,1331,Bloco B,Copacabana,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+18d5d593-9469-484e-a90f-dec8f33ad40b,32426531,Estrada Brasil,1451,Galpão,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+158f743a-4f08-4a90-8a83-be76a039f5b2,29000555,Travessa das Flores,484,Conjunto 12,Jardim Paulista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+bf14e337-0bfd-483f-811b-7e584cea7582,28863999,Rua do Comércio,576,Casa 2,Itaim Bibi,f1a62904-d784-49e4-af77-6f085917d482
+ce0175d1-160e-4f14-a760-52f40b5cccc5,77222982,Rua do Comércio,1431,Bloco B,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+669f2bea-d856-4184-88bc-6081b4425da3,67589323,Avenida São João,1824,Loja 5,Santa Cecília,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+3931f199-0f5e-4c97-be4e-57d8890cb5d6,29748337,Rua XV de Novembro,1432,Galpão,Lapa,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+bcddf91a-eded-418f-9cbb-4c8a50a9f291,36404134,Alameda Brasil,1416,Conjunto 12,Moema,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+0e65acfa-ab14-447c-a4c7-89ac0cd99ffd,97249303,Praça Brasil,1636,Casa 2,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+1ba8c437-b559-43fc-9d21-6b745fedb2a0,19333137,Avenida da Liberdade,1649,Sobreloja,Pinheiros,d43066d2-5762-4fa1-af9a-2258511482f7
+884352e6-2d63-4a87-b950-db8323704d80,14151636,Estrada do Comércio,1380,Sobreloja,Santa Cecília,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+ff8744c8-82f3-4a75-a36c-7192344eb1c2,66820957,Praça Dom Pedro II,264,Loja 5,Itaim Bibi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+03013f6c-c9e2-42d8-9229-cd02f1b77ba7,42413693,Travessa Dom Pedro II,854,Casa 2,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+cda7efe8-0515-4153-a08d-26a5dca8e3ca,32433937,Alameda dos Andradas,1225,Sala 302,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+45191a11-67b1-4e71-a8e9-9fb55a15898b,63866768,Alameda das Flores,437,Fundos,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+9fc5a27e-4dbf-46f6-b4f9-806d2d9d2c4f,42591603,Praça do Comércio,615,Casa 2,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+a26893d9-6586-4031-9a76-ef0d5f510ad7,37154213,Rua das Flores,553,Fundos,Pinheiros,cf5c7366-7d19-4f43-bda0-0f8678d20544
+d2ae5634-084a-4029-933a-3bf46b10520c,87458139,Avenida dos Andradas,702,Conjunto 12,Jardim Paulista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+7ded769d-e0d6-4c00-a744-04a4a7a35db8,89656769,Rua São João,951,Galpão,Jardim Paulista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+944bdbc7-d100-4917-a202-63aa7383b834,21038965,Alameda Dom Pedro II,183,,Moema,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+3fa70fde-d009-4bde-99dc-cf94d48623d8,30149989,Travessa das Flores,128,Apto. 101,Centro,cf5c7366-7d19-4f43-bda0-0f8678d20544
+40cfbc94-01b3-4121-9aec-5e1aaba32299,68220752,Alameda Dom Pedro II,1787,Bloco B,Savassi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+71872890-4693-4b1b-a9e5-7e0871944bd8,22045772,Praça das Flores,1352,Loja 5,Itaim Bibi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+f6aa373e-45f3-4e78-8b24-7fe03b13013e,19459204,Avenida Ipiranga,595,Casa 2,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+d03e48aa-4b72-49d7-8b7b-4b6e348b4876,96304668,Rua da Liberdade,791,Sala 302,Centro,933243f9-4aec-4288-af69-4d6ecf0cc16b
+9be6be89-2694-4797-aded-99c0322fa26c,40844910,Praça Rio Branco,1360,Sobreloja,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+6b544c04-99c8-49fc-888e-a23b0a12432a,84283782,Avenida XV de Novembro,1071,Casa 2,Centro,933243f9-4aec-4288-af69-4d6ecf0cc16b
+75278b30-1f22-42d2-9198-7971ad1b5fa7,35484645,Praça da Liberdade,1453,Apto. 101,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+91d9583a-2c96-4589-b0bb-913a75e862b8,64887884,Estrada das Flores,707,Galpão,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+cd87e503-73bb-4455-adc7-aec766bf3231,30866607,Alameda das Flores,1842,Apto. 101,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+de8c6a54-bdca-4349-8a35-8c9bde9cb95d,27127450,Avenida Rio Branco,720,Apto. 101,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+bd857b7d-505c-49bf-9ba2-d93e624a6fdb,90745458,Avenida São João,1332,Conjunto 12,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+49df1ca2-2379-4e57-ab82-2e93128200e5,54937584,Travessa São João,1169,Bloco B,Itaim Bibi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+397e6a46-2265-440d-a32b-b3f1ca151f63,70541786,Praça XV de Novembro,911,Casa 2,Lapa,d43066d2-5762-4fa1-af9a-2258511482f7
+0a8c3492-079a-41d8-bc22-2f13bd35f95d,92095536,Travessa do Comércio,1659,Loja 5,Moema,d43066d2-5762-4fa1-af9a-2258511482f7
+d3e71858-8417-4904-a134-ac7193540ef8,74148336,Travessa Rio Branco,1018,Conjunto 12,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+13310ae0-edbc-46f7-97db-62d1ca9fdf81,46375299,Travessa Rio Branco,630,Casa 2,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+231fcbad-00d4-49e0-9be8-a7e0b3657467,55564996,Travessa Ipiranga,43,Bloco B,Copacabana,cf5c7366-7d19-4f43-bda0-0f8678d20544
+9d4b819e-4e80-4baa-8aa8-7b9fece6f753,99489900,Travessa Ipiranga,1026,Loja 5,Boa Vista,8889ee61-9c8c-4e5f-9609-430d512666b1
+f0cfe9d1-099f-419b-afd5-ad5ce827472d,79240890,Avenida das Flores,217,Sala 302,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+d57a21d7-2912-4247-9178-f57a9df97098,20522655,Praça da Liberdade,1340,Galpão,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+f5c252b0-3c1b-44b4-95da-98c0b601194a,25611209,Travessa XV de Novembro,1982,Bloco B,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+3e52abbc-0249-4a99-9547-646d2ca28cfe,27511263,Travessa São João,1087,Loja 5,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+02d8b426-8b52-4066-814f-2e7b4e5d45fb,66719591,Travessa das Flores,470,Sala 302,Jardim Paulista,8889ee61-9c8c-4e5f-9609-430d512666b1
+112eedae-2e89-4d08-b1e7-122b7aedcda6,50356580,Avenida São João,1084,Casa 2,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+93220562-fa1b-4829-b037-3fca3734f483,86365313,Avenida Rio Branco,1548,Bloco B,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+d9b6a06a-ab62-4845-9326-10b6f4eaab86,49981757,Alameda Ipiranga,1621,Bloco B,Itaim Bibi,d43066d2-5762-4fa1-af9a-2258511482f7
+25c26bab-26bd-409f-af33-e152c2c2160c,79982108,Rua do Comércio,75,Loja 5,Jardim Paulista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+12720a37-33e3-4fa3-966c-a092ad724ef3,19839918,Alameda Ipiranga,982,Bloco B,Boa Vista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+1cdd7577-3258-43d2-bf7b-effcf4ada4bc,40821362,Praça Rio Branco,283,Bloco B,Copacabana,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+289865cf-2b72-403f-a04f-d31845d77c5c,80264324,Rua Brasil,40,Galpão,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+a93ddc1f-fd3f-4b7c-bf18-939be365298a,72630106,Estrada Ipiranga,485,Fundos,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+f6ea2138-384d-4c45-8de3-aaf5e7155a8e,39528320,Rua Rio Branco,503,Casa 2,Boa Vista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+13664f25-6e26-44a6-bcca-9ec61f82dde7,67712849,Avenida da Liberdade,1514,,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+839f020d-3747-4e22-b231-8cdde35bdc27,90380398,Praça Ipiranga,595,Apto. 101,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+2f1eece9-873a-4dd9-add2-779bb13e69ba,36578767,Praça do Comércio,985,Sala 302,Copacabana,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+d7c31528-9ce0-41c6-b4e2-20b62879c7b3,63795852,Rua dos Andradas,1247,Sobreloja,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+8ec71162-eef1-4f75-b198-d6ba4d9fb0b1,76264348,Alameda Ipiranga,157,Apto. 101,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+34f2484d-ad1b-4fc3-9d32-5574c14d4547,74336736,Estrada Brasil,1943,Casa 2,Boa Vista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+811cc9ee-df95-492b-9327-80ccd51cab0b,36427150,Praça XV de Novembro,594,Sala 302,Moema,f1a62904-d784-49e4-af77-6f085917d482
+55add2f8-c2dc-4cd4-8f21-8920408529fa,62033524,Avenida das Flores,885,Sala 302,Boa Vista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+9dcc9de6-68b3-4636-b4ca-e1317da406fc,65765201,Alameda Brasil,1977,Sala 302,Pinheiros,8889ee61-9c8c-4e5f-9609-430d512666b1
+b458b610-8403-4ca3-bfd6-f1eccc5d2431,61716239,Avenida das Flores,645,Apto. 101,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+4c0ad6ad-257b-4c40-ac0a-8d5e1c7ac38c,80824112,Estrada Ipiranga,719,Loja 5,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+8d080ece-17e0-46fb-bd50-bfa200020095,80361895,Estrada dos Andradas,516,Sobreloja,Copacabana,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+5a1bf7cc-f907-44c7-908b-56ca3aaa819a,72441896,Alameda da Liberdade,574,Loja 5,Centro,933243f9-4aec-4288-af69-4d6ecf0cc16b
+6193fb5a-5219-4156-9984-dfca91fbb9c1,43084415,Travessa dos Andradas,1684,Apto. 101,Santa Cecília,8889ee61-9c8c-4e5f-9609-430d512666b1
+1c3fa7f3-3294-43a1-9694-6d7066c33fbc,78245752,Rua Rio Branco,615,Galpão,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+f192a802-15df-47c5-b581-763886edc5c2,23408120,Travessa da Liberdade,1324,Casa 2,Lapa,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+8b76ac83-0cc2-4a4a-9c93-774d9601f5b4,24857273,Estrada Ipiranga,576,Bloco B,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+1b5bfec2-67d5-4ed7-9ca5-615058a4cbc9,92862423,Estrada do Comércio,1407,,Itaim Bibi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+8c2e83b2-d989-46de-a34c-647c6a0c9f48,76653509,Alameda da Liberdade,1762,,Santa Cecília,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+d0e05a71-984d-42f9-8f49-c62ad4604e7e,45550130,Rua das Flores,1630,Apto. 101,Santa Cecília,cf5c7366-7d19-4f43-bda0-0f8678d20544
+7e5c7048-1430-4b12-8786-773e3ed284a0,86684287,Rua dos Andradas,677,Fundos,Itaim Bibi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+e689ac16-fae3-40c6-8681-143b339baeb1,38250555,Avenida dos Andradas,1475,Sala 302,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+50f85c5d-a725-4e04-9373-06777fdaa34c,27410723,Estrada dos Andradas,966,Sobreloja,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+5b146eac-a28d-4c91-8e66-d704feac726e,36666282,Avenida Ipiranga,267,,Itaim Bibi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+68f34863-cb56-4989-8616-a7600f2b7271,10971784,Rua Rio Branco,1360,Bloco B,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+16711bfd-d13d-4657-94c8-42c0724a6569,71236105,Alameda São João,1691,Conjunto 12,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+d3d02e2b-abee-4098-9cc7-002a9f4ff775,24058922,Travessa XV de Novembro,1679,Galpão,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+fa03ba85-eb05-4c0e-93fb-359812bc87c5,64915231,Estrada dos Andradas,223,Galpão,Boa Vista,f1a62904-d784-49e4-af77-6f085917d482
+280a6d23-9600-441a-b9e4-0d6e7dd1dae0,28552520,Travessa Dom Pedro II,940,Fundos,Savassi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+05c7d515-1051-4e94-beab-a21c818418b1,19012755,Estrada das Flores,1246,Fundos,Pinheiros,d43066d2-5762-4fa1-af9a-2258511482f7
+df933816-783f-4ae7-973b-1dd4cc20a81a,62598977,Praça Brasil,743,,Copacabana,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+6c73765d-fe2a-45f8-b90a-1a5b1dc9e103,21506345,Estrada das Flores,1885,Bloco B,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+01d3b158-7c4c-4f3f-9963-8d6d50f0cf66,92277828,Avenida São João,1830,Bloco B,Itaim Bibi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+69059e02-016a-4668-89bd-509b03d72def,53806248,Travessa Ipiranga,1416,Sobreloja,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+724d419c-bde3-4da4-baa2-bcf0e620ab74,66826221,Rua do Comércio,544,Loja 5,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+21605653-a66e-44ab-99c4-e98a67e4e489,67756574,Rua das Flores,1441,Casa 2,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+97f4b0e6-acbd-42ba-b0b5-d59069c84a0b,81541581,Estrada da Liberdade,1273,Fundos,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+626d4626-02b2-4e8f-9f47-315297f34e16,54056527,Alameda XV de Novembro,56,,Santa Cecília,933243f9-4aec-4288-af69-4d6ecf0cc16b
+14b26afe-f148-4810-ac0a-69dc8226e513,68909115,Rua Dom Pedro II,1566,Fundos,Jardim Paulista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+28da5de8-3617-45a2-9876-eeaf3cecb532,30977310,Rua Rio Branco,535,Fundos,Pinheiros,933243f9-4aec-4288-af69-4d6ecf0cc16b
+c5b2d5e1-6328-481a-86a9-c048acc7170a,54092491,Avenida da Liberdade,1010,Casa 2,Copacabana,d43066d2-5762-4fa1-af9a-2258511482f7
+f7442927-aa74-4ce3-8a6e-0873be7b45e4,20906923,Praça XV de Novembro,1270,,Itaim Bibi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+b3c12d2e-7d97-440f-88bd-5be85fb16f20,20346458,Estrada São João,685,Casa 2,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+5d2967cf-57da-44ad-82b1-1a3ef786ac3b,13014953,Praça das Flores,1934,Galpão,Moema,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+c5ed33dd-ecbd-489c-99a7-08204279adf9,58452711,Alameda XV de Novembro,1100,Conjunto 12,Centro,8889ee61-9c8c-4e5f-9609-430d512666b1
+e8538b8f-9e07-4773-a2d0-f41f305a80b5,65360766,Alameda Rio Branco,1653,Fundos,Pinheiros,8889ee61-9c8c-4e5f-9609-430d512666b1
+b2b0373e-8850-4a37-bb0f-ed3a38148338,18795356,Avenida Rio Branco,1475,Fundos,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+6edda48c-46b0-4aae-83cd-ea238ca62a80,34988800,Travessa XV de Novembro,407,Bloco B,Pinheiros,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+6a23e6f5-50ff-4dd9-86c7-0607689c6de4,32551813,Avenida Rio Branco,481,,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+87ca02d4-e603-4d31-adff-6a472aa0defd,78039276,Avenida São João,32,Fundos,Savassi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+6e31dde1-0274-4e1e-9d45-c64b623b6e87,37059685,Praça XV de Novembro,661,Loja 5,Moema,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+07fef94e-3764-43eb-909d-36fedefc0d7a,24094525,Praça da Liberdade,1030,Fundos,Santa Cecília,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+3a004938-8ac8-4043-a901-76848fb5c2ec,84140293,Travessa Dom Pedro II,1724,,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+6f8ae030-f75b-4686-bc4c-d42b9ed170ef,72336971,Estrada Rio Branco,1028,Conjunto 12,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+ec8782bb-1942-49e6-ba52-736b5de6ddb4,10262972,Estrada Dom Pedro II,25,Galpão,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+d2e55657-f772-4f05-8f4c-799bee895cd8,58043334,Travessa do Comércio,1393,Conjunto 12,Itaim Bibi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+bed64a5d-9f5f-4919-9c1c-bc02a72b44f8,47349427,Alameda Dom Pedro II,623,Galpão,Savassi,8889ee61-9c8c-4e5f-9609-430d512666b1
+0cb19bef-ec77-48f3-a4c2-99d64a2383d6,59138138,Alameda Rio Branco,1127,Sobreloja,Pinheiros,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+5978a807-372b-499f-ae2c-7ed7d031651e,56262857,Avenida da Liberdade,1310,Bloco B,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+ae6ccac1-579f-4080-ba66-7b58fb146ff5,74379860,Alameda Ipiranga,129,Conjunto 12,Itaim Bibi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+39e08c5f-33a6-4be2-a359-fd7bd7c13393,82604648,Travessa dos Andradas,274,Loja 5,Itaim Bibi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+c9481731-398e-4893-9d5e-6f4355a810a6,14393622,Rua das Flores,620,Apto. 101,Boa Vista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+c7d634b2-f2fc-4390-b08a-4f2a3d792a18,48549257,Travessa Ipiranga,650,Galpão,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+a1589b86-16b3-4dca-ace4-be6bdb469bb7,51602178,Estrada da Liberdade,1005,Fundos,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+3dea5a30-4455-4291-a1af-9a22a776c8f4,27618688,Praça São João,1745,Loja 5,Itaim Bibi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+dac0dc7a-4412-4d2a-a00a-670aa9efd696,65446494,Rua XV de Novembro,388,Bloco B,Pinheiros,933243f9-4aec-4288-af69-4d6ecf0cc16b
+39971319-de78-4d7b-b887-45f710597c00,72575457,Estrada São João,888,Sala 302,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+06e22f97-09ad-43fa-95ae-34982ede09c5,31416897,Praça XV de Novembro,1823,Loja 5,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+5c90f1fa-0daa-41b5-b830-6c1873653844,66972425,Avenida São João,413,Galpão,Copacabana,cf5c7366-7d19-4f43-bda0-0f8678d20544
+c37b0d83-3148-4558-bc1f-cca092dd5f2d,50408912,Praça Ipiranga,1907,Sobreloja,Savassi,d43066d2-5762-4fa1-af9a-2258511482f7
+f848b735-34fc-451f-b43a-082b55352495,39281694,Travessa dos Andradas,974,Bloco B,Pinheiros,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+b6efde34-89ef-4d4e-9172-43ab33b9b130,68498639,Rua do Comércio,596,Galpão,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+38c56fc0-6976-4a3b-8d19-af0d30f63f97,21119542,Avenida Rio Branco,720,Fundos,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+9895cb88-c312-46e6-8b0e-643178a68040,69173834,Estrada São João,373,Galpão,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+428065c7-4c22-4fdc-acdc-f0814a26230c,66813842,Praça São João,1021,Apto. 101,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+91a0c80c-aaf6-4675-9297-3ed66b25749c,31981736,Travessa do Comércio,1814,Sala 302,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+9e1f4d66-5e9d-44a4-b458-7f0396602dea,86741591,Rua Rio Branco,1329,Loja 5,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+0362ef64-811e-4a8d-8237-14abb5ff1502,60646743,Avenida Dom Pedro II,1336,,Jardim Paulista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+68d7403e-259b-4dd4-8db4-7d6bc9c0d9ff,52178856,Travessa da Liberdade,99,Loja 5,Boa Vista,f1a62904-d784-49e4-af77-6f085917d482
+38f520cb-4a0f-4586-8f0f-f123227da00d,36776690,Travessa Dom Pedro II,1197,Loja 5,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+d17a1700-9d9f-428a-b206-2980820b0241,24211411,Avenida Dom Pedro II,1234,Sobreloja,Itaim Bibi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+85ea62ad-f634-4da8-bd04-a76b715ed8c0,98644957,Travessa da Liberdade,587,,Pinheiros,933243f9-4aec-4288-af69-4d6ecf0cc16b
+53967a98-aae6-433a-b115-69d0e87aa9c4,57214187,Rua da Liberdade,1038,Fundos,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+e0fcd284-5890-4c14-88ac-53096f3423cb,26582576,Rua do Comércio,1216,Casa 2,Moema,f1a62904-d784-49e4-af77-6f085917d482
+c04da5d4-2a87-42e5-bd28-16b012e85995,65954165,Praça da Liberdade,536,Loja 5,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+ac8f2e6f-d49e-40b9-a980-23213e50d87a,19580897,Alameda das Flores,1616,Sala 302,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+9fd537fe-85c1-4b0b-b33f-e001b0cd3152,52906990,Rua do Comércio,715,Bloco B,Pinheiros,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+d9097562-5117-40d1-8612-f1dc21620d0f,79045561,Estrada Brasil,1977,Sobreloja,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+d0135526-8add-4771-9a99-c8cbffe0b2e5,16701674,Estrada Ipiranga,159,Sala 302,Santa Cecília,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+97d81b97-749e-4d91-a0bf-1abf4cd9c6a9,17289241,Travessa Ipiranga,1538,Casa 2,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+fc4dac6d-1270-4817-9cfb-a52add358e51,78490890,Estrada da Liberdade,644,Galpão,Centro,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+b53723be-d431-4f51-8394-a5f14dca81f5,69262747,Praça XV de Novembro,1671,Sala 302,Lapa,cf5c7366-7d19-4f43-bda0-0f8678d20544
+2270016a-da1e-47d7-b67e-9a63c4406960,57244873,Praça das Flores,364,Fundos,Centro,8889ee61-9c8c-4e5f-9609-430d512666b1
+3d8bcb2f-55b3-4246-9147-9189b6429981,44743581,Alameda dos Andradas,1855,Apto. 101,Copacabana,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+a5021d27-3fe3-4ba6-b834-e1db181bea9f,74031350,Estrada Dom Pedro II,678,Loja 5,Boa Vista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+360d2b57-5365-49de-8125-6730a881ef9a,15616463,Praça Brasil,473,Casa 2,Lapa,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+615eafcd-ad03-4d19-ba7d-86b0a8434ed7,95146322,Alameda São João,1079,Apto. 101,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+1c63d241-39fd-4804-bb65-fe5dc25fedc9,88531234,Praça Brasil,1573,Loja 5,Moema,d43066d2-5762-4fa1-af9a-2258511482f7
+040b0af3-8f8c-4f42-b06b-ee895d5a6fe3,40895993,Travessa dos Andradas,891,Loja 5,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+ef3b541d-1da4-4a60-a8eb-2dcfa34552ff,99166891,Alameda dos Andradas,556,,Pinheiros,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+2a67f6e4-a123-4aa3-b511-2a7cd047e9b1,71707771,Alameda XV de Novembro,1751,Sala 302,Copacabana,d43066d2-5762-4fa1-af9a-2258511482f7
+3668b389-b0f2-4035-8597-42653f121f85,41663393,Alameda das Flores,37,Galpão,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+04f6fa67-85d5-4995-9b0d-d5e92d89cbd4,77227827,Avenida da Liberdade,1453,Loja 5,Lapa,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+480abd14-7bf9-46d2-8dfa-20ac183464aa,68812219,Rua Dom Pedro II,262,Sobreloja,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+5d8009ec-ecef-4908-9e97-a09aff76e678,66236900,Estrada do Comércio,1632,Casa 2,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+88303d30-a279-47be-aad8-46f5b9802c1b,28917835,Rua Ipiranga,120,Bloco B,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+35c53c4d-7650-49bf-ad57-e059cb50d7c0,78395933,Rua do Comércio,270,Loja 5,Lapa,933243f9-4aec-4288-af69-4d6ecf0cc16b
+856ab726-bbb1-40b5-a6d7-68edf0e8bf8f,28504966,Rua Rio Branco,1929,Fundos,Lapa,d43066d2-5762-4fa1-af9a-2258511482f7
+dfec5bb5-50ad-42f3-8fe6-8b9aef309e4b,90406223,Avenida Rio Branco,656,Loja 5,Itaim Bibi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+d0c23932-ca85-42bb-95a9-6b5cc2986a88,86506111,Avenida do Comércio,551,Sobreloja,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+b0a7199d-dcba-45ef-bcd5-9c3e4dc4e93a,51170798,Avenida Rio Branco,1500,Fundos,Lapa,d43066d2-5762-4fa1-af9a-2258511482f7
+b13ecf91-bd2e-4b5d-848a-5ba4e04a9fd4,90714380,Rua do Comércio,1527,Fundos,Centro,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+cea6de64-1d88-48c8-8a5b-f5064a63de99,39711879,Estrada da Liberdade,838,Bloco B,Pinheiros,933243f9-4aec-4288-af69-4d6ecf0cc16b
+c111f6e8-4609-43e5-aa4c-f1ffa27b4000,11254382,Alameda Dom Pedro II,890,Bloco B,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+940d061f-2a46-4983-becb-6280e0206963,10073881,Estrada Brasil,225,Galpão,Moema,d43066d2-5762-4fa1-af9a-2258511482f7
+f08ebda3-42d7-4355-a82f-ae57854a932b,44060157,Praça das Flores,39,Galpão,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+c3f57366-b447-4df4-bef5-786875f16d38,88999323,Avenida dos Andradas,230,Bloco B,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+07358e59-3d21-47d8-b54d-534465d4daf1,62007857,Estrada Ipiranga,1368,Loja 5,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+921a35ca-ab08-4071-8afb-ad986aff2841,98001773,Estrada das Flores,1348,Conjunto 12,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+86fa42a5-f292-452d-a6b7-013951c5ef4c,71616877,Avenida do Comércio,1287,Loja 5,Itaim Bibi,f1a62904-d784-49e4-af77-6f085917d482
+f8d0afb9-436a-42a6-ac65-531da8a75bea,21655960,Estrada Dom Pedro II,1960,Sala 302,Lapa,d43066d2-5762-4fa1-af9a-2258511482f7
+c91c5fb8-9f32-44ec-950f-9299d4812d0e,37940642,Rua Rio Branco,1927,Conjunto 12,Itaim Bibi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+4d04e0ef-256b-4bfe-8a27-251827acacf0,65726858,Travessa do Comércio,226,Casa 2,Copacabana,933243f9-4aec-4288-af69-4d6ecf0cc16b
+d283153a-c232-4515-80bf-9d8523765488,10339635,Estrada dos Andradas,197,,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+09b5a8b3-71f3-41e3-a469-c2d725258376,69410880,Rua do Comércio,269,Galpão,Lapa,cf5c7366-7d19-4f43-bda0-0f8678d20544
+85571445-c465-48e7-ae3a-a1f8a398ef1c,98298227,Estrada XV de Novembro,1209,Bloco B,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+13b6ddaa-e30d-49fe-a83c-ed4368386b8b,51132522,Estrada São João,474,Sala 302,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+232e41b2-a025-46f7-9fa2-8265bee58296,79315503,Estrada dos Andradas,1536,,Moema,d43066d2-5762-4fa1-af9a-2258511482f7
+235bbae1-727e-499d-8e77-6c67c32f6ec0,51277455,Estrada Rio Branco,485,Conjunto 12,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+dbf8d5b6-c3b2-4f46-82ad-5f2f9d77ca7c,35203992,Alameda da Liberdade,268,Conjunto 12,Santa Cecília,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+59ddec95-c054-4b9f-9c7d-b8d08c70c19c,93399794,Travessa das Flores,1399,,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+3300c9ff-d778-4c9d-b8cb-709f5bf70a9a,81387870,Alameda São João,1436,Fundos,Centro,8889ee61-9c8c-4e5f-9609-430d512666b1
+7e0b6b05-17e1-4f4f-b77e-213c146c3cf7,92453849,Rua da Liberdade,659,Bloco B,Centro,8889ee61-9c8c-4e5f-9609-430d512666b1
+aae89e9c-31cc-4cf8-94dc-f4692a331cda,48425782,Travessa da Liberdade,334,Apto. 101,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+25b68b4f-5c39-417a-9e8a-501e0bd0dbe3,80450376,Rua das Flores,605,Conjunto 12,Pinheiros,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+59d7ebaa-83b3-4abf-81ef-6f3774351eec,21820924,Rua Dom Pedro II,1579,Loja 5,Pinheiros,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+819c9731-b7d5-42b8-b7d2-92becf09ee69,99967232,Estrada XV de Novembro,1440,Sala 302,Itaim Bibi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+0b1fcedd-d62e-46b2-94b1-eda4a8b517a4,41793904,Travessa dos Andradas,1290,Apto. 101,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+98a7b8d7-806e-4e25-ac04-ddf7a25eb819,34210541,Travessa Rio Branco,636,Sala 302,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+d17d0a09-5dea-40c8-a043-0b1f30d78783,38058555,Rua Ipiranga,133,Conjunto 12,Jardim Paulista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+1942991c-aa18-460f-9545-9c3166311651,72219993,Alameda dos Andradas,1915,Apto. 101,Itaim Bibi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+35390bf3-9ee7-4bde-92fa-efa8a5feda79,81242712,Praça Dom Pedro II,1272,Apto. 101,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+9db0e3f6-068f-4988-90c6-5c6e0760b568,52765853,Alameda Dom Pedro II,1798,Bloco B,Itaim Bibi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+c671e690-f57d-4258-adf8-51f4df6a5c10,53846893,Travessa XV de Novembro,680,Fundos,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+e8cce7ad-b032-4120-83ef-a5289bad9792,95468630,Travessa São João,671,Bloco B,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+cdd9f6bd-11bc-4d38-aba1-659e7a40a2ad,43141675,Alameda da Liberdade,684,Bloco B,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+2d988d64-94a9-46c6-a919-e042d6ebe00d,83257508,Praça XV de Novembro,600,Sala 302,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+70ac4ee1-33e8-49e9-b8db-f7f925c9d58f,34517724,Alameda dos Andradas,354,Sobreloja,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+ed6aa674-c0e5-454f-9e02-2d9ba3766f61,94463405,Alameda Dom Pedro II,1328,Galpão,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+5ccee65f-de65-4cfb-9838-a913256d5c0e,78915561,Estrada Rio Branco,334,Loja 5,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+9989ca57-9683-4ff9-ba55-68e4d4bd52d4,63496130,Estrada das Flores,32,Fundos,Jardim Paulista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+4c848d04-cd36-4c83-a6c0-2212b049cc68,49349660,Estrada dos Andradas,185,Sobreloja,Pinheiros,933243f9-4aec-4288-af69-4d6ecf0cc16b
+0a404ed6-9458-4b4e-a049-516c592ab273,85386921,Travessa São João,875,Sala 302,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+3297eb3b-ca12-4d8d-90e6-2fdb0e585c5c,34837653,Travessa São João,1289,Conjunto 12,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+ce1858ca-72a6-4475-9679-803d9f98dbfa,31008558,Travessa Dom Pedro II,1059,Bloco B,Itaim Bibi,f1a62904-d784-49e4-af77-6f085917d482
+0209ede0-fdef-478c-b4d9-01371141f96d,83434122,Estrada das Flores,1081,Casa 2,Boa Vista,d43066d2-5762-4fa1-af9a-2258511482f7
+7dc8980e-3b92-481b-933d-2764f5556376,46559734,Travessa das Flores,1116,Loja 5,Itaim Bibi,d43066d2-5762-4fa1-af9a-2258511482f7
+4a9d905e-276a-4a03-aa20-02727fcac697,85754900,Rua do Comércio,1049,,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+2bbea8dd-db59-450b-ab66-ccc112616f56,36656470,Praça do Comércio,1060,Sobreloja,Boa Vista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+767340b6-d92f-4626-82e2-26af33f595f2,94362754,Avenida Brasil,1151,Sobreloja,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+92fa2448-45c2-4f30-aadf-81ec4e02e859,82802574,Rua XV de Novembro,843,Bloco B,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+194cede2-54fd-4ac2-99a9-a33f5cc8a108,55959657,Avenida do Comércio,144,Apto. 101,Savassi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+f48f369c-f696-4154-a64a-7a2d49acad01,99802794,Estrada XV de Novembro,767,Fundos,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+c2ebaaf9-e1ff-400a-9fb5-f76f1f637988,50540941,Rua Brasil,1540,Conjunto 12,Pinheiros,f1a62904-d784-49e4-af77-6f085917d482
+f406e52c-f64a-43df-b9b4-d5c779ff90c7,89082256,Alameda do Comércio,740,Casa 2,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+52b0fa5d-2b42-4826-85a7-eb7157cf737d,65521602,Rua São João,76,Apto. 101,Boa Vista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+d3bc1b68-fa8a-425a-adaf-11b47c70ef48,13209531,Rua das Flores,1635,Bloco B,Jardim Paulista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+e5d0d883-addf-4ed4-a2df-4085847992fe,51609653,Praça das Flores,1353,Apto. 101,Centro,8889ee61-9c8c-4e5f-9609-430d512666b1
+0fe95acb-3810-4044-afab-23a7972af687,73479134,Alameda das Flores,382,Conjunto 12,Jardim Paulista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+d4ddc30c-41ea-4666-99e0-241ca178c182,83888580,Estrada das Flores,277,Bloco B,Pinheiros,8889ee61-9c8c-4e5f-9609-430d512666b1
+74dccb78-bc43-4e7f-b32b-b2826371abbd,21153819,Travessa São João,1339,Loja 5,Lapa,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+66bcd194-ef9d-45c0-9bc7-fbd081e74159,37893303,Travessa XV de Novembro,949,Sala 302,Jardim Paulista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+9c740b79-2c57-49ae-8a25-62afac6f6bf0,55436733,Alameda Ipiranga,368,Casa 2,Pinheiros,8889ee61-9c8c-4e5f-9609-430d512666b1
+cae8e5e3-e79a-47f1-9c64-75e74e84acd7,86169584,Avenida Ipiranga,1719,Conjunto 12,Jardim Paulista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+0fab8d20-bf7a-4506-bab3-2b0456d331dd,15706858,Alameda São João,1085,Galpão,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+141e21d2-810f-49f5-973f-520104be45be,17224563,Travessa da Liberdade,1330,Loja 5,Pinheiros,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+0b99cf39-974a-4721-96d1-8f24538f0067,35634117,Alameda do Comércio,930,Apto. 101,Itaim Bibi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+2425472f-3b1a-424f-856a-f5d059099591,88055703,Avenida XV de Novembro,470,Casa 2,Boa Vista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+8047c757-c6bf-4565-9a1f-97904d46c841,18423340,Praça Ipiranga,1325,Apto. 101,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+cbcd88bd-b87d-462d-a28e-6f362fcd4ef4,72215359,Alameda Brasil,733,Conjunto 12,Copacabana,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+69fad57b-5415-4ec6-b382-a08a52f4754c,49125712,Alameda dos Andradas,818,,Savassi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+20d683e4-60ea-40f6-95d9-9c16a4e5fd89,72390527,Rua das Flores,1914,Conjunto 12,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+fefb1ceb-6b6b-4953-a641-0b15e95e6e5e,98455429,Praça São João,1826,Fundos,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+20fafddd-0136-47ce-acea-21ec28e425a2,81710728,Estrada das Flores,1827,,Santa Cecília,933243f9-4aec-4288-af69-4d6ecf0cc16b
+137655cc-9ff6-4111-b249-fb1b113cd200,92002303,Praça dos Andradas,1237,Galpão,Boa Vista,8889ee61-9c8c-4e5f-9609-430d512666b1
+bd5c3b94-297b-4aac-a20b-c1c9567d0bf0,58079416,Praça Ipiranga,1772,Loja 5,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+8e676d7c-5b52-46ef-90e4-f88f579764af,49619913,Praça Rio Branco,252,Conjunto 12,Pinheiros,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+cb66281c-6095-4a84-84fc-ee9485db52d9,11592889,Travessa São João,550,Bloco B,Boa Vista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+7cb80593-6561-4cb8-b7c0-d5d0f9f1f02c,46290705,Praça Brasil,1484,Galpão,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+2b3e8632-b684-4a04-93a1-57f379b9f691,52566307,Rua Ipiranga,11,Sobreloja,Pinheiros,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+f033948e-f65b-4e43-a89d-329540ef38a3,20086364,Alameda da Liberdade,1029,Apto. 101,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+8a77f391-56c7-46b9-93b2-13eb456958cd,40656702,Estrada XV de Novembro,145,Loja 5,Savassi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+1e351746-c18c-411b-a9d1-9bdae173b511,61238650,Travessa da Liberdade,30,Conjunto 12,Pinheiros,f1a62904-d784-49e4-af77-6f085917d482
+e78a9500-4faa-4729-aa29-03d2daefd02f,37533409,Avenida dos Andradas,528,,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+4ce6aafa-59b8-41b4-8a01-15c7a1f80877,48045743,Rua Brasil,1656,Loja 5,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+b1769e48-6a63-4dca-9ce1-b4549f50ca26,56685135,Alameda Ipiranga,350,Sobreloja,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+1402f3be-a5ed-433e-954c-33f66e53a1ac,15658584,Estrada das Flores,898,Loja 5,Centro,cf5c7366-7d19-4f43-bda0-0f8678d20544
+7dce15ba-3ccc-4fa1-bf5e-0ee1f11c540a,86343456,Travessa do Comércio,1288,Conjunto 12,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+e5a0635d-de72-4e3d-9b14-4185f9dd1cd7,55085434,Avenida do Comércio,1726,Casa 2,Moema,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+35248417-bfc9-477e-a230-ddc4f9e6f5e4,88600701,Travessa Dom Pedro II,43,Galpão,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+d2f57c49-90d2-4a8d-a08e-244eefe015a6,17828296,Rua Dom Pedro II,787,Apto. 101,Boa Vista,d43066d2-5762-4fa1-af9a-2258511482f7
+6f2f5a72-4eed-4787-93a8-8a7805d74162,58255112,Travessa Dom Pedro II,90,,Savassi,8889ee61-9c8c-4e5f-9609-430d512666b1
+e57bfb1f-b654-44c9-94c5-2a1e16326241,82761133,Alameda Ipiranga,411,Bloco B,Itaim Bibi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+389352fd-e680-489d-b695-0bb24582ba0d,40775511,Travessa do Comércio,486,Fundos,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+0228bf64-6b09-4c24-a9cf-46aeac0a6b91,36693938,Avenida Dom Pedro II,149,Sobreloja,Copacabana,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+62fe7776-719e-4e4c-9265-b525f5b788f4,11579902,Estrada São João,36,Apto. 101,Savassi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+94b97791-fcb5-41cd-afd3-a532b7e98ad0,84153775,Travessa Ipiranga,1692,Casa 2,Savassi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+b4166894-96f6-4afc-8965-8754349eede7,70160913,Rua dos Andradas,1559,Bloco B,Savassi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+29a819b4-1487-40cc-8a6f-e8493f82a214,88562346,Rua das Flores,1580,Conjunto 12,Jardim Paulista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+7459806a-a525-4e24-bcd0-e3b34b99e728,82590919,Alameda Rio Branco,1886,Casa 2,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+1954f973-b5fd-4493-a9c8-81878ea89ec7,51139597,Praça Brasil,1548,Bloco B,Itaim Bibi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+320fbc9d-0e2a-4226-baa9-472006ffb9c0,49892854,Rua Dom Pedro II,967,Apto. 101,Copacabana,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+cda5d13f-b613-4825-9e5f-af86132d41d1,13090876,Praça da Liberdade,1309,Casa 2,Lapa,d43066d2-5762-4fa1-af9a-2258511482f7
+a0b0218a-8228-417a-9999-bd213ce54b6b,59514682,Avenida XV de Novembro,606,Loja 5,Boa Vista,8889ee61-9c8c-4e5f-9609-430d512666b1
+32dd0a5e-eede-4e89-b863-55b855e1a965,24726480,Rua das Flores,982,Casa 2,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+59f8a6bd-dbd7-4ef9-8c98-7390714ce44b,37031131,Estrada Dom Pedro II,351,Sala 302,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+3fba1e79-4cb9-4da2-8d1b-33dd5ef34d27,96521316,Estrada XV de Novembro,528,Apto. 101,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+be0df1ad-1ecf-4163-bf74-e798acbb6c49,79683461,Estrada das Flores,183,Apto. 101,Savassi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+2df45733-62f5-4253-8a8d-78088ebbf7ec,62059393,Travessa do Comércio,1918,Fundos,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+26121f65-7a53-498e-aca8-f3f4b945a153,42160169,Avenida Brasil,376,Apto. 101,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+9e097504-09f3-4198-a18f-a87977594319,38869398,Rua XV de Novembro,723,Sala 302,Santa Cecília,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+efbbac63-8f22-40f3-abf9-140161f1fcaf,85155152,Travessa das Flores,213,Fundos,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+8b10b500-c073-43ea-8492-58afb0b2e4d9,57362525,Estrada Ipiranga,702,Fundos,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+a32c2002-b1c4-4099-8991-dcc698668a30,94254405,Alameda da Liberdade,1627,Fundos,Pinheiros,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+39f29c61-142a-4789-b321-e32d326406f7,25303502,Alameda Brasil,199,Galpão,Centro,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+358440fc-2c3e-43ce-a530-daee6e4aab3e,88857604,Rua das Flores,1122,Bloco B,Copacabana,cf5c7366-7d19-4f43-bda0-0f8678d20544
+8bcbb141-3fb8-4fa9-8e01-f7f8d73dd671,71724994,Estrada Dom Pedro II,3,Fundos,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+fd8cf121-1fae-4a1a-b83c-04d14e75f105,96206235,Rua XV de Novembro,1535,Conjunto 12,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+d29e53aa-ec6c-4717-9e57-19358df76488,88048864,Alameda das Flores,897,Bloco B,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+9eaeb434-a7d0-4408-b6c4-8afbdfad62fd,56985142,Estrada São João,555,Loja 5,Santa Cecília,f1a62904-d784-49e4-af77-6f085917d482
+06a0201b-db1a-42d5-89b1-df72cb1f6a71,57532217,Alameda Dom Pedro II,97,Casa 2,Itaim Bibi,f1a62904-d784-49e4-af77-6f085917d482
+59111b30-3fa9-4b59-b129-97937e9d66ba,49630621,Alameda da Liberdade,901,Galpão,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+edd89205-a8fd-4e50-8705-0e22f21df3f1,19666661,Praça Ipiranga,1590,Fundos,Centro,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+b5df70ce-4fea-47d4-873c-76f9a6e3c8ef,83352318,Travessa São João,1387,Galpão,Itaim Bibi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+9dd3da45-5d5a-4ce2-af7f-fff339a37ab2,17743693,Travessa Brasil,718,Apto. 101,Itaim Bibi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+cc376d0c-a876-4640-a0f1-4facd785cabe,99802195,Rua do Comércio,1659,,Lapa,cf5c7366-7d19-4f43-bda0-0f8678d20544
+5246a9b8-d594-4b78-94e3-3db97f902466,41096200,Rua da Liberdade,841,Bloco B,Lapa,933243f9-4aec-4288-af69-4d6ecf0cc16b
+81595b54-4a85-4409-9036-40339af6665b,85629581,Alameda das Flores,1005,Apto. 101,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+ca217457-d361-4c5c-af80-8117c3f98954,77472356,Estrada Brasil,373,Apto. 101,Itaim Bibi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+cde153d0-f6dd-48ff-97fd-8c9926d4fc43,38809760,Estrada São João,1363,Fundos,Moema,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+20a1f86e-23ee-4195-9ec0-037f81ae9534,88592820,Rua Dom Pedro II,1803,Fundos,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+83dfa860-2701-4be5-a45a-5efd0d6f36b7,90428314,Estrada do Comércio,1243,Fundos,Moema,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+9a87842d-62a8-4edb-bf33-1aa54ae45eb3,12882548,Praça das Flores,1900,Bloco B,Copacabana,933243f9-4aec-4288-af69-4d6ecf0cc16b
+53981c21-8b18-4497-bb23-555b955d3496,70095266,Rua dos Andradas,1775,Fundos,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+f4ff551c-6917-4f65-9ba5-f2a17e7abe87,26493438,Praça Ipiranga,473,Apto. 101,Santa Cecília,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+7c886272-f180-4c5a-99f6-208a75c50a7a,81909935,Rua Ipiranga,252,Sala 302,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+e2cca8b9-aad9-4f82-aace-f56302b85d7b,90337651,Alameda Dom Pedro II,1450,Galpão,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+533c599b-ba46-42d3-b4a9-13ac35e4273f,62098180,Travessa dos Andradas,1457,Galpão,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+5137c810-a7c6-40b3-8624-11ac090053d9,78549458,Rua Dom Pedro II,228,Sala 302,Itaim Bibi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+a9c7eb0f-3c61-4f95-85f5-cdd946767e25,87230678,Rua da Liberdade,1432,Bloco B,Savassi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+5c9e22e6-e411-436a-8bbe-42cec49bdeb6,27477831,Alameda XV de Novembro,1825,Fundos,Lapa,cf5c7366-7d19-4f43-bda0-0f8678d20544
+7a70c82b-9f99-4ca6-a3ac-1fbba0a06385,96732717,Praça dos Andradas,1391,Casa 2,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+6847f870-1899-425c-82d7-b3f4afd97795,96118649,Estrada Dom Pedro II,20,Sobreloja,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+614dd698-e15d-4630-ac62-6707b5ee0d3e,18846990,Rua Brasil,1864,Conjunto 12,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+5d5df53c-c55d-41f9-8985-bfd9478fbff2,88026613,Alameda São João,859,Bloco B,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+e32309f8-9bd4-4d0e-8a7e-b58e673d907b,14021188,Praça dos Andradas,1956,Apto. 101,Pinheiros,cf5c7366-7d19-4f43-bda0-0f8678d20544
+db6c35f3-1871-4a64-8abb-2281d9922ffc,97331648,Praça Dom Pedro II,467,Sobreloja,Pinheiros,d43066d2-5762-4fa1-af9a-2258511482f7
+e97b2187-9c13-44e2-bc01-9e922cc28be9,35633634,Rua São João,581,Sala 302,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+d4e587f9-781f-4095-b17c-c92231afd8d3,73126254,Praça São João,1264,Sala 302,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+e93e8ec4-6ab5-453c-be2b-852fc145301f,97768444,Alameda Rio Branco,1482,,Santa Cecília,933243f9-4aec-4288-af69-4d6ecf0cc16b
+cbdedc1b-7141-4724-b047-fcdcdb8568d0,28514331,Estrada dos Andradas,792,Conjunto 12,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+8bbef52c-a2b6-41e1-9012-6340296d5893,58080574,Alameda das Flores,648,,Boa Vista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+15a45426-1c2f-4550-9ce3-4e423c22930a,10234327,Rua XV de Novembro,1068,Apto. 101,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+07dec50d-7c2b-41b2-9a69-82b16718880a,85065988,Estrada XV de Novembro,1094,Conjunto 12,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+5c5b6099-e36f-4e03-8a89-bdc9ab6c1642,44425906,Travessa do Comércio,951,Fundos,Copacabana,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+9831603b-8538-4e45-9c66-aa2ee94df1db,34761118,Rua Brasil,1588,Apto. 101,Itaim Bibi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+2cd86e99-9db6-4712-ac6e-438cd62630b8,75216257,Praça São João,919,Bloco B,Lapa,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+5d629ae5-1f99-472b-9e58-11eb2e54a16d,19621717,Estrada XV de Novembro,1265,Sala 302,Pinheiros,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+ea7b7f03-05c2-435e-bc73-23bba693eaa7,65886869,Estrada da Liberdade,1598,Conjunto 12,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+43d3e5d5-ccff-4fbd-81d6-4d2c556f38ff,82050425,Estrada dos Andradas,887,,Jardim Paulista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+9985f5c3-2d1b-45dc-9abe-f474468d64f4,53528786,Alameda Brasil,954,Conjunto 12,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+9f2ea2ab-e117-4326-a056-5b89f8009e03,57453959,Travessa Brasil,364,Sala 302,Pinheiros,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+2cd5a32e-9a56-4802-a520-d0fef7d18bc3,70908602,Estrada das Flores,1888,Galpão,Jardim Paulista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+e5dbe3f2-30aa-4433-8542-7dbaa0aca5d6,19263103,Estrada Brasil,1536,Bloco B,Copacabana,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+78a24ef0-eeef-4a16-a2c1-c2d08009c154,86165959,Praça Ipiranga,626,Sala 302,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+ed666487-a4fe-4f65-9bfa-102d47ebcf4d,54826528,Rua da Liberdade,1445,Sala 302,Boa Vista,8889ee61-9c8c-4e5f-9609-430d512666b1
+f1b10a1c-e3bb-47c2-ab16-463898e22061,86460141,Travessa do Comércio,1351,Bloco B,Moema,d43066d2-5762-4fa1-af9a-2258511482f7
+987ec3c5-1e14-47f8-8239-973fa822e0e8,83989795,Estrada Brasil,1829,Apto. 101,Pinheiros,f1a62904-d784-49e4-af77-6f085917d482
+6d001d21-0113-4032-9556-510be9498721,70711812,Rua XV de Novembro,1539,Galpão,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+6aa25430-2d6e-43c6-869a-1ae831ad222c,86873440,Travessa Brasil,102,Apto. 101,Jardim Paulista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+f342d902-8744-4994-8f8b-b4206258d99a,16512413,Rua do Comércio,771,Galpão,Jardim Paulista,d43066d2-5762-4fa1-af9a-2258511482f7
+59613a58-837e-4437-8e80-23fe744ed9c6,51026960,Avenida São João,1088,Galpão,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+84e62b95-0ec7-430e-be79-093853ae6dc5,79198195,Estrada do Comércio,1977,Apto. 101,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+94f5a05f-8381-4443-bca7-12536894d2d4,21938515,Travessa XV de Novembro,653,Sala 302,Jardim Paulista,8889ee61-9c8c-4e5f-9609-430d512666b1
+a07b1bf2-c682-4687-a01d-b7ff2f4232fa,65648698,Rua dos Andradas,136,,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+a9e479b4-1098-4a15-af5d-ffbf95e68e86,50733646,Travessa XV de Novembro,439,Bloco B,Boa Vista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+b91b18ac-d670-45c4-8097-e2828e2e2de4,94057621,Praça das Flores,263,Galpão,Savassi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+cf660536-a379-4da6-b1aa-5b770e062b1b,11141461,Travessa do Comércio,1195,,Moema,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+73c66e6e-6d84-4a3e-85fc-2af57ed7b238,90159311,Rua dos Andradas,1970,Apto. 101,Santa Cecília,f1a62904-d784-49e4-af77-6f085917d482
+e9b3c003-b937-47ed-8d41-4ea8b0225ec2,28696641,Avenida XV de Novembro,727,Galpão,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+c9fe22ea-9bde-4aee-9afe-f6fc19a55555,43787667,Praça das Flores,540,Galpão,Jardim Paulista,d43066d2-5762-4fa1-af9a-2258511482f7
+74c4051d-f581-4300-90c4-5f5da3c67408,72333835,Estrada da Liberdade,1538,Sobreloja,Jardim Paulista,d43066d2-5762-4fa1-af9a-2258511482f7
+59b5249c-d874-48b2-92a5-eb80b09cae7e,61345130,Alameda São João,636,Bloco B,Copacabana,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+c2c94695-bb7e-44f6-a085-5e70d73fbd69,38459949,Avenida da Liberdade,625,Fundos,Copacabana,933243f9-4aec-4288-af69-4d6ecf0cc16b
+508009b2-0219-4022-8bfc-47f4da00c445,55083535,Estrada Dom Pedro II,1243,Bloco B,Copacabana,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+8994c044-e148-401f-a2d7-29a644988a58,79131700,Travessa da Liberdade,1186,Sala 302,Boa Vista,8889ee61-9c8c-4e5f-9609-430d512666b1
+f8ddaf24-e6e1-4ca1-9543-16562f0c07de,37599511,Praça da Liberdade,873,Apto. 101,Centro,cf5c7366-7d19-4f43-bda0-0f8678d20544
+841015c4-eb19-4dc7-90d0-98bf91f081e2,10563249,Travessa das Flores,1577,Fundos,Savassi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+6bf203fb-bf5a-41d0-a6b3-548ae83d0430,82107695,Alameda Rio Branco,948,Bloco B,Boa Vista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+65243be5-c910-4477-bb87-d1dc6ce8a7a0,93024902,Praça XV de Novembro,467,,Santa Cecília,f1a62904-d784-49e4-af77-6f085917d482
+089cb3af-e8db-4632-bb2c-5c47e12937b3,80786372,Alameda das Flores,1343,,Santa Cecília,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+87acd635-648e-4ff1-8f25-e1fc8481da0e,99487179,Praça XV de Novembro,24,Casa 2,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+0a19ff5e-f429-439d-b837-db77622122fa,23783967,Estrada Dom Pedro II,816,Bloco B,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+1eab49f1-b6dd-4a51-9918-552f445a66e8,26802769,Praça XV de Novembro,814,Bloco B,Pinheiros,8889ee61-9c8c-4e5f-9609-430d512666b1
+b1acaa6b-8665-4cf1-8a5c-887a78af7a16,85005262,Travessa Rio Branco,884,Galpão,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+0217f9d0-5591-4fb8-8faf-c8a305db7d31,76739748,Praça São João,721,Conjunto 12,Lapa,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+dca18d77-bd4d-4e28-8908-ed173aeb7f00,97345718,Avenida São João,314,Galpão,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+3408eddb-6e4b-4d69-891c-4c6510627918,42503351,Rua Ipiranga,1848,Loja 5,Jardim Paulista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+8e9b9c99-1069-497f-a650-1f547ad4f7ff,52059603,Rua XV de Novembro,681,Sobreloja,Boa Vista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+7e55edbc-0785-4468-b689-42a35d6a804b,45732947,Estrada Rio Branco,1648,Loja 5,Copacabana,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+17317e7f-b5a0-4c95-a11e-a187b4adb13c,81785341,Estrada XV de Novembro,1464,Casa 2,Lapa,d43066d2-5762-4fa1-af9a-2258511482f7
+2e673952-1e47-4b89-8a84-7e09b1228cfc,63189870,Rua dos Andradas,1855,Conjunto 12,Jardim Paulista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+dc54c46b-45d3-4d89-926a-910147fc9bc3,51322633,Rua Dom Pedro II,1436,Fundos,Copacabana,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+25b8b70c-8a18-41db-b456-da3782830736,36261727,Rua Ipiranga,1375,,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+15ff3184-2abb-4cb3-8b6f-e26149566b40,45580108,Rua da Liberdade,655,Conjunto 12,Moema,d43066d2-5762-4fa1-af9a-2258511482f7
+3b4f8729-f3e4-44b2-97da-7560eb9ffe9c,40131785,Travessa Ipiranga,825,Galpão,Santa Cecília,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+2fe329eb-6890-42df-8fe3-246ffe02eb1b,87609440,Praça São João,913,Galpão,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+20b0abad-769a-46bd-926f-e0f4f9583bc6,18139754,Estrada dos Andradas,1362,Apto. 101,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+cb6ee808-1f0a-4a3d-b08e-9b75dc807cca,26407562,Travessa das Flores,1143,Casa 2,Boa Vista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+0d150ff1-a4b2-4660-a409-62a34742c085,42119180,Avenida São João,621,Casa 2,Centro,8889ee61-9c8c-4e5f-9609-430d512666b1
+0585d1d7-5919-4571-b0c1-49e42b4098a7,52773567,Alameda Ipiranga,534,Loja 5,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+6bc24479-f365-43ae-b5bc-f2c88b9d5cc7,66466982,Estrada das Flores,1893,Galpão,Itaim Bibi,d43066d2-5762-4fa1-af9a-2258511482f7
+81b4b121-bba7-4956-bd34-278e71534612,15543700,Avenida São João,1177,Conjunto 12,Boa Vista,d43066d2-5762-4fa1-af9a-2258511482f7
+2135d830-4353-4c92-a99e-f71731a34691,94503769,Avenida Brasil,173,Sobreloja,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+bbd1fddb-1c1c-476f-8437-4b2e5306e8a1,29013955,Alameda XV de Novembro,1036,Apto. 101,Copacabana,cf5c7366-7d19-4f43-bda0-0f8678d20544
+d59d145b-7348-4f21-a2c1-f3ec40489659,15355880,Estrada Dom Pedro II,1429,Galpão,Pinheiros,cf5c7366-7d19-4f43-bda0-0f8678d20544
+bc4af51e-fe9f-4f0e-a475-e61d66d52f90,67973509,Travessa São João,1092,Sala 302,Savassi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+ede51e57-3e17-4f6c-abe8-784b878bc9d1,18338850,Alameda Ipiranga,1073,Bloco B,Copacabana,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+f4581523-0184-46e9-9c50-4ca54d996100,57472111,Travessa São João,1005,Loja 5,Boa Vista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+6058b5e3-2ad2-4810-adf2-3db5a7743f42,31365651,Estrada Brasil,1132,Sobreloja,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+90005707-93cb-4ba5-8ac4-c8153341dad3,22808835,Travessa da Liberdade,160,Casa 2,Jardim Paulista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+e692ac68-6c52-4231-987e-413003fcc1ef,19996921,Avenida São João,1682,Galpão,Savassi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+793ad0e5-ae60-488d-9ce5-3cd788b3dcf6,46682660,Praça do Comércio,1822,Casa 2,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+f5f9a37d-d403-4124-b897-66554f0369ac,84899816,Travessa XV de Novembro,32,Galpão,Lapa,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+2e36d65c-be20-42d4-89bc-422ce321e263,19386744,Estrada dos Andradas,442,Sobreloja,Lapa,cf5c7366-7d19-4f43-bda0-0f8678d20544
+d4b30ae2-214b-436f-b509-54c08efe2253,90789565,Praça Rio Branco,1867,Galpão,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+65ad3e6e-6cbd-493d-8e81-7f29b10af7c3,11340116,Avenida São João,883,Loja 5,Jardim Paulista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+49387c44-4061-4ae9-acaa-67346f194152,47089395,Alameda dos Andradas,1044,Sala 302,Lapa,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+afcfcf2d-cace-4244-b169-b90d2b65ad62,54564558,Estrada Brasil,1778,Sobreloja,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+757bb4de-c5a2-44e0-a515-4cdf84f6a431,90477151,Estrada do Comércio,254,Conjunto 12,Pinheiros,933243f9-4aec-4288-af69-4d6ecf0cc16b
+46566a93-c2df-4f02-8c37-89f2fb1c25b6,91662992,Alameda do Comércio,951,Apto. 101,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+fd738949-70d9-41ce-88dc-a2922546f6f7,72483292,Avenida XV de Novembro,38,Sobreloja,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+a92e6324-fc3d-444a-bfb7-16f91f3b96ff,42432577,Alameda Dom Pedro II,1866,Casa 2,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+a27b9ade-52ea-491b-a53d-aefbad7a2748,14912236,Avenida Brasil,691,Loja 5,Lapa,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+78620ada-fbc4-4e16-8fe1-9127ca1b1249,92050910,Praça XV de Novembro,1298,Galpão,Moema,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+46fac6d1-c3d0-453e-9450-ff9deef6e08b,66774814,Travessa Dom Pedro II,1027,Galpão,Copacabana,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+740e50e9-75b5-484c-9141-757f8b416d14,15001899,Rua Ipiranga,1604,Bloco B,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+79741569-777f-4796-9e72-f0b628f73f82,63155416,Travessa das Flores,1241,Sobreloja,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+a4877d78-0c15-48d7-a9af-fb35b0630a5e,80030664,Alameda XV de Novembro,827,Conjunto 12,Boa Vista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+2ddc23ad-51b4-471a-8f14-55f143fc2389,61064479,Rua das Flores,1956,Sala 302,Santa Cecília,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+d78caa8c-0242-48d4-93aa-9b6a6c1a3ad2,30953460,Rua Rio Branco,1764,Sobreloja,Itaim Bibi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+ee8c5d5b-0ee5-4f25-a6ff-58b06d1b9204,48003180,Avenida da Liberdade,315,Conjunto 12,Itaim Bibi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+86e1ac68-d3ff-4565-84bc-4b508ddb4d5c,87409685,Alameda São João,746,Conjunto 12,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+e37e45e8-2b2a-4ee1-9e94-06b13d7cbb4f,52566813,Rua Rio Branco,127,Fundos,Copacabana,933243f9-4aec-4288-af69-4d6ecf0cc16b
+eb2a31c5-2590-4fce-b366-cb090f58bbb2,72283799,Avenida da Liberdade,363,,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+a161b84e-8cd9-4850-b5d0-3c39cf262d70,24854726,Travessa Dom Pedro II,427,Apto. 101,Moema,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+00ae9f5d-1624-4c67-9987-101496d6e215,98767945,Rua da Liberdade,519,Apto. 101,Lapa,d43066d2-5762-4fa1-af9a-2258511482f7
+e8d4a645-129d-48a1-bac7-72d141e569a6,76267664,Travessa Dom Pedro II,1516,Sala 302,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+5e8e7f1b-fe79-487c-9f0b-62ee654a5cd3,29764988,Rua Brasil,1363,Apto. 101,Itaim Bibi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+8fc3f3d4-7e30-4e29-bf3b-a5bfb4b126c4,36294191,Estrada Brasil,53,Fundos,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+b86b4d3a-aac3-41ac-aa9b-f6ed3ffccfe0,57401193,Alameda São João,1301,Conjunto 12,Copacabana,d43066d2-5762-4fa1-af9a-2258511482f7
+4d929ea5-adf1-49e4-97c4-c23ae30ca8b5,42132534,Estrada Ipiranga,1122,Fundos,Boa Vista,f1a62904-d784-49e4-af77-6f085917d482
+68f03437-2e91-4e52-b0fe-c04451bdca45,90088910,Praça dos Andradas,1440,Loja 5,Boa Vista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+16d41bd4-4c2b-4394-bbed-fb9dc7213980,18983859,Avenida XV de Novembro,1129,,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+dab8a239-ebd4-4470-b291-963ead5e8ad9,21638618,Alameda Rio Branco,1768,Sobreloja,Boa Vista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+97119de0-49a0-4a82-af12-ddc9ad34bfe7,66854436,Rua XV de Novembro,1072,Casa 2,Copacabana,cf5c7366-7d19-4f43-bda0-0f8678d20544
+d9f9150a-5a7e-4601-8837-b26d6ac692e3,50636471,Travessa da Liberdade,45,Apto. 101,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+30272693-5d99-4c6a-8c8c-a2e16bff6fd0,52491226,Travessa das Flores,1608,Sala 302,Pinheiros,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+e48c3357-1a1b-48b0-8990-801c1fdc21ee,15256685,Estrada dos Andradas,1389,Sobreloja,Jardim Paulista,8889ee61-9c8c-4e5f-9609-430d512666b1
+695386e5-01f7-4fb6-913e-f5f2271f537f,46406771,Rua XV de Novembro,1120,Sobreloja,Centro,f1a62904-d784-49e4-af77-6f085917d482
+81e8ce44-81e2-433c-bcb5-7fccc55f1e56,33484509,Travessa Brasil,873,Loja 5,Moema,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+0c6b55c5-e40c-4b7a-b17d-8d0caad01dcc,72848129,Travessa dos Andradas,1256,Galpão,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+674c604f-c2ca-47a5-b3c5-8bcb52655948,57126774,Rua do Comércio,85,Conjunto 12,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+0ae97745-c755-47ed-8d1e-c4415f4f5a4d,20031212,Rua dos Andradas,1704,Conjunto 12,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+0156e172-66ac-44c1-9ccc-b404e71154bc,60687738,Praça Rio Branco,695,,Savassi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+dbe8ec83-146b-4789-98a0-a80a1b2cf3f0,78122562,Avenida Brasil,1912,Bloco B,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+f57ffd5e-b1b0-4cd2-8c43-dba0265d8b02,68768551,Travessa Rio Branco,725,Casa 2,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+4ecbcf86-bfe6-4c79-9b40-10eb2565889e,44155318,Alameda Rio Branco,1466,Sobreloja,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+1a4b55fe-084f-4389-9da8-d09057614cd9,10258322,Travessa do Comércio,161,Loja 5,Lapa,d43066d2-5762-4fa1-af9a-2258511482f7
+80001f85-e3fb-46dc-9f6b-7a859034cfa8,45742135,Travessa das Flores,1694,Apto. 101,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+cb313772-7acc-4e36-8f72-8e59d64ad139,48394586,Rua Dom Pedro II,608,Casa 2,Itaim Bibi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+100c5b90-4b0d-4722-baaa-0bf16a404cad,55943472,Estrada dos Andradas,520,Galpão,Savassi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+11dff553-74a6-4fb3-b0c5-ca6b9fe1aa2c,58281655,Rua São João,83,Casa 2,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+43e63069-fcf5-439e-ac7d-ff4610240cbd,80172491,Praça Brasil,816,Conjunto 12,Itaim Bibi,d43066d2-5762-4fa1-af9a-2258511482f7
+75728333-d64d-423a-a6be-f50aa77bea84,13169781,Rua dos Andradas,142,Conjunto 12,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+f195a77e-5ce1-49f6-b324-e6fee2688b44,77877934,Travessa XV de Novembro,1308,Bloco B,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+aed6457d-53d9-4b96-acbb-dd1df1dfb454,69313268,Estrada do Comércio,804,Fundos,Pinheiros,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+a25a0f63-fdb6-4226-844c-fb770789dfcc,30425661,Rua do Comércio,689,Apto. 101,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+594e35a7-cadf-45fd-a14e-8dcf8172b671,16908517,Travessa Rio Branco,1488,Sobreloja,Boa Vista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+92500ac5-f711-464d-acb7-e1031cbb1694,84890814,Rua das Flores,988,Apto. 101,Pinheiros,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+23c0d55c-9e9f-4b53-b84d-2f2a130aea66,66464259,Praça Ipiranga,808,Fundos,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+64c0a7e2-7e20-4c4e-972e-7639780c2bf0,48407560,Rua da Liberdade,490,Bloco B,Santa Cecília,8889ee61-9c8c-4e5f-9609-430d512666b1
+9c30ce1d-eb86-434e-b28f-198d04228587,72744883,Travessa Rio Branco,385,Fundos,Santa Cecília,cf5c7366-7d19-4f43-bda0-0f8678d20544
+87f1f506-7023-4bbc-8167-0c12eae550e2,37886585,Estrada XV de Novembro,630,Apto. 101,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+4b31523f-6636-4c5b-beaa-f3bb2e6e646c,72896251,Rua do Comércio,1327,,Boa Vista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+72cd8067-d0d8-4dd3-9b6f-bf10e850c480,48820411,Alameda da Liberdade,1547,Loja 5,Pinheiros,f1a62904-d784-49e4-af77-6f085917d482
+7266f251-17b8-41f1-8260-851c916aea49,76880711,Avenida das Flores,143,Galpão,Lapa,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+33af5cbb-136e-411b-9a07-865f62ef3fc2,39020756,Avenida XV de Novembro,787,Conjunto 12,Jardim Paulista,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+b0d67012-4561-4ba6-ad0a-c50cf367029f,40197709,Praça Ipiranga,1450,Bloco B,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+efe573be-abdb-4976-9b44-08f12ac9e1e6,95030895,Estrada da Liberdade,1500,Sobreloja,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+768e4d8a-19c9-4fcc-a532-c4d905342e98,14532125,Praça das Flores,468,Apto. 101,Boa Vista,f1a62904-d784-49e4-af77-6f085917d482
+62e82bf6-8f1f-417f-87ca-be9594f12285,20413175,Alameda das Flores,135,Fundos,Moema,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+3e482aac-cff8-462a-a251-a189607ead7d,94148950,Alameda dos Andradas,1602,Sala 302,Santa Cecília,933243f9-4aec-4288-af69-4d6ecf0cc16b
+0dd29388-7017-4d77-a7c9-dd2b02670251,25183452,Estrada Rio Branco,1162,Sobreloja,Centro,8889ee61-9c8c-4e5f-9609-430d512666b1
+167e92c4-d5c9-46ab-b6e8-9f1e530ce5a5,79495347,Rua Dom Pedro II,19,,Pinheiros,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+e1cd5198-2626-43fa-b91d-4a1a514be680,39591376,Avenida Ipiranga,1361,Galpão,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+c300763a-8d12-41e7-aa88-2d0c28ccfe84,74886725,Avenida das Flores,1331,Sobreloja,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+87dace44-7749-429d-8a75-dc0d79d23c2b,43309620,Travessa Dom Pedro II,476,Bloco B,Copacabana,933243f9-4aec-4288-af69-4d6ecf0cc16b
+ef443a72-25e8-44b3-a725-cf649367405b,71944994,Rua Brasil,1595,Sala 302,Copacabana,cf5c7366-7d19-4f43-bda0-0f8678d20544
+9803c45d-262c-4ad2-819f-cbb41fa51ad5,15440205,Alameda Dom Pedro II,1308,,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+2ba088df-aa54-4e20-aec2-f9849158a929,95815213,Alameda dos Andradas,450,Apto. 101,Copacabana,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+27da38d5-3e11-431b-9822-92e0f19b6cea,93856657,Travessa dos Andradas,1174,Sobreloja,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+ff429858-8f29-47e3-8770-dad17d760550,62333181,Avenida do Comércio,1141,Galpão,Centro,f1a62904-d784-49e4-af77-6f085917d482
+d412ebef-d4f0-47e4-8771-9626e3ae2b7a,34436701,Alameda do Comércio,1592,Apto. 101,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+5b4a23e3-6041-4de1-9b3d-dc38fe1a467a,64047261,Praça dos Andradas,496,Bloco B,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+5791584f-c75b-4aa5-bd68-9fe82093fbf8,72335338,Alameda Ipiranga,216,Apto. 101,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+da591f0b-f2e2-44b4-90f8-5b386676912d,93444896,Avenida da Liberdade,1048,Sala 302,Centro,f1a62904-d784-49e4-af77-6f085917d482
+05abd194-1b44-4dd9-9dd4-18839935f355,12841800,Travessa das Flores,1999,Fundos,Copacabana,cf5c7366-7d19-4f43-bda0-0f8678d20544
+b9377652-8af8-4de5-8f14-4945c03b2df3,18940758,Estrada Ipiranga,323,Loja 5,Boa Vista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+c4192df0-7499-4aaf-85e4-87c8d2d4802a,39219944,Travessa das Flores,95,Galpão,Copacabana,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+71fc866f-969b-4b4a-9ede-d14c849a4827,58589337,Praça Ipiranga,1309,Loja 5,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+155a9b70-d435-42b3-9b84-ea394454f6f0,40341563,Estrada São João,1994,Fundos,Copacabana,d43066d2-5762-4fa1-af9a-2258511482f7
+8aa8804a-4e3f-4bab-a300-54b76e097a28,56392426,Estrada Rio Branco,1751,Casa 2,Santa Cecília,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+89ea4b0b-0bc7-45de-96c3-e42e4164085b,46469792,Alameda Ipiranga,1142,,Pinheiros,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+b175de60-e7f0-447a-9947-43360e643918,91268732,Alameda Brasil,77,Fundos,Moema,d43066d2-5762-4fa1-af9a-2258511482f7
+a9e07b7c-ce72-45f2-abcb-6bffb56cb897,19027488,Avenida São João,1815,Casa 2,Pinheiros,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+8aa122a4-1aaf-4c64-9e2a-6743cda0d261,61622465,Avenida da Liberdade,1895,Bloco B,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+96150f49-d252-4819-a366-4d4b296f0c06,72880552,Avenida Dom Pedro II,1801,Casa 2,Boa Vista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+aeecb2f8-8ff5-4eaa-b1b3-9035997b1cf6,38494147,Alameda Rio Branco,474,Loja 5,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+70ac236e-2f81-4217-b430-2e7ac702f082,25923225,Praça das Flores,964,Casa 2,Lapa,d43066d2-5762-4fa1-af9a-2258511482f7
+3aac05d5-c18d-40c7-ab10-a281329b97c0,77276484,Alameda XV de Novembro,1036,Apto. 101,Savassi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+d924b147-0621-4607-8225-4d9deb5fdca9,16638349,Alameda Rio Branco,1365,Loja 5,Santa Cecília,f1a62904-d784-49e4-af77-6f085917d482
+c68905e4-ffb2-4f0f-b910-37ed735c97c3,18818184,Travessa XV de Novembro,113,Sala 302,Pinheiros,cf5c7366-7d19-4f43-bda0-0f8678d20544
+33dc9300-fdf7-43a8-8a36-ad92afcacb79,76692336,Alameda São João,164,Sobreloja,Centro,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+35bfbf15-2a6e-455f-84e3-2ced7e5f7883,97541959,Alameda dos Andradas,737,Loja 5,Centro,8889ee61-9c8c-4e5f-9609-430d512666b1
+3ff930a7-05db-43b3-897c-a86c2cef398f,33942499,Rua Brasil,688,Apto. 101,Centro,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+d2879aa1-d442-4950-b147-752483d1fc45,90371109,Praça do Comércio,342,Bloco B,Savassi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+e3784eb2-fe60-44ce-b0a6-c5d94dfee7e1,65800198,Travessa São João,43,Galpão,Pinheiros,933243f9-4aec-4288-af69-4d6ecf0cc16b
+c45cfe3d-3385-43c3-8c04-b4cee9bad5a6,79423330,Travessa Brasil,630,Loja 5,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+0970e868-974a-4431-9173-18003f94614a,70431894,Avenida São João,163,Casa 2,Boa Vista,d43066d2-5762-4fa1-af9a-2258511482f7
+29968401-72d6-4e36-a844-203495080976,90057980,Avenida dos Andradas,243,Conjunto 12,Copacabana,cf5c7366-7d19-4f43-bda0-0f8678d20544
+d231c253-5b20-4cb5-bdbc-b542c8a86622,19052646,Praça dos Andradas,1005,Casa 2,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+4efa1e7d-a854-430e-8675-f8c75c7d290e,70398583,Praça XV de Novembro,108,Sala 302,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+c516c2e9-0ca8-436f-b59b-a70747498a75,53409837,Alameda Rio Branco,1813,Galpão,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+d44a8f1d-c76f-496c-b717-32aafc7f0d34,40700383,Travessa Brasil,976,Conjunto 12,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+2638d9b9-98b9-455f-b6ee-202907b76345,42820228,Alameda da Liberdade,1744,Bloco B,Pinheiros,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+996cba98-7dc6-4288-8b8a-5b79ba477ac7,91359965,Travessa Ipiranga,1796,Casa 2,Centro,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+1cfa7188-8b6c-424b-9821-4a70342a34a6,70022308,Rua dos Andradas,1969,Galpão,Itaim Bibi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+f635f3a0-447c-4b69-bf6a-a8a45051e894,16712135,Rua das Flores,314,Galpão,Moema,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+6eeccf9d-257c-4b3b-8d5b-f0a5e023c72b,15203321,Alameda do Comércio,57,Galpão,Pinheiros,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+3a826930-eec5-4a88-a827-5d59919fa53f,95832153,Travessa XV de Novembro,1674,Sala 302,Pinheiros,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+02bd457b-a26d-4c82-8d8c-acbe63e54fa8,24602221,Estrada Ipiranga,269,Galpão,Santa Cecília,cf5c7366-7d19-4f43-bda0-0f8678d20544
+7f7e7ea3-f072-4c12-ab5b-94722b985ee4,65250956,Travessa do Comércio,1957,Galpão,Santa Cecília,f1a62904-d784-49e4-af77-6f085917d482
+b1e21925-cd44-4107-92ea-8d6508bc634b,19185880,Rua Rio Branco,365,Galpão,Centro,8889ee61-9c8c-4e5f-9609-430d512666b1
+1bc9eb2d-7d01-433c-9f3c-0cfc3db14cf6,76951102,Travessa das Flores,1045,Fundos,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+b43e6ade-18ca-477f-ab8e-11af646f11af,61712807,Avenida Rio Branco,368,Fundos,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+1447cfd9-0cf7-49b7-a732-7e1e21ff7c57,44348538,Praça da Liberdade,736,,Copacabana,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+457bad34-ef16-4fd7-800d-28e79f05de46,38983305,Estrada XV de Novembro,363,Sobreloja,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+5cb83541-d939-420f-ace6-fb10c11352b2,32278412,Praça Ipiranga,1966,Conjunto 12,Savassi,d43066d2-5762-4fa1-af9a-2258511482f7
+ec8b1c3c-cf81-45db-8879-7c18034b5dd6,62038327,Estrada São João,1560,Bloco B,Jardim Paulista,d43066d2-5762-4fa1-af9a-2258511482f7
+b6f65e6c-d180-46d0-8be0-5dbcec5acc1f,74493324,Praça da Liberdade,683,Sobreloja,Moema,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+dae7b2fc-a628-4f70-a65f-ede814bde804,42185109,Rua Rio Branco,1548,Sala 302,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+e420b574-0c49-4e1d-9788-e8089beb3cf6,85860207,Alameda Rio Branco,1340,Casa 2,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+44e1d666-927d-49c4-9458-8e8a58e3dcde,48944930,Praça Ipiranga,1842,Fundos,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+0a0a794a-b6ad-418d-96b8-4668217c0770,81507544,Travessa da Liberdade,1255,Casa 2,Savassi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+24cd4652-54b5-4fe9-af74-a87cebb02b24,98851321,Estrada Ipiranga,838,Conjunto 12,Boa Vista,f1a62904-d784-49e4-af77-6f085917d482
+b818117d-7fe4-478b-9df2-663c524a3fc3,64462619,Praça das Flores,1821,Bloco B,Moema,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+7b10a59c-856d-4f22-90db-1f93f22c913c,63555316,Avenida dos Andradas,1095,Bloco B,Pinheiros,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+48520d08-df1d-4c22-8515-d40d99b0b78d,42068645,Praça dos Andradas,1461,Fundos,Itaim Bibi,d43066d2-5762-4fa1-af9a-2258511482f7
+28c3949e-e2f8-4e05-bfd5-8c058f0a02a6,59480296,Travessa da Liberdade,100,Sobreloja,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+befbf4c0-eb3d-4ba6-a8dd-d018e9b9a38d,58414391,Rua das Flores,400,,Itaim Bibi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+d1d7e251-4c65-458e-8654-4b7453d6bf49,44841411,Alameda da Liberdade,182,Apto. 101,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+8e59f4aa-7681-474b-9b89-09fedf1dc889,14134447,Travessa Ipiranga,1143,Conjunto 12,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+486f9108-d78b-4933-a83c-d1af426b3893,97644222,Estrada dos Andradas,409,Conjunto 12,Savassi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+ac303851-9c15-4dbe-836f-4be1aecf9895,45312337,Praça XV de Novembro,600,Conjunto 12,Pinheiros,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+23c28b07-9a90-413d-b5fe-3a025fef380c,88561384,Avenida da Liberdade,1337,Galpão,Savassi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+091145ee-f11c-42a0-870a-5c7ea955f1ab,21887391,Travessa do Comércio,1248,Sala 302,Santa Cecília,8889ee61-9c8c-4e5f-9609-430d512666b1
+fa5f8b59-3daf-4b04-9baa-67b56ae7939a,83876874,Travessa Dom Pedro II,1324,Bloco B,Itaim Bibi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+20f00c2c-dfe7-405a-b177-bc6e3bcb7e6f,91987836,Travessa dos Andradas,67,Apto. 101,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+b95e1d0d-3b3d-404d-8a48-4e56a26ab8c9,21627724,Alameda da Liberdade,1823,Sobreloja,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+f230f67e-827c-4f32-b51c-4dccbb8bc7f0,14282170,Praça das Flores,1186,,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+8267a6d9-77a7-4813-8820-b7c47b33b84c,52773702,Estrada dos Andradas,356,Bloco B,Savassi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+32abbfe1-3e69-4035-9c64-e540b405633f,16157581,Rua dos Andradas,1217,Sobreloja,Centro,933243f9-4aec-4288-af69-4d6ecf0cc16b
+7e385628-d81f-40d6-a135-ab16fb7e7fdc,87555255,Avenida São João,109,Sala 302,Savassi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+d0feb55c-716a-4886-99e1-b7a263ebd5a6,60071593,Estrada das Flores,1475,Galpão,Pinheiros,cf5c7366-7d19-4f43-bda0-0f8678d20544
+433fa51b-035c-4843-80b4-7d0ba109acde,89625596,Alameda dos Andradas,1204,Apto. 101,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+3bbc06ec-2559-4811-8b9b-3744894537c2,53314981,Rua das Flores,65,Galpão,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+aeebc266-b0cf-4f2a-87b6-fb72d5d3111d,18099765,Praça dos Andradas,279,Galpão,Jardim Paulista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+aab89abe-cfa8-431d-90bc-10b03e17632d,78972818,Alameda da Liberdade,485,Conjunto 12,Itaim Bibi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+3f72caaf-9744-467f-aad1-d013bb3b3653,88348340,Avenida Brasil,1607,Casa 2,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+316ec039-87be-42dd-ab05-c88f51bb599a,53451274,Travessa XV de Novembro,736,Sala 302,Boa Vista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+1ac9d658-618d-4975-9221-436aa3e17af6,23713254,Praça dos Andradas,1919,,Boa Vista,d43066d2-5762-4fa1-af9a-2258511482f7
+3b6442dc-5fad-4bb0-803b-4f3da50a2b25,67356847,Rua da Liberdade,1133,Sobreloja,Boa Vista,f1a62904-d784-49e4-af77-6f085917d482
+b84536c5-3b49-4201-85ba-1b4045481ca3,46208804,Avenida Ipiranga,389,Apto. 101,Lapa,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+8a178440-798f-4ec8-9f83-a6af05ca316c,85165634,Rua da Liberdade,1187,Fundos,Santa Cecília,d43066d2-5762-4fa1-af9a-2258511482f7
+ce473c28-a55d-42cc-a2c9-3f5e067bf0bc,51346200,Avenida Ipiranga,1570,Apto. 101,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+1814a0c3-0340-4445-84a0-1a0eb1062789,89195280,Estrada Dom Pedro II,1025,Conjunto 12,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+952ec4a3-2e2f-495a-9991-13b95ba1200b,54794762,Estrada Rio Branco,1844,Sobreloja,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+46522096-788f-4668-9c47-bab3691079e4,61362150,Praça São João,1788,Galpão,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+c6624761-e2fd-4367-89fb-b803ace17644,89829220,Praça das Flores,1931,,Itaim Bibi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+66ab412e-bc29-46f8-95f0-32b5510e821a,91941690,Travessa Rio Branco,1272,Casa 2,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+5be28ebf-faff-4834-9204-e51d2b66e5a9,54409680,Avenida dos Andradas,561,Galpão,Itaim Bibi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+7e601e55-f127-4cb9-a951-a95745e6bcc9,24840698,Praça Brasil,347,Galpão,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+70b9a048-0d8d-4606-bfb5-09f882ea90fa,56963971,Praça das Flores,1416,Sala 302,Boa Vista,d43066d2-5762-4fa1-af9a-2258511482f7
+0bae7884-b20c-4fd6-b4dd-35b5c116ef9a,51064671,Avenida Brasil,403,Sobreloja,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+a5974d51-e83f-4116-8e71-afa47a2ca5ff,15101617,Alameda Brasil,705,,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+d51d0162-6586-46b7-ae0d-ee4ef7598541,94542377,Alameda Ipiranga,618,Apto. 101,Lapa,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+a8b1cbd4-f070-463b-bbe4-09e301a91f1e,45612761,Alameda São João,525,Sobreloja,Pinheiros,d43066d2-5762-4fa1-af9a-2258511482f7
+13348c20-0709-4d40-9a93-115ae0c02cb4,52287431,Estrada Rio Branco,1052,,Centro,933243f9-4aec-4288-af69-4d6ecf0cc16b
+be470e07-5e30-45b1-83e0-1d4bf2060417,70458269,Alameda do Comércio,888,,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+568b889e-536f-42d3-92ba-42dc207cb3c1,90748131,Alameda do Comércio,296,Sala 302,Savassi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+98c09e64-9988-4106-8c60-51d1ea59111f,15377331,Praça das Flores,1895,Loja 5,Santa Cecília,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+702e79ea-d5f7-41e2-8e4a-ce5559a7872e,33124616,Travessa Ipiranga,252,Casa 2,Itaim Bibi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+1a6c7de1-fd98-4b53-98c9-9cfe6265dd67,49768374,Rua do Comércio,1780,,Pinheiros,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+9ebbe6ae-9c43-4e2e-92af-3801110510cd,35943470,Praça das Flores,1312,Sobreloja,Copacabana,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+f43212a7-eff3-472c-b322-8bb60a1c7496,15876470,Travessa Dom Pedro II,841,Sobreloja,Centro,f1a62904-d784-49e4-af77-6f085917d482
+f3c0a5f6-f3d1-4c8e-9e93-e9361c855df5,47089344,Travessa Brasil,418,Bloco B,Santa Cecília,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+40dcbc24-54b2-47cb-94b0-3c8720b4a970,63084598,Avenida dos Andradas,1435,Conjunto 12,Boa Vista,f1a62904-d784-49e4-af77-6f085917d482
+5cb464c1-fee3-4481-a020-dc4daf79a174,19870673,Travessa São João,1438,Casa 2,Pinheiros,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+7a7456e0-da0f-48d0-8bfb-530e081acbe1,33078589,Rua dos Andradas,1848,Casa 2,Santa Cecília,f1a62904-d784-49e4-af77-6f085917d482
+0639a5c0-30bb-4f71-b62d-329b191b6836,45123461,Rua Rio Branco,604,Fundos,Boa Vista,f1a62904-d784-49e4-af77-6f085917d482
+6c6c1e5a-54e8-4541-b016-30bde1781b72,12262773,Estrada do Comércio,1874,Conjunto 12,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+7ecb1b59-00af-4d97-8598-846c3b8d8481,32669708,Alameda Rio Branco,405,Loja 5,Itaim Bibi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+13d245f2-a2bc-4fea-ba4c-1747a9f21555,13994634,Alameda da Liberdade,1317,Bloco B,Santa Cecília,f1a62904-d784-49e4-af77-6f085917d482
+d35ab122-a48e-494e-85ef-a9059d1546db,79928304,Avenida Ipiranga,1650,Sala 302,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+66b5a74f-c835-4c27-9b28-759eeb47e91e,41978631,Praça Rio Branco,411,,Boa Vista,d43066d2-5762-4fa1-af9a-2258511482f7
+35cff9bc-1020-4624-b5d7-190e2526aaa5,30030897,Avenida Dom Pedro II,1515,Apto. 101,Santa Cecília,d43066d2-5762-4fa1-af9a-2258511482f7
+7e826330-00d1-4f98-8209-2135b4dc81df,39882414,Estrada dos Andradas,694,Loja 5,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+1c2236ce-d9bc-4338-b8db-d16736da9335,38635206,Praça Dom Pedro II,430,Sala 302,Boa Vista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+7e279af0-05b9-4e5f-90ea-18cff0f19f2a,37198140,Rua dos Andradas,182,Apto. 101,Santa Cecília,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+a7118404-9e66-44bb-b754-8deb4446c4fc,50586232,Rua São João,1739,Sobreloja,Pinheiros,d43066d2-5762-4fa1-af9a-2258511482f7
+27129d44-bccf-44a3-a828-8066febf40e1,30798625,Praça Brasil,531,Loja 5,Savassi,d43066d2-5762-4fa1-af9a-2258511482f7
+593d7121-735e-44e2-b3c5-ee969f2a7f60,62201403,Praça Dom Pedro II,1786,Fundos,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+ee3e7d23-be36-4671-b1b1-7a5b6864b838,94191255,Praça Dom Pedro II,1351,Loja 5,Moema,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+ba8475ef-73c1-4707-bb65-4fc7d9f785d3,48450977,Praça das Flores,726,Sala 302,Savassi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+2070397c-fdb3-4ddf-9f21-4f19563c0462,28888730,Rua São João,342,Casa 2,Itaim Bibi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+8586b65d-67f9-45d9-a436-14d77c78d888,85645472,Avenida Dom Pedro II,155,Conjunto 12,Pinheiros,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+f8fc2905-bf88-4d32-a797-0bea20598b32,94225102,Praça Rio Branco,1311,Casa 2,Savassi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+e99c3fda-76af-4a8b-a311-7f7146026ba0,96217196,Praça Dom Pedro II,70,Bloco B,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+d21fdfa5-f7b4-441b-9377-31057bde7c27,20961882,Rua das Flores,133,Bloco B,Copacabana,d43066d2-5762-4fa1-af9a-2258511482f7
+72f7ccbf-4925-4c56-8c6a-8a19e5644187,55593773,Estrada Ipiranga,281,Fundos,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+d863ebb5-9e0d-4d7d-9f78-d64611dcf2c9,83575731,Estrada São João,1917,,Santa Cecília,d43066d2-5762-4fa1-af9a-2258511482f7
+96b682b7-96d9-4918-8b04-224edc342462,43763278,Travessa do Comércio,1075,Galpão,Lapa,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+9da9e6e1-c870-437a-959c-04211ac7d605,80289273,Estrada do Comércio,1874,Bloco B,Copacabana,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+c33ae16c-dc01-410e-8ab6-2366d4da861f,51826242,Rua Rio Branco,1360,Fundos,Itaim Bibi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+2f971930-ac3e-4f7c-a00a-8d469cec018e,23274148,Praça Ipiranga,1594,Conjunto 12,Lapa,933243f9-4aec-4288-af69-4d6ecf0cc16b
+8a999948-0872-43fe-b4b9-b2393510f786,24962577,Estrada Ipiranga,1909,Loja 5,Santa Cecília,cf5c7366-7d19-4f43-bda0-0f8678d20544
+587a4f95-36df-43bd-a554-794a4a7a0b82,48986203,Alameda Brasil,273,Sobreloja,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+602286c7-c682-41fc-86a0-c236cb6b6074,52838575,Rua das Flores,1516,Apto. 101,Boa Vista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+ec6bdbbb-bb73-40f9-b74f-c3f921512857,42809498,Alameda dos Andradas,368,Loja 5,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+b1ace09b-a0b2-45ab-bb96-ea0b0995c3fe,13854286,Rua Brasil,893,,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+5038673c-7c9a-4eb8-8796-6b93295ed8ef,22664133,Rua Rio Branco,1832,,Savassi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+d6e3cc7b-b5e5-4536-b08a-961d2ed1658c,97562290,Travessa dos Andradas,230,,Boa Vista,8889ee61-9c8c-4e5f-9609-430d512666b1
+925e9e07-74ec-4366-97e6-ea05084fd01d,42500364,Alameda Rio Branco,1454,Apto. 101,Copacabana,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+46887b4a-8890-4ccf-9273-b8f95fd1b799,76897482,Estrada das Flores,1231,Bloco B,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+17144d69-03ba-425c-8b19-719ef469230e,19022368,Praça da Liberdade,1928,Conjunto 12,Pinheiros,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+36187395-bc7f-45ca-ac76-a21d645bbb77,75967233,Praça das Flores,762,Sala 302,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+bce2dade-3f3f-4e2d-a04b-f9fcab5a837f,83714623,Estrada do Comércio,960,Conjunto 12,Santa Cecília,cf5c7366-7d19-4f43-bda0-0f8678d20544
+62f40aca-b06a-4f62-b721-9a0b27fc13de,19794464,Estrada Ipiranga,936,,Boa Vista,8889ee61-9c8c-4e5f-9609-430d512666b1
+96d46771-38c5-4e44-97fd-1f3196c2dfa0,36414924,Estrada São João,422,Fundos,Savassi,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+cf6c1b68-e629-4856-be62-52ab3173c814,52798147,Rua XV de Novembro,1429,Conjunto 12,Santa Cecília,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+fcffae94-7736-4275-b74f-48a6ce0861b5,60230839,Estrada São João,822,Galpão,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+9261361a-7bb9-4b1e-9c8a-df4372fa2b2e,43156129,Praça Ipiranga,777,,Itaim Bibi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+37e63517-cf7a-4db5-ba28-09aee3314bce,88026458,Avenida São João,1839,Sobreloja,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+fa8cb9c3-336f-4c4a-8c74-5e5a4ce992b1,82547896,Alameda Ipiranga,877,Apto. 101,Moema,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+1c420bcb-38f3-4596-93fe-396bb1734745,97872444,Rua Dom Pedro II,1526,Conjunto 12,Pinheiros,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+13187f4e-a746-4793-beb9-0d8a3d9b9fbc,70674829,Avenida da Liberdade,521,Bloco B,Copacabana,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+9f8504e5-38bd-40a9-b01b-6f08c66c0c6c,36835781,Alameda São João,725,Conjunto 12,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+d5bb86dc-fa39-459c-bdbc-20de33404f5d,19563259,Estrada Brasil,407,Fundos,Lapa,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+b4a41492-f9ab-45d4-893b-355c9f106216,50256754,Praça da Liberdade,595,Apto. 101,Copacabana,d43066d2-5762-4fa1-af9a-2258511482f7
+956d8373-f093-4a25-8c82-ff289cafe09f,63658397,Travessa dos Andradas,1251,Casa 2,Savassi,d43066d2-5762-4fa1-af9a-2258511482f7
+f9063231-f44a-413d-bb55-8a0f7051bed5,47233157,Estrada Ipiranga,1010,Fundos,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+9795c7f8-459e-41a7-94c0-228e13a8c3f0,85710150,Praça Dom Pedro II,590,Apto. 101,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+5bc451b2-d92f-4bec-bcc2-a25720aa55ac,90879612,Avenida Dom Pedro II,521,Galpão,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+6461bb05-bb7b-4917-8d07-f67368f8aa17,79468425,Avenida São João,198,Sobreloja,Boa Vista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+772b85f0-a328-462c-9361-308cac162430,93680695,Praça dos Andradas,852,Fundos,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+952c5598-4a36-45e6-8100-d4093d6154d9,10276773,Praça São João,1049,Conjunto 12,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+1674e9e8-6845-4a45-94e1-d541f88b2866,16291567,Avenida Dom Pedro II,260,,Lapa,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+bd8386f4-a749-4dfe-b0f7-b94f16097578,76043741,Avenida dos Andradas,35,Apto. 101,Boa Vista,d43066d2-5762-4fa1-af9a-2258511482f7
+056e5dbf-24b8-4cd9-868f-2d65f2b4a39e,91322107,Estrada do Comércio,1211,Sala 302,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+245a6d9c-8d75-4d5c-ad7f-f41520f6bb48,36361267,Rua Ipiranga,259,Bloco B,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+aceb1f59-60e9-4aef-a239-aa99df6f0f5f,13283360,Alameda Dom Pedro II,890,Apto. 101,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+db4ecce6-44d7-4dc7-aabb-87b65d86bbd8,61795109,Travessa São João,695,Casa 2,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+79235b48-4465-4534-b263-15b8869f7713,71596643,Rua das Flores,294,Conjunto 12,Centro,933243f9-4aec-4288-af69-4d6ecf0cc16b
+8ee12f8a-0ee9-4dff-b6b8-52e7009af53b,12504366,Estrada Rio Branco,1219,Conjunto 12,Moema,f1a62904-d784-49e4-af77-6f085917d482
+67844bb2-6d43-4e45-9e00-37320dd33e56,90064234,Avenida Dom Pedro II,1984,Loja 5,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+5c7f09d1-7100-47a0-84fd-fb21a5c98a18,95713112,Estrada Rio Branco,285,Galpão,Lapa,933243f9-4aec-4288-af69-4d6ecf0cc16b
+c7976b72-d9f3-45be-8a48-b35950a5a64d,38433618,Rua Rio Branco,1643,Galpão,Santa Cecília,cf5c7366-7d19-4f43-bda0-0f8678d20544
+9bfbaabb-f21d-4cf2-88ce-f64b847dba15,81682827,Estrada dos Andradas,1742,,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+601282da-786b-44fb-830d-117e410e00a8,58822772,Avenida das Flores,1917,Sobreloja,Copacabana,933243f9-4aec-4288-af69-4d6ecf0cc16b
+dc778deb-91af-4129-bb75-45878eff8e55,61575930,Rua XV de Novembro,897,Loja 5,Centro,933243f9-4aec-4288-af69-4d6ecf0cc16b
+54ffebdf-2250-45f8-a2e4-4a46c675daab,24511423,Travessa Dom Pedro II,817,Conjunto 12,Santa Cecília,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+ce7014a8-e71d-427c-af24-26f1b008234f,90328268,Praça Rio Branco,1203,Apto. 101,Lapa,933243f9-4aec-4288-af69-4d6ecf0cc16b
+502d56a8-95dc-41ad-b86b-c83b7a718c52,46346549,Avenida Brasil,1937,,Itaim Bibi,f1a62904-d784-49e4-af77-6f085917d482
+07c14676-cd7c-4d20-8462-e1a447a29891,91181883,Estrada XV de Novembro,1708,Apto. 101,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+cbffedb8-6bed-4306-8302-8f3d82f41524,23003106,Praça do Comércio,359,Galpão,Lapa,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+6e048604-c9b2-467d-9723-c414b0c05c14,18959509,Estrada Brasil,908,Sobreloja,Boa Vista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+2a89df14-5a16-41ac-a033-db3bcac1df52,24606741,Travessa do Comércio,1732,Bloco B,Moema,933243f9-4aec-4288-af69-4d6ecf0cc16b
+982520b2-88ff-4731-8781-12c09a03d029,38177811,Avenida Dom Pedro II,864,Casa 2,Jardim Paulista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+114965b4-45c3-45cf-9ea6-b99e3a6db472,98298223,Estrada das Flores,1858,Sala 302,Itaim Bibi,8889ee61-9c8c-4e5f-9609-430d512666b1
+7a2afde7-27a6-4436-b0a8-5c38ce36f113,95472886,Estrada das Flores,1679,Casa 2,Jardim Paulista,8889ee61-9c8c-4e5f-9609-430d512666b1
+7beda110-6a57-496c-9813-7b15d80cb374,29671801,Estrada Ipiranga,988,Casa 2,Boa Vista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+fd3723c0-5e9d-492c-9412-dcee7dbf122b,11599253,Avenida Rio Branco,101,Fundos,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+5785e8f7-b5d3-4290-8e2f-d3c12ee8f991,65679160,Estrada Ipiranga,1673,,Copacabana,cf5c7366-7d19-4f43-bda0-0f8678d20544
+b9ba16ce-f937-4bac-8ac0-cfd72c6a0145,69556696,Praça Dom Pedro II,876,Sala 302,Boa Vista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+aff9825c-265f-436f-b06e-f030b517ea5a,68498473,Rua dos Andradas,630,Loja 5,Santa Cecília,8889ee61-9c8c-4e5f-9609-430d512666b1
+9f3048d0-a347-4f4a-b54c-288f1a724b84,96390289,Alameda do Comércio,1446,Casa 2,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+e6599908-151a-42ec-8191-9bc6127e246b,37843347,Travessa da Liberdade,959,Fundos,Jardim Paulista,d43066d2-5762-4fa1-af9a-2258511482f7
+a8215636-d35d-4c45-99d9-19bff9349f3a,23863355,Alameda dos Andradas,1542,Apto. 101,Centro,d43066d2-5762-4fa1-af9a-2258511482f7
+0b2469a4-4124-4b4f-bfc7-83079587e18b,74011298,Praça Rio Branco,146,Conjunto 12,Santa Cecília,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+5dcc9311-c519-40f3-aa74-60840a20b05e,86189160,Avenida dos Andradas,241,Sobreloja,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+d7dc248b-17dc-4335-b877-b9c24910c8b6,16982264,Avenida São João,1757,Apto. 101,Centro,8889ee61-9c8c-4e5f-9609-430d512666b1
+507619ab-09e1-4e39-a783-fbc666ef086e,85292531,Rua Rio Branco,429,Galpão,Santa Cecília,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+994c1461-a1b2-46f3-a4af-9f239da71efe,29869429,Praça dos Andradas,250,Fundos,Lapa,cf5c7366-7d19-4f43-bda0-0f8678d20544
+5acaf213-b761-40af-9359-4e540995d79b,98389746,Alameda Dom Pedro II,1066,Sala 302,Moema,f1a62904-d784-49e4-af77-6f085917d482
+a8d04377-14c3-419a-8fd2-496d43099167,18755203,Rua dos Andradas,1293,Apto. 101,Lapa,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+dcbddf6c-b533-4d00-ac40-eb53b8c91f0d,40433949,Avenida da Liberdade,1509,Apto. 101,Copacabana,f1a62904-d784-49e4-af77-6f085917d482
+a869abbe-6c29-4009-8912-405d17b0558f,21730429,Alameda do Comércio,692,,Jardim Paulista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+449a3cc0-2c74-40f3-8fda-2a3840e65c92,21892910,Alameda São João,695,,Pinheiros,933243f9-4aec-4288-af69-4d6ecf0cc16b
+fa833a75-021d-4992-8334-f629446718a8,28652272,Travessa XV de Novembro,628,Fundos,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+c2899eaf-f8f7-4bc3-9c58-2b37056ca285,58071162,Praça Brasil,1671,,Santa Cecília,d43066d2-5762-4fa1-af9a-2258511482f7
+2a8248ce-a805-45b6-ac40-a338c85b35c3,36146514,Avenida Ipiranga,74,Loja 5,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+855bf8a9-6643-4e3a-aabb-174d1466c287,94456350,Alameda Rio Branco,304,Conjunto 12,Copacabana,933243f9-4aec-4288-af69-4d6ecf0cc16b
+dac47438-90e7-420c-93c7-490c7578c5f9,97932834,Avenida XV de Novembro,250,Sobreloja,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+297dbc52-c807-4c94-889c-7f21fd9f3bd4,80571655,Praça São João,1418,Apto. 101,Lapa,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+8147a435-8367-4d2e-bf72-17310407eefe,96788914,Alameda do Comércio,542,Bloco B,Jardim Paulista,933243f9-4aec-4288-af69-4d6ecf0cc16b
+f9c22e5e-92ac-4192-950d-64335fbc140f,10928424,Alameda do Comércio,857,Sala 302,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+f278eae6-f7e8-404b-b71e-cdd4a831994f,70372861,Estrada XV de Novembro,248,Loja 5,Savassi,d43066d2-5762-4fa1-af9a-2258511482f7
+248e4e6e-0c83-448a-8472-95f177309132,44478942,Travessa Dom Pedro II,1083,Loja 5,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+dbfe9bdb-fb8a-47ba-a162-2f386cfb3ead,22996786,Alameda do Comércio,815,Galpão,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+58c47ffb-5f85-4290-bedb-7da24bb3dcfd,81949123,Avenida Dom Pedro II,1553,Casa 2,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+5a3f9184-40d4-47c8-a53a-aaa11b4f6774,58248265,Alameda Ipiranga,127,Sobreloja,Moema,f1a62904-d784-49e4-af77-6f085917d482
+97c3dfcc-9e23-4e02-af3b-3d21adc44ac8,18482632,Praça Ipiranga,1507,Galpão,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+dcddb439-5162-492f-b7e2-fe1f36abcee1,76802880,Travessa XV de Novembro,1253,Bloco B,Lapa,cf5c7366-7d19-4f43-bda0-0f8678d20544
+a4df73d5-3968-4b0d-8267-a8da02084dd4,74077605,Praça dos Andradas,174,Bloco B,Copacabana,d43066d2-5762-4fa1-af9a-2258511482f7
+df3e4c1e-b527-4f3a-83dd-a5366ed6d5f7,43325531,Rua São João,1883,Sala 302,Lapa,933243f9-4aec-4288-af69-4d6ecf0cc16b
+78767032-6ff9-4128-9290-c0203c591d54,40411894,Rua Rio Branco,991,Fundos,Copacabana,d43066d2-5762-4fa1-af9a-2258511482f7
+edd89100-28c2-470c-bd0e-dfec75a799ba,33047416,Estrada dos Andradas,1761,Fundos,Itaim Bibi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+4629a2b2-ab1d-4e6c-a84e-f4137b921bbb,70308725,Praça São João,34,Loja 5,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+5db1d8a2-dbca-4f43-84d6-5f3d924bb38f,40064821,Estrada dos Andradas,1667,Casa 2,Copacabana,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+2b333f57-788a-4724-a7a3-b017d190832b,57432935,Travessa Brasil,80,Sobreloja,Boa Vista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+238da565-531c-4111-87dc-8c6fd8f7633e,44479407,Estrada do Comércio,1235,Galpão,Moema,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+bf299498-c4b6-4338-9a5f-fec3ce349b6c,53266972,Alameda Rio Branco,557,Fundos,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+a5e6dcdc-629c-4acd-8bfd-d172dda32b40,18258145,Travessa Ipiranga,1941,Conjunto 12,Jardim Paulista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+563a5797-9ab2-495c-b1ff-fe935064f78b,71527696,Alameda São João,571,Conjunto 12,Pinheiros,f1a62904-d784-49e4-af77-6f085917d482
+42189f8a-5d3b-4132-a19d-68030bdedfb9,34602925,Rua XV de Novembro,565,Bloco B,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+7d1823cc-3f82-4758-a35e-e4f8233743c1,41160231,Praça da Liberdade,565,Bloco B,Itaim Bibi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+2fc0cb94-17e1-4209-9767-ee31cd93705c,72589436,Rua dos Andradas,240,Apto. 101,Moema,f1a62904-d784-49e4-af77-6f085917d482
+94c48c4d-1ba0-46c5-8cee-e4ce5f28a385,15495155,Rua XV de Novembro,1688,Fundos,Moema,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+d4748afc-2d0a-4956-8838-71916596bbe0,84736463,Estrada XV de Novembro,1428,Bloco B,Moema,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+afea1369-2c3a-4de1-8cce-f04102326223,64223220,Estrada dos Andradas,632,Casa 2,Copacabana,d43066d2-5762-4fa1-af9a-2258511482f7
+6d0feef9-7e44-4225-ab43-7ba8d5fc5d7a,51912184,Rua Dom Pedro II,224,Apto. 101,Copacabana,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+341fef45-5567-4e73-aaad-10d798d63d30,48591806,Rua do Comércio,1715,Loja 5,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+208a1764-d8c7-4d49-902d-d1a0a11752f5,71625373,Estrada do Comércio,213,Fundos,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+a4559953-dc2e-444d-a1c6-5b8be3ea6222,42529568,Avenida das Flores,1990,Fundos,Jardim Paulista,f1a62904-d784-49e4-af77-6f085917d482
+45bfce3a-8299-4a55-84d9-4cb089ba3c4e,32678318,Rua Rio Branco,220,Galpão,Jardim Paulista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+ba36719d-f9f7-4643-a2f8-9a58da099c25,57649244,Travessa Rio Branco,1725,Conjunto 12,Savassi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+a52491a3-508e-4e83-9eaf-27454e2554cd,27100923,Rua Ipiranga,270,Casa 2,Lapa,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+020673c2-e344-4c99-97fc-5689d3b974cd,11382972,Rua São João,758,Sobreloja,Jardim Paulista,d43066d2-5762-4fa1-af9a-2258511482f7
+a7b5bc0e-e887-4001-8ea1-c27bd43a9ef0,27201501,Rua das Flores,614,,Itaim Bibi,933243f9-4aec-4288-af69-4d6ecf0cc16b
+ea46740b-661e-4160-b50a-476e97224530,16695460,Praça Ipiranga,1205,Fundos,Savassi,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+ebe21da1-d0da-49cf-91c2-9ee754305e5f,14750213,Alameda das Flores,1889,Galpão,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+348e20e8-c2cb-4245-b91f-d11e17a8d170,33656688,Estrada Rio Branco,391,,Centro,cf5c7366-7d19-4f43-bda0-0f8678d20544
+167be31e-bb9c-4d16-8c51-85abb59ec5f7,96070280,Rua do Comércio,153,Apto. 101,Jardim Paulista,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+040bc870-295b-4d32-a66f-99b0e2473cca,42035929,Estrada das Flores,1667,Sobreloja,Itaim Bibi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+ad8fa8a8-f023-4dc7-b359-2ed4059721c9,65066644,Travessa das Flores,941,Apto. 101,Lapa,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+d84e799d-dea1-45c7-9aad-5992d35c6b0b,88746794,Travessa Brasil,541,,Santa Cecília,d43066d2-5762-4fa1-af9a-2258511482f7
+100142d6-35f3-468c-a322-594244ce4827,45005863,Rua Rio Branco,1161,Galpão,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+60ab503e-e483-4a14-8608-9e9cec5a8c67,48719900,Praça XV de Novembro,1696,Fundos,Copacabana,cf5c7366-7d19-4f43-bda0-0f8678d20544
+522f35eb-7d55-4f76-9d99-fdab1f4d6187,47714648,Travessa São João,1669,Sala 302,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+228ddc28-6a01-4069-9ee4-d07b436dbfa1,11582724,Estrada Brasil,1973,Loja 5,Jardim Paulista,8889ee61-9c8c-4e5f-9609-430d512666b1
+7e2e8462-6ace-477b-9341-bf25498aff18,32250239,Avenida dos Andradas,70,Casa 2,Centro,cf5c7366-7d19-4f43-bda0-0f8678d20544
+25f0f75e-dc87-4f2b-b931-21d48c5eadd3,46485221,Alameda Rio Branco,1293,Galpão,Centro,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+6d1642f3-18cb-4cb9-8f42-91c43607982b,15988432,Rua Ipiranga,246,Galpão,Moema,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+eeb6dd80-70de-40f7-8f02-2a849a1104dc,96620174,Travessa XV de Novembro,1922,Casa 2,Itaim Bibi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+96e34900-b335-4b9e-8cf3-d7d8b4da9dc9,81185904,Avenida São João,1935,Fundos,Pinheiros,cf5c7366-7d19-4f43-bda0-0f8678d20544
+e00985bf-de43-43db-9b37-859b49796699,27817103,Estrada São João,859,Galpão,Copacabana,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+607626b4-b5b5-494d-9b18-196b3699b696,60171817,Alameda da Liberdade,1939,Sobreloja,Centro,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+46b8d15b-feae-499a-bbc9-79316b7f720c,11170803,Estrada XV de Novembro,1680,Apto. 101,Savassi,d43066d2-5762-4fa1-af9a-2258511482f7
+6f442616-5a00-41fd-8943-60969632854f,82477915,Praça das Flores,1725,Loja 5,Pinheiros,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+88aad88b-4130-41a4-96c0-6df4f78e37b2,49415580,Rua Dom Pedro II,397,Loja 5,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+8773fec3-f453-4b81-acf7-f2f1fd8dc1a8,72678441,Praça do Comércio,1000,Bloco B,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+a5076405-cdb8-4d70-a200-c6bde97c0db7,30597558,Avenida Dom Pedro II,816,Galpão,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+4224f4e8-7b31-43f4-b6e0-93113029c170,30648402,Avenida Brasil,1984,Loja 5,Itaim Bibi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+dabeebc9-db24-4615-9a6c-378d0d228f5a,72789589,Rua São João,1841,Fundos,Lapa,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+98d1d48d-8dfa-4a63-bb2a-a50b72a1b406,27769195,Estrada Dom Pedro II,908,Casa 2,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+39b73dbf-e95d-436e-8d5a-8d102faa4743,15743579,Rua do Comércio,127,Loja 5,Moema,8889ee61-9c8c-4e5f-9609-430d512666b1
+019e80b4-d7d7-4f18-8de5-99d23eb3cc07,51868913,Rua Brasil,1298,Sobreloja,Jardim Paulista,cf5c7366-7d19-4f43-bda0-0f8678d20544
+89c8e4ee-ef37-4c99-a921-af7d52f8a322,69820724,Avenida das Flores,1741,Fundos,Lapa,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+95f344bb-da58-4a37-8857-d8957fee4884,26577238,Alameda das Flores,570,Sala 302,Moema,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+27242d69-0855-4468-9f04-1f6909899ef5,39480786,Alameda da Liberdade,87,Bloco B,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+f8890ea4-814c-48b4-b7de-70b2cb93a4d2,72261833,Estrada São João,1074,Apto. 101,Itaim Bibi,d43066d2-5762-4fa1-af9a-2258511482f7
+3acbf364-8172-4df4-b5f0-b75386c09ffd,75822966,Avenida das Flores,1072,Sobreloja,Pinheiros,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+febb369e-960a-4de0-b5e4-d60beb77f6b3,39718504,Avenida Dom Pedro II,1635,Sala 302,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+b6af9378-349f-41d1-9f7f-b8c6a8f641f0,25850363,Rua Dom Pedro II,1225,Conjunto 12,Centro,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+b0868ac1-eb0a-4a0a-bbe4-125f290da4ea,45606134,Rua da Liberdade,1206,Loja 5,Pinheiros,cf5c7366-7d19-4f43-bda0-0f8678d20544
+eb23899d-f48f-4a54-a766-7d74fc0436f6,47269370,Praça da Liberdade,1099,Conjunto 12,Copacabana,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+477191da-af4e-4e67-9f83-eeafef2d7e21,87200609,Travessa São João,1426,Galpão,Jardim Paulista,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+1629b5d2-761e-47e3-96a2-4db8fc6056f1,90301388,Rua XV de Novembro,1976,,Santa Cecília,8889ee61-9c8c-4e5f-9609-430d512666b1
+8c7fe3bd-ceb0-4bce-84c5-7298bb059aed,69493218,Praça São João,988,Galpão,Savassi,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+5908e38b-040e-486a-bcd8-c1014ed3dc76,18184906,Praça XV de Novembro,1633,,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+b6c40ece-7eb0-4485-987b-ab04e1cd55bc,41333561,Rua XV de Novembro,1777,Galpão,Santa Cecília,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+930e652c-d195-47c9-a54f-042345def690,51601153,Travessa Rio Branco,1493,Apto. 101,Copacabana,3ba47ebc-5b33-4dc7-bff7-6749b2f76580
+4c37eb5c-5ed6-44de-8c34-72871c0c3c98,15257608,Rua Ipiranga,1895,Sala 302,Lapa,cf5c7366-7d19-4f43-bda0-0f8678d20544
+8e4e5a4e-c45b-4e30-9fe7-733cc0024368,76054180,Travessa dos Andradas,198,Casa 2,Boa Vista,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+8236b660-5916-480c-aeb1-5d8c7922d56f,11885257,Praça Brasil,817,Sala 302,Santa Cecília,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+b33c1f3f-5811-4388-9015-235b0d4dd17a,44532312,Rua da Liberdade,146,Conjunto 12,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+948cea21-9c41-41bf-9977-9c8d17dec8f0,62669612,Alameda Ipiranga,1551,Apto. 101,Pinheiros,933243f9-4aec-4288-af69-4d6ecf0cc16b
+0ef5689e-7f1d-4e2e-9bbe-e8a7832f4d5d,74861513,Rua Ipiranga,653,Sobreloja,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+91130b6e-bdb8-4732-a7d9-6eccfca4be8b,10375385,Avenida XV de Novembro,731,Conjunto 12,Moema,cf5c7366-7d19-4f43-bda0-0f8678d20544
+284093c4-59be-4bd3-bda7-241ff0bf7f04,38054603,Rua XV de Novembro,618,Conjunto 12,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+852658e3-4cbf-4b80-a176-25b214d875e9,78800896,Rua do Comércio,656,Galpão,Santa Cecília,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+4351893e-4d7a-4c9b-a094-8d6a3577770a,95993130,Rua Ipiranga,1448,Casa 2,Savassi,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+8a37952a-84c3-417f-baad-5c35c83c6487,37420651,Rua dos Andradas,1795,Apto. 101,Copacabana,0c6c715c-8c82-407d-8fc8-5d4fab0c8284
+caacbf84-ac9a-436c-8c88-eddcae53acef,92175106,Rua XV de Novembro,715,Conjunto 12,Copacabana,8889ee61-9c8c-4e5f-9609-430d512666b1
+01bedb3b-6a3c-498c-a1f8-98096c06d359,11697999,Avenida Ipiranga,1769,Sobreloja,Jardim Paulista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+fbb6e0e1-6b51-4ed2-828b-054c7671beed,54329542,Estrada da Liberdade,1441,Fundos,Boa Vista,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+af0fd19b-8a4c-4165-858d-c05067ea2951,19086784,Estrada das Flores,1516,Bloco B,Centro,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+5366b5bb-91a0-4fa4-ba50-c3f75624db4e,40214213,Travessa XV de Novembro,1662,Loja 5,Centro,3f725fe9-ba1f-4f8f-8542-1582e80c3724
+77bb8e26-0b44-48ee-b4fe-fdab94c015eb,23541153,Travessa Brasil,1156,Sobreloja,Lapa,f1a62904-d784-49e4-af77-6f085917d482
+5f44c807-a9f9-4e92-a1e9-6c1e286f4395,82965529,Rua das Flores,1160,Bloco B,Itaim Bibi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+0479ff36-365a-48a1-ae91-6cf57f3d611e,36654929,Rua São João,36,Casa 2,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+06910c01-6836-42a1-9653-e2653770ac73,66316185,Travessa Dom Pedro II,1912,Fundos,Savassi,f1a62904-d784-49e4-af77-6f085917d482
+0cf0a76b-1f57-4e44-9e94-e2e46d8fe9f3,76914954,Avenida Ipiranga,445,Galpão,Lapa,0359ed1a-cacb-47df-b04e-4c1c6c4f9bc3
+a5962487-82bb-44d7-b71b-1c7d77945c57,30275960,Rua Dom Pedro II,201,Sobreloja,Pinheiros,933243f9-4aec-4288-af69-4d6ecf0cc16b
+d4a0e6c6-3f84-428f-89b6-ca3aeead12ea,79064598,Avenida São João,300,Sobreloja,Itaim Bibi,cf5c7366-7d19-4f43-bda0-0f8678d20544
+7ef09a62-084c-4786-b680-4fb21bfeeeb9,19330350,Avenida XV de Novembro,231,Bloco B,Lapa,8889ee61-9c8c-4e5f-9609-430d512666b1
+f25351ec-efaa-4a47-a163-2d80ac708f7c,87482910,Avenida XV de Novembro,159,Bloco B,Centro,f65dc74b-bfb1-4ab5-9fe2-99e544b049be
+b8d1acc6-99ea-4312-a0db-015971d0d1e8,81458339,Travessa Rio Branco,1648,Apto. 101,Savassi,0c6c715c-8c82-407d-8fc8-5d4fab0c8284

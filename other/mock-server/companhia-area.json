@@ -1,0 +1,22 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPathPattern": "/api/v1/voos/.*/reservas",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.passageiro)]"
+      },
+      {
+        "matchesJsonPath": "$[?(@.data)]"
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": "{ \"passageiro\": \"{{jsonPath request.body '$.passageiro'}}\", \"voo\": \"{{request.pathSegments.[3]}}\", \"data\": \"{{jsonPath request.body '$.data'}}\", \"assento\": \"{{randomInt lower=1 upper=36}}-{{pickRandom 'A' 'B' 'C' 'D' 'E' 'F'}}\", \"eticket\": \"{{randomValue length=25 type='ALPHANUMERIC' uppercase=true}}\", \"timestamp\": \"{{now}}\" }",
+    "transformers": ["response-template"]
+  }
+}

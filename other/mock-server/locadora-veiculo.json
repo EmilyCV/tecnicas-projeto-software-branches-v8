@@ -1,0 +1,31 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPathPattern": "/api/v1/veiculos/reservas",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.motorista)]"
+      },
+      {
+        "matchesJsonPath": "$[?(@.categoria)]"
+      },
+      {
+        "matchesJsonPath": "$[?(@.codigo-cidade)]"
+      },
+      {
+        "matchesJsonPath": "$[?(@.data-check-in)]"
+      },
+      {
+        "matchesJsonPath": "$[?(@.data-check-out)]"
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": "{ \"motorista\": \"{{jsonPath request.body '$.motorista'}}\", \"categoria\": \"{{jsonPath request.body '$.categoria'}}\", \"agencia\": \"{{pickRandom 'CENTRO' 'RODOVIARIA' 'AEROPORTO'}}\", \"data-check-in\": \"{{jsonPath request.body '$.data-check-in'}}\", \"data-check-out\": \"{{jsonPath request.body '$.data-check-out'}}\",  \"numero-reserva\": \"{{randomValue length=25 type='ALPHANUMERIC' uppercase=true}}\", \"timestamp\": \"{{now}}\" }",
+    "transformers": ["response-template"]
+  }
+}

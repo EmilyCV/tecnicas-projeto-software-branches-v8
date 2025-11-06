@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.3.xsd">
+
+    <changeSet id="20250816120002" author="juniedson">
+        <createTable tableName="LOCALIDADE">
+            <column name="ID" type="CHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="NOME_CIDADE" type="VARCHAR(255)"/>
+            <column name="ESTADO" type="CHAR(2)"/>
+            <column name="CODIGO_LOCADORA_VEICULO" type="CHAR(8)"/>
+        </createTable>
+        <createIndex tableName="LOCALIDADE" indexName="IDX_LOCALIDADE_NOME">
+            <column name="NOME_CIDADE"/>
+        </createIndex>
+    </changeSet>
+
+    <changeSet id="20250816120001" author="juniedson">
+        <createTable tableName="ENDERECO">
+            <column name="ID" type="CHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="CEP" type="CHAR(8)"/>
+            <column name="LOCALIDADE_ID" type="CHAR(36)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="LOGRADOURO" type="VARCHAR(255)"/>
+            <column name="NUMERO" type="INT"/>
+            <column name="COMPLEMENTO" type="VARCHAR(255)"/>
+            <column name="BAIRRO" type="VARCHAR(255)"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableName="ENDERECO" baseColumnNames="LOCALIDADE_ID"
+                                referencedTableName="LOCALIDADE" referencedColumnNames="ID"
+                                constraintName="FK_ENDERECO_LOCALIDADE"/>
+        <createIndex tableName="ENDERECO" indexName="IDX_ENDERECO_CEP">
+            <column name="CEP"/>
+        </createIndex>
+    </changeSet>
+
+
+
+    <changeSet id="20250816120003" author="juniedson">
+        <createTable tableName="CLIENTE">
+            <column name="ID" type="CHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="NOME" type="VARCHAR(255)"/>
+            <column name="DATA_NASCIMENTO" type="DATE"/>
+            <column name="EMAIL" type="VARCHAR(255)"/>
+            <column name="TELEFONE" type="VARCHAR(50)"/>
+            <column name="ENDERECO_ID" type="CHAR(36)"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableName="CLIENTE" baseColumnNames="ENDERECO_ID"
+                                constraintName="FK_CLIENTE_ENDERECO"
+                                referencedTableName="ENDERECO" referencedColumnNames="ID"/>
+        <createIndex tableName="CLIENTE" indexName="IDX_CLIENTE_EMAIL">
+            <column name="EMAIL"/>
+        </createIndex>
+    </changeSet>
+
+    <changeSet id="20250816120004" author="juniedson">
+        <createTable tableName="PACOTE">
+            <column name="ID" type="CHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="NOME" type="VARCHAR(255)"/>
+            <column name="LOCALIDADE_ID" type="CHAR(36)"/>
+            <column name="DATA_INICIO" type="DATE"/>
+            <column name="DATA_FIM" type="DATE"/>
+            <column name="DISPONIBILIDADE" type="INT"/>
+            <column name="TIPO_DESCONTO" type="VARCHAR(36)"/>
+            <column name="DESCONTO" type="DOUBLE"/>
+            <column name="DURACAO" type="INT"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableName="PACOTE" baseColumnNames="LOCALIDADE_ID"
+                                constraintName="FK_PACOTE_LOCALIDADE"
+                                referencedTableName="LOCALIDADE" referencedColumnNames="ID"/>
+        <createIndex tableName="PACOTE" indexName="IDX_PACOTE_NOME">
+            <column name="NOME"/>
+        </createIndex>
+    </changeSet>
+
+    <changeSet id="20250816120005" author="juniedson">
+        <createTable tableName="ITEM_PACOTE">
+            <column name="ID" type="CHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="TIPO" type="VARCHAR(50)"/>
+            <column name="PRECO" type="DOUBLE"/>
+            <column name="PACOTE_ID" type="CHAR(36)"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableName="ITEM_PACOTE" baseColumnNames="PACOTE_ID"
+                                constraintName="FK_ITEM_PACOTE_PACOTE"
+                                referencedTableName="PACOTE" referencedColumnNames="ID"/>
+        <createIndex tableName="ITEM_PACOTE" indexName="IDX_ITEM_PACOTE_PACOTE_ID">
+            <column name="PACOTE_ID"/>
+        </createIndex>
+    </changeSet>
+
+    <changeSet id="20250816120006" author="juniedson">
+        <createTable tableName="HOTEL">
+            <column name="ID" type="CHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="NOME_HOTEL" type="VARCHAR(255)"/>
+            <column name="ENDERECO_ID" type="CHAR(36)"/>
+            <column name="EMAIL" type="VARCHAR(255)"/>
+            <column name="TELEFONE" type="VARCHAR(50)"/>
+            <column name="ID_PLATAFORMA" type="VARCHAR(16)"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableName="HOTEL" baseColumnNames="ID"
+                                constraintName="FK_HOTEL_ITEM_PACOTE"
+                                referencedTableName="ITEM_PACOTE" referencedColumnNames="ID"/>
+        <addForeignKeyConstraint baseTableName="HOTEL" baseColumnNames="ENDERECO_ID"
+                                constraintName="FK_HOTEL_ENDERECO"
+                                referencedTableName="ENDERECO" referencedColumnNames="ID"/>
+    </changeSet>
+
+    <changeSet id="20250816120007" author="juniedson">
+        <createTable tableName="TRANSLADO_AEREO_ITEM">
+            <column name="ID" type="CHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="NOME_COMPANHIA" type="VARCHAR(255)"/>
+            <column name="VOO_IDA_NUMERO" type="VARCHAR(50)"/>
+            <column name="VOO_VOLTA_NUMERO" type="VARCHAR(50)"/>
+            <column name="VOO_IDA_HORA" type="TIME"/>
+            <column name="VOO_VOLTA_HORA" type="TIME"/>
+            <column name="EMAIL" type="VARCHAR(255)"/>
+            <column name="TELEFONE" type="VARCHAR(50)"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableName="TRANSLADO_AEREO_ITEM" baseColumnNames="ID"
+                                constraintName="FK_TRANS_AEREO_ITEM_PACOTE"
+                                referencedTableName="ITEM_PACOTE" referencedColumnNames="ID"/>
+    </changeSet>
+
+    <changeSet id="20250816120008" author="juniedson">
+        <createTable tableName="VEICULO">
+            <column name="ID" type="CHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="NOME_LOCADORA" type="VARCHAR(255)"/>
+            <column name="CATEGORIA_CARRO" type="VARCHAR(50)"/>
+            <column name="EMAIL" type="VARCHAR(255)"/>
+            <column name="TELEFONE" type="VARCHAR(50)"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableName="VEICULO" baseColumnNames="ID"
+                                constraintName="FK_VEICULO_PACOTE"
+                                referencedTableName="ITEM_PACOTE" referencedColumnNames="ID"/>
+    </changeSet>
+
+    <changeSet id="20250816120011" author="juniedson">
+        <createTable tableName="COMPRA">
+            <column name="ID" type="CHAR(36)">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="CLIENTE_ID" type="CHAR(36)"/>
+            <column name="PACOTE_ID" type="CHAR(36)"/>
+            <column name="DATA_COMPRA" type="DATE"/>
+            <column name="DATA_IDA" type="DATE"/>
+            <column name="DATA_VOLTA" type="DATE"/>
+            <column name="VALOR_PAGO" type="DOUBLE"/>
+            <column name="DESCONTO" type="DOUBLE"/>
+            <column name="VALOR_TOTAL" type="DOUBLE"/>
+            <column name="STRIPE_CHARGE_ID" type="CHAR(27)"/>
+            <column name="RESERVA_HOTEL" type="CHAR(12)"/>
+            <column name="ETICKET_VOO_IDA" type="CHAR(25)"/>
+            <column name="ASSENTO_VOO_IDA" type="CHAR(4)"/>
+            <column name="ETICKET_VOO_VOLTA" type="CHAR(25)"/>
+            <column name="ASSENTO_VOO_VOLTA" type="CHAR(4)"/>
+            <column name="EMBARQUE_VOO_IDA" type="DATETIME"/>
+            <column name="EMBARQUE_VOO_VOLTA" type="DATETIME"/>
+            <column name="RESERVA_VEICULO" type="CHAR(25)"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableName="COMPRA" baseColumnNames="CLIENTE_ID"
+                                constraintName="FK_COMPRA_CLIENTE"
+                                referencedTableName="CLIENTE" referencedColumnNames="ID"/>
+        <addForeignKeyConstraint baseTableName="COMPRA" baseColumnNames="PACOTE_ID"
+                                constraintName="FK_COMPRA_PACOTE"
+                                referencedTableName="PACOTE" referencedColumnNames="ID"/>
+        <createIndex tableName="COMPRA" indexName="IDX_COMPRA_CLIENTE">
+            <column name="CLIENTE_ID"/>
+        </createIndex>
+        <createIndex tableName="COMPRA" indexName="IDX_COMPRA_PACOTE">
+            <column name="PACOTE_ID"/>
+        </createIndex>
+    </changeSet>
+
+</databaseChangeLog>

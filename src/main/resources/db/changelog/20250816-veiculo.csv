@@ -1,0 +1,556 @@
+ID,PACOTE_ID,NOME_LOCADORA,EMAIL,TELEFONE,CATEGORIA_CARRO,PRECO,TIPO
+c1e1c207-2c27-41c7-8472-cf44c13f3f19,0018e0da-d903-4181-862b-0127bae799ea,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+b8906d17-9116-4f52-86b7-a618ffb33e8b,00723f98-a7a7-42cf-ae53-aa2b449c86c6,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+9ae779cd-c244-4d7d-a477-6b2138fa172e,009ce3cb-25bd-4ef5-ba13-391a2817c19e,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+18df4521-28cf-4808-9ec1-6073358bf8c6,01a762e7-7548-4b6c-8962-2c53dd36cc85,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+10c44ec6-1a57-487a-ae22-eba96de3384f,0263d1fc-b72e-4b18-8d7d-c6cbe8203853,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+73645979-bb60-4b0b-ac29-e5dbb3e00423,02641de8-d3d7-40a8-86bf-2fb89754aafc,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+de8c7051-c050-465e-8376-7a77913fb1db,02c5f980-c9b7-4f39-8639-5d62935a7a60,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+4067909a-73c9-42a0-b7b4-4edf90d31f40,02f2684b-366e-4f8f-8e3f-fa17750a856c,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+7a5dbf4c-31dc-45ec-8748-3a05a407fcb6,0362ceb8-1482-4067-a5d9-1ce936a6eb45,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+87a172dc-6f68-4881-bb9b-999d50f1278e,03a15c95-a61d-4e30-9430-679cb502122a,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+6290bbe9-19f0-49e0-b82d-4e82c01cde86,03a6ce05-141b-4a0c-82a0-0ab0b7320819,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+f65ccfd6-351a-4b24-a86c-70610a30d5de,051c09b9-9186-453f-b138-08d616112828,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+ce14b45e-6bf3-4e9d-b96b-5057c500c1cc,05893f1c-5226-4d51-8985-1bb82478cb22,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+34095844-1faa-406b-9f58-d20da95f932c,05ee6f52-85be-45e8-b42c-ef15c905f2d3,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+743b267a-667a-41db-abd1-454de4a64acc,05f39ea2-b9d3-4a94-89c4-b09c84d105e9,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+9e37b4eb-4182-47e9-a7b0-374b1bdd4c2a,0610acbd-0359-405d-bc4a-2bda1b31d343,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+f98219b2-8cb1-4d32-a198-055cd36cc084,061f5edb-3c9a-47bd-9448-9e65de229e23,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+c90f4a8d-f2fe-4aa0-b262-57d847a0b6f6,06a839a7-39e1-4a75-b23b-a96795e6a8e5,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+971ca7b1-f1a7-449c-b581-05ce872c9dfe,0801a7c5-7a75-4987-b312-43f9136f83cc,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+aa2e0a0a-86f5-4b4b-90ad-81a0b06d14f1,0839cd7c-6da7-4cb3-bd17-b0626553c957,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+bccb5e66-d266-434c-ac78-15a2ce9fe14f,0847bd11-58c1-477c-97cc-19e945bd1b76,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+1dc14c13-67bf-4831-8e48-b526f411c76a,0863a7b1-1930-478e-8b99-7431dbb85747,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+bb0c54a6-d6ab-402e-b20d-bbb05375200f,0883a3b8-1ee3-4843-bd1f-33bc0f37b796,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+a61386a1-46ff-4bd3-ba27-be37825d39e1,08df71d9-86c0-4552-9e15-be09a2ecd885,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+f083ae7b-9a11-4c2f-ad36-d6a863cc492b,09c7382f-47b1-4452-834a-dbdc36109f76,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+06ce737e-7653-4afb-b6f8-7f35e3e67271,09f05155-6f96-44cb-8d0b-29ee8c9bc86d,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+a0a5357c-badf-44c5-a789-cc1a478a08b3,0aad28da-c65a-47ef-8ecb-0f3ef404fbab,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+043bffd0-6267-4e43-bb55-05c1b217f980,0af386be-7763-4d7e-8b61-ef865351105c,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+d6947d4b-cb54-428e-8a6a-56287843f89f,0b3cedd0-b9e8-4c42-b52c-047608982324,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+d615d147-1fe9-48a9-a976-0f40c43cfd42,0baec014-296a-480c-883d-2789f4689f9d,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+98f38f6c-f107-47c1-93e2-88a0bf83893a,0c5b4de3-15e5-492a-b499-7cfa1523b278,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+f5524049-c29f-4e09-a689-6e1ffc65d408,0c81266c-1c62-47ff-ac17-9ba4d5af587a,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+1209cfd4-07b9-4527-b0b8-0cd95bfefbd2,0d874448-35a2-4e67-8398-04026ee71ab6,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+9aacb060-49db-4258-948a-bfc8923bba4d,0d91ce29-8668-4efc-bd60-673c0f15f880,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+5d38f78e-03f1-4bec-9d29-cb4093ad6eb8,0e7dfd5b-54f9-47e6-b6e9-904a82858242,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+808258df-f1c2-4ce1-9ab3-ae1e38262c32,0e93706f-efa0-4abe-b538-59dc05caedcd,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+c31c021b-62b9-4fd9-82fa-965af04f113e,0f0c8e1d-2ffd-4d77-8579-7b4b1b91c1d2,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+800d2644-d19c-4ceb-8a11-b47b58b20c40,108b783a-bf82-480f-a151-e2302ecafed6,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+8fa97ca2-7f19-4967-8f0f-b85b14b2aa23,11262ed7-80f8-4b88-87cb-d80850a54b58,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+9e9ef458-6840-4d28-81d0-876405165ae0,113de264-a13f-443a-85b7-c2dd86d8813f,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+f87d4f0f-f732-47e9-a295-56ba2ba8b164,126f3b00-fa81-40f9-bc33-9e9a9a87948c,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+d49d6acb-0d5b-48ea-8d3a-debf07cb43c5,12e7e53b-93a0-4cfa-9d86-cd95e044b28b,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+33fec140-3cdf-485a-a970-6e5f3f08dfd5,135f8016-0e92-483a-aa2a-0f3a40559e40,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+b708f12d-210a-4d91-91a6-7daad3f714e9,13e5f981-e763-46e7-8055-4ac6a480cc35,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+3e11e303-9671-4379-a8eb-3437e811c5e0,154f572c-4624-469f-8fe4-cd2f5453d8b7,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+5265729d-74c8-40fd-bb9e-38eb46c46a52,155f253c-5b03-4e0b-abce-eb35737a01e0,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+ebaadbfa-062a-4a46-ad99-3d21be72cacc,17444f78-8923-4ea2-bcd7-8213c0d60ad4,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+01ac8bc0-0e88-49bc-bed4-8492908994e2,187f6ced-5fc4-43ca-9bc5-a26b89e83007,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+6c3042d3-8a1e-4395-9341-6e660c33d2a9,19629614-09c9-4c21-b756-db994578c54a,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+f7f2b288-1273-4648-b0d4-5734bb68e19e,19a61d1c-4026-4de8-88a9-10609e82a0ea,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+cf78ec50-62e0-4bb1-9520-5b1d0bf81abe,19d4c584-c2c5-4b4f-885c-1a3701a65288,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+7a3cdc58-c543-4a51-881d-bc9a4d254190,1a60ee30-7844-4fc6-a823-0cb3d2a967eb,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+661cbe63-2f13-45e9-896e-454dbfb801fe,1a6a1b15-3cc7-4156-adf9-fdf8660b210c,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+f9106c9a-408c-4655-8daa-7093c2fb3520,1b9924d0-5ae0-43fe-b84e-bc0016324b38,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+38c9bfc2-07c0-42d0-ba47-e85e6c265994,1c374448-98f3-4dd5-8051-1029cf8aa9a7,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+a0ab097c-d8fb-417d-8796-3c3bff9a9b2d,1cbaa688-0ba9-42a1-99b7-f0ec1fcdfd86,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+c7b8a7c0-f74f-4943-b56c-3210d68bd96b,1d3ec0c1-fc23-4cac-8065-367b132a1405,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+e03de304-eada-4ee2-92ee-c86ae2269286,1d825a5f-103a-4deb-b7b9-244b84ac92c5,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+d8d95ec4-e95a-435b-86da-613f9b02cc8a,1dbb0583-93cf-4f10-a1fc-9ffcda8cff0e,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+4c92fb6e-799c-4271-b98e-a4fa6975b2bc,1dde21fe-cbb0-41f2-a6c3-e2d515158b8e,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+27147e67-2bd7-40b6-bfce-dc4904a47376,1ea051cf-beac-4000-b5aa-4607a49b2c66,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+9115ce42-9f39-43dc-9adc-b4132d0b8865,1ed26a10-883e-4730-8cac-499e598d9f12,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+9c77616d-ab11-4812-8e14-cbc011780688,1f01882c-a933-4b5d-91dd-44db3ab81f30,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+dedddf8d-4939-47db-8232-b852ae3bd47d,21a9fae1-d112-48bc-b8db-619310cde369,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+dca9b0de-7fc2-4e3c-bd68-93b2ac1c5156,23e4248f-8cce-4648-9780-7f0e2bd874fe,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+f224b363-a5b7-4cf9-a7af-33e8b02934fc,23ed6eb2-fef6-43f1-95c7-1ed2a7e28419,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+e2ad0512-399e-42eb-bd05-23503317e2af,2409312f-cb03-41db-bd1b-2bfde7a7d9e7,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+8e47fef4-2f82-4411-8121-b023e5ded3ba,241de993-3ec3-4ee9-a71e-6102282cf1e6,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+72deff24-c93e-455b-815e-958069fa61d9,25300b15-8286-47fa-832b-4369d41e1c68,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+f096b2b5-2fc6-45f2-9770-99256b4cc4f1,258869e7-c1d4-4451-8644-3e4b6c253063,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+05e1ff7e-85af-4a04-b599-6b8822e9020b,25a1082c-7604-4c3b-9e67-331af5b31ef0,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+23f80802-6396-4c49-9eb3-1b2ad9b2894c,25c098c7-b6ee-4f49-9b1d-967e0e336c20,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+851c9945-82bf-4c7c-bb9d-bb87f2e0c105,2601ac80-5316-4358-acd9-0713b4f35c1e,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+b6e6cf45-882c-4235-aa25-ef3c14ccf7f8,26b1eccf-f81f-4b2a-b84f-957e5ae0f73b,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+5e3f7542-45bb-458b-be96-e7ed63c4cce2,26cdfc0a-9dfc-441e-a2ff-09f181638519,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+91b9b3f7-096e-4cb4-9370-34e42cb06441,270c2804-bcee-415c-9a6a-0025f7fa5014,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+69899e1b-0c8b-4bc6-8220-f93bcb674419,2754ec66-8876-4856-a853-eeab9aba2c31,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+1f6dcee2-0999-4c69-ba15-bcf06bcd44d9,27c0d90b-2360-4578-8cc3-55e3f6b8cfdb,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+0899e753-a492-4990-8659-3f8cb1b21d47,2836ad8e-f71f-4f4d-909b-973a2567384b,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+43fd19a2-1589-42da-9417-1873e8cc4daa,28822d6c-0b29-4175-bd32-49795076801d,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+6cede11f-277d-4a4b-8d99-e0ea43674963,28b18f7e-0ef9-4718-898d-4b23f4c7fbfb,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+490c4d89-04bd-4c29-9928-5962099491f2,28c44431-df7f-4dd2-b1fe-ea43dc62dd85,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+89d8008d-54e3-41d9-a53d-664c9d6dcf1c,28e3e2e4-44cb-452e-ac49-57b3f154cb18,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+14a34a7c-f877-46ea-88b9-74310b8084f8,29a45419-a067-4f3b-b532-4f1f63e01bf3,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+75648815-fce7-48d3-a0d7-bc25a0c5f84b,29f5a769-b10f-421d-96dc-4072dbd77a97,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+855ec85b-e868-45b2-9871-72a758312071,2bab84bb-3406-404a-b788-846ff687fd68,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+3da92caa-48a7-48ea-93a0-ad380f8cd9bb,2beebcd5-3dde-40f0-8caf-bcd01ce1cebf,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+e9bd791a-955a-46bf-9f40-1953b96c3b30,2bfb177c-976e-469c-bf76-5c5aac6d47b5,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+4c097d67-1bd7-4b17-b76d-9c7f197cb537,2c4071b8-39bf-40f6-8c0b-0a9a5f000f74,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+44d81efa-c350-48c2-ae16-3ac1f3c236ea,2c57eafe-0fa9-4aa7-9b8c-fcaf558fcc93,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+12e8ecb6-2aa4-4653-b8e3-3da7d75f60e0,2f90c904-2f13-4009-a0c9-d23e7a44041b,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+e0447c89-ab9c-4319-a8fe-745789a9a502,3004abe7-3a5d-43bf-9180-dfcf3c41a5e9,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+6080e3f3-298c-45c9-8106-22c29b61fd65,3098daca-4cc9-4fa3-87df-cd98b1b82ca3,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+5bf37222-78b4-4f2e-baaf-b2df3f3b6a00,31469361-f12f-4a91-808c-e5094f19018e,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+1f5f78ec-e219-44fa-bf0b-3fbb0a95bc1e,31ec0f02-1e7f-41fa-9fc7-c7c73aa5fd55,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+64417a74-7590-48e3-b9c5-9b533e5048d7,3200f3f0-32ed-44ee-9bee-cc040f81a57c,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+68b91564-9f00-4b09-af3f-145186324e3e,32607007-0419-4cb6-82df-f3fdbd71ee7b,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+70f619ca-02ab-4268-9222-20d6fb9c857d,339e3860-de6a-47e1-be22-28a180935046,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+d1c5f407-24f6-4326-b14f-dc36fe8378d8,3470e565-5377-4155-a5de-1120bf0a4c30,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+ea3dd570-feaf-4749-97fd-701131acff65,35e72b34-724f-4323-975c-359f65e9d1c8,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+81c49a1e-a0ad-4dc3-82cf-44402a903120,35ec6833-53be-4f36-9b69-cbd4bd87a6d3,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+a05e1b3c-b09d-4645-afa2-62b7a3d5b992,3644f270-b33c-4abc-8f46-54723944bdaa,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+f3ca3fea-cbd6-4d44-a58c-540a716d348b,3747fe94-9f4c-4a4a-a24e-6161a0224799,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+04804a62-a383-49bc-8b38-578d10e60382,386895c6-6f9d-4a2f-a93b-80e885c874a7,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+d10b76cc-aa54-4adc-9060-94cfad6cbceb,392d15a2-d6cc-43d3-b4ff-959d67114412,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+5ff4bbe9-fd5d-4aa1-8a94-e23df08749c5,394c6f84-079e-43da-99f4-f582c8387142,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+d53f4ed9-ae25-41f9-8f38-d3918bff772a,3973ec1e-9707-4071-9ab2-78b02e067af4,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+8c280343-c6e1-4c33-9f32-8811c435cba5,397dafa9-c60b-4f4f-8f9c-fe693389e31f,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+e4dced0f-772f-4c12-bdf4-aa6cf9bf242c,39fc877e-2756-435d-9d34-daf5305e0811,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+3a174084-2d04-4be3-b5de-0a0641837190,3a7b8af1-693d-4757-9d0e-ef4348a6c037,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+a3c708fd-a840-4670-945f-402caa75c398,3a9bb3e2-3866-48f3-a290-f895ca2227d5,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+0655b820-307e-4785-b01f-15ce080ad582,3aba3fe5-266e-4d56-bd52-e80723d9b6cf,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+e500bc47-c592-40f5-a4ef-df670f9b9e59,3acb534c-4acc-4f88-9ef9-399e076f781a,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+82319851-8f54-4f26-8019-6ce782f5ae77,3ad32ff4-1396-4010-8f4a-767da5d096b6,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+f10a6efb-965c-481b-821d-0c5c2ff3ac91,3ae52458-abc2-4298-bba0-7454fc1ded3e,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+a9055995-a159-444f-bda4-2282ba92b580,3c698162-fa7f-4318-b600-695fde4bc23b,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+fc4a66d0-b713-48c6-8285-e06aa45cbc67,3d52bedf-efe5-412b-8d91-ee27a757df89,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+dd970c96-2dab-4781-9906-caea14a150c0,3d983c54-ce8d-4d87-b04f-89792be81732,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+e25296e5-2e45-43da-9157-6712afb378e3,3ee9bade-2796-4bee-b8be-cf49695356fa,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+611471c1-af2b-4941-a8fb-d907dbe458ed,3f5a3a50-5306-4933-b9f9-699dab50b54a,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+e451d007-0202-4e27-9846-caa3ebad439d,3ffe00ba-7a61-404c-b9f1-2273ce5f991b,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+4c094171-61f8-4d07-b4cc-5abb4061f1cf,4030d116-405c-40dd-898a-8b231fd7ff78,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+a821db9b-7a0d-4629-9e7b-c4944ef741c7,40c7be40-22fb-4e42-8265-a7706381608c,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+988df0e7-1954-4b18-8715-e4379f8f4548,40f8a781-f603-414b-a8ee-59db63568341,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+b4ea001e-996a-4b14-bf73-a67fd958e593,41157eb7-3da6-473f-977f-cf54dbf129c8,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+9f88f83e-e9d3-40fa-be1d-e6585447ca05,41c3d658-2035-4263-8417-93c497c30e33,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+27859ed6-d917-45e6-8686-8a861e04a2e9,41cfb03f-db96-4b73-9865-2903d0764867,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+b26c72cd-c580-46ef-95ff-633ff52a0428,41de89ba-dc4f-428a-a93f-8e37c91b05ad,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+743ee523-a773-4bbe-a573-d547df8ea5f9,422c6794-9742-49bb-925e-7260cba8639e,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+e82f05af-e221-4376-ad08-b9166c3859d8,4230472d-7351-4f50-9095-266802bc612c,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+24e9765f-a060-462c-baca-eba48ee141dc,42bfbc19-1472-4292-a452-de843f81f045,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+54e42f90-551a-431e-af56-2184947763bd,4307b6bb-8233-4dee-9539-9cfe5662e12f,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+489deb8f-d917-468d-891b-655942662995,43615990-d58c-4b62-84c0-01603dd8a840,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+b52967b0-8c71-4a30-a3dc-c35e5c3ac4de,439aa925-b83e-445a-bd08-903c0865cabc,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+86f0e228-0fb1-4d28-87e7-bd88d4043d20,43cfc252-7dc2-4664-8b73-945b62913ea4,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+5fcb4d56-35b5-407b-a571-b6bdad81641d,43ea0f95-803d-410d-bc82-306399816f2b,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+d297f12b-7c83-4688-b031-5e01978f89e9,45fd1298-8d9c-49b1-8549-270fd45ee69f,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+802e7921-8cb5-4aca-a62b-6143d22264bf,460e10da-9536-409d-add5-d0e96fa469af,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+3f8dd6dd-99e1-4b44-b6b8-d9baa550514b,4697eda4-98ae-46de-9daf-140dc28e0e72,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+bfd08f95-aa7a-4c64-96ef-7ecc2fcad1b3,469cf76c-ef88-42af-a12f-098727efeb60,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+f17452a2-7448-4314-9686-7c9a1677c722,47e23445-d08c-4dc0-8070-d0250af06a59,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+1d1a9cb6-77f3-4a46-a540-fade83973752,48630537-5968-4332-8220-1409b1896615,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+5f8af747-7219-48d4-b3e1-4d4a0ab075ff,4885ebeb-8c84-4961-a04c-ddef199daef9,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+c7a74dd2-e94f-4ed4-8998-21905868d91e,4934b7e4-9b6a-43af-bdd2-e9ea0c841732,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+fc893a55-1c10-4e98-b90e-61fe7dc75c7d,49524e7f-7057-430d-88a8-2d63f109430f,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+222453e6-f6ca-4949-aa38-8197c7893445,4969e70d-9d3c-423c-9bc1-79a10a0df438,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+04c859b6-19bc-4fef-a3cc-f2885d0bf786,49b39ac9-60dd-4b67-81fc-f3edb7ec3a48,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+5f6749c4-4047-405b-b53f-5258dc9a3d41,4ac8bffc-0ec2-456a-95b4-268763ee8572,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+e574a4c9-1032-432e-8a7c-04a0c2accd76,4b6e87b9-e760-41d0-b6de-4f8780411bbe,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+a855f68c-e86d-4eb8-b70d-c418fb2f902e,4b76f1f7-6bc0-4d16-8ffd-921d16fe8041,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+c64db493-1300-4d72-a2c9-2dc7ae3b3c18,4c036e63-fa65-4645-a5c1-1390915dfa43,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+cce821ba-0fc4-4434-b578-30ca79009ef6,4c4ee271-3b5b-4c9d-b2d6-183be74f5b01,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+dae25af5-3e11-4f53-9108-c8bf9fa3c4a1,4c5923e7-d6d1-466e-978d-0edd1fc0a688,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+d3d5e335-c52a-43ca-8f7a-69e3ded2e1df,4c795530-6c07-4965-9260-67dc33c8a2a6,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+48cd745b-9a2d-46b7-8066-76bb623bdb25,4c8768bd-b6f9-49f8-829f-f5f5df29ed92,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+5185ad5d-24a2-46c8-8e7c-d31c40bc0098,4ca570c3-570e-403a-87ff-96b429f46a2f,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+ca14098e-3225-4556-857c-5e8151d5e99f,4d9865fb-9966-4c85-988c-6147486aff07,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+fd520fbc-8661-41d3-87f1-069d9e231d57,4dc2d355-d339-42d8-b255-d0e50f7dc23a,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+04508f79-0d05-4190-8877-09cfd8461163,4e477673-5ff8-4a54-91b0-08c86b294527,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+9212c289-09e5-46fa-bf34-e3300cfd581b,4e88cc72-f08d-49ac-bc7a-defe32899db8,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+9810b833-bb26-4b83-9ed7-be02ed006836,4ee65d21-95c6-4ef4-88b6-3403f24151fb,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+8cadb0b1-89bc-4e86-9735-669b92a195eb,4f09c5ec-3156-4c89-a9d9-ef6059f450ec,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+7bc1b312-f616-405b-b706-83266c238ec7,4f17f0d0-5ca0-41d2-85d7-c7218c38b5c9,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+3d7f8bf1-5dca-4c5d-80bc-7362a1fb5786,4f9d6fdf-509d-470b-a8ef-eeb0731c82a1,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+4d7ca36e-c1b7-4f7b-a9a1-a6057bb31f88,50755c2b-8d33-42b3-a9a0-dd8417f6a6df,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+1a76d66c-7d7d-4440-8c9c-2e490d3efc77,51686124-3013-4d4e-bb3b-afaee9153899,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+ac927779-2aba-4dd7-8397-4576cbed2cdb,516b4dd2-9285-4839-87e8-65d11013b6da,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+ff104971-840d-4aed-982b-8b4861b520be,51d03f41-5a16-4c1a-a2d3-27d3a998b733,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+81d9b415-6790-4428-8269-bca0a427f62b,521efc2e-c3b1-4fac-ba4e-7aacb7ab415f,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+6044aaf3-c6ea-4c7c-ba46-cb88ca2ea394,534fa425-c0ae-4da6-915f-4ebd702a185d,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+769bdee4-500f-4fa0-aa40-372378e80bca,54ddf46a-18be-4d4c-b30c-9493dcab15dd,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+e7906d0a-71e3-4f60-b213-2c70d44be815,550d66ee-cb5f-43de-948b-c3b1b08d8bd0,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+e6b47e63-0172-4477-97e7-e60a6f89ccaf,55c1eec7-98dc-4e0c-aa0a-915944f8bea5,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+af9e7ec9-0ce1-46ff-8325-31a1adb0b4a5,55d3eddc-1bff-456a-89f0-ecaa95d39519,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+091c6aa6-39a5-45ba-af73-01690bce2e7b,571631e0-d039-4338-bc69-e57648e5f476,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+ffed9f31-eefd-457a-865d-ea1a02560df2,576d0b7d-d01d-4836-9b57-669c17fccef7,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+ee5f0df3-c72c-4295-aded-34bf3db83679,57abb2d9-fe11-41ba-9e9b-fa6a402a4ab4,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+6467c48e-899c-4896-89f3-e97fda02fbce,57dd385a-5f4e-4886-9dc9-12e8fa61bce4,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+13fd384f-c248-4103-86ce-b8b274c9e4a1,57fb6323-18da-40a9-83e5-731de901d798,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+a2a01187-2e9f-4b35-b75c-84d11c7af803,58692347-bc3c-48b3-a2b8-d5621cb0a368,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+ad1c7a32-04e9-485f-a861-1b28bb65e619,587dc2ab-ffed-4996-ba19-07dfb49ee673,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+2b08d14d-1be5-4bce-afd4-7e73b8f114ed,5943c8b6-0bbe-4f94-bfca-4762b0c7b3fd,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+5f0fd757-aa04-4aff-a442-5b08aa677ade,5949afd5-0608-4888-9849-ac7a6a402140,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+752df4fa-f979-447d-a6c5-a57489af083a,5a3ef114-f342-4f52-9a79-293be5ebe06a,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+09d5e585-f0ab-4edb-acf7-f5f7eae8da80,5ab8da91-a46c-454e-beaf-dadd8cd6d680,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+9dbf84ff-c1c7-4804-9901-e7fab8f27cc4,5ada4a10-e587-488b-88cc-77c528cfff4a,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+2d03ce9c-0afd-4b85-8c6f-b88aa91b2bf1,5b29f0a5-b5ff-4c3a-b17a-311065776132,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+c606c40f-4b13-49bc-b971-0e6462d91ca5,5c5ee4eb-eefa-45e9-b2ee-38764970168b,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+a35fd29d-5a71-48ab-910a-cfcd5b397bd5,5c96aa8a-2126-4452-8dd3-b3fab885cbdf,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+c1a67b24-4f0d-432e-8f11-8fca6ebf2967,5da99762-63c2-40ef-9b5f-8cdab8b250dc,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+29f0f486-3682-41b8-a031-fadae3fd4afa,5e0048e4-9045-421d-9f71-dafa45751caa,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+39d70880-6e84-48f6-addb-bd2c11be9cb4,5f6621d4-19db-4f85-8848-68963758cfcd,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+a19d0bd2-d42a-4398-8373-5945629107b9,5f75e322-ba0e-4042-86e6-d286d7dcbca8,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+cd86342f-b801-46a4-8adc-2dc3c4cf1dba,5f86b922-79b4-45e5-9a37-103db6ab3599,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+c7ebdbcb-0546-4a5f-a1fc-2390bdfffdeb,5f9f1781-11d7-48b1-97f4-7b103cecbe35,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+b1b31bcb-43d6-4d35-b329-cf00d3b9446e,5fb8a8ea-2a2d-4131-b300-9ee071efd8ff,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+280a2895-ac42-4d28-b91b-7d651043ad83,5fc792ad-372c-4304-95f4-6c196b5f5ca4,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+6cf8edb5-4eb8-4c75-a66a-b3298a2f10a6,5fd20425-53d9-47b6-b03e-92bc756e9e3c,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+19b04f46-f7da-4d4d-86d2-0b6fafa136b0,60d26217-cf28-49f0-a463-4109084437fc,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+067fe011-b32d-4652-879a-5d12ce5fda01,60dfdf6f-24e8-4a00-835d-b4a06695da3c,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+5cc9d538-c614-4802-afb5-54fc851137e7,60eb70e6-3825-4486-a829-ec44fc9d2d43,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+47d40c5f-e70d-47ef-a218-35ee2819e256,60fcd156-5834-4262-8198-23ddebb5e00f,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+10a18bb9-8034-4fce-9ab7-446e52c61108,62128504-7185-479f-99de-8bedaf5fb7f6,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+8fb252ae-9812-4169-b05d-c9739c28c642,622fae8b-0d68-487e-88dc-698693f79e49,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+223eb3c7-f4b2-4709-ad0d-1f7a6003c6fd,6323d8ab-9586-4bfe-9eea-01f0a3a1c73e,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+c01444af-5bd7-4665-8652-943d191a23c7,64c3e163-0280-453c-892e-162f8ce111ad,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+32ff47f0-ca48-4524-b52e-b219392e228c,657bc1ce-b0d1-4433-9af4-b45b12ee7138,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+d6104211-db8f-449b-9638-b80d8c225693,65ecb526-7f76-4068-bc8b-870aaf03a3f2,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+1417e122-3b94-4199-b4dd-d07646a75769,65f4fafc-7ebc-4ee7-9818-f23d6df19804,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+cafe51e8-f0fb-44bc-9324-7fb140856e0d,660f60dd-08b9-4e30-aa07-664d74395e39,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+82613bba-015b-40a4-b676-fefd4083777f,66283a70-cf78-4dd8-8023-a12a186110a6,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+9284b6a0-7551-40b4-a951-f2a22f9d9892,66a0c976-e013-4825-977c-bbc51461eef8,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+a7bf5846-a579-49dd-a9bc-1f8abb6868a0,6723c5ba-803c-45c0-92a4-f841198a7d81,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+e15f13a1-fb7b-4768-8282-14dc77a3f3ec,67320706-e9be-457d-9f3a-2c961080edb7,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+3c9f1703-14c9-444c-9f18-4d4224f9f01e,67544a5c-9d66-418f-9075-60e64d79e853,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+e4df330d-b81b-412d-aa4d-279f39bac7b2,678151d9-9b33-47da-bdea-b3ddc65936ed,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+4a1d2b5a-229c-43cf-b92b-c13a0393f689,688a5862-5ba4-4a73-9d49-50ca127d1ab9,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+3b34f669-3704-48e4-ba4b-0a2205887e83,697cfc64-fbec-45d3-931a-0aa37520e901,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+c3fb2d1d-ca18-43ee-8914-43fbb6aa9066,698327aa-758b-41ab-978d-4b7b96b9f945,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+f3437040-3f6f-4870-a876-1fa53df463c2,6ae8b224-fe54-47c8-81e2-1969788db3da,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+bb45178f-01b5-4f36-bfc7-f382acb480f5,6b6fb261-6cad-4eae-a527-eb1e9aee1f6f,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+5aaf1fe5-8aa6-4672-aafd-50d53d8033d7,6c10b511-62cd-4251-a3c0-a4909045832c,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+8d1bbb52-56f0-4bbd-999e-859c033b125d,6c440c22-a903-4801-b706-a4036033460e,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+610b2f16-78de-4f8f-9bde-3fd47f72ec9b,6cc2f291-9c78-4724-ba74-81a9964ab671,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+cb6148e3-61b6-4cb9-9d30-82345acdaf4a,6cc7c059-9b6d-49a9-aa72-e8fc74734663,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+90de8c2e-1068-4039-a0ae-a0e2e1aa29fc,6ceb43e3-d1cf-462e-97a7-5ed05e0d24f0,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+4f8158b5-560a-4d14-aa7e-7aa31cfa28c6,6d69321c-0b6f-4856-8cc4-1b19df9b208c,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+b9ce0ad6-bb26-4ac7-9309-41979c54316b,6d9deb84-494a-4b7e-9dd8-f77f522a57f9,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+10a3a214-df20-4f5e-83a0-0c18766c0a34,6dc40e62-4f59-4cf9-84d3-4bd6a355637f,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+8de961cd-4395-4280-b802-20ee88125466,6ddd106e-ddd4-45f0-ac74-c3f28e9534e1,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+26a7e16b-f9c5-4e6b-9d1a-202fe8f3971d,6f66c5d2-17ef-4752-869e-820e5d06b434,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+9cb6b105-9981-44fd-8ebf-812f38f0e978,6fb07ff5-bf2e-4b04-a8e5-d4aa5a6464e3,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+0f00d712-afe9-4af2-a33d-e2c11dc97217,701d2fea-09c2-4a92-ab78-3e36b423e53c,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+de53496b-b4fe-4942-9385-086d9d553270,703cee4e-b091-4b1a-bdb9-9010487e71f2,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+ceb5dd86-115d-4f4b-80de-9c61eccfff2a,706661bf-45ea-4b7a-ae7e-1e5ea3dfd3b1,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+35412ebe-7ff9-456f-a42a-a230487c6a68,7078ea12-5d08-4fa0-9af4-668b248c5df1,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+6cc577e9-ebf4-404f-bd4c-00276217f5d6,71677bb3-1cc3-4812-a012-7b8f36d43957,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+be3f1348-eecb-479d-a64d-90adc4ee3086,72022b26-548b-45af-a4d4-ca8e7d074508,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+e4680ef8-2436-4ac7-9838-af8407b37245,72139a00-4ccb-4491-8c0c-c266c4a5be8e,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+2545754e-4203-413d-96f7-4ac0c2e80208,72ef17f4-4c22-42b9-b837-5af0a737a243,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+a809794b-581c-42bb-bf8e-b36c2e7165d3,72ff50dc-7854-4b7b-b03c-808b10f1aa62,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+5eb9eb7d-de59-4c1a-9684-fc616c991c2b,73116257-16af-4f98-8bd5-ebdc39a2f2b7,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+95cc7929-32f6-4c18-bae5-373f3c4951b5,7329e7de-2628-4ff7-8ef1-69dd7ca38883,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+4414ba3a-03bc-4369-9195-89265715cf48,736a1811-e306-48a1-8a02-4bd15c2a7daf,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+cce775c3-538e-4032-a87c-f4993c8b938e,74352a61-4223-4f99-803e-b10bdbd9c068,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+92490664-158a-4097-919f-bfcd1e16c2a8,745eb1a8-ae9b-43f4-a973-61c07c9294b8,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+2051b8f7-abe1-4338-89e6-cef437bac7c6,7464964d-2d19-41c3-83b6-1e17b79066ff,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+497b3b5e-7c6f-44f4-b8f4-63b77fb35358,74850037-daba-4b9c-9c5e-63b08bcf20e9,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+cea42394-47f5-41f9-9253-0894adcf0dbb,74a91fd8-203e-42eb-844e-e901aa47ac01,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+c795d95a-412a-46ac-a245-5857c47c40bc,753ceb51-347e-4e28-8faf-7100ca6aab37,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+b0b30bad-073c-49d6-abbf-8706cdb8780e,765f6c58-692b-4b18-90f1-b029fb40937b,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+d7dc22ab-88f6-4ece-9822-d986ad1a4aa1,774f6a5f-4c22-472d-a3e6-5838d3f41110,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+792f5177-dd65-49ee-baed-8756a18028b4,77a28858-2987-49fc-8f51-92a4c960a360,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+7827d8c6-f0f3-4405-8213-c673a3a97619,783d75f8-be95-477b-b999-b132e44f5342,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+891e462d-9d3a-43af-a13f-846165da28ab,78731426-c8bc-4942-909d-a08c440af024,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+0c3d1139-fdd8-4e76-943f-60a3d632cf8b,79a0ca89-b5e9-47fd-9cf9-f71263524be9,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+3b6f0d44-e568-43dc-99c0-73b3975055eb,79a9490b-eed1-4171-be66-b7036f78f8ad,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+ece0412c-8b9f-481e-a11b-2eac833bbef0,7b44c71b-f717-4d8f-adef-cb43d8219bba,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+8fb883af-cf13-4325-a21b-1f9beb2a4189,7b674258-bd87-409b-83ea-8d6b62b5d301,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+46747189-bd15-4026-b911-5f71f67de1b1,7b68e798-56c7-40e6-86b8-e1ce6ba0eafc,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+6dc7775d-d19e-4dfd-8177-dfdd2f023269,7c94ec26-9e8d-4cf9-8a10-bbe96ea0a378,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+5c847155-9e39-4856-9057-4b606bd19c7a,7d55e6fd-9665-429b-a46c-f5b36c130fde,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+cafafd1e-3d46-4596-af32-dbec254ea4ff,7d63d0bc-aab1-4af8-8261-3da7aa59da57,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+daba3405-638c-4fd9-b194-6be3160e008a,7d7d94f7-619c-4185-b3d2-f462cb02b151,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+12eaa9dc-0379-42e9-817e-87d9b3b445c1,7e2ec396-feb0-4f97-8284-628db6735959,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+d00bf2f3-7eef-48c8-9a9a-9823bee4e89b,7f0ffc97-41a5-4791-a30a-0e8f9d537330,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+402042fb-483b-42b8-ac64-6f3af6c2233d,7f4bc512-c370-4417-a9da-bceb2814ccdf,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+7f45dbf3-4a94-4f24-bf05-822124e6cdce,7fb69665-03ea-4655-a225-47abc52b7d5f,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+6c0e1288-1e67-4147-b39a-4f90f8cb7343,7fe1bbf6-812f-445d-90a1-0429c98e16ed,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+9e9e240a-4ea9-4ef9-b221-0fa8399c0bd8,80021eef-7a82-463b-8df4-1521c386adb3,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+4d79a888-3d02-477c-967b-0912565551ce,8012a90c-f936-4763-8644-36b27b361964,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+f7ec5373-f15b-4a84-94a6-bfb0714b95de,806029ff-af3f-42c0-b539-2b4a96c754b0,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+0771f073-866a-428e-ad9c-c0c9611b092e,806e7f2c-490e-440b-a839-94489282ce74,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+55646063-87f2-4e02-9300-4068e4e5f588,807305f1-89aa-468d-b3a3-1d984989e434,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+e393fbda-951e-42c8-bd8b-7cf73f7c32ee,80dc78b5-76b6-455a-8c89-df6c15854e4a,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+fb96ea2f-8cc1-47d5-9dad-b6f24303a727,817d1eb7-9e9c-4b7f-895a-59124432ade5,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+c7c7a599-544a-471c-b081-4acec4518d94,8207f059-5d69-4667-a6bc-7e29189b9a71,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+a25c0167-5f85-4a18-aa6d-6a26ccc26590,824e6b9a-8578-45a6-aa72-914cdef56416,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+aa116eda-d5f0-4e4c-b928-88915f761bd9,82d38739-0035-41ba-b5c5-cc8061ffde92,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+5e207e44-72d2-4036-87af-9f42e1ef0837,83b6d9fd-afdd-431e-91c4-a7c55779c896,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+5126f359-7281-4101-bb68-105a310024f4,84b27863-4703-4f98-b49b-985cebefcf61,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+9980e458-c973-4ff6-a0e1-fcc45359a6ac,85b0d2a8-a365-4f81-8fd5-8db1fe18e519,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+ba9300ca-aba8-450c-a57a-98fed8c0a9f0,86154473-4d78-4190-a250-338c70a93328,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+2dd860c6-e3fb-482f-be86-93bc6f20d983,864a5835-26b7-49ec-8992-d6f3f331e098,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+f1130521-a171-43a3-b157-4288d6cd4f06,86b584e9-a768-4cf7-930a-cdd7a9f6a20d,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+4ba6d6aa-9a82-4eab-92b7-e2293f29f0d0,8716586a-0e48-4fb9-849e-eaca6ec9e14f,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+0654c4b1-4460-40e9-a6cf-bf3ab98d4851,87d32278-3eda-4477-af5e-68d62c674131,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+b13ecea0-f659-4ae3-9bff-1af09e3d1adc,883898be-bf67-4d2a-a9f0-26394a4e3f0a,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+aab58216-300f-4737-9f28-c68998578859,88a82025-3192-4381-80a4-91664fc32570,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+efdfe041-c9a1-4d51-81a5-2a1445f1564f,8ace33d9-2316-4f5f-8671-6d43036c4ba1,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+6db0a90d-1532-4563-af61-67aff771151a,8ae5f71c-08b1-411b-9913-a62475ee2b4f,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+3c62b19a-1d3a-43ed-a77a-4711ffb8d091,8b684cfa-ac6e-4cf5-b160-8da85866c225,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+aaf3c585-32ad-4337-bb1f-c175f76b63a0,8b7ef3c1-222c-4b76-a36a-98d363f946bf,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+4aa2c8ce-09d7-4b66-9c1b-cda5f48b9606,8c6c91f9-ebd2-43ec-8568-ede1e4b6b284,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+47d0e36b-57df-4f7d-9982-20f971aa2ef3,8cd5e2fd-2072-4357-90fd-75d8a6d44853,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+67ada184-fa71-4ef3-a89f-5f7bf30974d4,8d2670a8-faca-44aa-8b72-07143f5b9f28,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+af732318-fb55-486d-9e16-8ee3d6ff9801,8d2d998f-6d4c-4f3f-bdca-6e32100aa185,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+a47e510e-08dc-4488-9fac-2c50c4a8415e,8d7cf602-e7b6-4576-965d-0d43fb04f5f1,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+81c80b03-9594-4359-a2a4-c0fc5ca083d0,8d965d0f-ae8e-41e0-8a0b-81cfccf70e43,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+8a1766ce-8a10-44c4-ab28-bd514169ec64,8f321cb5-80d1-4334-9a82-8624e77586d4,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+1ed59098-32d0-494b-83fd-7488b0b22c82,8f973b1b-0d92-40db-9882-384b196b6a48,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+91bd440a-b295-4d2a-9879-7715131879d6,90b89e93-22d9-4795-8869-49c0d87d28c1,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+e3a92263-c7ac-4a6d-89c0-682d7ef72482,91b99c1a-3f9a-4452-b274-163702966dfe,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+41858b6b-925f-4cc0-b188-8db7d9001b0f,91c0ecde-a93e-486b-9ef5-c6c504e4215c,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+922bb8ed-6917-42a1-91e8-8e44f4b9e684,91d360bc-bd7e-414c-afcd-22ee98c9fcb5,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+e45a8a8f-5479-46c7-b1f7-4ba0a41cded4,928f83c9-d30f-41be-9e7f-26c62093e634,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+bfb26647-e050-4a47-87b5-970427ba4fbf,92b34211-c403-436d-ae29-c137681876a0,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+ca426961-87ed-4e12-91d8-27478895616b,92fecef1-ece8-462f-902c-49c170848bf9,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+e8cb379f-4d3f-49cf-8c17-d0b3a4a8e6b3,93446483-5103-40eb-9060-ec9708cbb6bb,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+949dadd7-f2c4-4757-bd97-163e1809a7b0,93737505-37c7-44c3-bf8e-1f93e5f32b9e,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+32aecd24-ab56-4bd3-93f3-20126f07eb0f,93864653-dd8b-4502-ab4b-01881ad6a333,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+07b98ea2-2cd2-489f-8b4d-5a486e43b487,944114ad-714a-4264-bc6e-9cd2a664cc8d,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+df8bf524-3c49-40d1-8e5b-feb69ee0e60e,94e1804d-5e97-4b0d-be25-e08c3f8041bb,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+f601d105-18d4-4ee2-9e9e-82bb3121f534,95541d65-66de-47c8-a8d1-9b609d88f3f2,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+a97ff8d6-d73f-456e-b8c6-43dcc7738530,96788f0f-9739-40a8-b8a2-24483783a36d,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+8f86810c-9ad5-45db-95bb-81b9b8b7feb3,96a9669b-0030-45dd-bd4a-06309c42f0c2,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+b0ce95ed-426d-4bcc-950d-44a46a9543ef,97585131-258c-4d63-bf48-f9798ac9a0ba,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+d334c227-099f-49de-a5ab-dda832eba7dc,97805e9a-bfe3-427e-976b-7d65d5549478,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+10b2d96e-66f5-4f6a-b389-db7e0960d0fb,9798a2f0-80f8-4ff4-a0fe-035d7698376a,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+33daa444-3d96-4c3a-bbda-ceb7686abd28,98922eb7-e837-4542-bf15-e726f3df9f28,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+2e4b72e0-d7f3-4171-b878-91bf9b417409,98a4f410-2cb1-4698-ae1d-00cded6ed5a0,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+860fb22a-ac0f-46eb-b675-215116216ede,992e4262-2bb4-4a41-8b1d-2d0cf32d1da9,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+7d56a1c0-bfc1-4f74-9cc0-da6dd0f58ffd,995e316b-f522-42c9-9a1c-3b5e89d0bec4,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+4e30403a-42d9-436e-a50f-a19d97e1be2f,99cb81ab-a58a-48ee-a165-0fd6f42d30e6,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+7f5ea2ec-df2e-41e5-a194-f84b5fbaaf53,9a9a2e5f-6edd-4e19-9b31-278976594ad3,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+be772943-4418-450a-b5a3-0343740cc412,9adc4c9a-dfcc-4206-91c9-e94a557bbfda,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+6ac35162-2f49-4660-8569-82175ff4dd5b,9ae4bfbb-bbc4-4a76-9c9b-96e6d9adc579,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+b17ed57f-a6e2-4815-a996-604a1c32baae,9b2652bc-267d-4bd0-a67d-8c92bfb85973,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+1926cf9b-0d4f-4256-93f7-42f8ab61c010,9b408b11-a3f5-43c6-a491-a9dcc8965b10,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+dbb6500a-2d6f-40ab-9fe1-69225a3ca4cd,9cb4a09e-d10d-4467-ba57-5a381ad277e8,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+d0fca443-7e89-4e25-96f5-3bf1d84187ea,9d40282d-3397-4383-b8f7-ae055c7066ca,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+5f4799d1-2b95-4173-ab7d-162dc526bd02,9d79a812-ee02-4a1e-a904-104e295a4623,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+cc7151f3-f243-4cc1-81d6-20b799e01c8d,9fdbf59b-3c92-4c99-a939-9ba03643c2e5,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+ddfa0e06-e0e0-4c5e-9435-2cb409080c7d,a0282335-c730-4777-a6bc-0d0dc3c5b877,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+094512c2-3f6b-4ad0-a29f-386978993dc8,a3367a0f-8262-4a90-89e5-f330254b900e,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+b70ef593-370f-47bd-9cfe-114956c05ed0,a33b826f-6a19-4b28-b83e-1b253b221231,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+263b8eec-626d-434b-8818-138afbbef351,a43b06e9-ab80-4517-a3c8-72b5da7dfcfc,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+d48f89b6-109e-4408-a9d6-72ea6d8c85e1,a466a81e-d4bb-43b4-bac5-ef5163531835,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+ebcccbb6-0d3a-46ad-b8ea-5782fa9fef9f,a46d6ac0-2556-487b-86d9-b9db5f424f7c,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+7cd87569-1dee-4feb-b657-a3808537f3f9,a4e7c5c2-40c7-41b3-8997-95716e7eaa30,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+cdfd2c43-550f-442c-9eba-cc60d59d364a,a4f56bd1-0443-4633-a3ac-610518fb5e67,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+3d4bf032-cc22-408a-a84d-475dcebaf299,a6764bcb-c75d-4e9f-a2ba-160b218bd5b6,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+a212ae49-bb3b-4e98-a761-4aaf16ea16cd,a71a2bb2-3c12-4b5d-89d5-5d8514909b1f,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+2c61296f-2cae-4155-8ed0-f170fc36e15c,a74f639c-f3da-486e-9e7f-a1a82ec34e81,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+6dbee92e-fdf2-4be2-b11d-8b4be1b340db,a77b3a6a-1058-47d6-a638-2c7d271575bb,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+19511bb1-8c98-4744-905f-289abdda3939,a7fdad6c-96ab-4449-8123-10b472155412,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+9f858aa1-6e4e-4f1f-b8fa-631dbaecb531,a8c200e7-f4d0-4d88-9edf-dc77ac31b0a3,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+e24ae105-ef95-429d-9ba8-aac530f8d09e,a9a15aa7-3be3-4298-b886-7d7a9296be72,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+ce9b96ca-9eaf-4b24-9f1d-447370eec3de,a9e996f7-1958-412a-bb4d-c6bcd0b8b485,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+3dd10081-1459-47e6-8090-8b53e9284261,aa849c8b-42ca-4ad2-852f-f9c289618b41,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+f40f37ae-d38a-438b-8e66-d80a8a6a17f5,aaa94aaa-1d22-4fd3-97e5-d2751939d2e3,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+e16b1661-dfd7-469d-bde0-163ca5bfca58,aacf2f4c-aff9-41f2-bf7a-cecf0fdfc2e6,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+a7f619e6-4b28-48e4-948c-8cf9fbdb125e,aad668ed-8084-4b37-b3df-7480b3796291,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+67effd1d-216f-44fc-8668-330e0278c554,aaf7bd2c-c0a7-41f5-a354-23dddc384875,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+cc291dc3-faa8-41a3-a244-46ed685b95b3,aba210ec-d02b-4f8e-bb79-6801fa78de79,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+99de801d-e0bc-4f11-833b-b30597dac4f7,abb66fe6-d806-42d1-80ad-7e56f9aa6d47,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+c230ca3a-d44d-456b-a402-c58d18fa0c8e,ae28f840-4d17-4e09-af46-391ba64f29c4,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+c49d21f2-19d1-4563-b319-cb1f11163464,afcb5674-bfdd-47af-862b-41c5f33f7ff4,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+26887343-050e-4d67-921d-b73ab46b0214,afcf8fed-7069-4201-ba43-edeb61e0098f,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+20396adb-8530-41b1-ab4a-a4f3aa8d9372,aff7cca6-f074-465a-be42-903981d30bb6,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+5b573562-176f-4148-b1af-6b2446ee8ae6,b05410c1-e356-4587-bf84-50f347763f34,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+5486cefe-11a2-458e-934e-28cf2e5cab18,b05b2427-c47a-4cdf-8183-669b8f7bd3a5,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+3ad110c2-ab88-4a5b-aaa2-31fb0482c3f3,b0e56445-72cf-4774-97f8-a4300e66dc41,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+77d4421c-5b05-4dd5-87f3-f276d09bfc6a,b0e816ac-0401-473f-94c8-3f399f15c582,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+96090443-64db-49da-a01b-d3ca0ef99467,b2049083-7a11-4a0a-a66a-a458c24cf86b,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+7ec73826-f3ee-4523-88b8-db0ba4c561aa,b269eaa2-c556-4332-9444-b41866743db0,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+a82c140b-69e0-40ba-8f3b-6d939a0a4596,b2a5ee23-fd6b-444f-8866-2b2adee1a59c,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+d0f6d332-4538-4fd3-b24c-361ed7b4b2b2,b33b3db2-f108-446e-8dc6-ad5b1ae88089,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+8a56d7b8-9af4-4466-b359-eb971ee652d3,b386ec56-232f-41bf-9f7f-402b643c501c,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+102e14bd-f20f-49bd-bb38-c15f2aea12cb,b4348c8a-56db-4ad2-97b2-1927e872ae16,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+a931cb61-b76b-4dfa-aa4d-6227ab10645b,b548dc5b-3ce8-494d-8cb3-aaffd147b13a,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+4656ea98-ec06-4970-8498-70637f42f286,b5ba6e9a-210b-4851-9d91-902ba5866357,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+06723f39-6610-447c-b68e-dbcf284feddf,b5c2234b-a92b-4f18-938e-7dd0e6e16f97,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+cf1b0229-4bb5-44bb-a517-d6fd9a16df50,b6000fc5-e6ea-46d8-ae12-72e2cb11f6d4,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+66b9e724-efdb-4d80-921d-a7fafc0c897e,b6049ff6-00aa-4325-8029-8f2b3522e234,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+bf9862f6-1934-4fa3-9dc3-cc9a6a97ab61,b6ba9b70-5c0a-439c-a39a-512ff54eaa12,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+ff001cfa-8ec1-4d60-9e45-7bf23a82b706,b7246e27-fa87-4971-9b91-d09a63050445,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+1a1d2d49-ce6f-4103-b933-1d5497f39889,b776b90a-2a72-452d-8ccb-156f35cbe131,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+f39a8540-339b-44eb-96f5-5ad0eb5e285d,b7ce7616-7e61-4cca-9e3f-ae8e5996d904,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+ada89a32-1a98-415b-a35a-d6c694449ba3,b7d860a8-c6af-49ea-946d-27168b922e6c,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+5eb3534b-5f6b-4805-9684-5bdb39a3329d,b895630b-5c54-4699-86d1-d3397ccbc0fd,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+3a1c8adf-b27a-4d77-8d10-6c2a1afe903c,b8b48cbf-3492-4441-8fac-ee7011b86f51,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+64e200f7-5c2f-4529-ae48-f14fddfd0b2d,b9675016-a1ea-4d1f-aa9b-90858792ad20,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+0de3f9d2-d04f-4fad-8429-9791d5b6e0bb,b9a43bd5-bfcd-4953-80d7-07ddae2f565c,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+0e422f80-d29c-43f4-83d4-1cbde669cb9c,baa1f373-26c9-4db2-a3a9-3877aa1f4824,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+685c1e91-df14-45ef-8d8f-84d99365c2bb,baccc15a-e666-44b9-bf40-b1ba442fa08d,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+8d58a95b-c8d4-4c60-bfa6-7c398ea981d2,bb30a915-b989-4305-b88f-089f72d2efdd,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+2da86d1d-34c0-4083-9b91-69fea18f6719,bb71c7a4-8c77-4adb-b0fb-683baceffee1,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+7503b944-e619-4f97-826c-885acf419a4a,bb7e6240-1acb-4e13-a8e8-f6714b6e1a5d,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+22d80f79-2743-48bb-9108-8609e688faf2,bb81cfe3-cec8-4ec6-a31a-642f05ddc545,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+d66fb994-7b4f-44cc-bcfb-69a3d9e60d84,bc117179-9ceb-4779-a50a-25bc1bcf38bc,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+d2e4be31-ace6-41aa-9fb0-618c50a86bcc,bd5980ed-ce94-4507-9b47-85268de413e7,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+7673828d-c199-4315-a9c1-e2d8d9476a3b,bdf4dce9-d123-4ad4-9f55-8a8903588fc1,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+00eb687b-2298-40dc-b861-32b3a9b10471,be52f4e5-10a7-46cc-95b9-8795665c57a7,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+e1a150c3-ff49-46df-a132-c0edc9410463,be5612b0-fd45-470c-8c95-6cd705d6fa6a,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+35b55d51-c749-4932-8cff-1da23b1a0a6f,be727c6b-85cd-467a-8e64-b803a2b69ffe,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+35bda9d3-357c-4ec6-8a3a-410f7b6dc7d6,bf9025f5-3c32-426f-8d9c-c3672f92d5d6,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+02d6058d-eb43-43e4-a6df-60f9d01c6066,bf99a866-c4cd-418c-bc20-1a6a3c5f1071,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+0e3a4cb1-6f6a-4a3e-a74e-999d0dc6c43c,c07ba4d0-6c01-4b5b-bab7-5b3bf2d2aa24,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+fab3a76d-d1a5-457a-a093-1205b71d6a63,c0db4ecf-462f-4e10-99fe-8015d81e69e4,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+0560d95b-a98b-44c3-8e5d-c02670fc1310,c1c88b25-77ad-4fbb-9275-59cf4d7d0cb7,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+35a306cf-e016-43fa-a0bc-798d004dfe2f,c1d433cd-4f0c-496a-88d3-dcf4fefb50b8,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+d6b6bcbf-8a2d-4e75-9389-3d17b0dae44f,c1ee437d-7535-49f4-af14-0db3bffcfd20,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+bb107d2c-a774-420b-9500-dcdb56b9fe85,c2048aa2-ad8d-4a21-83df-451b32fac844,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+0f026075-c343-4874-a123-2b37feec0f3c,c21a587e-95f2-45e4-8766-66bfc0afc683,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+8566d130-a05e-4665-91eb-856e926c8f92,c2210bf0-16a7-4998-ae5b-880f781a1c7f,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+7be21649-0c91-47cd-88c6-8d2c3142fa82,c2de9a19-449c-46ac-a030-38563b685ea2,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+7fdb73f6-6736-44aa-962e-94c7e01d36cd,c2ee9d28-e664-4456-b6e5-7eba91434083,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+5b399d2e-54a8-4431-ba95-bc764391b108,c2f82865-e95f-492b-863d-6a525fbb5cc0,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+031c8bcd-6328-4e45-ad64-dbf9dc0b7b90,c3af24f4-bb4b-445d-8a68-58709132c921,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+e41f01ae-5724-4f6b-a3cb-23d37b8ee7ff,c3ea1496-348b-4554-92c8-496447fd3b6b,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+2c31b4b1-3133-4366-8621-6398f4e3918c,c44c3ac7-d0c2-4758-af03-0e0a6dbfb57b,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+07351e11-aaf4-4a70-80c1-b0fc5e158e10,c500c994-e6c3-421a-9e44-9bca38ef9e11,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+21e9d1b0-289e-4890-839e-ae90ec864cad,c530cdd8-8be8-468b-84e2-dd1af02b04c2,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+a26e6300-76aa-4bad-bfc4-7ad4c287068c,c534d96d-4194-44e0-83da-1dd98970ba8c,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+0775fb16-044a-4d38-941a-01f0d095b1f6,c56c9b84-c83d-4cec-8781-488d97af483d,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+6595e8b0-a17b-4275-8541-853d0c6f412c,c5da239b-188e-4cf6-aa30-4f57959345d4,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+39a21674-a1f3-418e-a7cb-8720ea688984,c75c5818-9c6c-4a52-ac75-a90c8c8d7222,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+3ebb2efd-9725-4c88-80ef-d25d79b84062,c7c0b720-6f17-4697-b97c-3bee74c5a94e,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+5d95c2e2-f460-4648-8c0b-662727d3c9f2,c8e23ff3-6f9e-4e01-9ca4-290e6d9b31de,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+b61ecda1-92a6-4832-b201-2a9799452a6a,c8f955d0-f876-4097-a285-2fa70eaf0ea6,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+9031b77d-fbb2-4394-be6e-652e83f89a39,c9ab9c9a-7464-4409-8847-7f726da36f93,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+fa46e3ae-6e89-4ef7-bea6-6c565b29c4e5,cb8760d6-5c81-49dd-a63f-ec6543a66c7a,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+74685d15-eed6-44f6-accb-ad74c82bb97c,cb8f51b0-487c-4c36-9faa-f1c4b1255585,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+91035317-1765-42da-a172-5d7854592fa8,cba617fb-8abb-4103-a4a1-03fd506fb198,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+28bca329-3f82-4945-a0cf-c3b1ead82dfa,cc033755-05ee-45f9-8ae1-d5fde82e3122,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+8ef74de6-0aba-4084-a932-0dc4e3ce8764,ccad3244-6162-46cb-8b4b-a7b003503f2a,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+5e207ff2-eae7-4b59-b15e-cdc3685f53f5,ccb444d9-8663-489f-ba95-2b813a940105,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+28066d5a-c5a5-4380-b9c3-d0d5df415725,cd40d3c8-4eb7-4359-a431-5ea8339570c7,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+18a0f85a-0b1b-4ce7-8a4f-18a2d581c2a7,ce507a91-29c9-42a9-b0d2-ba0a3295cea8,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+a8909f5c-98f5-478d-9e92-86f654f93899,ce5bffad-2433-48c3-89bc-9bb8df9df849,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+ca8c35f4-8753-461c-939a-dfeb06e5b44d,ce824949-aa30-4202-a57d-6cd262a79e81,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+b62c1b5a-50d3-4ef1-8d1c-305f2b607849,ce9a1136-7827-45b3-8470-582db4ab3b59,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+975c2b58-7b99-409e-817a-ebf4abe284fe,ceb8b585-885f-433d-98da-64d0e1b3ccd8,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+f757e533-d029-4081-8e6e-35235600c319,cedea860-8313-4991-82e2-72454e5abac7,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+da5a0d78-4bf8-4f71-aa49-0c2d9818663b,cfe0860f-d871-47d4-8e50-1bf433d8de64,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+0565b5c7-eeab-469d-8a43-cc2d24ad9035,d014c381-79ea-4d73-93b2-0ec973fa76c4,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+4c1c5f11-13af-4fe4-b702-249bcb042b56,d01aa12a-878c-4957-9d02-f90edf825c9b,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+95f15534-41b4-4374-a4b9-7b9ce42e065f,d0cc9215-6553-4aa7-beb9-108d88378e4f,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+ee9aa8ea-db87-4057-b1f8-c958d4d2d1d8,d0ec4660-f640-4cdf-94e4-83cb19fcb5b4,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+d5f9e27f-75fa-444d-86ab-698f17aadc94,d13bf0aa-e688-414e-aafc-109dc6132c23,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+5e6e1c7c-f936-4ab5-b2b5-0a95298dc975,d17b47f9-d4bc-44dd-98d8-b4d3e9e72f84,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+0f009373-110e-4af4-90a3-40932c73f243,d2dd27be-5010-454e-ade3-4d7550ea5eb2,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+795ea0f8-3a3d-40fb-8cda-03a19b8c5dc9,d3f31bfd-4277-4ac0-9b36-cd4588ba4403,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+e49c39c5-2949-4588-adca-441950c39f77,d450cf00-0c20-48c7-8369-9aeffa69f935,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+2fb02b5a-4f38-4bb7-a8ac-e69d73efd48e,d4861f4c-b157-489a-ad58-6a040aafbd95,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+9b83a36e-16a8-44bb-8e7d-03e211eb3700,d4866359-025e-4df1-b9d5-6d73b6766035,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+f3e0ce02-0bc3-403a-8fa1-d11f1da660da,d4e3ff99-8331-4ad3-acba-2f0076c34b96,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+0323d509-8e65-40dd-81fc-c490817dd0e7,d56e4749-7d57-44c1-a628-b29f48e84e90,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+68e89d3b-799c-4d79-ac50-b96d07299d3e,d5b16c5e-152e-4636-a055-52a327b5f0b5,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+4c9576b7-f52a-4176-91a4-9471aaf7fbbd,d5b78859-26bd-4059-ab4f-19785beb563c,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+3c61781c-02db-4937-9fd9-733014f2b081,d5d264a8-66cf-4eaf-994a-82249074e5cc,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+cffe0c71-08c0-4b07-a7c9-9f45cc6ccb59,d5d6dab9-9ce5-460d-9a95-48c558263634,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+3ddecf49-2a97-4e44-85ad-cd75f6744e3c,d5e8af18-40eb-494b-a301-95b0a667cfd6,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+52007061-36dc-46c3-934a-6e5361d40728,d69925a0-879b-4883-80fb-802b1704d3f0,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+340f6429-3ef3-4202-9e6a-cb18dd647491,d6c40aa2-ef39-46a5-a3fa-b4c16050a7fe,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+628b0e70-350f-4324-aa9e-0b96048bf8da,d6c8f57e-d026-40f6-8868-c70f9044083a,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+52aaddc4-4290-4494-a5d7-cc0e65f69406,d7023ed7-9cf8-4289-a5c0-964cdc5fa318,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+6d360b7b-0ffc-4732-bd09-e0ff1eec43ff,d85b82c1-e5f4-4e3c-ae41-3c9263dd00e0,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+44282f87-acd7-4f6b-86c1-7179e1760f26,d85d04df-87da-4931-902a-86cc303334d0,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+204cb0cd-e78b-49c8-8683-47b8e3a1cda4,d87630fa-d0c6-4859-b0ae-3b16db3fa178,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+c8feb3f1-2806-44cf-a865-f131280ebe09,d90a09ee-8bf3-4a43-8be8-3759adf6e42f,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+3d2bbd9a-d84e-4f7c-854a-9d132ecb1dd5,d925f532-04a7-40e0-b778-ffafbf4ab22d,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+9c7e1fec-5fd4-48a1-96bd-f65d3bad2ef8,d97b2dc2-6cb7-4f36-b6c7-490de4dc02e3,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+c20c111d-cb89-44d7-9265-ad35f50cedf9,d98c5605-9f8b-4f33-856f-f81cb8bf2176,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+adc288c5-eb4a-4b6b-820f-b56630c59768,d9c1f549-8862-4ec2-bb92-4d1b04b44ced,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+8f9b72dd-63a7-4640-8797-a9e2eea40ab1,da1ce1a0-f6ef-41bb-b28f-71db2e4978ff,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+7dd5b7ca-e9d0-4a27-b19f-d5b7c8f3096a,da6c860a-237e-4d36-b8d7-41728e94fdf5,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+10c7c4a6-05c7-4e53-aba2-72ad83f6602a,db3fcdc9-fc97-4d5d-88ac-4cdd037917d0,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+374e853d-116b-4a8b-bfc9-9605278c92d8,db8db476-53ea-4b8b-84df-f877984ab5b4,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+38e53fe5-bb59-40cd-91a0-6e7487388878,dbbb81c4-ccd5-4b81-b6da-809e5e559120,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+fcb5282b-aee5-4cf5-aae1-ff412bc87e60,dbbbccfe-7def-4393-8e7d-75b3fb7fcc19,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+2a92c085-1c7c-401f-a327-54a5a43ee27f,dc095425-8f3a-4333-b3b4-ad971af4d0fd,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+908ee38a-ec98-4962-a87c-b0f246387773,dc11827a-6a80-4dd4-9c42-0d044aae80b9,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+c4aed101-adbe-43c3-9a98-1eaa35bb5f02,dc1334ec-b97f-4e9e-9ec4-e6e2fffd3c4c,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+ef56267d-700f-4903-ba38-0b204928f05f,dd513a22-b708-426b-b281-914325f095b1,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+6bd05c87-c7a0-4d98-a4df-7c0720733739,dd619b56-768c-4fe6-a29e-0491a6a2d0a4,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+ea79c355-b88b-47eb-ba96-99b785afe927,dd962243-fdd5-4aa3-bb0f-5a7f56c7e4bd,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+9ac06232-52c7-4620-b389-6e88c40d104f,ddad6d7d-c466-4d36-8456-8d4c6ece2160,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+ac59ae20-d390-4820-9f6b-ef76a34d4dd7,ddf23878-33e3-44b4-89d0-9e103d917628,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+6524dbdb-92ad-407a-a4b5-4c424730b778,de3f63ff-2673-40e7-b76e-4f19f49b0a62,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+c907512a-9616-4ca0-96b8-cc863d736eb0,de7bceed-860d-47d4-95b4-1440f154255f,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+ecc5be0b-01ef-40e7-a9d5-b066629ad2c5,decd6840-e00c-4f9b-9b84-2fcc4f853f80,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+123ee763-6129-47e6-98c6-c057089432ac,deecd905-3f36-4553-b3cc-bd1ed72b7eb4,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+b9ddf166-261f-41ff-9510-0beb11ace8ab,deeeabbf-9ae5-442c-939c-bbd5c546b223,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+69cec030-3701-4d39-8de6-4ecda2aabb8b,e08387cb-9fc4-468f-8859-b9c966583fd5,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+ac4b906e-d57a-427d-a856-9438be1a0b73,e0b6c427-2f38-4c5e-b1f1-271e951ccfdb,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+2449e9a7-92db-4c35-b180-33c0cea599c9,e0d2fdfb-34e4-466f-ad13-39885d84a389,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+c4c762f1-d33a-4644-a5b4-bdc45972e42b,e1937edc-e9ab-42b4-a165-e626c792577c,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+8b96991a-8b6b-43f7-a70b-e9d61019b99e,e1bf55ed-9a99-497a-bf94-0a32fc627330,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+cee2f9a5-8e9f-4404-b4a2-dd8eed413e76,e27980ec-a3b7-4402-a647-f92fcbf4b707,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+c503d8d5-6cc1-4d6c-9f8a-75fac09c4488,e294c8f1-33d6-46d5-8fa3-d565c652bea9,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+58cdcd31-715c-4f3f-9a68-ff3d9c7619f7,e3af6a15-52ce-469b-9a47-39974b63e994,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+3aa51c55-9009-4435-980f-060925d1549c,e3ce0671-dfb1-47e8-acfd-dde9fde113b8,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+6aee2154-0fd4-4488-a500-47fc3b90501c,e3ea44aa-8451-4877-bce3-7cd26030813d,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+05b5421f-ffbf-4d34-9fa1-5be7d10604e6,e3ea841a-f7f2-479b-8d2f-ad4f95fb535c,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+8d948ff3-7261-4537-ab42-4292c9b30ae1,e4688c94-9afd-4b47-b262-5954c2eaecfd,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+2b1593f8-a4ca-4852-be66-e87a85e6e69c,e4c04acd-ec50-4993-9af2-b1552d4cfbba,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+dd1f7663-b946-499f-9cbe-68944d77d73c,e568122d-8767-4b67-bb26-19b28cc87f71,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+7b82684b-f7c9-4307-bce4-2404ca97b21b,e6236225-53da-462a-beb7-336cbef21054,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+daa9610d-ed26-498e-b6b5-d57bb702e331,e70e6ac9-ec92-4e85-aeab-968d7b2038dc,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+36074da1-18c3-4bcb-99e5-f2e3b52b8ea7,e743073c-0f68-4fc9-8319-742286054806,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+b3386d43-48d6-4f37-aea9-4da476904b44,e7a4aa16-8567-45fd-bf7a-c02d734e2487,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+f406b953-1e4e-4a1f-95fb-16adb5369656,e7d32baf-0bad-49cd-9bb1-cef9de4123a2,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+ae99d1b8-c647-432b-a4a8-43e065613103,e7e37b04-917a-4bb8-88fa-a3e6c2c974dd,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+3becee48-b4ac-4103-a846-4bcf65fbda66,e8200302-3ba6-48f7-8ee6-6771709f47af,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+574e0d89-ede0-48a5-b831-8de1de692ed0,e82f62f7-be7f-49af-b3c7-2f4ce91a2632,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+609c289a-50c1-472c-8114-9a5eb5694128,e8813301-e511-44a7-93d9-ab751f049a54,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+8a447c93-fc4c-4624-8e60-2c5f4b4d5390,e8c7ba6d-025e-44e4-ad3b-d1be3a3aa04c,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+67999f9b-9a85-4a01-ba09-c8d3f71ca36a,e8da3df3-026f-4717-9dcc-af67d0744bf6,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+4fa695b4-5d5d-41b5-9d4b-e3a25d3b3496,e9074260-1bc7-4aa8-b304-b1365683045a,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+fc12cc7b-b906-4906-a632-ed6c3cb1b4dc,e9423c87-ece4-4e18-96ee-68cf5dcbf536,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+2da09ad4-5183-4a2c-83a4-b7531215f25f,e94c3bab-3251-40e9-9de6-a53ebc5cebcb,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+f7fd8129-b07d-49b9-9ed7-9d119e18620a,e94f9903-eeb5-436d-a107-c544f411d365,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+894aab73-ae8d-4c20-bf13-6e47842365ae,e9a70352-831c-4baa-8e04-ddbad7f99646,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+80eee723-c115-473c-a142-e24b8705a969,ea71de15-bd21-49bd-bf06-7ea8010a9ded,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+0732a9c4-9430-4e12-a994-534616d608c3,ea9dd49f-0654-4eab-8493-78df3631ce2b,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+d5d096a1-5ec2-494a-8c43-17702b2f55f1,ead777a0-961c-4e22-bfb6-2f86b987ab3b,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+e81eb20d-75a9-47c1-9315-7ac682a5e424,eb29c54b-64fd-45e9-9c20-00022329968c,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+5f6faaaf-22af-4001-a224-86cd3c7b9d35,ec1ca0fc-0640-4fda-b593-b41db7398c92,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+c7b6e437-8ee2-4c47-a848-1debe0b3ff34,ed617726-ddcc-4787-80cf-d530bd6239f7,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+9f0776c8-e5b9-4aad-858d-a3025045a447,ed98f42f-159b-4651-af57-841414c74aa3,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+40d347ec-94bf-4c5d-aecf-86bb7fdefad1,edd0e553-a31f-4d47-94a0-bd8bb9fb0b6f,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+67bcbebc-66d8-4724-8caa-d231accac309,ee15baab-e5d8-429c-bd89-f5861d0fc5ca,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+df8307f3-7a09-4fe0-8056-f859c86f7e25,ee6fbdb3-9562-45b3-8d22-5dbd7470df5e,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+09378161-f078-4d57-85dc-d5e68c4c2901,eeed5bce-e6c9-41bd-85dc-7c2fa14f90dc,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+78eebd2b-8a29-4eaa-aec8-a557a8c2bd9a,efb63e86-62c8-484a-b18b-c4d0aced6054,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+550fe124-cee4-41ac-99c1-6058cd9564ae,f02366f3-b19b-4596-a9c8-3f46cc1d675f,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+ab3385b7-5135-42c8-8f38-651b0ba32df1,f03c373b-1c37-432f-a91a-133a50996886,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+72a21999-caa7-4b3b-a3bc-b2ff14d29ca1,f21b1bb5-17f5-4141-a8d6-f8d2026dafa6,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+4c8a0be9-c53e-4ce5-b548-d89b10cd32f9,f3aa7368-cb08-4277-bb0c-69b0cdd6f0b7,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+f158a8be-4bbf-45a3-bc8c-0618efb23b52,f4a2b8ee-e5b2-4a20-9c60-d8d91c49a7b5,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+d4c0c90f-4e02-4d38-a9fa-e16ab7b56fe4,f4d3505a-856e-4a97-8ea4-a340d6a5e046,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+3831e060-3cb8-4bf9-9401-5c397d2802aa,f4eb843c-542e-4737-b82a-2ab09a35b0bf,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+08c70aab-0434-49a5-bd59-5135d678a1f2,f58a435a-bda3-47e3-a34a-fba9391a4f33,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+6d2bd97a-c939-4622-abc3-12bb275548c8,f5cb496d-31b3-4a47-896e-1bf7abb23e35,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+d55b19f6-b121-4789-b351-fb51baeebd70,f5f4e9fb-6ef7-463c-9f3b-8315a3d4caa8,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+44d25ef7-4644-4612-81b3-a0a82844626f,f6a6039c-f8ee-457f-83f2-b5b0e1c78f9b,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+4d755bf6-0040-41ad-ba82-1bc50e013d9f,f72c8c79-d49c-4c87-b814-b31f34880d14,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+108779a3-9437-4a59-affa-22bddb58892a,f755cb48-609e-4605-81f7-bd981c733aeb,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+31bcfb0c-4f78-4811-9093-51b93c9445cd,f897816c-42b7-483e-9154-a6034073e6eb,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+ea0f618c-23e8-440a-94ef-57e34bef5c66,f8b3856b-6373-46ff-8637-4373596a58a6,Aluga Bem,atendimento@alugabem.com,(71) 98765-4321,SUV,175,VEICULO
+e4751c4c-b941-4be3-be69-ecc5f12bae17,f9c93dc7-1d86-4cf5-8540-863be7160655,Pé na Estrada,contato@penanestrada.com.br,(81) 91234-5678,Luxo,190,VEICULO
+67cf7e70-fc31-4a32-bd31-b29d2897ad47,f9d18462-73c4-4fde-bb31-539d8e3bf0dd,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+3b4d87e1-9489-48b6-b03c-383bfd45c4cb,fa2d5248-f992-44b9-b9f3-fc4d576cba6e,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+f427ac2c-1d85-4821-946d-ff94f91c4032,fb11bd2f-be1b-4b03-9da2-9a5830ba868f,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+8c360357-2c38-4952-921a-78834b6253ca,fb1fea60-e635-45a5-9a6d-62c993a7c8d4,Carro Express,suporte@carroexpress.com,(91) 95678-1234,Econômico,135,VEICULO
+060223a7-54c5-43b1-8c9c-b620ae965807,fb7057ac-ca8b-434c-b0a9-754e97bdf9a9,Sempre em Frente,atendimento@sempreemfrente.com.br,(11) 96543-8765,Intermediário,145,VEICULO
+f94224c5-6bf1-4125-aa51-791525618ef7,fc286e52-2f6c-4ad2-8159-abb02d6a5e46,Rota Livre,contato@rotalivre.com.br,(11) 98765-4321,Econômico,125,VEICULO
+d63542c7-fc17-4874-9d56-f2b8d9418a59,fd4fc3fc-150e-4bee-928c-bf1405293d8e,Vai de Carro,sac@vaidecarro.com,(21) 91234-5678,Intermediário,180,VEICULO
+c951be0e-58f5-4d44-bd4f-c16621a607a5,fd97016f-4590-48ff-ac25-895c1eaa3674,Quilômetro Certo,atendimento@quilometrocerto.com.br,(31) 95678-1234,SUV,150,VEICULO
+420403ab-59d9-4972-a35e-6bb9e2ae238c,fda38f9c-2460-476b-ba67-1d1f989d6314,Carro Já,suporte@carroja.com.br,(41) 96543-8765,Luxo,195,VEICULO
+1c21c425-0cce-4b88-b635-2f6d042e9e94,fdde4c3e-4576-4bf2-96e7-d28965810dac,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO
+c817f61f-d4b9-43c6-acd5-83839b881b3a,fee7d1c2-abac-455c-82fe-45eeb4d82a52,Roda Fácil,sac@rodafácil.com.br,(61) 94321-8765,Intermediário,160,VEICULO
+c48686e1-5325-4545-9938-863277bd7bfd,ff891e9c-6cd8-4d86-a11f-d890e87adae3,Veloz e Seguro,contato@velozeseguro.com,(51) 97890-1234,Econômico,110,VEICULO

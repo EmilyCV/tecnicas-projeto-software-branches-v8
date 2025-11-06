@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.3.xsd">
+
+    <changeSet id="20250816121000" author="junior-dev">
+        <loadData tableName="LOCALIDADE" separator="," relativeToChangelogFile="true" encoding="UTF-8" file="20250816-localidades.csv">
+            <column name="ID" type="STRING"/>
+            <column name="NOME_CIDADE" type="STRING"/>
+            <column name="ESTADO" type="STRING"/>
+            <column name="CODIGO_LOCADORA_VEICULO" type="STRING"/>
+        </loadData>
+    </changeSet>
+
+    <changeSet id="20250816121001" author="junior-dev">
+        <loadData tableName="ENDERECO" separator="," relativeToChangelogFile="true"  encoding="UTF-8" file="20250816-endereco.csv">
+            <column name="ID" type="STRING"/>
+            <column name="CEP" type="STRING"/>
+            <column name="LOCALIDADE_ID" type="STRING"/>
+            <column name="LOGRADOURO" type="STRING"/>
+            <column name="NUMERO" type="STRING"/>
+            <column name="COMPLEMENTO" type="STRING"/>
+            <column name="BAIRRO" type="STRING"/>
+        </loadData>
+    </changeSet>
+
+    <changeSet id="20250816121002" author="junior-dev">
+        <loadData tableName="CLIENTE" separator="," relativeToChangelogFile="true"  encoding="UTF-8" file="20250816-clientes.csv">
+            <column name="ID" type="STRING"/>
+            <column name="NOME" type="STRING"/>
+            <column name="DATA_NASCIMENTO" type="DATE"/>
+            <column name="EMAIL" type="STRING"/>
+            <column name="TELEFONE" type="STRING"/>
+            <column name="ENDERECO_ID" type="STRING"/>
+        </loadData>
+    </changeSet>
+
+    <changeSet id="20250816121003" author="junior-dev">
+        <loadData tableName="PACOTE" separator="," relativeToChangelogFile="true"  encoding="UTF-8" file="20250816-pacotes.csv">
+            <column name="ID" type="STRING"/>
+            <column name="NOME" type="STRING"/>
+            <column name="DATA_INICIO" type="DATE"/>
+            <column name="DATA_FIM" type="DATE"/>
+            <column name="DISPONIBILIDADE" type="NUMERIC"/>
+            <column name="TIPO_DESCONTO" type="STRING"/>
+            <column name="DESCONTO" type="NUMERIC"/>
+            <column name="LOCALIDADE_ID" type="STRING"/>
+            <column name="DURACAO" type="NUMERIC"/>
+        </loadData>
+    </changeSet>
+
+    <!-- Changeset para popular ITEM_PACOTE e HOTEL a partir do hoteis.csv -->
+    <changeSet id="20250820120001" author="juniedson">
+        <loadData tableName="ITEM_PACOTE" separator=","
+                  usePreparedStatements="true"
+                  relativeToChangelogFile="true"
+                  file="20250816-hoteis.csv">
+            <column name="ID" type="STRING"/>
+            <column name="PACOTE_ID" type="STRING"/>
+            <column name="TIPO" type="SKIP"/>
+            <column name="PRECO" type="NUMERIC"/>
+            <column name="NOME_HOTEL" type="SKIP"/>
+            <column name="EMAIL" type="SKIP"/>
+            <column name="TELEFONE" type="SKIP"/>
+            <column name="ENDERECO_ID" type="SKIP"/>
+            <column name="ID_PLATAFORMA" type="SKIP"/>
+        </loadData>
+    </changeSet>
+    <changeSet id="20250820120002" author="juniedson">
+            <loadData tableName="HOTEL" separator=","
+                      relativeToChangelogFile="true"
+                      file="20250816-hoteis.csv">
+            <column name="ID" type="STRING"/>
+            <column name="PACOTE_ID" type="SKIP"/>
+            <column name="TIPO" type="SKIP"/>
+            <column name="PRECO" type="SKIP"/>
+            <column name="NOME_HOTEL" type="STRING"/>
+            <column name="EMAIL"  type="STRING"/>
+            <column name="TELEFONE"  type="STRING"/>
+            <column name="ENDERECO_ID"  type="STRING"/>
+            <column name="ID_PLATAFORMA" type="NUMBER"/>
+        </loadData>
+    </changeSet>
+
+    <!-- Changeset para popular ITEM_PACOTE e ALUGUEL_CARRO_ITEM a partir do aluguel-carro.csv -->
+    <changeSet id="20250821120001" author="juniedson">
+        <loadData tableName="ITEM_PACOTE" separator="," usePreparedStatements="true" file="20250816-veiculo.csv" relativeToChangelogFile="true" >
+            <column name="ID" type="STRING"/>
+            <column name="PACOTE_ID" type="STRING"/>
+            <column name="TIPO" type="SKIP"/>
+            <column name="PRECO" type="NUMERIC"/>
+            <column name="NOME_LOCADORA" type="SKIP"/>
+            <column name="CATEGORIA_CARRO" type="SKIP"/>
+            <column name="TELEFONE" type="SKIP"/>
+            <column name="EMAIL" type="SKIP"/>
+
+        </loadData>
+    </changeSet>
+    <changeSet id="20250821120002" author="juniedson">
+        <loadData tableName="VEICULO" separator="," relativeToChangelogFile="true"  file="20250816-veiculo.csv">
+            <column name="ID" type="STRING"/>
+            <column name="PACOTE_ID" type="SKIP"/>
+            <column name="TIPO" type="SKIP"/>
+            <column name="PRECO" type="SKIP"/>
+            <column name="NOME_LOCADORA" type="STRING"/>
+            <column name="CATEGORIA_CARRO" type="STRING"/>
+            <column name="TELEFONE" type="STRING"/>
+            <column name="EMAIL" type="STRING"/>
+        </loadData>
+    </changeSet>
+
+    <!-- Changeset para popular ITEM_PACOTE e TRANSLADO_AEREO_ITEM a partir do translado-aereo.csv -->
+    <changeSet id="20250821130001" author="juniedson">
+        <loadData tableName="ITEM_PACOTE" separator="," relativeToChangelogFile="true"  usePreparedStatements="true" file="20250816-translado-aereo.csv">
+            <column name="ID" type="STRING"/>
+            <column name="PACOTE_ID" type="STRING"/>
+            <column name="TIPO" type="SKIP"/>
+            <column name="PRECO" type="NUMERIC"/>
+            <column name="NOME_COMPANHIA" type="SKIP"/>
+            <column name="VOO_IDA_NUMERO" type="SKIP"/>
+            <column name="VOO_VOLTA_NUMERO" type="SKIP"/>
+            <column name="VOO_IDA_HORA" type="SKIP"/>
+            <column name="VOO_VOLTA_HORA" type="SKIP"/>
+            <column name="EMAIL" type="SKIP"/>
+            <column name="TELEFONE" type="SKIP"/>
+        </loadData>
+    </changeSet>
+    <changeSet id="20250821130002" author="juniedson">
+        <loadData tableName="TRANSLADO_AEREO_ITEM" separator="," relativeToChangelogFile="true"  file="20250816-translado-aereo.csv">
+            <column name="ID" type="STRING"/>
+            <column name="PACOTE_ID" type="SKIP"/>
+            <column name="TIPO" type="SKIP"/>
+            <column name="PRECO" type="SKIP"/>
+            <column name="NOME_COMPANHIA" type="STRING"/>
+            <column name="VOO_IDA_NUMERO" type="STRING"/>
+            <column name="VOO_VOLTA_NUMERO" type="STRING"/>
+            <column name="VOO_IDA_HORA" type="STRING"/>
+            <column name="VOO_VOLTA_HORA" type="STRING"/>
+            <column name="EMAIL" type="STRING"/>
+            <column name="TELEFONE" type="STRING"/>
+        </loadData>
+    </changeSet>
+
+    <!-- Changeset para popular COMPRA a partir do contratacoes.csv -->
+    <changeSet id="20250816121005" author="junior-dev">
+        <loadData tableName="COMPRA" separator="," encoding="UTF-8" relativeToChangelogFile="true"  file="20250816-contratacoes.csv">
+            <column name="ID" type="STRING"/>
+            <column name="CLIENTE_ID" type="STRING"/>
+            <column name="PACOTE_ID" type="STRING"/>
+            <column name="DATA_COMPRA" type="DATE"/>
+            <column name="DATA_IDA" type="DATE"/>
+            <column name="DATA_VOLTA" type="DATE"/>
+            <column name="VALOR_PAGO" type="NUMERIC"/>
+            <column name="DESCONTO" type="NUMERIC"/>
+            <column name="VALOR_TOTAL" type="NUMERIC"/>
+            <column name="STRIPE_CHARGE_ID" type="STRING"/>
+            <column name="RESERVA_HOTEL" type="STRING"/>
+            <column name="ETICKET_VOO_IDA" type="STRING"/>
+            <column name="ASSENTO_VOO_IDA" type="STRING"/>
+            <column name="ETICKET_VOO_VOLTA" type="STRING"/>
+            <column name="ASSENTO_VOO_VOLTA" type="STRING"/>
+            <column name="EMBARQUE_VOO_IDA" type="DATETIME"/>
+            <column name="EMBARQUE_VOO_VOLTA" type="DATETIME"/>
+            <column name="RESERVA_VEICULO" type="STRING"/>
+        </loadData>
+    </changeSet>
+
+</databaseChangeLog>

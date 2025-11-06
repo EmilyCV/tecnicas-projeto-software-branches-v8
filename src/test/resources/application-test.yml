@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:tc:mysql:8.0.33:///test
+    username: test
+    password: test
+    driver-class-name: org.testcontainers.jdbc.ContainerDatabaseDriver
+  boot:
+    admin:
+      client:
+        enabled: false
+
+keycloak:
+  secret: Mt22ye1SRJeYmiRdzDr4Dhx2XPfLDuWS
+  client-id: teste

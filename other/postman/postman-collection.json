@@ -1,0 +1,577 @@
+{
+	"info": {
+		"_postman_id": "eda367ac-dbc4-45f4-8bb8-5b0bcaedaaab",
+		"name": "Tecnicas Projeto Software",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36127003"
+	},
+	"item": [
+		{
+			"name": "Localidade",
+			"item": [
+				{
+					"name": "Obter Localidades",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/localidades",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"localidades"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obter Localidade",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/localidades/000a94d4-3272-4f01-bf38-65bdd10ed9df",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"localidades",
+								"000a94d4-3272-4f01-bf38-65bdd10ed9df"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Clientes",
+			"item": [
+				{
+					"name": "Obter Clientes",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/clientes",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"clientes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obter Cliente",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/clientes/0065ffde-5732-437d-afed-f4f20b180483",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"clientes",
+								"0065ffde-5732-437d-afed-f4f20b180483"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obter Contratacoes de Cliente",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/clientes/ec2e748a-987d-4853-85d4-79ffaaf28b7b/compras",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"clientes",
+								"ec2e748a-987d-4853-85d4-79ffaaf28b7b",
+								"compras"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obter Contratacao de Cliente",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/clientes/ec2e748a-987d-4853-85d4-79ffaaf28b7b/compras/010d5341-f221-4fd3-b6af-6ee124d8dc5c",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"clientes",
+								"ec2e748a-987d-4853-85d4-79ffaaf28b7b",
+								"compras",
+								"010d5341-f221-4fd3-b6af-6ee124d8dc5c"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Pacotes",
+			"item": [
+				{
+					"name": "Obter Pacotes",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/pacotes",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"pacotes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obter Pacote",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/pacotes/0018e0da-d903-4181-862b-0127bae799ea",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"pacotes",
+								"0018e0da-d903-4181-862b-0127bae799ea"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obter Contratacoes de Pacote",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/pacotes/35ec6833-53be-4f36-9b69-cbd4bd87a6d3/compras",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"pacotes",
+								"35ec6833-53be-4f36-9b69-cbd4bd87a6d3",
+								"compras"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obter Contratacao de Pacote",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/pacotes/35ec6833-53be-4f36-9b69-cbd4bd87a6d3/compras/03640cdf-7fd8-4ae2-a3dd-cc5de6cec9bd",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"pacotes",
+								"35ec6833-53be-4f36-9b69-cbd4bd87a6d3",
+								"compras",
+								"03640cdf-7fd8-4ae2-a3dd-cc5de6cec9bd"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Contratação",
+			"item": [
+				{
+					"name": "Regular",
+					"item": [
+						{
+							"name": "Contratar Pacote",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"    const locationHeader = pm.response.headers.get('Location');",
+											"    if (locationHeader) {",
+											"        const urlParts = locationHeader.split('/');",
+											"        const resourceId = urlParts[urlParts.length - 1];",
+											"        console.log(\"Resource ID:\", resourceId);",
+											"        pm.environment.set(\"contratacao-recem-criada\", resourceId);",
+											"    } else {",
+											"        console.log(\"Location header not found in the response.\");",
+											"    }",
+											"    console.log(\"Location Header:\", locationHeader);"
+										],
+										"type": "text/javascript",
+										"packages": {},
+										"requests": {}
+									}
+								}
+							],
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n    \"dataIda\": \"2026-01-02\",\n    \"cartao\": {\n        \"numero\": \"4242424242424242\",\n        \"cvc\": \"314\",\n        \"validade\": \"2026-05\"\n    }\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "http://localhost:8080/v1/pacotes/0018e0da-d903-4181-862b-0127bae799ea/contratacoes",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"v1",
+										"pacotes",
+										"0018e0da-d903-4181-862b-0127bae799ea",
+										"contratacoes"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Obter Contratacao",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:8080/v1/contratacoes/{{contratacao-recem-criada}}",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"v1",
+										"contratacoes",
+										"{{contratacao-recem-criada}}"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "NG",
+					"item": []
+				}
+			]
+		},
+		{
+			"name": "Mock",
+			"item": [
+				{
+					"name": "Hotel",
+					"item": [
+						{
+							"name": "Regular",
+							"item": [
+								{
+									"name": "Fazer Reserva no Hotel",
+									"request": {
+										"method": "POST",
+										"header": [],
+										"body": {
+											"mode": "raw",
+											"raw": "{\n    \"hospede\": \"José da Silva\",\n    \"data-check-in\": \"2022-09-27\",\n    \"data-check-out\": \"2022-08-27\"\n}"
+										},
+										"url": {
+											"raw": "http://localhost:18080/api/v1/hoteis/48475757/reservas",
+											"protocol": "http",
+											"host": [
+												"localhost"
+											],
+											"port": "18080",
+											"path": [
+												"api",
+												"v1",
+												"hoteis",
+												"48475757",
+												"reservas"
+											]
+										}
+									},
+									"response": []
+								}
+							]
+						},
+						{
+							"name": "NG",
+							"item": [
+								{
+									"name": "Fazer Reserva no Hotel",
+									"event": [
+										{
+											"listen": "test",
+											"script": {
+												"exec": [
+													"    const locationHeader = pm.response.headers.get('Location');",
+													"    if (locationHeader) {",
+													"        const urlParts = locationHeader.split('/');",
+													"        const resourceId = urlParts[urlParts.length - 1];",
+													"        const promocaoId = urlParts[urlParts.length - 3];",
+													"        const hotelId = urlParts[urlParts.length - 5];",
+													"        console.log(\"Resource ID:\", resourceId);",
+													"        console.log(\"Promocao ID:\", promocaoId);",
+													"        console.log(\"Hotel ID:\", hotelId);",
+													"        pm.environment.set(\"reserva-hotel-ng-recem-criada.id\", resourceId);",
+													"        pm.environment.set(\"reserva-hotel-ng-recem-criada.promocao\", promocaoId);",
+													"        pm.environment.set(\"reserva-hotel-ng-recem-criada.hotel\", hotelId);",
+													"    } else {",
+													"        console.log(\"Location header not found in the response.\");",
+													"    }",
+													"    console.log(\"Location Header:\", locationHeader);"
+												],
+												"type": "text/javascript"
+											}
+										}
+									],
+									"request": {
+										"method": "POST",
+										"header": [],
+										"body": {
+											"mode": "raw",
+											"raw": "{\n    \"hospede\": {\n        \"nome\": \"Maria da Silva\",\n        \"data-nascimento\": \"1980-05-15\",\n        \"email\": \"xxxxx\"\n    },\n    \"check-in\": \"2022-09-27\",\n    \"check-out\": \"2022-08-27\"\n}\n  "
+										},
+										"url": {
+											"raw": "http://localhost:18080/api/v2/hoteis/48475757/promocoes/235636/reservas",
+											"protocol": "http",
+											"host": [
+												"localhost"
+											],
+											"port": "18080",
+											"path": [
+												"api",
+												"v2",
+												"hoteis",
+												"48475757",
+												"promocoes",
+												"235636",
+												"reservas"
+											]
+										}
+									},
+									"response": []
+								},
+								{
+									"name": "Obter Reserva recém criada",
+									"request": {
+										"method": "GET",
+										"header": [],
+										"url": {
+											"raw": "http://localhost:18080/api/v2/hoteis/{{reserva-hotel-ng-recem-criada.hotel}}/promocoes/{{reserva-hotel-ng-recem-criada.promocao}}/reservas/{{reserva-hotel-ng-recem-criada.id}}",
+											"protocol": "http",
+											"host": [
+												"localhost"
+											],
+											"port": "18080",
+											"path": [
+												"api",
+												"v2",
+												"hoteis",
+												"{{reserva-hotel-ng-recem-criada.hotel}}",
+												"promocoes",
+												"{{reserva-hotel-ng-recem-criada.promocao}}",
+												"reservas",
+												"{{reserva-hotel-ng-recem-criada.id}}"
+											]
+										}
+									},
+									"response": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Veiculo",
+					"item": [
+						{
+							"name": "Fazer Reserva de Veículo",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n    \"motorista\": \"José da Silva\",\n    \"categoria\": \"Econômico\",\n    \"codigo-cidade\": \"74B346C4\",\n    \"data-check-in\": \"2022-09-27\",\n    \"data-check-out\": \"2022-08-27\"\n}"
+								},
+								"url": {
+									"raw": "http://localhost:18080/api/v1/veiculos/reservas",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "18080",
+									"path": [
+										"api",
+										"v1",
+										"veiculos",
+										"reservas"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "Voo",
+					"item": [
+						{
+							"name": "Fazer Reserva de Voo",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n    \"passageiro\": \"José da Silva\",\n    \"data\": \"2022-09-27\"\n}"
+								},
+								"url": {
+									"raw": "http://localhost:18080/api/v1/voos/AA5678/reservas",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "18080",
+									"path": [
+										"api",
+										"v1",
+										"voos",
+										"AA5678",
+										"reservas"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "oauth2",
+		"oauth2": [
+			{
+				"key": "tokenName",
+				"value": "Token para API",
+				"type": "string"
+			},
+			{
+				"key": "grant_type",
+				"value": "authorization_code",
+				"type": "string"
+			},
+			{
+				"key": "useBrowser",
+				"value": false,
+				"type": "boolean"
+			},
+			{
+				"key": "clientId",
+				"value": "postman",
+				"type": "string"
+			},
+			{
+				"key": "accessTokenUrl",
+				"value": "http://localhost:9080/realms/pece/protocol/openid-connect/token",
+				"type": "string"
+			},
+			{
+				"key": "authUrl",
+				"value": "http://localhost:9080/realms/pece/protocol/openid-connect/auth",
+				"type": "string"
+			},
+			{
+				"key": "addTokenTo",
+				"value": "header",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

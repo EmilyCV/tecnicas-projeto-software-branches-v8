@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPathPattern": "/api/v1/hoteis/.*/reservas",
+    "bodyPatterns": [
+        {
+          "matchesJsonPath": "$[?(@.hospede)]"
+        },
+        {
+          "matchesJsonPath": "$[?(@.data-check-in)]"
+        },
+        {
+          "matchesJsonPath": "$[?(@.data-check-out)]"
+        }
+      ]
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": "{ \"hotelId\": {{request.pathSegments.[3]}}, \"hospede\": \"{{jsonPath request.body '$.hospede'}}\", \"data-check-in\": \"{{jsonPath request.body '$.data-check-in'}}\", \"data-check-out\": \"{{jsonPath request.body '$.data-check-out'}}\",  \"numero-reserva\": \"{{randomValue length=12 type='ALPHANUMERIC' uppercase=true}}\", \"timestamp\": \"{{now}}\" }",
+    "transformers": ["response-template"]
+  }
+}

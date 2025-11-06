@@ -1,0 +1,42 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPathPattern": "/api/v2/hoteis/.*/promocoes/.*/reservas",
+    "bodyPatterns": [
+        {
+          "matchesJsonPath": "$[?(@.hospede.nome)]"
+        },
+        {
+          "matchesJsonPath": "$[?(@.hospede.email)]"
+        },
+        {
+          "matchesJsonPath": "$[?(@.hospede.data-nascimento)]"
+        },
+        {
+          "matchesJsonPath": "$[?(@.check-in)]"
+        },
+        {
+          "matchesJsonPath": "$[?(@.check-out)]"
+        }
+    ]
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json",
+      "Location": "/api/v2/hoteis/{{request.pathSegments.[3]}}/promocoes/{{request.pathSegments.[5]}}/reservas/{{randomValue length=256 type='NUMERIC'}}"
+    },
+    "transformers": ["response-template"]
+  },
+  "serveEventListeners": [
+    {
+      "name": "recordState",
+      "parameters": {
+        "context": "{{response.headers.Location}}",
+        "state": {
+          "fullBody": "{{{jsonPath request.body '$'}}}"
+        }
+      }
+    }
+  ]
+}

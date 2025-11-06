@@ -1,0 +1,556 @@
+ID,PACOTE_ID,NOME_HOTEL,EMAIL,TELEFONE,PRECO,ENDERECO_ID,TIPO,ID_PLATAFORMA
+6e8df48a-db18-4b8a-b946-04963f693620,0018e0da-d903-4181-862b-0127bae799ea,Hotel das Palmeiras,reservas@hoteldaspalmeiras.com,(11) 98765-4321,450,449a3cc0-2c74-40f3-8fda-2a3840e65c92,HOTEL,379872
+2caa5c37-12e6-4023-a24b-c36f1cd1df23,00723f98-a7a7-42cf-ae53-aa2b449c86c6,Pousada do Sossego,contato@pousadadosossego.com.br,(21) 91234-5678,320,11dff553-74a6-4fb3-b0c5-ca6b9fe1aa2c,HOTEL,10544590
+ea761725-365f-4457-9833-e6763b68b739,009ce3cb-25bd-4ef5-ba13-391a2817c19e,Resort Solar,info@resortsolar.com.br,(85) 99876-5432,1250,12720a37-33e3-4fa3-966c-a092ad724ef3,HOTEL,11182797
+b3ad4191-f1f6-41c1-b3c0-6ad47ff40277,01a762e7-7548-4b6c-8962-2c53dd36cc85,Hotel Estrela do Mar,reservas@hotelelmar.com.br,(71) 96543-2109,670,13187f4e-a746-4793-beb9-0d8a3d9b9fbc,HOTEL,7920324
+2d8322d8-17e5-47cd-bb51-2c2a4e4ef413,0263d1fc-b72e-4b18-8d7d-c6cbe8203853,Hotel Serra Azul,contato@hotelserraazul.com,(31) 94321-0987,280,13310ae0-edbc-46f7-97db-62d1ca9fdf81,HOTEL,12596074
+21a0fbec-f587-44f3-bd17-c18e56203956,02641de8-d3d7-40a8-86bf-2fb89754aafc,Pousada Recanto Verde,reservas@recantoverde.com,(41) 93456-7890,550,13348c20-0709-4d40-9a93-115ae0c02cb4,HOTEL,3366415
+3db19c47-1c09-4206-8ed4-adc26c8051d9,02c5f980-c9b7-4f39-8639-5d62935a7a60,Hotel Vila do Mar,contato@hotelviladomar.com,(48) 92109-8765,890,13664f25-6e26-44a6-bcca-9ec61f82dde7,HOTEL,3112443
+f2fa87b4-d134-4a0c-b8ee-ddd9c84968b3,02f2684b-366e-4f8f-8e3f-fa17750a856c,Hotel Pôr do Sol,reservas@hotelpordosol.com.br,(81) 97890-1234,710,137655cc-9ff6-4111-b249-fb1b113cd200,HOTEL,7920324
+870047b2-4e71-4d30-8d23-c55f6f9fbba6,0362ceb8-1482-4067-a5d9-1ce936a6eb45,Pousada Nascer do Sol,contato@pousadanascerdosol.com,(51) 95678-9012,390,13b6ddaa-e30d-49fe-a83c-ed4368386b8b,HOTEL,10146399
+712427ac-aa72-4730-bd66-18c9d70fbf1d,03a15c95-a61d-4e30-9430-679cb502122a,Hotel Aconchego Mineiro,reservas@hotelaconchego.com,(34) 91098-7654,420,13d245f2-a2bc-4fea-ba4c-1747a9f21555,HOTEL,5338549
+579466b4-5341-4952-9c31-566818a01fa4,03a6ce05-141b-4a0c-82a0-0ab0b7320819,Hotel Paraíso Tropical,info@hotelparaiso.com.br,(92) 99876-5432,1500,1402f3be-a5ed-433e-954c-33f66e53a1ac,HOTEL,3534174
+4f220c25-fc3d-4287-9dc8-acf8b245d600,051c09b9-9186-453f-b138-08d616112828,Pousada Tranquilidade,contato@pousadatranquilidade.com,(61) 91234-5678,600,141e21d2-810f-49f5-973f-520104be45be,HOTEL,3813059
+02ed253e-30c3-4448-a171-1be7fe54dc06,05893f1c-5226-4d51-8985-1bb82478cb22,Hotel Mirante das Águas,reservas@hotelmirante.com.br,(62) 98765-4321,580,1447cfd9-0cf7-49b7-a732-7e1e21ff7c57,HOTEL,946444
+530e467a-cb52-42e2-b4f1-09982b31e265,05ee6f52-85be-45e8-b42c-ef15c905f2d3,Hotel Lagoa Azul,contato@hotellagoazul.com,(67) 96543-2109,470,14b26afe-f148-4810-ac0a-69dc8226e513,HOTEL,801247
+341cbbcc-1467-44cd-8b81-aa17f79b1a9b,05f39ea2-b9d3-4a94-89c4-b09c84d105e9,Pousada do Cerrado,reservas@pousadadocerrado.com,(65) 94321-0987,350,14cbd242-9ed6-4f71-b82f-13b8a81c988c,HOTEL,1809728
+02f9f309-26e8-47bc-9d3e-691b4d2d112c,0610acbd-0359-405d-bc4a-2bda1b31d343,Hotel Pedra Branca,contato@hotelpedrabranca.com,(27) 93456-7890,750,14d0f17c-de6c-49fb-865b-e65e73b65a6f,HOTEL,10263285
+e3aeb8a8-e2bc-4bb6-b398-f81f49b8378e,061f5edb-3c9a-47bd-9448-9e65de229e23,Hotel Mar e Areia,reservas@hotelares.com.br,(83) 92109-8765,920,155a9b70-d435-42b3-9b84-ea394454f6f0,HOTEL,1809728
+b4af72d2-f043-499e-8744-b17d6a4d493a,06a839a7-39e1-4a75-b23b-a96795e6a8e5,Pousada Sonho Dourado,contato@pousadasonho.com,(84) 97890-1234,680,158f743a-4f08-4a90-8a83-be76a039f5b2,HOTEL,4337318
+1cc0028f-ba03-4ef5-a845-b817ed1246d3,0801a7c5-7a75-4987-b312-43f9136f83cc,Hotel Brisa do Mar,reservas@hotelbrisa.com.br,(91) 95678-9012,520,15a45426-1c2f-4550-9ce3-4e423c22930a,HOTEL,13654198
+6004b4b7-42c8-40be-8c16-651be65cf819,0839cd7c-6da7-4cb3-bd17-b0626553c957,Hotel Vista Bela,info@hotelvistabela.com,(69) 91098-7654,480,15fc4fa3-1fd0-4403-b5a0-a15a331fff68,HOTEL,10528795
+78c9af3b-08aa-4255-b528-909257d10efe,0847bd11-58c1-477c-97cc-19e945bd1b76,Pousada do Rio,contato@pousadadorio.com,(68) 99876-5432,330,15ff3184-2abb-4cb3-8b6f-e26149566b40,HOTEL,2101251
+4b008e9c-5261-4bf8-af21-8274b85f62fb,0863a7b1-1930-478e-8b99-7431dbb85747,Hotel Colinas Verdes,reservas@hotelcolinas.com,(95) 91234-5678,410,1629b5d2-761e-47e3-96a2-4db8fc6056f1,HOTEL,12280786
+a31e15ba-26b7-444a-8aa4-aefaba4e2c2b,0883a3b8-1ee3-4843-bd1f-33bc0f37b796,Hotel Floresta Viva,contato@hotelfloresta.com,(96) 98765-4321,290,16711bfd-d13d-4657-94c8-42c0724a6569,HOTEL,2152819
+335ade75-5a5a-4813-8ab2-bc8a7ddbbe69,08df71d9-86c0-4552-9e15-be09a2ecd885,Hotel Vale dos Ventos,reservas@hotelvaledosventos.com,(79) 96543-2109,650,1674e9e8-6845-4a45-94e1-d541f88b2866,HOTEL,10263285
+3e40edd0-6a18-4711-8d32-64c9493b06a6,09c7382f-47b1-4452-834a-dbdc36109f76,Pousada do Sertão,contato@pousadasertao.com,(87) 94321-0987,250,167be31e-bb9c-4d16-8c51-85abb59ec5f7,HOTEL,4905360
+4143e7ac-5daf-4d7f-8536-9166b82de7f0,09f05155-6f96-44cb-8d0b-29ee8c9bc86d,Hotel Sol Nascente,reservas@hotelsolnascente.com,(86) 93456-7890,380,167e92c4-d5c9-46ab-b6e8-9f1e530ce5a5,HOTEL,8617000
+dfb47bea-d638-44e3-82f8-496ddc36fe1a,0aad28da-c65a-47ef-8ecb-0f3ef404fbab,Pousada das Águas Quentes,contato@pousadaaguasquentes.com,(64) 92109-8765,1100,16d41bd4-4c2b-4394-bbed-fb9dc7213980,HOTEL,3366415
+ed5cf5c3-a961-4b15-97b0-4eb1b82679fb,0af386be-7763-4d7e-8b61-ef865351105c,Hotel Ouro Preto,reservas@hotelouropreto.com,(31) 97890-1234,570,17144d69-03ba-425c-8b19-719ef469230e,HOTEL,9227638
+60ee0d5c-7fce-4baa-b937-81a686eef2fd,0b3cedd0-b9e8-4c42-b52c-047608982324,Pousada do Vale,contato@pousadadovale.com.br,(24) 95678-9012,700,17317e7f-b5a0-4c95-a11e-a187b4adb13c,HOTEL,1809728
+d2e4eb66-fb92-4c92-85f5-bdbcfe35fa53,0baec014-296a-480c-883d-2789f4689f9d,Hotel da Praia,reservas@hoteldapraia.com,(54) 91098-7654,950,1814a0c3-0340-4445-84a0-1a0eb1062789,HOTEL,8609630
+34d90fee-8ab3-4009-b38a-66f884f88680,0c5b4de3-15e5-492a-b499-7cfa1523b278,Pousada Litoral,contato@pousadalitoral.com,(13) 99876-5432,340,18d5d593-9469-484e-a90f-dec8f33ad40b,HOTEL,11182797
+0aeb6eb2-06f4-40ec-9910-28e5e6d3b126,0c81266c-1c62-47ff-ac17-9ba4d5af587a,Hotel do Bosque,reservas@hoteldobosque.com.br,(19) 91234-5678,490,1942991c-aa18-460f-9545-9c3166311651,HOTEL,10263285
+7358004d-d807-4290-92ad-15cf36fcb4db,0d874448-35a2-4e67-8398-04026ee71ab6,Pousada da Serra,contato@pousadadaserra.com,(47) 98765-4321,620,194cede2-54fd-4ac2-99a9-a33f5cc8a108,HOTEL,8617000
+9bc20842-0753-4667-9b04-14379faa9457,0d91ce29-8668-4efc-bd60-673c0f15f880,Hotel do Mar,reservas@hoteldohmar.com,(82) 96543-2109,800,1954f973-b5fd-4493-a9c8-81878ea89ec7,HOTEL,7920324
+5ab33234-0145-43f6-b405-260a99ae7a2f,0e7dfd5b-54f9-47e6-b6e9-904a82858242,Pousada do Sol,contato@pousadadosol.com,(75) 94321-0987,360,1a4b55fe-084f-4389-9da8-d09057614cd9,HOTEL,7920324
+70217635-252f-4931-b4d5-db1b9f6011ce,0e93706f-efa0-4abe-b538-59dc05caedcd,Hotel do Rio Negro,reservas@hoteldorionegro.com,(92) 93456-7890,1300,1a6c7de1-fd98-4b53-98c9-9cfe6265dd67,HOTEL,8371719
+4b31d16a-0c4f-4f4e-9ba5-8e9df831e54e,0f0c8e1d-2ffd-4d77-8579-7b4b1b91c1d2,Pousada do Pantanal,contato@pousadadopantanal.com,(67) 92109-8765,4500,1a7bcbdc-63ef-43fc-bf33-69819c5a4078,HOTEL,8609630
+2ad08511-d637-46fe-ba96-8ff7ab2861ec,108b783a-bf82-480f-a151-e2302ecafed6,Hotel das Dunas,reservas@hoteldasdunas.com.br,(85) 97890-1234,2500,1ac9d658-618d-4975-9221-436aa3e17af6,HOTEL,2101251
+c7941129-ca5c-4ece-95ee-514387ef2bd5,11262ed7-80f8-4b88-87cb-d80850a54b58,Pousada do Centro Histórico,contato@pousadahistorica.com,(21) 95678-9012,980,1b5bfec2-67d5-4ed7-9ca5-615058a4cbc9,HOTEL,602489
+cb896495-cb32-416a-88a0-277060c44560,113de264-a13f-443a-85b7-c2dd86d8813f,Hotel das Cataratas,reservas@hotelcataratas.com,(45) 91098-7654,3200,1b80d79e-166d-4753-adb8-7615f2dc398e,HOTEL,1809728
+5904dce0-58fe-413c-8f83-76f2f33100c1,126f3b00-fa81-40f9-bc33-9e9a9a87948c,Pousada do Lago,contato@pousadadolago.com,(61) 99876-5432,720,1ba8c437-b559-43fc-9d21-6b745fedb2a0,HOTEL,10263285
+a7a2cd8b-ce7e-4012-8468-8635f90b0ceb,12e7e53b-93a0-4cfa-9d86-cd95e044b28b,Hotel do Vale do Vinho,reservas@hoteldovale.com,(54) 91234-5678,1500,1bc9eb2d-7d01-433c-9f3c-0cfc3db14cf6,HOTEL,10528795
+3166ae30-52a7-4446-ab49-f6889d7b97df,135f8016-0e92-483a-aa2a-0f3a40559e40,Pousada dos Ventos,contato@pousadadosventos.com,(88) 98765-4321,290,1c2236ce-d9bc-4338-b8db-d16736da9335,HOTEL,3112443
+0b407669-13f2-4337-9cb8-d10b55cd9497,13e5f981-e763-46e7-8055-4ac6a480cc35,Hotel das Rochas,reservas@hoteldasrochas.com,(83) 96543-2109,370,1c3fa7f3-3294-43a1-9694-6d7066c33fbc,HOTEL,8512326
+774b2bcc-16f4-42ad-94f3-36145d1bf9f7,154f572c-4624-469f-8fe4-cd2f5453d8b7,Pousada da Mata,contato@pousadadamata.com,(32) 94321-0987,510,1c420bcb-38f3-4596-93fe-396bb1734745,HOTEL,8659138
+00b676f6-698e-4973-8d20-9b6bf90c05ce,155f253c-5b03-4e0b-abce-eb35737a01e0,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,1c63d241-39fd-4804-bb65-fe5dc25fedc9,HOTEL,8512326
+89123eb4-2328-47ea-a23f-aad4013ca0a9,17444f78-8923-4ea2-bcd7-8213c0d60ad4,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,1cad3ff9-f4d2-42fb-83b9-332bd7601407,HOTEL,10263285
+7d82cebe-f26e-4ead-bff0-a0b87a0b8070,187f6ced-5fc4-43ca-9bc5-a26b89e83007,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,1cdd7577-3258-43d2-bf7b-effcf4ada4bc,HOTEL,4905360
+ed3dd9d3-bb48-41f9-bf77-1f35096c2d58,19629614-09c9-4c21-b756-db994578c54a,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,1cfa7188-8b6c-424b-9821-4a70342a34a6,HOTEL,10544590
+ff91ff32-70b8-4e2c-9895-d60f14144766,19a61d1c-4026-4de8-88a9-10609e82a0ea,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,1d81c8d4-048b-4ae6-8002-3fa4e03deb32,HOTEL,1491789
+bb3c34cb-b98c-4df4-b6b4-29ab0718182a,19d4c584-c2c5-4b4f-885c-1a3701a65288,Hotel das Palmeiras,reservas@hoteldaspalmeiras.com,(11) 98765-4321,450,1e0e2f73-e2fd-436b-957b-93bbc1d697be,HOTEL,9227638
+d2df1ea0-c3b7-4165-9798-c2b2ac583ace,1a60ee30-7844-4fc6-a823-0cb3d2a967eb,Pousada do Sossego,contato@pousadadosossego.com.br,(21) 91234-5678,320,1e351746-c18c-411b-a9d1-9bdae173b511,HOTEL,3112443
+598275d7-d9e0-48cf-aea8-f735adb3f0e6,1a6a1b15-3cc7-4156-adf9-fdf8660b210c,Resort Solar,info@resortsolar.com.br,(85) 99876-5432,1250,1ea326ff-e1ce-4c36-a517-ca786f46ec26,HOTEL,2152819
+1c3f9cae-0228-4f05-9868-1eb903952e35,1b9924d0-5ae0-43fe-b84e-bc0016324b38,Hotel Estrela do Mar,reservas@hotelelmar.com.br,(71) 96543-2109,670,1eab49f1-b6dd-4a51-9918-552f445a66e8,HOTEL,10528795
+199bd841-af50-432b-b259-43e68c89a8b4,1c374448-98f3-4dd5-8051-1029cf8aa9a7,Hotel Serra Azul,contato@hotelserraazul.com,(31) 94321-0987,280,203330de-c6da-4d89-a795-805092a00bb7,HOTEL,8659138
+1a9e7e43-c329-45a8-8a56-6c508e113764,1cbaa688-0ba9-42a1-99b7-f0ec1fcdfd86,Pousada Recanto Verde,reservas@recantoverde.com,(41) 93456-7890,550,2040f587-debe-4e4f-a1bf-77e3e56ef4f7,HOTEL,10528795
+d28f093f-5245-42e8-b72c-f53d813fb1e4,1d3ec0c1-fc23-4cac-8065-367b132a1405,Hotel Vila do Mar,contato@hotelviladomar.com,(48) 92109-8765,890,2070397c-fdb3-4ddf-9f21-4f19563c0462,HOTEL,14265763
+fd33866b-ec0d-4a5f-b7ad-acfc60e45355,1d825a5f-103a-4deb-b7b9-244b84ac92c5,Hotel Pôr do Sol,reservas@hotelpordosol.com.br,(81) 97890-1234,710,20787c41-2acb-4c79-b762-dcd7e5ec8539,HOTEL,10804695
+f0b42647-d174-497b-8627-067c55a5e5b8,1dbb0583-93cf-4f10-a1fc-9ffcda8cff0e,Pousada Nascer do Sol,contato@pousadanascerdosol.com,(51) 95678-9012,390,208a1764-d8c7-4d49-902d-d1a0a11752f5,HOTEL,1306237
+dc52ef4d-24ff-466e-b1c1-a0c098b3d00b,1dde21fe-cbb0-41f2-a6c3-e2d515158b8e,Hotel Aconchego Mineiro,reservas@hotelaconchego.com,(34) 91098-7654,420,20a1f86e-23ee-4195-9ec0-037f81ae9534,HOTEL,2500617
+475c4bc2-51ce-457f-a656-e4aaa92735f4,1ea051cf-beac-4000-b5aa-4607a49b2c66,Hotel Paraíso Tropical,info@hotelparaiso.com.br,(92) 99876-5432,1500,20b0abad-769a-46bd-926f-e0f4f9583bc6,HOTEL,9227638
+e6d4e7f9-2a77-4971-9dfa-d889b5b44fd3,1ed26a10-883e-4730-8cac-499e598d9f12,Pousada Tranquilidade,contato@pousadatranquilidade.com,(61) 91234-5678,600,20d683e4-60ea-40f6-95d9-9c16a4e5fd89,HOTEL,1491789
+8a57bd4a-ecca-49cb-9086-4ef0f762aae7,1f01882c-a933-4b5d-91dd-44db3ab81f30,Hotel Mirante das Águas,reservas@hotelmirante.com.br,(62) 98765-4321,580,20f00c2c-dfe7-405a-b177-bc6e3bcb7e6f,HOTEL,4374096
+62a0c6b7-dd61-4828-a2c4-bd94adc78e7f,21a9fae1-d112-48bc-b8db-619310cde369,Hotel Lagoa Azul,contato@hotellagoazul.com,(67) 96543-2109,470,20fafddd-0136-47ce-acea-21ec28e425a2,HOTEL,8617000
+fb35934c-85e1-417f-a074-d651244bc79a,23e4248f-8cce-4648-9780-7f0e2bd874fe,Pousada do Cerrado,reservas@pousadadocerrado.com,(65) 94321-0987,350,2135d830-4353-4c92-a99e-f71731a34691,HOTEL,801247
+981af0ef-6b26-445d-8ead-d1705d0f2f0c,23ed6eb2-fef6-43f1-95c7-1ed2a7e28419,Hotel Pedra Branca,contato@hotelpedrabranca.com,(27) 93456-7890,750,21605653-a66e-44ab-99c4-e98a67e4e489,HOTEL,10263285
+27d5925a-11aa-40f2-9c65-f1010d6c4aea,2409312f-cb03-41db-bd1b-2bfde7a7d9e7,Hotel Mar e Areia,reservas@hotelares.com.br,(83) 92109-8765,920,2179e031-8f14-431c-be30-427a3c5519ac,HOTEL,10804695
+02eb5259-d892-4901-91b9-5df38f8cc01d,241de993-3ec3-4ee9-a71e-6102282cf1e6,Pousada Sonho Dourado,contato@pousadasonho.com,(84) 97890-1234,680,2270016a-da1e-47d7-b67e-9a63c4406960,HOTEL,4374096
+c46c1a2b-9261-4988-b25a-59dbe86874d1,25300b15-8286-47fa-832b-4369d41e1c68,Hotel Brisa do Mar,reservas@hotelbrisa.com.br,(91) 95678-9012,520,228ddc28-6a01-4069-9ee4-d07b436dbfa1,HOTEL,4761806
+2f2ee893-9cf7-4008-bcf7-7adea66a1bb0,258869e7-c1d4-4451-8644-3e4b6c253063,Hotel Vista Bela,info@hotelvistabela.com,(69) 91098-7654,480,22d83791-0fe2-4386-8fd9-4f9f5157b15a,HOTEL,14265763
+c744e088-b0a8-477e-845f-c35d75aed826,25a1082c-7604-4c3b-9e67-331af5b31ef0,Pousada do Rio,contato@pousadadorio.com,(68) 99876-5432,330,23018a71-dcd3-4fb2-b7b1-c7d80f572588,HOTEL,16548113
+6bc549a4-1cba-47bb-a7e8-05443e8b38ec,25c098c7-b6ee-4f49-9b1d-967e0e336c20,Hotel Colinas Verdes,reservas@hotelcolinas.com,(95) 91234-5678,410,231fcbad-00d4-49e0-9be8-a7e0b3657467,HOTEL,13341380
+f7923e1f-ad2a-4fe4-af75-70f4fa92a3ec,2601ac80-5316-4358-acd9-0713b4f35c1e,Hotel Floresta Viva,contato@hotelfloresta.com,(96) 98765-4321,290,232e41b2-a025-46f7-9fa2-8265bee58296,HOTEL,2500617
+aa9bc86a-bae8-482e-ab38-821ba7998489,26b1eccf-f81f-4b2a-b84f-957e5ae0f73b,Hotel Vale dos Ventos,reservas@hotelvaledosventos.com,(79) 96543-2109,650,235bbae1-727e-499d-8e77-6c67c32f6ec0,HOTEL,7920324
+5a3a37ad-88e1-40fb-9fe9-198569498c46,26cdfc0a-9dfc-441e-a2ff-09f181638519,Pousada do Sertão,contato@pousadasertao.com,(87) 94321-0987,250,2368907d-86ca-4d20-9a6c-e7a7623e506b,HOTEL,379872
+9badf2af-f00f-489e-bafb-8aa2a44dfeee,270c2804-bcee-415c-9a6a-0025f7fa5014,Hotel Sol Nascente,reservas@hotelsolnascente.com,(86) 93456-7890,380,238da565-531c-4111-87dc-8c6fd8f7633e,HOTEL,2835450
+4f254d04-f797-4b93-8f4e-98859801af7e,2754ec66-8876-4856-a853-eeab9aba2c31,Pousada das Águas Quentes,contato@pousadaaguasquentes.com,(64) 92109-8765,1100,23c0d55c-9e9f-4b53-b84d-2f2a130aea66,HOTEL,6270657
+a3a51334-e491-4dc4-91b0-10a7676bf51a,27c0d90b-2360-4578-8cc3-55e3f6b8cfdb,Hotel Ouro Preto,reservas@hotelouropreto.com,(31) 97890-1234,570,23c28b07-9a90-413d-b5fe-3a025fef380c,HOTEL,1163966
+8b89c1c7-a307-417c-8cdb-7f4fd27ffc79,2836ad8e-f71f-4f4d-909b-973a2567384b,Pousada do Vale,contato@pousadadovale.com.br,(24) 95678-9012,700,2425472f-3b1a-424f-856a-f5d059099591,HOTEL,602489
+6b3d06ff-b6aa-400f-bd29-ca5d26997087,28822d6c-0b29-4175-bd32-49795076801d,Hotel da Praia,reservas@hoteldapraia.com,(54) 91098-7654,950,245a6d9c-8d75-4d5c-ad7f-f41520f6bb48,HOTEL,5338549
+c4f61acc-7f90-4b93-a3fb-4878776975d9,28b18f7e-0ef9-4718-898d-4b23f4c7fbfb,Pousada Litoral,contato@pousadalitoral.com,(13) 99876-5432,340,248e4e6e-0c83-448a-8472-95f177309132,HOTEL,11073461
+35492dd8-c3b1-4937-a5fd-8ce0cda0d81c,28c44431-df7f-4dd2-b1fe-ea43dc62dd85,Hotel do Bosque,reservas@hoteldobosque.com.br,(19) 91234-5678,490,24cd4652-54b5-4fe9-af74-a87cebb02b24,HOTEL,3813059
+ccf85700-782b-4f40-8753-1f55850c7ecc,28e3e2e4-44cb-452e-ac49-57b3f154cb18,Pousada da Serra,contato@pousadadaserra.com,(47) 98765-4321,620,25b68b4f-5c39-417a-9e8a-501e0bd0dbe3,HOTEL,1491789
+6bf85b75-264d-47e4-8cdd-f24cf929f76f,29a45419-a067-4f3b-b532-4f1f63e01bf3,Hotel do Mar,reservas@hoteldohmar.com,(82) 96543-2109,800,25b8b70c-8a18-41db-b456-da3782830736,HOTEL,602489
+b235509a-c3ed-4096-9bec-b270f7b569fc,29f5a769-b10f-421d-96dc-4072dbd77a97,Pousada do Sol,contato@pousadadosol.com,(75) 94321-0987,360,25c26bab-26bd-409f-af33-e152c2c2160c,HOTEL,8659138
+89dc7a9a-4bb2-48e2-913c-fc1c3330dbfd,2bab84bb-3406-404a-b788-846ff687fd68,Hotel do Rio Negro,reservas@hoteldorionegro.com,(92) 93456-7890,1300,25c6e832-6452-47dd-8d9b-84b6eeb691ee,HOTEL,2500617
+f30635e2-c558-469e-bfa2-c6505cfedfd7,2beebcd5-3dde-40f0-8caf-bcd01ce1cebf,Pousada do Pantanal,contato@pousadadopantanal.com,(67) 92109-8765,4500,25f0f75e-dc87-4f2b-b931-21d48c5eadd3,HOTEL,11073461
+307ede22-26f8-4d16-9232-8a6631cc686f,2bfb177c-976e-469c-bf76-5c5aac6d47b5,Hotel das Dunas,reservas@hoteldasdunas.com.br,(85) 97890-1234,2500,26121f65-7a53-498e-aca8-f3f4b945a153,HOTEL,8512326
+5554a971-ce63-472e-b0c3-5bb8f8af5453,2c4071b8-39bf-40f6-8c0b-0a9a5f000f74,Pousada do Centro Histórico,contato@pousadahistorica.com,(21) 95678-9012,980,2638d9b9-98b9-455f-b6ee-202907b76345,HOTEL,4932749
+08a16321-9c64-45fc-aa15-e8ad48f09787,2c57eafe-0fa9-4aa7-9b8c-fcaf558fcc93,Hotel das Cataratas,reservas@hotelcataratas.com,(45) 91098-7654,3200,27129d44-bccf-44a3-a828-8066febf40e1,HOTEL,3534174
+42b109f1-48ac-4345-8a66-3f667d8ad314,2f90c904-2f13-4009-a0c9-d23e7a44041b,Pousada do Lago,contato@pousadadolago.com,(61) 99876-5432,720,27242d69-0855-4468-9f04-1f6909899ef5,HOTEL,1306237
+8e5c3ab0-1332-4f30-9e82-18bd12cbc310,3004abe7-3a5d-43bf-9180-dfcf3c41a5e9,Hotel do Vale do Vinho,reservas@hoteldovale.com,(54) 91234-5678,1500,27b160ab-256e-4016-af7d-11e6adacdd12,HOTEL,5629734
+72fe69f5-0070-431b-9667-fa77d8688d8c,3098daca-4cc9-4fa3-87df-cd98b1b82ca3,Pousada dos Ventos,contato@pousadadosventos.com,(88) 98765-4321,290,27da38d5-3e11-431b-9822-92e0f19b6cea,HOTEL,11231226
+eb999071-2911-40e8-af6d-539af7d280a6,31469361-f12f-4a91-808c-e5094f19018e,Hotel das Rochas,reservas@hoteldasrochas.com,(83) 96543-2109,370,280a6d23-9600-441a-b9e4-0d6e7dd1dae0,HOTEL,2835450
+5be88d36-3843-43c2-b179-f801efbfc08b,31ec0f02-1e7f-41fa-9fc7-c7c73aa5fd55,Pousada da Mata,contato@pousadadamata.com,(32) 94321-0987,510,284093c4-59be-4bd3-bda7-241ff0bf7f04,HOTEL,2101251
+3b917630-11f9-4063-9cee-0a5ac67d8b76,3200f3f0-32ed-44ee-9bee-cc040f81a57c,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,289865cf-2b72-403f-a04f-d31845d77c5c,HOTEL,12596074
+60b5262a-e3bc-4057-83e2-0b14f1b0d38b,32607007-0419-4cb6-82df-f3fdbd71ee7b,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,28c3949e-e2f8-4e05-bfd5-8c058f0a02a6,HOTEL,4761806
+5cb2eb99-694f-44b3-bc7b-b80cba63453c,339e3860-de6a-47e1-be22-28a180935046,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,28da5de8-3617-45a2-9876-eeaf3cecb532,HOTEL,10528795
+35c41705-226d-48bb-9bef-182fdcb015ec,3470e565-5377-4155-a5de-1120bf0a4c30,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,2947676f-368d-4262-b8a0-90dc64c5a11d,HOTEL,10528795
+a42b0fbd-e540-4bb4-b61a-d24d94ee00e8,35e72b34-724f-4323-975c-359f65e9d1c8,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,297dbc52-c807-4c94-889c-7f21fd9f3bd4,HOTEL,10804695
+30768b5b-1e37-427a-8804-b1129264456b,35ec6833-53be-4f36-9b69-cbd4bd87a6d3,Hotel das Palmeiras,reservas@hoteldaspalmeiras.com,(11) 98765-4321,450,449a3cc0-2c74-40f3-8fda-2a3840e65c92,HOTEL,379872
+3e527009-f81d-4a2b-a185-e2909506f7fa,3644f270-b33c-4abc-8f46-54723944bdaa,Pousada do Sossego,contato@pousadadosossego.com.br,(21) 91234-5678,320,2996e406-afb6-4c8a-8d62-03f0d83c181b,HOTEL,10263285
+bca754e5-7460-469f-b95f-95cf3b81f8cf,3747fe94-9f4c-4a4a-a24e-6161a0224799,Resort Solar,info@resortsolar.com.br,(85) 99876-5432,1250,29a819b4-1487-40cc-8a6f-e8493f82a214,HOTEL,10146399
+6e7e772d-8718-49bd-9431-b9490672ff0d,386895c6-6f9d-4a2f-a93b-80e885c874a7,Hotel Estrela do Mar,reservas@hotelelmar.com.br,(71) 96543-2109,670,29edbaa6-1c20-46d1-b4a9-779e922d5135,HOTEL,1163966
+1a2680f9-4028-45ee-abe2-2f0e9a030967,392d15a2-d6cc-43d3-b4ff-959d67114412,Hotel Serra Azul,contato@hotelserraazul.com,(31) 94321-0987,280,2a1af20d-f29b-4665-9564-0e7b778745b9,HOTEL,1163966
+37b2396a-43d3-4c58-9c05-93c93899db8e,394c6f84-079e-43da-99f4-f582c8387142,Pousada Recanto Verde,reservas@recantoverde.com,(41) 93456-7890,550,2a67f6e4-a123-4aa3-b511-2a7cd047e9b1,HOTEL,3534174
+c48322c6-7042-40c7-b092-0b4a5dfc75cf,3973ec1e-9707-4071-9ab2-78b02e067af4,Hotel Vila do Mar,contato@hotelviladomar.com,(48) 92109-8765,890,2a8248ce-a805-45b6-ac40-a338c85b35c3,HOTEL,8830905
+b94c8be8-c567-43fd-9996-026f490681e5,397dafa9-c60b-4f4f-8f9c-fe693389e31f,Hotel Pôr do Sol,reservas@hotelpordosol.com.br,(81) 97890-1234,710,2a89df14-5a16-41ac-a033-db3bcac1df52,HOTEL,1163966
+f3421866-e4a3-4893-8167-5489941d0e19,39fc877e-2756-435d-9d34-daf5305e0811,Pousada Nascer do Sol,contato@pousadanascerdosol.com,(51) 95678-9012,390,2ae57406-af2a-4a13-a1d4-698347c4d6f4,HOTEL,3813059
+eb816a67-827b-49fe-97ed-4859ea84c79b,3a7b8af1-693d-4757-9d0e-ef4348a6c037,Hotel Aconchego Mineiro,reservas@hotelaconchego.com,(34) 91098-7654,420,2aed0746-462f-4621-9c16-9a9214ed62df,HOTEL,9436729
+d6ed5eda-ffd9-4c16-bb08-bd5271190791,3a9bb3e2-3866-48f3-a290-f895ca2227d5,Hotel Paraíso Tropical,info@hotelparaiso.com.br,(92) 99876-5432,1500,2b333f57-788a-4724-a7a3-b017d190832b,HOTEL,5338549
+c07e2c5d-ee08-45b3-a9ec-00d9f61ba9a6,3aba3fe5-266e-4d56-bd52-e80723d9b6cf,Pousada Tranquilidade,contato@pousadatranquilidade.com,(61) 91234-5678,600,2b3e8632-b684-4a04-93a1-57f379b9f691,HOTEL,11073461
+ae3c8dc9-7251-492f-8a09-4f866dc6624b,3acb534c-4acc-4f88-9ef9-399e076f781a,Hotel Mirante das Águas,reservas@hotelmirante.com.br,(62) 98765-4321,580,2ba088df-aa54-4e20-aec2-f9849158a929,HOTEL,10774615
+d6f158fc-a72b-4559-bf4c-79f2cdc57051,3ad32ff4-1396-4010-8f4a-767da5d096b6,Hotel Lagoa Azul,contato@hotellagoazul.com,(67) 96543-2109,470,2bbea8dd-db59-450b-ab66-ccc112616f56,HOTEL,11231226
+08063cc7-0ddf-4940-92ae-c041456f2c9e,3ae52458-abc2-4298-bba0-7454fc1ded3e,Pousada do Cerrado,reservas@pousadadocerrado.com,(65) 94321-0987,350,2cd5a32e-9a56-4802-a520-d0fef7d18bc3,HOTEL,8609630
+3fff7eb2-9988-42c4-b6ac-e0828985e375,3c698162-fa7f-4318-b600-695fde4bc23b,Hotel Pedra Branca,contato@hotelpedrabranca.com,(27) 93456-7890,750,2cd86e99-9db6-4712-ac6e-438cd62630b8,HOTEL,16548113
+86641b20-f185-40ae-9f8d-cbb6980f97e5,3d52bedf-efe5-412b-8d91-ee27a757df89,Hotel Mar e Areia,reservas@hotelares.com.br,(83) 92109-8765,920,2d988d64-94a9-46c6-a919-e042d6ebe00d,HOTEL,801247
+0dff0d21-faf9-49f9-9001-f6880d424524,3d983c54-ce8d-4d87-b04f-89792be81732,Pousada Sonho Dourado,contato@pousadasonho.com,(84) 97890-1234,680,2ddc23ad-51b4-471a-8f14-55f143fc2389,HOTEL,3112443
+ca30caaf-7947-41c3-a077-e18c30d249a1,3ee9bade-2796-4bee-b8be-cf49695356fa,Hotel Brisa do Mar,reservas@hotelbrisa.com.br,(91) 95678-9012,520,2df45733-62f5-4253-8a8d-78088ebbf7ec,HOTEL,801247
+efe7aade-4575-48e2-9206-8d22e7945293,3f5a3a50-5306-4933-b9f9-699dab50b54a,Hotel Vista Bela,info@hotelvistabela.com,(69) 91098-7654,480,2e36d65c-be20-42d4-89bc-422ce321e263,HOTEL,16548113
+d6cc99bc-caf5-4c0d-af07-d2291ab69e7d,3ffe00ba-7a61-404c-b9f1-2273ce5f991b,Pousada do Rio,contato@pousadadorio.com,(68) 99876-5432,330,2e673952-1e47-4b89-8a84-7e09b1228cfc,HOTEL,9436729
+326e7565-087a-4f61-9035-c76bfd34c622,4030d116-405c-40dd-898a-8b231fd7ff78,Hotel Colinas Verdes,reservas@hotelcolinas.com,(95) 91234-5678,410,2ee331ad-9f43-4e42-a31e-1f78082fe607,HOTEL,10263285
+cbc659a2-23d8-43da-a8e9-97e5dc970b12,40c7be40-22fb-4e42-8265-a7706381608c,Hotel Floresta Viva,contato@hotelfloresta.com,(96) 98765-4321,290,2efd9117-214f-4387-a889-60445a9700df,HOTEL,10263285
+05f0000b-e59c-4610-b83f-5bb6dc1314d0,40f8a781-f603-414b-a8ee-59db63568341,Hotel Vale dos Ventos,reservas@hotelvaledosventos.com,(79) 96543-2109,650,2f1eece9-873a-4dd9-add2-779bb13e69ba,HOTEL,11073461
+111aed38-323f-4f7d-b4a1-952d06f508af,41157eb7-3da6-473f-977f-cf54dbf129c8,Pousada do Sertão,contato@pousadasertao.com,(87) 94321-0987,250,2f971930-ac3e-4f7c-a00a-8d469cec018e,HOTEL,5629734
+6da5fd6e-e456-4df3-bc47-9e688399a225,41c3d658-2035-4263-8417-93c497c30e33,Hotel Sol Nascente,reservas@hotelsolnascente.com,(86) 93456-7890,380,2f988686-fccf-4fe8-b55d-218e544f1628,HOTEL,10528795
+db55e5f8-b612-4881-a306-da9b271a551a,41cfb03f-db96-4b73-9865-2903d0764867,Pousada das Águas Quentes,contato@pousadaaguasquentes.com,(64) 92109-8765,1100,2fc0cb94-17e1-4209-9767-ee31cd93705c,HOTEL,11182797
+20f66bc8-1e5b-4928-ba6d-6f93b43eaab9,41de89ba-dc4f-428a-a93f-8e37c91b05ad,Hotel Ouro Preto,reservas@hotelouropreto.com,(31) 97890-1234,570,2fe329eb-6890-42df-8fe3-246ffe02eb1b,HOTEL,10774615
+a5594f89-91ea-489e-bced-9bc1e85c3f70,422c6794-9742-49bb-925e-7260cba8639e,Pousada do Vale,contato@pousadadovale.com.br,(24) 95678-9012,700,30272693-5d99-4c6a-8c8c-a2e16bff6fd0,HOTEL,3112443
+ea17458d-7d94-44e1-b51e-e4d13b613030,4230472d-7351-4f50-9095-266802bc612c,Hotel da Praia,reservas@hoteldapraia.com,(54) 91098-7654,950,316ec039-87be-42dd-ab05-c88f51bb599a,HOTEL,14265763
+50a59aa8-9317-43f1-b297-357651504c7e,42bfbc19-1472-4292-a452-de843f81f045,Pousada Litoral,contato@pousadalitoral.com,(13) 99876-5432,340,31c6cb6e-a2e7-4785-b51e-6f5b4e4bfe95,HOTEL,2835450
+14c6b9b6-a546-4ef1-86ff-c2bcb4827358,4307b6bb-8233-4dee-9539-9cfe5662e12f,Hotel do Bosque,reservas@hoteldobosque.com.br,(19) 91234-5678,490,320fbc9d-0e2a-4226-baa9-472006ffb9c0,HOTEL,10804695
+56c47ee1-9126-457d-a77f-b1371ac0dc98,43615990-d58c-4b62-84c0-01603dd8a840,Pousada da Serra,contato@pousadadaserra.com,(47) 98765-4321,620,3297eb3b-ca12-4d8d-90e6-2fdb0e585c5c,HOTEL,2500617
+a17a45d4-3471-42ad-8230-8302f29fa48d,439aa925-b83e-445a-bd08-903c0865cabc,Hotel do Mar,reservas@hoteldohmar.com,(82) 96543-2109,800,32abbfe1-3e69-4035-9c64-e540b405633f,HOTEL,3534174
+2f54597d-3ac2-45c2-b5f9-3c43cdc82970,43cfc252-7dc2-4664-8b73-945b62913ea4,Pousada do Sol,contato@pousadadosol.com,(75) 94321-0987,360,32dd0a5e-eede-4e89-b863-55b855e1a965,HOTEL,5338549
+607a0e51-cd51-4941-94fd-4c3df49be521,43ea0f95-803d-410d-bc82-306399816f2b,Hotel do Rio Negro,reservas@hoteldorionegro.com,(92) 93456-7890,1300,3300c9ff-d778-4c9d-b8cb-709f5bf70a9a,HOTEL,5629734
+0d2eed5a-3591-42d6-813f-becac908ebb8,45fd1298-8d9c-49b1-8549-270fd45ee69f,Pousada do Pantanal,contato@pousadadopantanal.com,(67) 92109-8765,4500,33af5cbb-136e-411b-9a07-865f62ef3fc2,HOTEL,10544590
+7c9a8ed1-3949-4d6f-87b8-e0c00fdfed58,460e10da-9536-409d-add5-d0e96fa469af,Hotel das Dunas,reservas@hoteldasdunas.com.br,(85) 97890-1234,2500,33d7b165-ccc8-48af-80e5-56a3f401ec80,HOTEL,10774615
+3bbc1f1c-3a6e-45ed-a0c5-4c45b334a741,4697eda4-98ae-46de-9daf-140dc28e0e72,Pousada do Centro Histórico,contato@pousadahistorica.com,(21) 95678-9012,980,33dc9300-fdf7-43a8-8a36-ad92afcacb79,HOTEL,8609630
+962accb6-b98d-45d4-adc3-84715498c88d,469cf76c-ef88-42af-a12f-098727efeb60,Hotel das Cataratas,reservas@hotelcataratas.com,(45) 91098-7654,3200,3408eddb-6e4b-4d69-891c-4c6510627918,HOTEL,8371719
+e02a854c-55ba-4d22-b74b-f898a2559910,47e23445-d08c-4dc0-8070-d0250af06a59,Pousada do Lago,contato@pousadadolago.com,(61) 99876-5432,720,341fef45-5567-4e73-aaad-10d798d63d30,HOTEL,434676
+fc04fcbe-0974-4ed5-bab9-048fa333d95b,48630537-5968-4332-8220-1409b1896615,Hotel do Vale do Vinho,reservas@hoteldovale.com,(54) 91234-5678,1500,346e48c6-31fb-4e25-81ea-27d940848d2d,HOTEL,3813059
+5cbe8b3f-30aa-47d1-b7a3-7fd041541e37,4885ebeb-8c84-4961-a04c-ddef199daef9,Pousada dos Ventos,contato@pousadadosventos.com,(88) 98765-4321,290,348e20e8-c2cb-4245-b91f-d11e17a8d170,HOTEL,602489
+a5242287-c313-44dc-b873-146417ab0714,4934b7e4-9b6a-43af-bdd2-e9ea0c841732,Hotel das Rochas,reservas@hoteldasrochas.com,(83) 96543-2109,370,34c8ec95-b782-4540-a7b5-52cf67dd36fd,HOTEL,2835450
+28d2661a-8312-4843-83c4-52f34592b830,49524e7f-7057-430d-88a8-2d63f109430f,Pousada da Mata,contato@pousadadamata.com,(32) 94321-0987,510,34d97d55-ad4a-4ee3-abf2-a5b29622bd62,HOTEL,3366415
+ea0d753f-08fc-45ef-9d92-6f7ccb0dc668,4969e70d-9d3c-423c-9bc1-79a10a0df438,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,34f2484d-ad1b-4fc3-9d32-5574c14d4547,HOTEL,12596074
+f17a0793-dec7-4d4b-98fe-beb1035d3534,49b39ac9-60dd-4b67-81fc-f3edb7ec3a48,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,35248417-bfc9-477e-a230-ddc4f9e6f5e4,HOTEL,8371719
+b9f1de30-dad8-407a-ad6f-b6a0e792e155,4ac8bffc-0ec2-456a-95b4-268763ee8572,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,35390bf3-9ee7-4bde-92fa-efa8a5feda79,HOTEL,5338549
+a83a3ce5-147c-4b1d-ac9a-f4402b8378c5,4b6e87b9-e760-41d0-b6de-4f8780411bbe,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,358440fc-2c3e-43ce-a530-daee6e4aab3e,HOTEL,4932749
+ff74be33-9e97-4dbd-b27e-250cdbd60cac,4b76f1f7-6bc0-4d16-8ffd-921d16fe8041,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,35bfbf15-2a6e-455f-84e3-2ced7e5f7883,HOTEL,13341380
+d9c649d1-7d13-4fb4-aa9b-cd0ad9148e84,4c036e63-fa65-4645-a5c1-1390915dfa43,Hotel das Palmeiras,reservas@hoteldaspalmeiras.com,(11) 98765-4321,450,35c53c4d-7650-49bf-ad57-e059cb50d7c0,HOTEL,379872
+809424c3-4d90-422d-9598-f887e5d5f48d,4c4ee271-3b5b-4c9d-b2d6-183be74f5b01,Pousada do Sossego,contato@pousadadosossego.com.br,(21) 91234-5678,320,35cff9bc-1020-4624-b5d7-190e2526aaa5,HOTEL,602489
+98dfc570-3c56-441c-ba70-9a11fbd3903a,4c5923e7-d6d1-466e-978d-0edd1fc0a688,Resort Solar,info@resortsolar.com.br,(85) 99876-5432,1250,360d2b57-5365-49de-8125-6730a881ef9a,HOTEL,10146399
+58e40031-cadd-4c19-b707-42a432ae88de,4c795530-6c07-4965-9260-67dc33c8a2a6,Hotel Estrela do Mar,reservas@hotelelmar.com.br,(71) 96543-2109,670,36150fe3-d2b1-4788-bbc7-3ef4b360dbe6,HOTEL,8609630
+366f5bf4-9d52-42a1-9b2d-fe165bb0fc33,4c8768bd-b6f9-49f8-829f-f5f5df29ed92,Hotel Serra Azul,contato@hotelserraazul.com,(31) 94321-0987,280,36187395-bc7f-45ca-ac76-a21d645bbb77,HOTEL,2152819
+ce8d9304-769e-4432-8ae9-a5b2b327bde2,4ca570c3-570e-403a-87ff-96b429f46a2f,Pousada Recanto Verde,reservas@recantoverde.com,(41) 93456-7890,550,3668b389-b0f2-4035-8597-42653f121f85,HOTEL,1491789
+512f50f0-4efb-4871-a9bf-77c1add83c24,4d9865fb-9966-4c85-988c-6147486aff07,Hotel Vila do Mar,contato@hotelviladomar.com,(48) 92109-8765,890,37e63517-cf7a-4db5-ba28-09aee3314bce,HOTEL,602489
+00978d3e-f2d4-4ab5-8a31-0cd69292d5bf,4dc2d355-d339-42d8-b255-d0e50f7dc23a,Hotel Pôr do Sol,reservas@hotelpordosol.com.br,(81) 97890-1234,710,389352fd-e680-489d-b695-0bb24582ba0d,HOTEL,2101251
+d1a3c3b9-847e-441d-b992-d8d29ef7ba6f,4e477673-5ff8-4a54-91b0-08c86b294527,Pousada Nascer do Sol,contato@pousadanascerdosol.com,(51) 95678-9012,390,38c56fc0-6976-4a3b-8d19-af0d30f63f97,HOTEL,2500617
+ed0d6a31-4746-40ab-b974-c25b56f68cb7,4e88cc72-f08d-49ac-bc7a-defe32899db8,Hotel Aconchego Mineiro,reservas@hotelaconchego.com,(34) 91098-7654,420,38f520cb-4a0f-4586-8f0f-f123227da00d,HOTEL,2101251
+19509216-fdfd-48d5-ab75-204e06931306,4ee65d21-95c6-4ef4-88b6-3403f24151fb,Hotel Paraíso Tropical,info@hotelparaiso.com.br,(92) 99876-5432,1500,3931f199-0f5e-4c97-be4e-57d8890cb5d6,HOTEL,1491789
+990585d7-3172-4eda-86cb-63d6c08965c5,4f09c5ec-3156-4c89-a9d9-ef6059f450ec,Pousada Tranquilidade,contato@pousadatranquilidade.com,(61) 91234-5678,600,397e6a46-2265-440d-a32b-b3f1ca151f63,HOTEL,2152819
+0e681a11-b46b-44be-8193-09f30147dc6b,4f17f0d0-5ca0-41d2-85d7-c7218c38b5c9,Hotel Mirante das Águas,reservas@hotelmirante.com.br,(62) 98765-4321,580,39971319-de78-4d7b-b887-45f710597c00,HOTEL,946444
+e3398cb5-0648-4f1e-82f3-5f97016c82cc,4f9d6fdf-509d-470b-a8ef-eeb0731c82a1,Hotel Lagoa Azul,contato@hotellagoazul.com,(67) 96543-2109,470,39b73dbf-e95d-436e-8d5a-8d102faa4743,HOTEL,1306237
+5ff47175-fc0b-4616-981e-3bf961b89e2d,50755c2b-8d33-42b3-a9a0-dd8417f6a6df,Pousada do Cerrado,reservas@pousadadocerrado.com,(65) 94321-0987,350,39e08c5f-33a6-4be2-a359-fd7bd7c13393,HOTEL,4337318
+ccea2499-3ca0-48c4-b7e8-3ef287459a62,51686124-3013-4d4e-bb3b-afaee9153899,Hotel Pedra Branca,contato@hotelpedrabranca.com,(27) 93456-7890,750,39f29c61-142a-4789-b321-e32d326406f7,HOTEL,8830905
+6bccf944-47a5-40e9-974a-0c94414b17b8,516b4dd2-9285-4839-87e8-65d11013b6da,Hotel Mar e Areia,reservas@hotelares.com.br,(83) 92109-8765,920,3a004938-8ac8-4043-a901-76848fb5c2ec,HOTEL,3813059
+fe8cb343-6fa5-4564-a794-0b3c624cb955,51d03f41-5a16-4c1a-a2d3-27d3a998b733,Pousada Sonho Dourado,contato@pousadasonho.com,(84) 97890-1234,680,3a826930-eec5-4a88-a827-5d59919fa53f,HOTEL,4374096
+52629e1c-5280-4fa5-b609-83e93947f0d5,521efc2e-c3b1-4fac-ba4e-7aacb7ab415f,Hotel Brisa do Mar,reservas@hotelbrisa.com.br,(91) 95678-9012,520,3a90681c-798c-4653-bd08-863021433b8b,HOTEL,8609630
+9fe08246-06fd-4b73-b5f9-870834b4ed84,534fa425-c0ae-4da6-915f-4ebd702a185d,Hotel Vista Bela,info@hotelvistabela.com,(69) 91098-7654,480,3aac05d5-c18d-40c7-ab10-a281329b97c0,HOTEL,946444
+3b192669-388d-445a-9f37-c106ebfbc0d8,54ddf46a-18be-4d4c-b30c-9493dcab15dd,Pousada do Rio,contato@pousadadorio.com,(68) 99876-5432,330,3acbf364-8172-4df4-b5f0-b75386c09ffd,HOTEL,3366415
+f98c00c8-c15d-496a-8331-b4befcc575cd,550d66ee-cb5f-43de-948b-c3b1b08d8bd0,Hotel Colinas Verdes,reservas@hotelcolinas.com,(95) 91234-5678,410,3b4f8729-f3e4-44b2-97da-7560eb9ffe9c,HOTEL,11182797
+09cb5c63-f7c5-48d6-b326-21ae8d37363d,55c1eec7-98dc-4e0c-aa0a-915944f8bea5,Hotel Floresta Viva,contato@hotelfloresta.com,(96) 98765-4321,290,3b6442dc-5fad-4bb0-803b-4f3da50a2b25,HOTEL,8512326
+257959fb-cc20-48a9-a984-100051c583c6,55d3eddc-1bff-456a-89f0-ecaa95d39519,Hotel Vale dos Ventos,reservas@hotelvaledosventos.com,(79) 96543-2109,650,3bbc06ec-2559-4811-8b9b-3744894537c2,HOTEL,10544590
+8c4a91e6-9ac7-4977-9b18-87aa7d303ac1,571631e0-d039-4338-bc69-e57648e5f476,Pousada do Sertão,contato@pousadasertao.com,(87) 94321-0987,250,3cfaff7c-4747-494c-9605-385ec80c8fc9,HOTEL,2152819
+59852619-a60d-4fc1-9f05-1820caccaaba,576d0b7d-d01d-4836-9b57-669c17fccef7,Hotel Sol Nascente,reservas@hotelsolnascente.com,(86) 93456-7890,380,3d8bcb2f-55b3-4246-9147-9189b6429981,HOTEL,946444
+a7f05724-7be7-48ab-9e78-0f6d4b52f1a2,57abb2d9-fe11-41ba-9e9b-fa6a402a4ab4,Pousada das Águas Quentes,contato@pousadaaguasquentes.com,(64) 92109-8765,1100,3d9c072f-198f-4877-a256-d0b6541037c4,HOTEL,10804695
+85fc2bb3-3338-4cba-a879-30ab0e112113,57dd385a-5f4e-4886-9dc9-12e8fa61bce4,Hotel Ouro Preto,reservas@hotelouropreto.com,(31) 97890-1234,570,3dea5a30-4455-4291-a1af-9a22a776c8f4,HOTEL,9227638
+7cb81687-54b7-463c-b8b1-9aff4d6a6dfe,57fb6323-18da-40a9-83e5-731de901d798,Pousada do Vale,contato@pousadadovale.com.br,(24) 95678-9012,700,3e482aac-cff8-462a-a251-a189607ead7d,HOTEL,9436729
+8043e78c-6e38-476b-b9d2-c4f5e5ef28ff,58692347-bc3c-48b3-a2b8-d5621cb0a368,Hotel da Praia,reservas@hoteldapraia.com,(54) 91098-7654,950,3e52abbc-0249-4a99-9547-646d2ca28cfe,HOTEL,8371719
+a48fda40-7c13-4f31-8fc2-10eb76f93f02,587dc2ab-ffed-4996-ba19-07dfb49ee673,Pousada Litoral,contato@pousadalitoral.com,(13) 99876-5432,340,3f72caaf-9744-467f-aad1-d013bb3b3653,HOTEL,12280786
+1fe17758-526c-465b-add8-0366dcda8ffe,5943c8b6-0bbe-4f94-bfca-4762b0c7b3fd,Hotel do Bosque,reservas@hoteldobosque.com.br,(19) 91234-5678,490,3fa70fde-d009-4bde-99dc-cf94d48623d8,HOTEL,1491789
+131f796a-c07b-4a51-9afd-10669caf9986,5949afd5-0608-4888-9849-ac7a6a402140,Pousada da Serra,contato@pousadadaserra.com,(47) 98765-4321,620,3fba1e79-4cb9-4da2-8d1b-33dd5ef34d27,HOTEL,11182797
+2bae3706-89d5-4701-98d8-f845f492d73d,5a3ef114-f342-4f52-9a79-293be5ebe06a,Hotel do Mar,reservas@hoteldohmar.com,(82) 96543-2109,800,3ff930a7-05db-43b3-897c-a86c2cef398f,HOTEL,2835450
+f79ead19-7323-46b2-ab12-b1a085a57a5f,5ab8da91-a46c-454e-beaf-dadd8cd6d680,Pousada do Sol,contato@pousadadosol.com,(75) 94321-0987,360,40cfbc94-01b3-4121-9aec-5e1aaba32299,HOTEL,11231226
+188b1b45-f9df-405a-84f1-e4d4385bb46d,5ada4a10-e587-488b-88cc-77c528cfff4a,Hotel do Rio Negro,reservas@hoteldorionegro.com,(92) 93456-7890,1300,40dcbc24-54b2-47cb-94b0-3c8720b4a970,HOTEL,12596074
+0fdeb553-d653-4b08-8684-13c3849c91b4,5b29f0a5-b5ff-4c3a-b17a-311065776132,Pousada do Pantanal,contato@pousadadopantanal.com,(67) 92109-8765,4500,4124dfcb-ca4c-41dd-a478-74a14d35e5b1,HOTEL,4905360
+3a9a56ec-4f9b-4770-b9ec-3d2c2e95ede3,5c5ee4eb-eefa-45e9-b2ee-38764970168b,Hotel das Dunas,reservas@hoteldasdunas.com.br,(85) 97890-1234,2500,4166253f-b51a-4ffc-abb1-4ea97456ada2,HOTEL,13341380
+6af06aae-4234-4cc0-bc46-0a4c016a4723,5c96aa8a-2126-4452-8dd3-b3fab885cbdf,Pousada do Centro Histórico,contato@pousadahistorica.com,(21) 95678-9012,980,418bbe46-516c-498c-ada0-5fdece561454,HOTEL,10774615
+be20afb1-9c48-486f-9bcf-690fec926374,5da99762-63c2-40ef-9b5f-8cdab8b250dc,Hotel das Cataratas,reservas@hotelcataratas.com,(45) 91098-7654,3200,4190cf6a-8f8a-4c98-97b1-a20be9e8d576,HOTEL,8371719
+55d5d543-01be-4439-8618-435f54d85cb5,5e0048e4-9045-421d-9f71-dafa45751caa,Pousada do Lago,contato@pousadadolago.com,(61) 99876-5432,720,41ff897e-e5d9-492e-b9d8-79719b789ddc,HOTEL,379872
+ddfee677-0dba-49df-9ffe-59c8ceeead54,5f6621d4-19db-4f85-8848-68963758cfcd,Hotel do Vale do Vinho,reservas@hoteldovale.com,(54) 91234-5678,1500,42189f8a-5d3b-4132-a19d-68030bdedfb9,HOTEL,10263285
+e89a98e6-73ad-47c4-beb9-bc3249f59022,5f75e322-ba0e-4042-86e6-d286d7dcbca8,Pousada dos Ventos,contato@pousadadosventos.com,(88) 98765-4321,290,4224f4e8-7b31-43f4-b6e0-93113029c170,HOTEL,5338549
+ad4bdde3-858b-4467-b494-bc1c976969dc,5f86b922-79b4-45e5-9a37-103db6ab3599,Hotel das Rochas,reservas@hoteldasrochas.com,(83) 96543-2109,370,4279797d-08cb-4f1c-b489-a131bb7ca2aa,HOTEL,4374096
+8d379a38-fa67-4549-a522-da6fff73f947,5f9f1781-11d7-48b1-97f4-7b103cecbe35,Pousada da Mata,contato@pousadadamata.com,(32) 94321-0987,510,428065c7-4c22-4fdc-acdc-f0814a26230c,HOTEL,3112443
+8ff714ea-5c5a-4613-a7da-dd028ed216cb,5fb8a8ea-2a2d-4131-b300-9ee071efd8ff,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,433fa51b-035c-4843-80b4-7d0ba109acde,HOTEL,2152819
+f0b54598-4406-425a-903d-63c19b7ae92b,5fc792ad-372c-4304-95f4-6c196b5f5ca4,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,4351893e-4d7a-4c9b-a094-8d6a3577770a,HOTEL,434676
+3e796418-9411-49f4-803b-9a45a45203bf,5fd20425-53d9-47b6-b03e-92bc756e9e3c,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,43d3e5d5-ccff-4fbd-81d6-4d2c556f38ff,HOTEL,1809728
+5fe64114-eefc-4d34-a978-9ded44cf8900,60d26217-cf28-49f0-a463-4109084437fc,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,43e63069-fcf5-439e-ac7d-ff4610240cbd,HOTEL,13654198
+5ba5319d-6f4c-426c-a716-8b0597349b77,60dfdf6f-24e8-4a00-835d-b4a06695da3c,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,446bb2f7-0489-4cbe-b6f1-bd7cb47e6eb3,HOTEL,2500617
+24ea0f3b-f2b8-4002-9a1b-c1c88e4d939c,60eb70e6-3825-4486-a829-ec44fc9d2d43,Hotel das Palmeiras,reservas@hoteldaspalmeiras.com,(11) 98765-4321,450,449a3cc0-2c74-40f3-8fda-2a3840e65c92,HOTEL,379872
+52856fc4-76bb-4ca4-a68f-75014eda2572,60fcd156-5834-4262-8198-23ddebb5e00f,Pousada do Sossego,contato@pousadadosossego.com.br,(21) 91234-5678,320,44e1d666-927d-49c4-9458-8e8a58e3dcde,HOTEL,4337318
+a7e0f4b1-67eb-46f2-b218-b652416bfc68,62128504-7185-479f-99de-8bedaf5fb7f6,Resort Solar,info@resortsolar.com.br,(85) 99876-5432,1250,45191a11-67b1-4e71-a8e9-9fb55a15898b,HOTEL,13341380
+758ecb73-d1af-49ff-86e3-b3b751322a32,622fae8b-0d68-487e-88dc-698693f79e49,Hotel Estrela do Mar,reservas@hotelelmar.com.br,(71) 96543-2109,670,457bad34-ef16-4fd7-800d-28e79f05de46,HOTEL,602489
+11c4825c-6837-4ed7-b886-4f94d30b0720,6323d8ab-9586-4bfe-9eea-01f0a3a1c73e,Hotel Serra Azul,contato@hotelserraazul.com,(31) 94321-0987,280,45bfce3a-8299-4a55-84d9-4cb089ba3c4e,HOTEL,11231226
+a125e71e-32ea-47d5-ab0e-7dec80caef3c,64c3e163-0280-453c-892e-162f8ce111ad,Pousada Recanto Verde,reservas@recantoverde.com,(41) 93456-7890,550,45e62d39-f114-4b06-a08f-d1b1f710e554,HOTEL,10146399
+9cd2ba74-8139-41ad-8fcf-a735e62f25de,657bc1ce-b0d1-4433-9af4-b45b12ee7138,Hotel Vila do Mar,contato@hotelviladomar.com,(48) 92109-8765,890,4629a2b2-ab1d-4e6c-a84e-f4137b921bbb,HOTEL,434676
+0b30f517-acd2-4051-99af-eb94fc07f724,65ecb526-7f76-4068-bc8b-870aaf03a3f2,Hotel Pôr do Sol,reservas@hotelpordosol.com.br,(81) 97890-1234,710,46522096-788f-4668-9c47-bab3691079e4,HOTEL,4932749
+a2f33ed2-8888-4928-b13c-f2016ef405e7,65f4fafc-7ebc-4ee7-9818-f23d6df19804,Pousada Nascer do Sol,contato@pousadanascerdosol.com,(51) 95678-9012,390,46566a93-c2df-4f02-8c37-89f2fb1c25b6,HOTEL,8512326
+57b520ec-d1bb-415b-8df1-b1a4e0aae7c0,660f60dd-08b9-4e30-aa07-664d74395e39,Hotel Aconchego Mineiro,reservas@hotelaconchego.com,(34) 91098-7654,420,465e4547-3d41-43ae-8286-e73910c982d3,HOTEL,5193043
+0a04ae1a-3179-4cc9-82c9-df216b888e4c,66283a70-cf78-4dd8-8023-a12a186110a6,Hotel Paraíso Tropical,info@hotelparaiso.com.br,(92) 99876-5432,1500,46887b4a-8890-4ccf-9273-b8f95fd1b799,HOTEL,3366415
+ee1bb926-c4ee-4edd-97ea-eddf55194d70,66a0c976-e013-4825-977c-bbc51461eef8,Pousada Tranquilidade,contato@pousadatranquilidade.com,(61) 91234-5678,600,4699ec31-9a20-41b4-a225-5898d93f346c,HOTEL,8830905
+7adc0e20-dce5-4363-8ade-e1bd5d867896,6723c5ba-803c-45c0-92a4-f841198a7d81,Hotel Mirante das Águas,reservas@hotelmirante.com.br,(62) 98765-4321,580,46b8d15b-feae-499a-bbc9-79316b7f720c,HOTEL,3534174
+338148bb-d5da-482e-acf2-6caf3377db40,67320706-e9be-457d-9f3a-2c961080edb7,Hotel Lagoa Azul,contato@hotellagoazul.com,(67) 96543-2109,470,46fac6d1-c3d0-453e-9450-ff9deef6e08b,HOTEL,12596074
+eabb605c-95ba-4032-9f9e-e586e1aafdff,67544a5c-9d66-418f-9075-60e64d79e853,Pousada do Cerrado,reservas@pousadadocerrado.com,(65) 94321-0987,350,470210b0-1cf1-4e57-ac4e-053996a4264e,HOTEL,3366415
+7b28fcf3-e99a-42ab-bb99-d137a1990507,678151d9-9b33-47da-bdea-b3ddc65936ed,Hotel Pedra Branca,contato@hotelpedrabranca.com,(27) 93456-7890,750,477191da-af4e-4e67-9f83-eeafef2d7e21,HOTEL,11073461
+140233af-b8c7-4868-a56e-65ba12f57159,688a5862-5ba4-4a73-9d49-50ca127d1ab9,Hotel Mar e Areia,reservas@hotelares.com.br,(83) 92109-8765,920,47cc5d42-782e-40d5-8e5a-de8e5082f024,HOTEL,801247
+a1d95f6e-ee3f-421b-9313-c2e5f6818e48,697cfc64-fbec-45d3-931a-0aa37520e901,Pousada Sonho Dourado,contato@pousadasonho.com,(84) 97890-1234,680,480abd14-7bf9-46d2-8dfa-20ac183464aa,HOTEL,12280786
+859b274e-9c0b-40a2-bd6d-e3cb9a7f1475,698327aa-758b-41ab-978d-4b7b96b9f945,Hotel Brisa do Mar,reservas@hotelbrisa.com.br,(91) 95678-9012,520,483a6578-862d-4f46-b532-63859b7cc43e,HOTEL,9227638
+7092a5ea-46f9-4365-9cb1-84e08038e469,6ae8b224-fe54-47c8-81e2-1969788db3da,Hotel Vista Bela,info@hotelvistabela.com,(69) 91098-7654,480,48520d08-df1d-4c22-8515-d40d99b0b78d,HOTEL,4932749
+2bb690e2-b471-4719-9a7c-f14ae5c4550a,6b6fb261-6cad-4eae-a527-eb1e9aee1f6f,Pousada do Rio,contato@pousadadorio.com,(68) 99876-5432,330,486f9108-d78b-4933-a83c-d1af426b3893,HOTEL,6270657
+74572f84-6de5-47dc-9e77-f309e34edb87,6c10b511-62cd-4251-a3c0-a4909045832c,Hotel Colinas Verdes,reservas@hotelcolinas.com,(95) 91234-5678,410,49387c44-4061-4ae9-acaa-67346f194152,HOTEL,13654198
+b86d56c0-80af-414a-a720-3fbea7a75c08,6c440c22-a903-4801-b706-a4036033460e,Hotel Floresta Viva,contato@hotelfloresta.com,(96) 98765-4321,290,49df1ca2-2379-4e57-ab82-2e93128200e5,HOTEL,2500617
+56232eba-5dfb-446a-a324-fab0c6efcf7d,6cc2f291-9c78-4724-ba74-81a9964ab671,Hotel Vale dos Ventos,reservas@hotelvaledosventos.com,(79) 96543-2109,650,4a19b6c7-a61f-4b26-87a3-99586dc2ba40,HOTEL,379872
+459398ae-964d-4914-8f5d-cc84b0c55d55,6cc7c059-9b6d-49a9-aa72-e8fc74734663,Pousada do Sertão,contato@pousadasertao.com,(87) 94321-0987,250,4a9d905e-276a-4a03-aa20-02727fcac697,HOTEL,11231226
+6e62ae27-06c1-430c-a17b-24b6e7e962f2,6ceb43e3-d1cf-462e-97a7-5ed05e0d24f0,Hotel Sol Nascente,reservas@hotelsolnascente.com,(86) 93456-7890,380,4b31523f-6636-4c5b-beaa-f3bb2e6e646c,HOTEL,12596074
+da2853b8-ad10-48d0-bef0-72d7f7d8fd42,6d69321c-0b6f-4856-8cc4-1b19df9b208c,Pousada das Águas Quentes,contato@pousadaaguasquentes.com,(64) 92109-8765,1100,4be29174-fd88-49ef-b6a7-a831cc363970,HOTEL,3112443
+eb3e802a-e46f-49c7-9730-bb900aaac774,6d9deb84-494a-4b7e-9dd8-f77f522a57f9,Hotel Ouro Preto,reservas@hotelouropreto.com,(31) 97890-1234,570,4c0ad6ad-257b-4c40-ac0a-8d5e1c7ac38c,HOTEL,434676
+72a65a10-3c92-4cb4-89f8-9fafa10ca44d,6dc40e62-4f59-4cf9-84d3-4bd6a355637f,Pousada do Vale,contato@pousadadovale.com.br,(24) 95678-9012,700,4c37eb5c-5ed6-44de-8c34-72871c0c3c98,HOTEL,10774615
+7c96f322-ff26-4261-8eda-c2649f3d403d,6ddd106e-ddd4-45f0-ac74-c3f28e9534e1,Hotel da Praia,reservas@hoteldapraia.com,(54) 91098-7654,950,4c848d04-cd36-4c83-a6c0-2212b049cc68,HOTEL,16548113
+a403d3f6-13e4-4e3d-8372-daa8b6e79bf6,6f66c5d2-17ef-4752-869e-820e5d06b434,Pousada Litoral,contato@pousadalitoral.com,(13) 99876-5432,340,4ce6aafa-59b8-41b4-8a01-15c7a1f80877,HOTEL,3813059
+083acba1-251b-475d-8aa6-7a633d7116d8,6fb07ff5-bf2e-4b04-a8e5-d4aa5a6464e3,Hotel do Bosque,reservas@hoteldobosque.com.br,(19) 91234-5678,490,4d04e0ef-256b-4bfe-8a27-251827acacf0,HOTEL,8659138
+3435e609-a7fe-41fe-874b-058549001b82,701d2fea-09c2-4a92-ab78-3e36b423e53c,Pousada da Serra,contato@pousadadaserra.com,(47) 98765-4321,620,740e50e9-75b5-484c-9141-757f8b416d14,HOTEL,7920324
+1bfdd40f-2585-474e-bed2-9dbcd6a22de1,703cee4e-b091-4b1a-bdb9-9010487e71f2,Hotel do Mar,reservas@hoteldohmar.com,(82) 96543-2109,800,4e704654-36eb-4daf-a359-2f3781a40aa2,HOTEL,13341380
+80ad0c4a-a51d-48da-ab1e-d95029901c1b,706661bf-45ea-4b7a-ae7e-1e5ea3dfd3b1,Pousada do Sol,contato@pousadadosol.com,(75) 94321-0987,360,4ecbcf86-bfe6-4c79-9b40-10eb2565889e,HOTEL,12280786
+4f980f44-219e-4b48-beae-0bfb9d2cd41a,7078ea12-5d08-4fa0-9af4-668b248c5df1,Hotel do Rio Negro,reservas@hoteldorionegro.com,(92) 93456-7890,1300,4efa1e7d-a854-430e-8675-f8c75c7d290e,HOTEL,13341380
+8d34ff67-fe17-4178-8959-820b961a1354,71677bb3-1cc3-4812-a012-7b8f36d43957,Pousada do Pantanal,contato@pousadadopantanal.com,(67) 92109-8765,4500,4fe18cb0-59aa-44a5-8a4c-4fc167f723a8,HOTEL,13341380
+5cf73e2b-f100-4d2e-a82d-3b6a5fd054b3,72022b26-548b-45af-a4d4-ca8e7d074508,Hotel das Dunas,reservas@hoteldasdunas.com.br,(85) 97890-1234,2500,502d56a8-95dc-41ad-b86b-c83b7a718c52,HOTEL,2500617
+71265d56-e939-449a-86e0-1f56deae1dff,72139a00-4ccb-4491-8c0c-c266c4a5be8e,Pousada do Centro Histórico,contato@pousadahistorica.com,(21) 95678-9012,980,5038673c-7c9a-4eb8-8796-6b93295ed8ef,HOTEL,1163966
+fa4b1c91-a1bf-4e17-a9c7-c8a2c4492c18,72ef17f4-4c22-42b9-b837-5af0a737a243,Hotel das Cataratas,reservas@hotelcataratas.com,(45) 91098-7654,3200,507619ab-09e1-4e39-a783-fbc666ef086e,HOTEL,9227638
+c9ea8a7b-3ab8-43a3-abb9-a4bb0f42da8e,72ff50dc-7854-4b7b-b03c-808b10f1aa62,Pousada do Lago,contato@pousadadolago.com,(61) 99876-5432,720,508009b2-0219-4022-8bfc-47f4da00c445,HOTEL,2101251
+5bf2c04d-8d7f-4205-aa5c-a79ce9d6f81f,73116257-16af-4f98-8bd5-ebdc39a2f2b7,Hotel do Vale do Vinho,reservas@hoteldovale.com,(54) 91234-5678,1500,50f85c5d-a725-4e04-9373-06777fdaa34c,HOTEL,12280786
+950db3f3-410e-4a13-992f-a00d9b87cd71,7329e7de-2628-4ff7-8ef1-69dd7ca38883,Pousada dos Ventos,contato@pousadadosventos.com,(88) 98765-4321,290,51203fbb-7c51-454e-b4af-9a6766e526bc,HOTEL,434676
+0e228950-e184-4249-b36a-e0cbb5a774d3,736a1811-e306-48a1-8a02-4bd15c2a7daf,Hotel das Rochas,reservas@hoteldasrochas.com,(83) 96543-2109,370,5137c810-a7c6-40b3-8624-11ac090053d9,HOTEL,10774615
+b440c7af-fbe1-46bd-95f5-1d2206f1109a,74352a61-4223-4f99-803e-b10bdbd9c068,Pousada da Mata,contato@pousadadamata.com,(32) 94321-0987,510,522f35eb-7d55-4f76-9d99-fdab1f4d6187,HOTEL,3366415
+a218c770-a6ef-454c-967d-ed0eb2282865,745eb1a8-ae9b-43f4-a973-61c07c9294b8,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,5246a9b8-d594-4b78-94e3-3db97f902466,HOTEL,946444
+d3d3c856-3d20-4de0-bd0b-e226d2e24067,7464964d-2d19-41c3-83b6-1e17b79066ff,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,52ac82d4-6b0e-4c90-8a4f-4f66e404c0ee,HOTEL,1163966
+4c8cbb45-9008-4167-ac97-3fbee782147c,74850037-daba-4b9c-9c5e-63b08bcf20e9,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,52b0fa5d-2b42-4826-85a7-eb7157cf737d,HOTEL,13654198
+7d8564e5-a7e8-43b3-886e-6b472758b0b6,74a91fd8-203e-42eb-844e-e901aa47ac01,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,533c599b-ba46-42d3-b4a9-13ac35e4273f,HOTEL,14265763
+ef073b94-779a-432d-ac4c-ea42d1b9594b,753ceb51-347e-4e28-8faf-7100ca6aab37,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,5366b5bb-91a0-4fa4-ba50-c3f75624db4e,HOTEL,8830905
+320d5c19-7bdc-4e61-8f3b-f83dfc9c8574,765f6c58-692b-4b18-90f1-b029fb40937b,Hotel das Palmeiras,reservas@hoteldaspalmeiras.com,(11) 98765-4321,450,53967a98-aae6-433a-b115-69d0e87aa9c4,HOTEL,3534174
+f5e2491b-4eed-4f11-ba8a-bb1ff8bc2ca4,774f6a5f-4c22-472d-a3e6-5838d3f41110,Pousada do Sossego,contato@pousadadosossego.com.br,(21) 91234-5678,320,53981c21-8b18-4497-bb23-555b955d3496,HOTEL,3112443
+4af8a2b8-f3f0-4f12-b4b2-755cfeaf6874,77a28858-2987-49fc-8f51-92a4c960a360,Resort Solar,info@resortsolar.com.br,(85) 99876-5432,1250,54e7a10c-a3ed-4935-9abc-ec7de3135a96,HOTEL,3813059
+39ddd306-1c3c-4f34-9290-5d0c11b7a6d1,783d75f8-be95-477b-b999-b132e44f5342,Hotel Estrela do Mar,reservas@hotelelmar.com.br,(71) 96543-2109,670,54ffebdf-2250-45f8-a2e4-4a46c675daab,HOTEL,4932749
+fb0d271a-bc2b-4849-a4d5-852efaebefa4,78731426-c8bc-4942-909d-a08c440af024,Hotel Serra Azul,contato@hotelserraazul.com,(31) 94321-0987,280,55665ea4-db1c-4ed2-8782-ed069bfce813,HOTEL,379872
+f6b23aad-17c5-46a6-97b8-30b1593cc911,79a0ca89-b5e9-47fd-9cf9-f71263524be9,Pousada Recanto Verde,reservas@recantoverde.com,(41) 93456-7890,550,55add2f8-c2dc-4cd4-8f21-8920408529fa,HOTEL,2500617
+a35776f0-b3ee-4b3a-8dc0-448d7f6a5f2e,79a9490b-eed1-4171-be66-b7036f78f8ad,Hotel Vila do Mar,contato@hotelviladomar.com,(48) 92109-8765,890,563a5797-9ab2-495c-b1ff-fe935064f78b,HOTEL,946444
+1742e3f5-ddcc-4af0-b90f-ba817e35a28b,7b44c71b-f717-4d8f-adef-cb43d8219bba,Hotel Pôr do Sol,reservas@hotelpordosol.com.br,(81) 97890-1234,710,56457f4d-5860-436b-912f-55fcc8afc2fe,HOTEL,602489
+9e5d2e8e-c0e3-439e-b0fb-33f5159c4d08,7b674258-bd87-409b-83ea-8d6b62b5d301,Pousada Nascer do Sol,contato@pousadanascerdosol.com,(51) 95678-9012,390,568b889e-536f-42d3-92ba-42dc207cb3c1,HOTEL,8512326
+f690a09a-14d3-4d54-b621-972b3f4eb918,7b68e798-56c7-40e6-86b8-e1ce6ba0eafc,Hotel Aconchego Mineiro,reservas@hotelaconchego.com,(34) 91098-7654,420,5748acaa-6238-48cf-a5a1-2a0940bf2f5d,HOTEL,13654198
+9f6db588-af52-4d44-9b73-7f94d7d39315,7c94ec26-9e8d-4cf9-8a10-bbe96ea0a378,Hotel Paraíso Tropical,info@hotelparaiso.com.br,(92) 99876-5432,1500,577e7e18-7716-433c-abe5-619ab2c0967a,HOTEL,801247
+4c5002c5-c9ca-4474-ace7-232cf5739ea8,7d55e6fd-9665-429b-a46c-f5b36c130fde,Pousada Tranquilidade,contato@pousadatranquilidade.com,(61) 91234-5678,600,5785e8f7-b5d3-4290-8e2f-d3c12ee8f991,HOTEL,9227638
+9008c381-7cfe-4daf-82a7-1c785e4b2fbc,7d63d0bc-aab1-4af8-8261-3da7aa59da57,Hotel Mirante das Águas,reservas@hotelmirante.com.br,(62) 98765-4321,580,5791584f-c75b-4aa5-bd68-9fe82093fbf8,HOTEL,5629734
+2bf6d069-4cb3-4b42-81a0-88f6a6b63683,7d7d94f7-619c-4185-b3d2-f462cb02b151,Hotel Lagoa Azul,contato@hotellagoazul.com,(67) 96543-2109,470,587a4f95-36df-43bd-a554-794a4a7a0b82,HOTEL,8617000
+77d55c48-fa8d-4ef6-93e9-96791cd89323,7e2ec396-feb0-4f97-8284-628db6735959,Pousada do Cerrado,reservas@pousadadocerrado.com,(65) 94321-0987,350,58c47ffb-5f85-4290-bedb-7da24bb3dcfd,HOTEL,3534174
+7b1f46ab-ad91-426b-b486-756b87ba09c2,7f0ffc97-41a5-4791-a30a-0e8f9d537330,Hotel Pedra Branca,contato@hotelpedrabranca.com,(27) 93456-7890,750,58eedcb9-c991-49d5-81eb-10ed2a62ddef,HOTEL,4932749
+eeb2d64a-d12f-4498-a353-b5b51524b569,7f4bc512-c370-4417-a9da-bceb2814ccdf,Hotel Mar e Areia,reservas@hotelares.com.br,(83) 92109-8765,920,5908e38b-040e-486a-bcd8-c1014ed3dc76,HOTEL,7920324
+afa9f8a9-218d-4878-90bf-3baf558c3a9b,7fb69665-03ea-4655-a225-47abc52b7d5f,Pousada Sonho Dourado,contato@pousadasonho.com,(84) 97890-1234,680,59111b30-3fa9-4b59-b129-97937e9d66ba,HOTEL,12596074
+186be372-022a-493a-933c-6f200428e8d7,7fe1bbf6-812f-445d-90a1-0429c98e16ed,Hotel Brisa do Mar,reservas@hotelbrisa.com.br,(91) 95678-9012,520,593d7121-735e-44e2-b3c5-ee969f2a7f60,HOTEL,12596074
+09e3c0ee-4796-4fbc-9b04-68a061d183b8,80021eef-7a82-463b-8df4-1521c386adb3,Hotel Vista Bela,info@hotelvistabela.com,(69) 91098-7654,480,594e35a7-cadf-45fd-a14e-8dcf8172b671,HOTEL,16548113
+cadf7241-d6cb-4de2-a93e-9a56b1863ea4,8012a90c-f936-4763-8644-36b27b361964,Pousada do Rio,contato@pousadadorio.com,(68) 99876-5432,330,59613a58-837e-4437-8e80-23fe744ed9c6,HOTEL,3534174
+3e1e91a9-1be8-439c-8d82-4028b65d0c8b,806029ff-af3f-42c0-b539-2b4a96c754b0,Hotel Colinas Verdes,reservas@hotelcolinas.com,(95) 91234-5678,410,5978a807-372b-499f-ae2c-7ed7d031651e,HOTEL,13654198
+704805d1-e665-45bb-a367-83b919500496,806e7f2c-490e-440b-a839-94489282ce74,Hotel Floresta Viva,contato@hotelfloresta.com,(96) 98765-4321,290,59b5249c-d874-48b2-92a5-eb80b09cae7e,HOTEL,3366415
+b87fb208-e494-4893-b48d-8f2b936902c2,807305f1-89aa-468d-b3a3-1d984989e434,Hotel Vale dos Ventos,reservas@hotelvaledosventos.com,(79) 96543-2109,650,59d7ebaa-83b3-4abf-81ef-6f3774351eec,HOTEL,11073461
+8b55f235-085d-4882-a1df-c716639ca53c,80dc78b5-76b6-455a-8c89-df6c15854e4a,Pousada do Sertão,contato@pousadasertao.com,(87) 94321-0987,250,59ddec95-c054-4b9f-9c7d-b8d08c70c19c,HOTEL,8659138
+5533131b-d67d-4b11-b4ba-3e55ed0d3c4b,817d1eb7-9e9c-4b7f-895a-59124432ade5,Hotel Sol Nascente,reservas@hotelsolnascente.com,(86) 93456-7890,380,59f8a6bd-dbd7-4ef9-8c98-7390714ce44b,HOTEL,4337318
+2ed3c2ac-ff4c-46db-aaa6-3c547ac25da3,8207f059-5d69-4667-a6bc-7e29189b9a71,Pousada das Águas Quentes,contato@pousadaaguasquentes.com,(64) 92109-8765,1100,5a1bf7cc-f907-44c7-908b-56ca3aaa819a,HOTEL,9436729
+5699987d-2675-4231-bebb-e9f4ecd83eaa,824e6b9a-8578-45a6-aa72-914cdef56416,Hotel Ouro Preto,reservas@hotelouropreto.com,(31) 97890-1234,570,5a3f9184-40d4-47c8-a53a-aaa11b4f6774,HOTEL,16548113
+ffd353c5-8f55-4f98-84d7-27353eba8a9d,82d38739-0035-41ba-b5c5-cc8061ffde92,Pousada do Vale,contato@pousadadovale.com.br,(24) 95678-9012,700,5acaf213-b761-40af-9359-4e540995d79b,HOTEL,2835450
+34c8c0d4-c42d-4997-8277-666e02a1c4c7,83b6d9fd-afdd-431e-91c4-a7c55779c896,Hotel da Praia,reservas@hoteldapraia.com,(54) 91098-7654,950,5ae63207-9bf5-4773-b932-732f34691d94,HOTEL,10146399
+ffa2aefb-6faf-435a-8113-2d9132bb5e70,84b27863-4703-4f98-b49b-985cebefcf61,Pousada Litoral,contato@pousadalitoral.com,(13) 99876-5432,340,5b017e38-0718-4e8e-b804-c10998c76e8a,HOTEL,4374096
+cc512e7a-803b-4609-bfb2-d260687e5a2f,85b0d2a8-a365-4f81-8fd5-8db1fe18e519,Hotel do Bosque,reservas@hoteldobosque.com.br,(19) 91234-5678,490,5b146eac-a28d-4c91-8e66-d704feac726e,HOTEL,16548113
+37708732-0989-416c-9940-9f1e90317361,86154473-4d78-4190-a250-338c70a93328,Pousada da Serra,contato@pousadadaserra.com,(47) 98765-4321,620,5b4a23e3-6041-4de1-9b3d-dc38fe1a467a,HOTEL,4905360
+da6124b2-8e96-4711-9b65-8c225a8e735b,864a5835-26b7-49ec-8992-d6f3f331e098,Hotel do Mar,reservas@hoteldohmar.com,(82) 96543-2109,800,5bc451b2-d92f-4bec-bcc2-a25720aa55ac,HOTEL,801247
+05d9bc9d-db83-4131-a16f-5a4723b2f412,86b584e9-a768-4cf7-930a-cdd7a9f6a20d,Pousada do Sol,contato@pousadadosol.com,(75) 94321-0987,360,5be28ebf-faff-4834-9204-e51d2b66e5a9,HOTEL,4932749
+90356b61-37f8-4fa3-84f4-3fb441506220,8716586a-0e48-4fb9-849e-eaca6ec9e14f,Hotel do Rio Negro,reservas@hoteldorionegro.com,(92) 93456-7890,1300,5c03222b-2779-4c64-bf00-5e5085ba43e9,HOTEL,6270657
+cd9ef379-f306-4e41-b791-34b1a198777a,87d32278-3eda-4477-af5e-68d62c674131,Pousada do Pantanal,contato@pousadadopantanal.com,(67) 92109-8765,4500,5c5b6099-e36f-4e03-8a89-bdc9ab6c1642,HOTEL,4337318
+731b9391-20d0-47d5-9e7f-04cd06e19b93,883898be-bf67-4d2a-a9f0-26394a4e3f0a,Hotel das Dunas,reservas@hoteldasdunas.com.br,(85) 97890-1234,2500,5c7c4010-4127-43e8-aeb5-d4a878f79e62,HOTEL,5193043
+37176368-19a0-4081-990a-1efdc718b529,88a82025-3192-4381-80a4-91664fc32570,Pousada do Centro Histórico,contato@pousadahistorica.com,(21) 95678-9012,980,5c7f09d1-7100-47a0-84fd-fb21a5c98a18,HOTEL,10544590
+58285239-92ae-4962-9bbe-055e9d4a3e66,8ace33d9-2316-4f5f-8671-6d43036c4ba1,Hotel das Cataratas,reservas@hotelcataratas.com,(45) 91098-7654,3200,5c90f1fa-0daa-41b5-b830-6c1873653844,HOTEL,434676
+7535b997-417b-4077-92a8-ed158a13c465,8ae5f71c-08b1-411b-9913-a62475ee2b4f,Pousada do Lago,contato@pousadadolago.com,(61) 99876-5432,720,5c9e22e6-e411-436a-8bbe-42cec49bdeb6,HOTEL,1491789
+f3067c8e-7b9e-449a-be58-380cbd4fcb85,8b684cfa-ac6e-4cf5-b160-8da85866c225,Hotel do Vale do Vinho,reservas@hoteldovale.com,(54) 91234-5678,1500,5cb464c1-fee3-4481-a020-dc4daf79a174,HOTEL,4374096
+4b005581-535b-4583-a14a-c1d0d9d8898c,8b7ef3c1-222c-4b76-a36a-98d363f946bf,Pousada dos Ventos,contato@pousadadosventos.com,(88) 98765-4321,290,5cb74b1e-fc63-4bd8-8b98-a7c83f1dae07,HOTEL,8659138
+ffbe0f91-f10b-4dcd-ac4a-c683067aeab3,8c6c91f9-ebd2-43ec-8568-ede1e4b6b284,Hotel das Rochas,reservas@hoteldasrochas.com,(83) 96543-2109,370,5cb83541-d939-420f-ace6-fb10c11352b2,HOTEL,602489
+140b5aa8-f1f3-49fb-90fc-490e886f60f1,8cd5e2fd-2072-4357-90fd-75d8a6d44853,Pousada da Mata,contato@pousadadamata.com,(32) 94321-0987,510,5cbc3b28-826a-49a4-8b3f-44fc4420b9db,HOTEL,4761806
+4ed933d9-e005-408b-884c-a80a5e4c2126,8d2670a8-faca-44aa-8b72-07143f5b9f28,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,5ccee65f-de65-4cfb-9838-a913256d5c0e,HOTEL,16548113
+d0678c69-b896-45b3-864a-cb897c1cb772,8d2d998f-6d4c-4f3f-bdca-6e32100aa185,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,5d2967cf-57da-44ad-82b1-1a3ef786ac3b,HOTEL,8512326
+5eb13f13-6ace-4a5f-a91e-48aabc29e043,8d7cf602-e7b6-4576-965d-0d43fb04f5f1,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,5d3b1d09-8014-400d-b92a-48f453f2669f,HOTEL,10544590
+25eefd7a-ab18-4b1a-81a1-404a6847a080,8d965d0f-ae8e-41e0-8a0b-81cfccf70e43,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,5d5df53c-c55d-41f9-8985-bfd9478fbff2,HOTEL,6270657
+82c3f246-4d08-4191-91fe-051c6cd97d3a,8f321cb5-80d1-4334-9a82-8624e77586d4,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,5d629ae5-1f99-472b-9e58-11eb2e54a16d,HOTEL,10146399
+71fe77f7-727d-48a5-945d-a647e1bf9cef,8f973b1b-0d92-40db-9882-384b196b6a48,Hotel das Palmeiras,reservas@hoteldaspalmeiras.com,(11) 98765-4321,450,5d8009ec-ecef-4908-9e97-a09aff76e678,HOTEL,9227638
+390a2010-8a2e-4d2c-adac-fd0613d2f9b4,90b89e93-22d9-4795-8869-49c0d87d28c1,Pousada do Sossego,contato@pousadadosossego.com.br,(21) 91234-5678,320,5db1d8a2-dbca-4f43-84d6-5f3d924bb38f,HOTEL,7920324
+0947c8b3-4853-4b0e-bc41-c20e95acbdcd,91b99c1a-3f9a-4452-b274-163702966dfe,Resort Solar,info@resortsolar.com.br,(85) 99876-5432,1250,5dcc9311-c519-40f3-aa74-60840a20b05e,HOTEL,10544590
+4647f986-2a26-4b4d-8cf8-621c883d0639,91c0ecde-a93e-486b-9ef5-c6c504e4215c,Hotel Estrela do Mar,reservas@hotelelmar.com.br,(71) 96543-2109,670,5e79a3bf-9b73-417a-9f5e-6976be85ab40,HOTEL,1491789
+d902dc37-9a20-493b-b30c-5120b69ddeb0,91d360bc-bd7e-414c-afcd-22ee98c9fcb5,Hotel Serra Azul,contato@hotelserraazul.com,(31) 94321-0987,280,5e8e7f1b-fe79-487c-9f0b-62ee654a5cd3,HOTEL,602489
+928e3c98-89c6-4121-906c-7b1437576a9e,928f83c9-d30f-41be-9e7f-26c62093e634,Pousada Recanto Verde,reservas@recantoverde.com,(41) 93456-7890,550,5efb0cbe-1ffd-4abc-8e9d-5a6fcc06eb25,HOTEL,13654198
+555f4a51-ecbd-4a1d-a094-04f2878eb00d,92b34211-c403-436d-ae29-c137681876a0,Hotel Vila do Mar,contato@hotelviladomar.com,(48) 92109-8765,890,5f44c807-a9f9-4e92-a1e9-6c1e286f4395,HOTEL,602489
+de47a2bc-0f5e-421a-8c24-ed4851a0ace7,92fecef1-ece8-462f-902c-49c170848bf9,Hotel Pôr do Sol,reservas@hotelpordosol.com.br,(81) 97890-1234,710,601282da-786b-44fb-830d-117e410e00a8,HOTEL,9436729
+2d72450f-18a3-4fdf-967b-59102e81b076,93446483-5103-40eb-9060-ec9708cbb6bb,Pousada Nascer do Sol,contato@pousadanascerdosol.com,(51) 95678-9012,390,602286c7-c682-41fc-86a0-c236cb6b6074,HOTEL,3534174
+9820ea10-c727-4017-9e1f-2d35f3384880,93737505-37c7-44c3-bf8e-1f93e5f32b9e,Hotel Aconchego Mineiro,reservas@hotelaconchego.com,(34) 91098-7654,420,6058b5e3-2ad2-4810-adf2-3db5a7743f42,HOTEL,8609630
+fa84a532-562c-420c-939a-cf96788a9c6a,93864653-dd8b-4502-ab4b-01881ad6a333,Hotel Paraíso Tropical,info@hotelparaiso.com.br,(92) 99876-5432,1500,606225a8-c85d-466d-b401-b8086086fa19,HOTEL,8512326
+9544e0bb-dcaa-4431-b4f1-cea450ac202f,944114ad-714a-4264-bc6e-9cd2a664cc8d,Pousada Tranquilidade,contato@pousadatranquilidade.com,(61) 91234-5678,600,607626b4-b5b5-494d-9b18-196b3699b696,HOTEL,4905360
+05c28f1d-ef99-42f8-8bae-b5044c507dfb,94e1804d-5e97-4b0d-be25-e08c3f8041bb,Hotel Mirante das Águas,reservas@hotelmirante.com.br,(62) 98765-4321,580,60a8c3c8-7cb8-44b4-9b25-73a02c8a6705,HOTEL,5193043
+5a438d13-01db-444a-a7b2-1d70b8fd2fe3,95541d65-66de-47c8-a8d1-9b609d88f3f2,Hotel Lagoa Azul,contato@hotellagoazul.com,(67) 96543-2109,470,60ab503e-e483-4a14-8608-9e9cec5a8c67,HOTEL,8830905
+ce711b4b-e65e-4e4d-9a8d-2068dd23987e,96788f0f-9739-40a8-b8a2-24483783a36d,Pousada do Cerrado,reservas@pousadadocerrado.com,(65) 94321-0987,350,611c2cc7-8981-485c-975f-178ae36e6c62,HOTEL,1163966
+536c088d-0b72-4948-a949-d71ee84e383d,96a9669b-0030-45dd-bd4a-06309c42f0c2,Hotel Pedra Branca,contato@hotelpedrabranca.com,(27) 93456-7890,750,614dd698-e15d-4630-ac62-6707b5ee0d3e,HOTEL,10544590
+7e8092f0-2b83-4015-874a-8d6b50fe1d16,97585131-258c-4d63-bf48-f9798ac9a0ba,Hotel Mar e Areia,reservas@hotelares.com.br,(83) 92109-8765,920,615eafcd-ad03-4d19-ba7d-86b0a8434ed7,HOTEL,7920324
+a7dd6dc5-0360-40a3-b7db-6f331cdfea58,97805e9a-bfe3-427e-976b-7d65d5549478,Pousada Sonho Dourado,contato@pousadasonho.com,(84) 97890-1234,680,6193fb5a-5219-4156-9984-dfca91fbb9c1,HOTEL,9227638
+4725bd0a-f20a-4a82-84be-17dd6fd7c268,9798a2f0-80f8-4ff4-a0fe-035d7698376a,Hotel Brisa do Mar,reservas@hotelbrisa.com.br,(91) 95678-9012,520,61b91ecf-0705-4466-9ea7-a2fb9595c3b2,HOTEL,1491789
+f8a5540f-8e86-4c25-b768-b306bae958b8,98922eb7-e837-4542-bf15-e726f3df9f28,Hotel Vista Bela,info@hotelvistabela.com,(69) 91098-7654,480,61e43919-7a53-4775-800a-795e01bb04bb,HOTEL,14265763
+c483af5c-a998-46fb-ada1-7c13de8c373a,98a4f410-2cb1-4698-ae1d-00cded6ed5a0,Pousada do Rio,contato@pousadadorio.com,(68) 99876-5432,330,626d4626-02b2-4e8f-9f47-315297f34e16,HOTEL,3813059
+0741a1a3-6abf-4265-85f8-5a7e674caae7,992e4262-2bb4-4a41-8b1d-2d0cf32d1da9,Hotel Colinas Verdes,reservas@hotelcolinas.com,(95) 91234-5678,410,62e82bf6-8f1f-417f-87ca-be9594f12285,HOTEL,6270657
+f0bc3bce-f959-46ea-ae94-b9ed418e0d2d,995e316b-f522-42c9-9a1c-3b5e89d0bec4,Hotel Floresta Viva,contato@hotelfloresta.com,(96) 98765-4321,290,62f40aca-b06a-4f62-b721-9a0b27fc13de,HOTEL,11231226
+b7319371-514a-46b9-98b2-091e5d69abb2,99cb81ab-a58a-48ee-a165-0fd6f42d30e6,Hotel Vale dos Ventos,reservas@hotelvaledosventos.com,(79) 96543-2109,650,62fe7776-719e-4e4c-9265-b525f5b788f4,HOTEL,8830905
+76c1c727-fd2e-4d9a-9fe4-ed0a71bbf6de,9a9a2e5f-6edd-4e19-9b31-278976594ad3,Pousada do Sertão,contato@pousadasertao.com,(87) 94321-0987,250,6461bb05-bb7b-4917-8d07-f67368f8aa17,HOTEL,946444
+22addd55-f586-439c-81f9-1318a7e82cf2,9adc4c9a-dfcc-4206-91c9-e94a557bbfda,Hotel Sol Nascente,reservas@hotelsolnascente.com,(86) 93456-7890,380,64c0a7e2-7e20-4c4e-972e-7639780c2bf0,HOTEL,13341380
+b22632c9-aca7-400e-b2cc-3ecdb2a13c23,9ae4bfbb-bbc4-4a76-9c9b-96e6d9adc579,Pousada das Águas Quentes,contato@pousadaaguasquentes.com,(64) 92109-8765,1100,651b1292-77b5-4065-be1f-80db67d7e04a,HOTEL,801247
+ad7d108f-bd4c-4b39-a0c2-2433c396623f,9b2652bc-267d-4bd0-a67d-8c92bfb85973,Hotel Ouro Preto,reservas@hotelouropreto.com,(31) 97890-1234,570,65243be5-c910-4477-bb87-d1dc6ce8a7a0,HOTEL,1809728
+096dabf4-38f5-4ceb-a598-29f735a4f7a4,9b408b11-a3f5-43c6-a491-a9dcc8965b10,Pousada do Vale,contato@pousadadovale.com.br,(24) 95678-9012,700,65851d39-656d-4ac4-8988-db8789beb6de,HOTEL,8371719
+81e09f8a-bf76-40d8-bc80-8e599cae87d3,9cb4a09e-d10d-4467-ba57-5a381ad277e8,Hotel da Praia,reservas@hoteldapraia.com,(54) 91098-7654,950,65ad3e6e-6cbd-493d-8e81-7f29b10af7c3,HOTEL,12596074
+8c8076e3-8af0-435d-9f5d-52264f0d7315,9d40282d-3397-4383-b8f7-ae055c7066ca,Pousada Litoral,contato@pousadalitoral.com,(13) 99876-5432,340,669f2bea-d856-4184-88bc-6081b4425da3,HOTEL,434676
+2f4a0291-6377-4ccc-8b97-4058501f8815,9d79a812-ee02-4a1e-a904-104e295a4623,Hotel do Bosque,reservas@hoteldobosque.com.br,(19) 91234-5678,490,66ab412e-bc29-46f8-95f0-32b5510e821a,HOTEL,8830905
+69dac0b2-3e32-453c-aca9-c8ba567e0856,9fdbf59b-3c92-4c99-a939-9ba03643c2e5,Pousada da Serra,contato@pousadadaserra.com,(47) 98765-4321,620,66b5a74f-c835-4c27-9b28-759eeb47e91e,HOTEL,4337318
+ebe88a80-c579-4f9b-b7a4-46b79112e1e3,a0282335-c730-4777-a6bc-0d0dc3c5b877,Hotel do Mar,reservas@hoteldohmar.com,(82) 96543-2109,800,66bcd194-ef9d-45c0-9bc7-fbd081e74159,HOTEL,946444
+898d43d7-f65e-44bd-b185-78ff22bbf126,a3367a0f-8262-4a90-89e5-f330254b900e,Pousada do Sol,contato@pousadadosol.com,(75) 94321-0987,360,674c604f-c2ca-47a5-b3c5-8bcb52655948,HOTEL,5629734
+781d4f99-7220-403c-8c95-d5e43ee63fed,a33b826f-6a19-4b28-b83e-1b253b221231,Hotel do Rio Negro,reservas@hoteldorionegro.com,(92) 93456-7890,1300,67844bb2-6d43-4e45-9e00-37320dd33e56,HOTEL,13341380
+3383f6f2-23a1-43b4-a81a-1e2c0ed9543d,a43b06e9-ab80-4517-a3c8-72b5da7dfcfc,Pousada do Pantanal,contato@pousadadopantanal.com,(67) 92109-8765,4500,67ad39ce-21e5-4b5e-a6c3-1ed5ce3dfb61,HOTEL,1306237
+e6852a0b-c594-4c6e-9a55-7d0080ebfd2d,a466a81e-d4bb-43b4-bac5-ef5163531835,Hotel das Dunas,reservas@hoteldasdunas.com.br,(85) 97890-1234,2500,6847f870-1899-425c-82d7-b3f4afd97795,HOTEL,10544590
+b1afa986-f358-407f-8932-ee4591a3a00f,a46d6ac0-2556-487b-86d9-b9db5f424f7c,Pousada do Centro Histórico,contato@pousadahistorica.com,(21) 95678-9012,980,68b2d675-9381-41a0-9483-1fa7825b0acc,HOTEL,11231226
+11869d23-e202-4803-9e61-6135c8f71817,a4e7c5c2-40c7-41b3-8997-95716e7eaa30,Hotel das Cataratas,reservas@hotelcataratas.com,(45) 91098-7654,3200,68d7403e-259b-4dd4-8db4-7d6bc9c0d9ff,HOTEL,8371719
+243901fb-469e-4b2e-8861-2ef6d8132270,a4f56bd1-0443-4633-a3ac-610518fb5e67,Pousada do Lago,contato@pousadadolago.com,(61) 99876-5432,720,68f03437-2e91-4e52-b0fe-c04451bdca45,HOTEL,4761806
+e3715561-4729-48ae-a813-b4c9bf3a5f8a,a6764bcb-c75d-4e9f-a2ba-160b218bd5b6,Hotel do Vale do Vinho,reservas@hoteldovale.com,(54) 91234-5678,1500,68f34863-cb56-4989-8616-a7600f2b7271,HOTEL,2152819
+8e6711ca-c375-4eec-9991-65dd43aeab67,a71a2bb2-3c12-4b5d-89d5-5d8514909b1f,Pousada dos Ventos,contato@pousadadosventos.com,(88) 98765-4321,290,69059e02-016a-4668-89bd-509b03d72def,HOTEL,3112443
+b259a127-7f0c-4558-ae65-fa3999e316e1,a74f639c-f3da-486e-9e7f-a1a82ec34e81,Hotel das Rochas,reservas@hoteldasrochas.com,(83) 96543-2109,370,695386e5-01f7-4fb6-913e-f5f2271f537f,HOTEL,12280786
+d1b03b8b-0532-471d-97d5-8bfd3ae7c157,a77b3a6a-1058-47d6-a638-2c7d271575bb,Pousada da Mata,contato@pousadadamata.com,(32) 94321-0987,510,69e68bdd-4c3f-415f-b62b-ef0ca1507b95,HOTEL,11231226
+8ab966da-6aff-42a2-afc0-f21f29be2dd8,a7fdad6c-96ab-4449-8123-10b472155412,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,69fad57b-5415-4ec6-b382-a08a52f4754c,HOTEL,14265763
+930e328c-f805-437e-a35b-72558f57002a,a8c200e7-f4d0-4d88-9edf-dc77ac31b0a3,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,6a23e6f5-50ff-4dd9-86c7-0607689c6de4,HOTEL,14265763
+b687e2f9-0023-4194-803f-329256a8a474,a9a15aa7-3be3-4298-b886-7d7a9296be72,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,6a3ac969-1a1f-4c06-8c83-7bb51b69250f,HOTEL,1306237
+b25aa22a-81bf-4359-b59c-6dfe854b981a,a9e996f7-1958-412a-bb4d-c6bcd0b8b485,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,6aa25430-2d6e-43c6-869a-1ae831ad222c,HOTEL,11182797
+2a6b6143-3175-4a22-81e0-49d38635d400,aa849c8b-42ca-4ad2-852f-f9c289618b41,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,6b132f1e-aaeb-462b-bb57-df990329e53d,HOTEL,2835450
+2fe3744b-5f27-4d8d-af8a-3452b84eb989,aaa94aaa-1d22-4fd3-97e5-d2751939d2e3,Hotel das Palmeiras,reservas@hoteldaspalmeiras.com,(11) 98765-4321,450,6b544c04-99c8-49fc-888e-a23b0a12432a,HOTEL,10544590
+a206d73a-6caf-47c0-a64f-f6e0e8d38e7b,aacf2f4c-aff9-41f2-bf7a-cecf0fdfc2e6,Pousada do Sossego,contato@pousadadosossego.com.br,(21) 91234-5678,320,6bc24479-f365-43ae-b5bc-f2c88b9d5cc7,HOTEL,4932749
+7f2ec657-f7b6-4fcb-aa76-e725fdd0046f,aad668ed-8084-4b37-b3df-7480b3796291,Resort Solar,info@resortsolar.com.br,(85) 99876-5432,1250,6bedfa57-43c5-4b1f-9e33-a03bc0547737,HOTEL,4761806
+e115dbf2-6729-46a9-a234-1f1b93d390b5,aaf7bd2c-c0a7-41f5-a354-23dddc384875,Hotel Estrela do Mar,reservas@hotelelmar.com.br,(71) 96543-2109,670,6bf203fb-bf5a-41d0-a6b3-548ae83d0430,HOTEL,2101251
+2eb7cd8b-ba11-4d16-ab80-487f6a82bbc0,aba210ec-d02b-4f8e-bb79-6801fa78de79,Hotel Serra Azul,contato@hotelserraazul.com,(31) 94321-0987,280,6bfaae23-d45c-417b-bdc1-55c10e281e80,HOTEL,8371719
+d1e46b44-0063-4e95-aa35-0f5f4ee81c2a,abb66fe6-d806-42d1-80ad-7e56f9aa6d47,Pousada Recanto Verde,reservas@recantoverde.com,(41) 93456-7890,550,6c6c1e5a-54e8-4541-b016-30bde1781b72,HOTEL,4374096
+4019d0fc-945a-4b5e-9d3f-f983af233cbe,ae28f840-4d17-4e09-af46-391ba64f29c4,Hotel Vila do Mar,contato@hotelviladomar.com,(48) 92109-8765,890,6c73765d-fe2a-45f8-b90a-1a5b1dc9e103,HOTEL,9436729
+53d1ecd9-7a53-4c6e-98ca-786a6d1a4ac2,afcb5674-bfdd-47af-862b-41c5f33f7ff4,Hotel Pôr do Sol,reservas@hotelpordosol.com.br,(81) 97890-1234,710,6d001d21-0113-4032-9556-510be9498721,HOTEL,4932749
+f0556240-1ff3-4153-bc94-3237feb4c930,afcf8fed-7069-4201-ba43-edeb61e0098f,Pousada Nascer do Sol,contato@pousadanascerdosol.com,(51) 95678-9012,390,6d0feef9-7e44-4225-ab43-7ba8d5fc5d7a,HOTEL,9436729
+3dba43d8-6008-4868-9de5-43c86cc7509b,aff7cca6-f074-465a-be42-903981d30bb6,Hotel Aconchego Mineiro,reservas@hotelaconchego.com,(34) 91098-7654,420,6d1642f3-18cb-4cb9-8f42-91c43607982b,HOTEL,9227638
+ab33d9fe-9294-405b-bf06-cccbab4e07b5,b05410c1-e356-4587-bf84-50f347763f34,Hotel Paraíso Tropical,info@hotelparaiso.com.br,(92) 99876-5432,1500,6d71bee1-6887-40cc-a10d-632d87a16364,HOTEL,8617000
+76a34c00-be9c-4879-8f42-62fed4afba47,b05b2427-c47a-4cdf-8183-669b8f7bd3a5,Pousada Tranquilidade,contato@pousadatranquilidade.com,(61) 91234-5678,600,6e048604-c9b2-467d-9723-c414b0c05c14,HOTEL,13654198
+0e7961ad-85c2-437e-b9b1-27b30af88f41,b0e56445-72cf-4774-97f8-a4300e66dc41,Hotel Mirante das Águas,reservas@hotelmirante.com.br,(62) 98765-4321,580,6e31dde1-0274-4e1e-9d45-c64b623b6e87,HOTEL,1163966
+a08aff4a-9bb4-4002-b03c-2fc0e43466ed,b0e816ac-0401-473f-94c8-3f399f15c582,Hotel Lagoa Azul,contato@hotellagoazul.com,(67) 96543-2109,470,6edda48c-46b0-4aae-83cd-ea238ca62a80,HOTEL,5193043
+96136723-4d88-4aad-ab09-a0258eced33a,b2049083-7a11-4a0a-a66a-a458c24cf86b,Pousada do Cerrado,reservas@pousadadocerrado.com,(65) 94321-0987,350,6eeccf9d-257c-4b3b-8d5b-f0a5e023c72b,HOTEL,11182797
+b85f172b-7284-4dec-99e2-8d4d3713dd48,b269eaa2-c556-4332-9444-b41866743db0,Hotel Pedra Branca,contato@hotelpedrabranca.com,(27) 93456-7890,750,6f2f5a72-4eed-4787-93a8-8a7805d74162,HOTEL,4337318
+f68b6f99-0ee6-4beb-943d-cbc9dce64ae4,b2a5ee23-fd6b-444f-8866-2b2adee1a59c,Hotel Mar e Areia,reservas@hotelares.com.br,(83) 92109-8765,920,6f442616-5a00-41fd-8943-60969632854f,HOTEL,10804695
+4dcbdc6b-9072-4ab5-9918-cb3bbc200065,b33b3db2-f108-446e-8dc6-ad5b1ae88089,Pousada Sonho Dourado,contato@pousadasonho.com,(84) 97890-1234,680,6f8ae030-f75b-4686-bc4c-d42b9ed170ef,HOTEL,11073461
+26f30467-263f-4e30-bc28-f474bc1be51d,b386ec56-232f-41bf-9f7f-402b643c501c,Hotel Brisa do Mar,reservas@hotelbrisa.com.br,(91) 95678-9012,520,702e79ea-d5f7-41e2-8e4a-ce5559a7872e,HOTEL,8609630
+525d3b40-da2b-4a9b-bafd-4da54874027a,b4348c8a-56db-4ad2-97b2-1927e872ae16,Hotel Vista Bela,info@hotelvistabela.com,(69) 91098-7654,480,707e0efa-838f-4102-8df8-f07e8c621ebe,HOTEL,1306237
+366633a1-47a7-4e14-860a-6c336786e661,b548dc5b-3ce8-494d-8cb3-aaffd147b13a,Pousada do Rio,contato@pousadadorio.com,(68) 99876-5432,330,70ac236e-2f81-4217-b430-2e7ac702f082,HOTEL,2152819
+26925f80-a9e0-4400-ab5f-611c2244a265,b5ba6e9a-210b-4851-9d91-902ba5866357,Hotel Colinas Verdes,reservas@hotelcolinas.com,(95) 91234-5678,410,70ac4ee1-33e8-49e9-b8db-f7f925c9d58f,HOTEL,10544590
+2cad6a98-bae4-45b8-af9b-228a75ac3169,b5c2234b-a92b-4f18-938e-7dd0e6e16f97,Hotel Floresta Viva,contato@hotelfloresta.com,(96) 98765-4321,290,70b9a048-0d8d-4606-bfb5-09f882ea90fa,HOTEL,9227638
+fd8066f6-1953-4255-97a7-2f5c16cf7f58,b6000fc5-e6ea-46d8-ae12-72e2cb11f6d4,Hotel Vale dos Ventos,reservas@hotelvaledosventos.com,(79) 96543-2109,650,71872890-4693-4b1b-a9e5-7e0871944bd8,HOTEL,10774615
+86fff521-ab41-47dc-a401-19741aa314e7,b6049ff6-00aa-4325-8029-8f2b3522e234,Pousada do Sertão,contato@pousadasertao.com,(87) 94321-0987,250,71fc866f-969b-4b4a-9ede-d14c849a4827,HOTEL,5338549
+6d4f79b8-e80e-41ed-ab22-fc55356d43c5,b6ba9b70-5c0a-439c-a39a-512ff54eaa12,Hotel Sol Nascente,reservas@hotelsolnascente.com,(86) 93456-7890,380,720afa2b-293e-4d2c-9221-7ab26ce30310,HOTEL,2152819
+396947cd-c172-4c9a-8215-206ede120923,b7246e27-fa87-4971-9b91-d09a63050445,Pousada das Águas Quentes,contato@pousadaaguasquentes.com,(64) 92109-8765,1100,724d419c-bde3-4da4-baa2-bcf0e620ab74,HOTEL,1809728
+1cd1e605-724c-400e-aaeb-5c64f6b50499,b776b90a-2a72-452d-8ccb-156f35cbe131,Hotel Ouro Preto,reservas@hotelouropreto.com,(31) 97890-1234,570,7266f251-17b8-41f1-8260-851c916aea49,HOTEL,5629734
+e7aa01f8-514f-40ea-96a4-ba3636f6c366,b7ce7616-7e61-4cca-9e3f-ae8e5996d904,Pousada do Vale,contato@pousadadovale.com.br,(24) 95678-9012,700,72cd8067-d0d8-4dd3-9b6f-bf10e850c480,HOTEL,8659138
+881e316d-6cc9-4d8f-86e5-5de4ae213e74,b7d860a8-c6af-49ea-946d-27168b922e6c,Hotel da Praia,reservas@hoteldapraia.com,(54) 91098-7654,950,72f7ccbf-4925-4c56-8c6a-8a19e5644187,HOTEL,8617000
+b991721b-e11e-4278-a5ff-29de254db1b5,b895630b-5c54-4699-86d1-d3397ccbc0fd,Pousada Litoral,contato@pousadalitoral.com,(13) 99876-5432,340,73857645-569c-4f8d-ac95-7c21facb74c8,HOTEL,4374096
+0e117919-441f-4165-95c8-75fa515219c7,b8b48cbf-3492-4441-8fac-ee7011b86f51,Hotel do Bosque,reservas@hoteldobosque.com.br,(19) 91234-5678,490,73c66e6e-6d84-4a3e-85fc-2af57ed7b238,HOTEL,11182797
+04a74272-818e-434d-aa6f-e5767417673e,b9675016-a1ea-4d1f-aa9b-90858792ad20,Pousada da Serra,contato@pousadadaserra.com,(47) 98765-4321,620,740e50e9-75b5-484c-9141-757f8b416d14,HOTEL,7920324
+4a6172f4-49a8-4cb6-8172-ce6b504df831,b9a43bd5-bfcd-4953-80d7-07ddae2f565c,Hotel do Mar,reservas@hoteldohmar.com,(82) 96543-2109,800,7459806a-a525-4e24-bcd0-e3b34b99e728,HOTEL,11182797
+e12c8df6-7494-4bc3-b433-e13506f26512,baa1f373-26c9-4db2-a3a9-3877aa1f4824,Pousada do Sol,contato@pousadadosol.com,(75) 94321-0987,360,74c4051d-f581-4300-90c4-5f5da3c67408,HOTEL,11073461
+1c7af7aa-86a5-4873-8c4e-fff5578e52db,baccc15a-e666-44b9-bf40-b1ba442fa08d,Hotel do Rio Negro,reservas@hoteldorionegro.com,(92) 93456-7890,1300,74dccb78-bc43-4e7f-b32b-b2826371abbd,HOTEL,379872
+a8749c66-64d2-47fe-94ef-8c65aa001fac,bb30a915-b989-4305-b88f-089f72d2efdd,Pousada do Pantanal,contato@pousadadopantanal.com,(67) 92109-8765,4500,74e5835b-92d0-4610-8e8f-cbbd97a204f8,HOTEL,10774615
+c9aa3e83-cc86-4ea0-a5f9-3ba7d1bd49d1,bb71c7a4-8c77-4adb-b0fb-683baceffee1,Hotel das Dunas,reservas@hoteldasdunas.com.br,(85) 97890-1234,2500,75278b30-1f22-42d2-9198-7971ad1b5fa7,HOTEL,10804695
+bee78a1b-5640-4682-8a16-a4556c3c28ab,bb7e6240-1acb-4e13-a8e8-f6714b6e1a5d,Pousada do Centro Histórico,contato@pousadahistorica.com,(21) 95678-9012,980,7556d4fb-b161-497b-8425-14b7f70bf9a1,HOTEL,10146399
+0d10ca01-a9d6-4d98-9594-c7eaaaa1c17f,bb81cfe3-cec8-4ec6-a31a-642f05ddc545,Hotel das Cataratas,reservas@hotelcataratas.com,(45) 91098-7654,3200,75728333-d64d-423a-a6be-f50aa77bea84,HOTEL,8617000
+f63967e6-d267-4aec-99fd-03769f1a1a81,bc117179-9ceb-4779-a50a-25bc1bcf38bc,Pousada do Lago,contato@pousadadolago.com,(61) 99876-5432,720,757bb4de-c5a2-44e0-a515-4cdf84f6a431,HOTEL,11073461
+bdb84bfd-9bc7-4a97-a562-8ebb482dd25b,bd5980ed-ce94-4507-9b47-85268de413e7,Hotel do Vale do Vinho,reservas@hoteldovale.com,(54) 91234-5678,1500,767340b6-d92f-4626-82e2-26af33f595f2,HOTEL,3366415
+b81dafc5-8971-4f86-8256-8f9f026cd9fa,bdf4dce9-d123-4ad4-9f55-8a8903588fc1,Pousada dos Ventos,contato@pousadadosventos.com,(88) 98765-4321,290,768e4d8a-19c9-4fcc-a532-c4d905342e98,HOTEL,2500617
+79768b69-8f2f-45a4-80ac-fd30d26372b6,be52f4e5-10a7-46cc-95b9-8795665c57a7,Hotel das Rochas,reservas@hoteldasrochas.com,(83) 96543-2109,370,772b85f0-a328-462c-9361-308cac162430,HOTEL,8512326
+88ef2315-52e3-49da-8c4c-c092cc50e34d,be5612b0-fd45-470c-8c95-6cd705d6fa6a,Pousada da Mata,contato@pousadadamata.com,(32) 94321-0987,510,77754757-82fe-4004-b355-0140453b9817,HOTEL,6270657
+88ff53a4-1da9-45a8-adb3-ddfcaeeff397,be727c6b-85cd-467a-8e64-b803a2b69ffe,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,77a2b583-20b2-43ac-8b51-1206b48e88ca,HOTEL,11182797
+dbbf4b00-db05-419d-a72e-0eed658c2def,bf9025f5-3c32-426f-8d9c-c3672f92d5d6,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,77bb8e26-0b44-48ee-b4fe-fdab94c015eb,HOTEL,14265763
+715ce9cb-ed62-4e8d-9208-3de07b575cec,bf99a866-c4cd-418c-bc20-1a6a3c5f1071,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,78250faa-1204-4cc6-bf4a-fc55f39680fc,HOTEL,1163966
+2864685b-aa0b-48cc-88e4-b19c047f5c2f,c07ba4d0-6c01-4b5b-bab7-5b3bf2d2aa24,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,78620ada-fbc4-4e16-8fe1-9127ca1b1249,HOTEL,3366415
+7ac6eb90-c2ab-4487-a129-b135667c5af0,c0db4ecf-462f-4e10-99fe-8015d81e69e4,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,78767032-6ff9-4128-9290-c0203c591d54,HOTEL,5338549
+b68117e2-132d-4bb6-ae96-004fcf36a6a6,c1c88b25-77ad-4fbb-9275-59cf4d7d0cb7,Hotel das Palmeiras,reservas@hoteldaspalmeiras.com,(11) 98765-4321,450,78a24ef0-eeef-4a16-a2c1-c2d08009c154,HOTEL,8830905
+244a3402-45b5-4967-901a-d7722e8d13b6,c1d433cd-4f0c-496a-88d3-dcf4fefb50b8,Pousada do Sossego,contato@pousadadosossego.com.br,(21) 91234-5678,320,79235b48-4465-4534-b263-15b8869f7713,HOTEL,16548113
+ebef26e8-22df-4007-8325-86962adb132c,c1ee437d-7535-49f4-af14-0db3bffcfd20,Resort Solar,info@resortsolar.com.br,(85) 99876-5432,1250,793ad0e5-ae60-488d-9ce5-3cd788b3dcf6,HOTEL,12596074
+2307ea3a-d882-4b9c-81ad-6ca77f0b9e22,c2048aa2-ad8d-4a21-83df-451b32fac844,Hotel Estrela do Mar,reservas@hotelelmar.com.br,(71) 96543-2109,670,79741569-777f-4796-9e72-f0b628f73f82,HOTEL,2101251
+0997c5e4-a757-4da8-8bb5-a8099824a8c2,c21a587e-95f2-45e4-8766-66bfc0afc683,Hotel Serra Azul,contato@hotelserraazul.com,(31) 94321-0987,280,7a0868f5-79a0-449b-ba2e-c198f1f55ec1,HOTEL,5338549
+b65fb6ff-e005-4695-88fd-99a1f429e53c,c2210bf0-16a7-4998-ae5b-880f781a1c7f,Pousada Recanto Verde,reservas@recantoverde.com,(41) 93456-7890,550,7a2afde7-27a6-4436-b0a8-5c38ce36f113,HOTEL,10528795
+f7bde726-b68c-421d-9e5f-7189355be901,c2de9a19-449c-46ac-a030-38563b685ea2,Hotel Vila do Mar,contato@hotelviladomar.com,(48) 92109-8765,890,7a70c82b-9f99-4ca6-a3ac-1fbba0a06385,HOTEL,4905360
+8d6c41ef-3af3-48af-a632-ec8cec842d8d,c2ee9d28-e664-4456-b6e5-7eba91434083,Hotel Pôr do Sol,reservas@hotelpordosol.com.br,(81) 97890-1234,710,7a7456e0-da0f-48d0-8bfb-530e081acbe1,HOTEL,9436729
+ed843722-eeba-425a-bd4c-81deea135ccf,c2f82865-e95f-492b-863d-6a525fbb5cc0,Pousada Nascer do Sol,contato@pousadanascerdosol.com,(51) 95678-9012,390,7b10a59c-856d-4f22-90db-1f93f22c913c,HOTEL,3366415
+6a5ad11d-258c-476c-ab46-61258cbb6125,c3af24f4-bb4b-445d-8a68-58709132c921,Hotel Aconchego Mineiro,reservas@hotelaconchego.com,(34) 91098-7654,420,7bc9f760-4c0a-4401-863c-717be1713a65,HOTEL,1163966
+4f045761-0fe9-4e1f-b06c-7ec3a1f707fa,c3ea1496-348b-4554-92c8-496447fd3b6b,Hotel Paraíso Tropical,info@hotelparaiso.com.br,(92) 99876-5432,1500,7beda110-6a57-496c-9813-7b15d80cb374,HOTEL,5193043
+49c6c8e9-2c40-4949-9ea0-2aa93b6e0c5f,c44c3ac7-d0c2-4758-af03-0e0a6dbfb57b,Pousada Tranquilidade,contato@pousadatranquilidade.com,(61) 91234-5678,600,7c886272-f180-4c5a-99f6-208a75c50a7a,HOTEL,4337318
+fbbd559a-11f3-41b0-819e-536f81f9a1eb,c500c994-e6c3-421a-9e44-9bca38ef9e11,Hotel Mirante das Águas,reservas@hotelmirante.com.br,(62) 98765-4321,580,7cb80593-6561-4cb8-b7c0-d5d0f9f1f02c,HOTEL,1306237
+94a0ef03-0a52-44cc-9b33-67bb94043256,c530cdd8-8be8-468b-84e2-dd1af02b04c2,Hotel Lagoa Azul,contato@hotellagoazul.com,(67) 96543-2109,470,7d1823cc-3f82-4758-a35e-e4f8233743c1,HOTEL,5193043
+1f929014-5bb8-4efd-9ef8-2ad07205b71b,c534d96d-4194-44e0-83da-1dd98970ba8c,Pousada do Cerrado,reservas@pousadadocerrado.com,(65) 94321-0987,350,7dc8980e-3b92-481b-933d-2764f5556376,HOTEL,1809728
+67b94dfa-bf26-4ec6-8ae9-574fb21a95ec,c56c9b84-c83d-4cec-8781-488d97af483d,Hotel Pedra Branca,contato@hotelpedrabranca.com,(27) 93456-7890,750,7dce15ba-3ccc-4fa1-bf5e-0ee1f11c540a,HOTEL,10774615
+19a7c36e-e2fd-4fdf-81ec-ede9f7cb9da7,c5da239b-188e-4cf6-aa30-4f57959345d4,Hotel Mar e Areia,reservas@hotelares.com.br,(83) 92109-8765,920,7ded769d-e0d6-4c00-a744-04a4a7a35db8,HOTEL,8830905
+ae17f40f-d53b-4610-b1d5-5c68fd49045c,c75c5818-9c6c-4a52-ac75-a90c8c8d7222,Pousada Sonho Dourado,contato@pousadasonho.com,(84) 97890-1234,680,7e0b6b05-17e1-4f4f-b77e-213c146c3cf7,HOTEL,4905360
+8adbfd19-4772-4846-840c-53c139d82283,c7c0b720-6f17-4697-b97c-3bee74c5a94e,Hotel Brisa do Mar,reservas@hotelbrisa.com.br,(91) 95678-9012,520,7e279af0-05b9-4e5f-90ea-18cff0f19f2a,HOTEL,946444
+da62f4b9-505f-43ff-b285-8df0f5609f48,c8e23ff3-6f9e-4e01-9ca4-290e6d9b31de,Hotel Vista Bela,info@hotelvistabela.com,(69) 91098-7654,480,7e2e8462-6ace-477b-9341-bf25498aff18,HOTEL,10146399
+9b5c513d-4262-48b5-b2b2-6a6b3a78d0f9,c8f955d0-f876-4097-a285-2fa70eaf0ea6,Pousada do Rio,contato@pousadadorio.com,(68) 99876-5432,330,7e385628-d81f-40d6-a135-ab16fb7e7fdc,HOTEL,2835450
+ff8761a2-492b-4090-8664-1aa164fc9c00,c9ab9c9a-7464-4409-8847-7f726da36f93,Hotel Colinas Verdes,reservas@hotelcolinas.com,(95) 91234-5678,410,7e507268-aa93-46be-944e-b801475e2e44,HOTEL,8830905
+4679df5b-cdcf-4876-80dc-87cffc2ccd1a,cb8760d6-5c81-49dd-a63f-ec6543a66c7a,Hotel Floresta Viva,contato@hotelfloresta.com,(96) 98765-4321,290,7e55edbc-0785-4468-b689-42a35d6a804b,HOTEL,1491789
+4097b689-83e4-44b1-b0e5-0e5b3b275b83,cb8f51b0-487c-4c36-9faa-f1c4b1255585,Hotel Vale dos Ventos,reservas@hotelvaledosventos.com,(79) 96543-2109,650,7e5c7048-1430-4b12-8786-773e3ed284a0,HOTEL,8371719
+42e9717c-1639-4b57-92c9-474dbdfbb9e3,cba617fb-8abb-4103-a4a1-03fd506fb198,Pousada do Sertão,contato@pousadasertao.com,(87) 94321-0987,250,7e601e55-f127-4cb9-a951-a95745e6bcc9,HOTEL,5629734
+f1e26c6d-5490-4a8f-9b2c-c577c40824ad,cc033755-05ee-45f9-8ae1-d5fde82e3122,Hotel Sol Nascente,reservas@hotelsolnascente.com,(86) 93456-7890,380,7e826330-00d1-4f98-8209-2135b4dc81df,HOTEL,9436729
+204293d5-3d52-4191-8a65-c8ad621d8753,ccad3244-6162-46cb-8b4b-a7b003503f2a,Pousada das Águas Quentes,contato@pousadaaguasquentes.com,(64) 92109-8765,1100,7ecb1b59-00af-4d97-8598-846c3b8d8481,HOTEL,8512326
+d185f274-6b02-473c-914d-a718c80599c0,ccb444d9-8663-489f-ba95-2b813a940105,Hotel Ouro Preto,reservas@hotelouropreto.com,(31) 97890-1234,570,7ef09a62-084c-4786-b680-4fb21bfeeeb9,HOTEL,5629734
+58921c1e-7b7a-4d18-a496-0b5c31a6ba13,cd40d3c8-4eb7-4359-a431-5ea8339570c7,Pousada do Vale,contato@pousadadovale.com.br,(24) 95678-9012,700,7f7e7ea3-f072-4c12-ab5b-94722b985ee4,HOTEL,10774615
+2270662b-5318-416b-b1ed-f32f824293eb,ce507a91-29c9-42a9-b0d2-ba0a3295cea8,Hotel da Praia,reservas@hoteldapraia.com,(54) 91098-7654,950,7fcaed4f-40d2-46b9-8e26-729a482b3716,HOTEL,12280786
+dd2acc7a-f713-455b-8051-0b0250590421,ce5bffad-2433-48c3-89bc-9bb8df9df849,Pousada Litoral,contato@pousadalitoral.com,(13) 99876-5432,340,80001f85-e3fb-46dc-9f6b-7a859034cfa8,HOTEL,3366415
+55d7eed7-f0e1-42b1-9c0e-298e747dd117,ce824949-aa30-4202-a57d-6cd262a79e81,Hotel do Bosque,reservas@hoteldobosque.com.br,(19) 91234-5678,490,8047c757-c6bf-4565-9a1f-97904d46c841,HOTEL,3534174
+193daf4f-8a86-409e-b964-678f21e65b8b,ce9a1136-7827-45b3-8470-582db4ab3b59,Pousada da Serra,contato@pousadadaserra.com,(47) 98765-4321,620,811cc9ee-df95-492b-9327-80ccd51cab0b,HOTEL,379872
+bd4d5a57-4668-4adc-9b28-4bea8d155f6b,ceb8b585-885f-433d-98da-64d0e1b3ccd8,Hotel do Mar,reservas@hoteldohmar.com,(82) 96543-2109,800,8147a435-8367-4d2e-bf72-17310407eefe,HOTEL,2835450
+4362475a-3e0e-4a9d-8e87-2e8acea9758b,cedea860-8313-4991-82e2-72454e5abac7,Pousada do Sol,contato@pousadadosol.com,(75) 94321-0987,360,81595b54-4a85-4409-9036-40339af6665b,HOTEL,1491789
+a4b35bab-1051-4022-a98f-0565658e40d6,cfe0860f-d871-47d4-8e50-1bf433d8de64,Hotel do Rio Negro,reservas@hoteldorionegro.com,(92) 93456-7890,1300,818e5e61-5043-48d3-8110-2be821c6c3bf,HOTEL,5629734
+43b51e14-bbe8-431f-a9b2-38c517a3af33,d014c381-79ea-4d73-93b2-0ec973fa76c4,Pousada do Pantanal,contato@pousadadopantanal.com,(67) 92109-8765,4500,819c9731-b7d5-42b8-b7d2-92becf09ee69,HOTEL,11231226
+79d4c6b8-97a9-499a-a53c-8b56cdffaa92,d01aa12a-878c-4957-9d02-f90edf825c9b,Hotel das Dunas,reservas@hoteldasdunas.com.br,(85) 97890-1234,2500,81b4b121-bba7-4956-bd34-278e71534612,HOTEL,1809728
+aa16730e-c0ba-4453-a844-2446860b0085,d0cc9215-6553-4aa7-beb9-108d88378e4f,Pousada do Centro Histórico,contato@pousadahistorica.com,(21) 95678-9012,980,81e8ce44-81e2-433c-bcb5-7fccc55f1e56,HOTEL,2101251
+f34db535-23a4-4c8a-9077-d8e27fe1cd55,d0ec4660-f640-4cdf-94e4-83cb19fcb5b4,Hotel das Cataratas,reservas@hotelcataratas.com,(45) 91098-7654,3200,8236b660-5916-480c-aeb1-5d8c7922d56f,HOTEL,10774615
+b158c40b-35a3-4d30-9342-03cdeb4f36d1,d13bf0aa-e688-414e-aafc-109dc6132c23,Pousada do Lago,contato@pousadadolago.com,(61) 99876-5432,720,8267a6d9-77a7-4813-8820-b7c47b33b84c,HOTEL,10263285
+e87b246d-31b1-41cb-8576-1baf9928bd77,d17b47f9-d4bc-44dd-98d8-b4d3e9e72f84,Hotel do Vale do Vinho,reservas@hoteldovale.com,(54) 91234-5678,1500,831f7ab6-9c3a-4e77-b693-fb9c24a82554,HOTEL,12596074
+c42db8fa-795a-4ce9-a8eb-ff94794567bd,d2dd27be-5010-454e-ade3-4d7550ea5eb2,Pousada dos Ventos,contato@pousadadosventos.com,(88) 98765-4321,290,839f020d-3747-4e22-b231-8cdde35bdc27,HOTEL,3112443
+de025e2e-ecd2-4e88-a0f2-782afbbef05f,d3f31bfd-4277-4ac0-9b36-cd4588ba4403,Hotel das Rochas,reservas@hoteldasrochas.com,(83) 96543-2109,370,83dfa860-2701-4be5-a45a-5efd0d6f36b7,HOTEL,13654198
+1357f67b-dfb0-4bdb-a600-c21d68e6285b,d450cf00-0c20-48c7-8369-9aeffa69f935,Pousada da Mata,contato@pousadadamata.com,(32) 94321-0987,510,841015c4-eb19-4dc7-90d0-98bf91f081e2,HOTEL,8609630
+853d5ea7-89aa-4f80-87b2-aa87b49b57fe,d4861f4c-b157-489a-ad58-6a040aafbd95,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,841535cf-58cd-4808-91b1-9c004a619897,HOTEL,3112443
+2478350e-d327-4d1c-8d7d-3954a5bb777c,d4866359-025e-4df1-b9d5-6d73b6766035,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,84e62b95-0ec7-430e-be79-093853ae6dc5,HOTEL,801247
+0b4384f3-ca6c-430f-80b5-4f32e1d8f83e,d4e3ff99-8331-4ad3-acba-2f0076c34b96,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,852658e3-4cbf-4b80-a176-25b214d875e9,HOTEL,14265763
+3365368d-1f81-469e-a137-b54b7dd68275,d56e4749-7d57-44c1-a628-b29f48e84e90,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,853a8707-007a-4d3b-9fc4-c97f1299da51,HOTEL,11073461
+a29c22cf-ee92-418f-a265-22dbac3183e6,d5b16c5e-152e-4636-a055-52a327b5f0b5,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,85571445-c465-48e7-ae3a-a1f8a398ef1c,HOTEL,7920324
+8ed298ca-74bd-415b-b1c0-a738582e4925,d5b78859-26bd-4059-ab4f-19785beb563c,Hotel das Palmeiras,reservas@hoteldaspalmeiras.com,(11) 98765-4321,450,855bf8a9-6643-4e3a-aabb-174d1466c287,HOTEL,6270657
+c37bb02b-bad8-4f6c-88d6-6b6dd91d91df,d5d264a8-66cf-4eaf-994a-82249074e5cc,Pousada do Sossego,contato@pousadadosossego.com.br,(21) 91234-5678,320,856ab726-bbb1-40b5-a6d7-68edf0e8bf8f,HOTEL,4374096
+e729578a-2672-4b0e-97bc-a58bd837c5fe,d5d6dab9-9ce5-460d-9a95-48c558263634,Resort Solar,info@resortsolar.com.br,(85) 99876-5432,1250,8586b65d-67f9-45d9-a436-14d77c78d888,HOTEL,4761806
+27fb8334-82bc-4f8a-b9d9-76e015ecddd0,d5e8af18-40eb-494b-a301-95b0a667cfd6,Hotel Estrela do Mar,reservas@hotelelmar.com.br,(71) 96543-2109,670,85ea62ad-f634-4da8-bd04-a76b715ed8c0,HOTEL,8512326
+b943b2bb-53ff-41bb-be73-ed9fa2e4fc66,d69925a0-879b-4883-80fb-802b1704d3f0,Hotel Serra Azul,contato@hotelserraazul.com,(31) 94321-0987,280,86e1ac68-d3ff-4565-84bc-4b508ddb4d5c,HOTEL,14265763
+72d23b94-bd0b-402e-b597-04318051b1d1,d6c40aa2-ef39-46a5-a3fa-b4c16050a7fe,Pousada Recanto Verde,reservas@recantoverde.com,(41) 93456-7890,550,86fa42a5-f292-452d-a6b7-013951c5ef4c,HOTEL,8371719
+96c8d907-882d-49f2-8b85-824138ce8ad0,d6c8f57e-d026-40f6-8868-c70f9044083a,Hotel Vila do Mar,contato@hotelviladomar.com,(48) 92109-8765,890,8773fec3-f453-4b81-acf7-f2f1fd8dc1a8,HOTEL,2835450
+81fb34eb-7768-428b-ba7f-85a30aa756f4,d7023ed7-9cf8-4289-a5c0-964cdc5fa318,Hotel Pôr do Sol,reservas@hotelpordosol.com.br,(81) 97890-1234,710,87acd635-648e-4ff1-8f25-e1fc8481da0e,HOTEL,16548113
+2117014b-62c4-41f2-8869-ab1b24a01866,d85b82c1-e5f4-4e3c-ae41-3c9263dd00e0,Pousada Nascer do Sol,contato@pousadanascerdosol.com,(51) 95678-9012,390,87b27300-facc-40db-ae3a-b8d55274b175,HOTEL,11073461
+5b63c3d3-b7c3-423d-9635-278ab266b5bf,d85d04df-87da-4931-902a-86cc303334d0,Hotel Aconchego Mineiro,reservas@hotelaconchego.com,(34) 91098-7654,420,87ca02d4-e603-4d31-adff-6a472aa0defd,HOTEL,6270657
+a8ba2540-1f92-4e41-b250-70a366e86cd7,d87630fa-d0c6-4859-b0ae-3b16db3fa178,Hotel Paraíso Tropical,info@hotelparaiso.com.br,(92) 99876-5432,1500,87dace44-7749-429d-8a75-dc0d79d23c2b,HOTEL,5629734
+716f3fa3-1c58-4ecd-8d87-2a91abedf41c,d90a09ee-8bf3-4a43-8be8-3759adf6e42f,Pousada Tranquilidade,contato@pousadatranquilidade.com,(61) 91234-5678,600,87f1f506-7023-4bbc-8167-0c12eae550e2,HOTEL,2152819
+238b5fc6-70a5-4ccb-bfe3-dbd2c738fd90,d925f532-04a7-40e0-b778-ffafbf4ab22d,Hotel Mirante das Águas,reservas@hotelmirante.com.br,(62) 98765-4321,580,87ffa203-5562-4dc2-9f7a-b3da9a3f3c64,HOTEL,11231226
+9c99cd59-62bb-4d64-bc5e-917f1132f360,d97b2dc2-6cb7-4f36-b6c7-490de4dc02e3,Hotel Lagoa Azul,contato@hotellagoazul.com,(67) 96543-2109,470,88303d30-a279-47be-aad8-46f5b9802c1b,HOTEL,10528795
+820ba8f7-c1c6-4d1f-93c0-797b5b05d92c,d98c5605-9f8b-4f33-856f-f81cb8bf2176,Pousada do Cerrado,reservas@pousadadocerrado.com,(65) 94321-0987,350,884352e6-2d63-4a87-b950-db8323704d80,HOTEL,1163966
+5da2a224-677c-4396-99e9-11e35eb98044,d9c1f549-8862-4ec2-bb92-4d1b04b44ced,Hotel Pedra Branca,contato@hotelpedrabranca.com,(27) 93456-7890,750,88aad88b-4130-41a4-96c0-6df4f78e37b2,HOTEL,10804695
+f1290be0-3b5f-45d6-a415-ffe3799cde6f,da1ce1a0-f6ef-41bb-b28f-71db2e4978ff,Hotel Mar e Areia,reservas@hotelares.com.br,(83) 92109-8765,920,88f39172-a6cf-4b30-9efd-6a0a9241d438,HOTEL,1306237
+367bd333-1f3b-470e-993a-69f1b6b24cc9,da6c860a-237e-4d36-b8d7-41728e94fdf5,Pousada Sonho Dourado,contato@pousadasonho.com,(84) 97890-1234,680,8994c044-e148-401f-a2d7-29a644988a58,HOTEL,12280786
+915623b1-baee-4672-99d9-9dbbfada28ab,db3fcdc9-fc97-4d5d-88ac-4cdd037917d0,Hotel Brisa do Mar,reservas@hotelbrisa.com.br,(91) 95678-9012,520,89c8e4ee-ef37-4c99-a921-af7d52f8a322,HOTEL,8617000
+6d9ff4e0-5c8c-4204-abf8-c5b91dc0dcb4,db8db476-53ea-4b8b-84df-f877984ab5b4,Hotel Vista Bela,info@hotelvistabela.com,(69) 91098-7654,480,89ea4b0b-0bc7-45de-96c3-e42e4164085b,HOTEL,10804695
+e8887926-9fe2-453f-a06e-86f2ea66978a,dbbb81c4-ccd5-4b81-b6da-809e5e559120,Pousada do Rio,contato@pousadadorio.com,(68) 99876-5432,330,8a178440-798f-4ec8-9f83-a6af05ca316c,HOTEL,6270657
+e1d3a6ba-e76b-41ce-8da5-bbcef17dc202,dbbbccfe-7def-4393-8e7d-75b3fb7fcc19,Hotel Colinas Verdes,reservas@hotelcolinas.com,(95) 91234-5678,410,8a37952a-84c3-417f-baad-5c35c83c6487,HOTEL,434676
+101e5764-48fb-4199-9eea-851bb98d32e4,dc095425-8f3a-4333-b3b4-ad971af4d0fd,Hotel Floresta Viva,contato@hotelfloresta.com,(96) 98765-4321,290,8a380e74-3220-428c-b557-65a8c3ea38d4,HOTEL,9436729
+e2035bbb-1f0f-4199-b944-1db40f54139c,dc11827a-6a80-4dd4-9c42-0d044aae80b9,Hotel Vale dos Ventos,reservas@hotelvaledosventos.com,(79) 96543-2109,650,8a77f391-56c7-46b9-93b2-13eb456958cd,HOTEL,8609630
+25356d3f-6902-4b9e-8277-3d9e93585099,dc1334ec-b97f-4e9e-9ec4-e6e2fffd3c4c,Pousada do Sertão,contato@pousadasertao.com,(87) 94321-0987,250,8a999948-0872-43fe-b4b9-b2393510f786,HOTEL,5193043
+ed273f60-3b9b-4b29-ad1e-e2e48403fd46,dd513a22-b708-426b-b281-914325f095b1,Hotel Sol Nascente,reservas@hotelsolnascente.com,(86) 93456-7890,380,8aa122a4-1aaf-4c64-9e2a-6743cda0d261,HOTEL,8617000
+f0a5d092-673c-446e-b63a-b902041dcf81,dd619b56-768c-4fe6-a29e-0491a6a2d0a4,Pousada das Águas Quentes,contato@pousadaaguasquentes.com,(64) 92109-8765,1100,8aa8804a-4e3f-4bab-a300-54b76e097a28,HOTEL,4905360
+4b046bc4-f9f0-42f6-8cef-282f9b3e5e23,dd962243-fdd5-4aa3-bb0f-5a7f56c7e4bd,Hotel Ouro Preto,reservas@hotelouropreto.com,(31) 97890-1234,570,8b10b500-c073-43ea-8492-58afb0b2e4d9,HOTEL,10804695
+cd59df8f-f44d-486e-8388-55f6096af4bb,ddad6d7d-c466-4d36-8456-8d4c6ece2160,Pousada do Vale,contato@pousadadovale.com.br,(24) 95678-9012,700,8b76ac83-0cc2-4a4a-9c93-774d9601f5b4,HOTEL,379872
+3384958b-e72b-49cd-a391-7cf0514cc147,ddf23878-33e3-44b4-89d0-9e103d917628,Hotel da Praia,reservas@hoteldapraia.com,(54) 91098-7654,950,8bbef52c-a2b6-41e1-9012-6340296d5893,HOTEL,10528795
+332db081-994f-46bb-b8e7-4015e72be80d,de3f63ff-2673-40e7-b76e-4f19f49b0a62,Pousada Litoral,contato@pousadalitoral.com,(13) 99876-5432,340,8bcbb141-3fb8-4fa9-8e01-f7f8d73dd671,HOTEL,2500617
+35034405-88cb-4e07-8600-273bd3720c10,de7bceed-860d-47d4-95b4-1440f154255f,Hotel do Bosque,reservas@hoteldobosque.com.br,(19) 91234-5678,490,8c2e83b2-d989-46de-a34c-647c6a0c9f48,HOTEL,10146399
+9f8776e5-e0b2-44a2-bb48-2f67a9ff8d79,decd6840-e00c-4f9b-9b84-2fcc4f853f80,Pousada da Serra,contato@pousadadaserra.com,(47) 98765-4321,620,8c4d0b07-aa3f-4f06-bf59-c4f995bea8d2,HOTEL,3813059
+efcc2f91-5b5a-4055-aaf4-6509aabd756e,deecd905-3f36-4553-b3cc-bd1ed72b7eb4,Hotel do Mar,reservas@hoteldohmar.com,(82) 96543-2109,800,8c7fe3bd-ceb0-4bce-84c5-7298bb059aed,HOTEL,4761806
+f74e50be-908e-40d1-af8b-7420171ce110,deeeabbf-9ae5-442c-939c-bbd5c546b223,Pousada do Sol,contato@pousadadosol.com,(75) 94321-0987,360,8cc09730-d641-4197-a98c-2a7cff5d2073,HOTEL,5338549
+0c82a374-115e-4a8c-a7c5-da8a7c861a0b,e08387cb-9fc4-468f-8859-b9c966583fd5,Hotel do Rio Negro,reservas@hoteldorionegro.com,(92) 93456-7890,1300,8d080ece-17e0-46fb-bd50-bfa200020095,HOTEL,11231226
+3d437fb2-2c80-43b6-8fea-9f842e43593d,e0b6c427-2f38-4c5e-b1f1-271e951ccfdb,Pousada do Pantanal,contato@pousadadopantanal.com,(67) 92109-8765,4500,8e4e5a4e-c45b-4e30-9fe7-733cc0024368,HOTEL,5193043
+8ceb0892-f944-4dd9-a66a-be4d78513ddd,e0d2fdfb-34e4-466f-ad13-39885d84a389,Hotel das Dunas,reservas@hoteldasdunas.com.br,(85) 97890-1234,2500,8e59f4aa-7681-474b-9b89-09fedf1dc889,HOTEL,8659138
+cc03c463-a4ef-4935-bdfc-5623fd6e6d5b,e1937edc-e9ab-42b4-a165-e626c792577c,Pousada do Centro Histórico,contato@pousadahistorica.com,(21) 95678-9012,980,8e676d7c-5b52-46ef-90e4-f88f579764af,HOTEL,3534174
+082d1378-d6b9-4500-88b5-a280d2d339a6,e1bf55ed-9a99-497a-bf94-0a32fc627330,Hotel das Cataratas,reservas@hotelcataratas.com,(45) 91098-7654,3200,8e9b9c99-1069-497f-a650-1f547ad4f7ff,HOTEL,946444
+eb598193-3b47-4a26-a189-88295c0527b6,e27980ec-a3b7-4402-a647-f92fcbf4b707,Pousada do Lago,contato@pousadadolago.com,(61) 99876-5432,720,8ec71162-eef1-4f75-b198-d6ba4d9fb0b1,HOTEL,4337318
+bbccdef7-e662-4238-a2fe-e6937d015382,e294c8f1-33d6-46d5-8fa3-d565c652bea9,Hotel do Vale do Vinho,reservas@hoteldovale.com,(54) 91234-5678,1500,8ee12f8a-0ee9-4dff-b6b8-52e7009af53b,HOTEL,13654198
+bf56c648-80a6-4c53-9b1a-2d04fb32b9ff,e3af6a15-52ce-469b-9a47-39974b63e994,Pousada dos Ventos,contato@pousadadosventos.com,(88) 98765-4321,290,8f865c4d-8a8a-417a-8d83-59dd2dd20d0c,HOTEL,5193043
+daf0351c-2f75-42f0-bcd0-468f636f9b1f,e3ce0671-dfb1-47e8-acfd-dde9fde113b8,Hotel das Rochas,reservas@hoteldasrochas.com,(83) 96543-2109,370,8fc3f3d4-7e30-4e29-bf3b-a5bfb4b126c4,HOTEL,5629734
+c633fa24-218f-433a-b696-856c41ed5663,e3ea44aa-8451-4877-bce3-7cd26030813d,Pousada da Mata,contato@pousadadamata.com,(32) 94321-0987,510,90005707-93cb-4ba5-8ac4-c8153341dad3,HOTEL,8830905
+9c8de6e7-e09d-48c5-b402-8c2c2a5b2c49,e3ea841a-f7f2-479b-8d2f-ad4f95fb535c,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,91130b6e-bdb8-4732-a7d9-6eccfca4be8b,HOTEL,10544590
+83a3ac07-3060-482a-b30e-2827a62c46fe,e4688c94-9afd-4b47-b262-5954c2eaecfd,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,91a0c80c-aaf6-4675-9297-3ed66b25749c,HOTEL,16548113
+c8869ae2-cc44-4f95-9039-c4cb04d3f417,e4c04acd-ec50-4993-9af2-b1552d4cfbba,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,91d9583a-2c96-4589-b0bb-913a75e862b8,HOTEL,4337318
+d3343b3a-0a31-44c3-a24f-5b2f7c57768f,e568122d-8767-4b67-bb26-19b28cc87f71,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,921a35ca-ab08-4071-8afb-ad986aff2841,HOTEL,801247
+74bb5512-8ccd-4d73-befa-d3aa1dd1b052,e6236225-53da-462a-beb7-336cbef21054,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,92500ac5-f711-464d-acb7-e1031cbb1694,HOTEL,4374096
+a63940f5-3b04-43b7-96cf-3ddc55f30ab5,e70e6ac9-ec92-4e85-aeab-968d7b2038dc,Hotel das Palmeiras,reservas@hoteldaspalmeiras.com,(11) 98765-4321,450,925e9e07-74ec-4366-97e6-ea05084fd01d,HOTEL,379872
+ca096ed4-32f1-4062-8efa-87f150bde435,e743073c-0f68-4fc9-8319-742286054806,Pousada do Sossego,contato@pousadadosossego.com.br,(21) 91234-5678,320,9261361a-7bb9-4b1e-9c8a-df4372fa2b2e,HOTEL,434676
+85203217-40fd-4f91-a56e-0a67e3d1e0e1,e7a4aa16-8567-45fd-bf7a-c02d734e2487,Resort Solar,info@resortsolar.com.br,(85) 99876-5432,1250,92fa2448-45c2-4f30-aadf-81ec4e02e859,HOTEL,8617000
+61787d8c-3f58-4e12-bee6-f77048458c63,e7d32baf-0bad-49cd-9bb1-cef9de4123a2,Hotel Estrela do Mar,reservas@hotelelmar.com.br,(71) 96543-2109,670,952c5598-4a36-45e6-8100-d4093d6154d9,HOTEL,1306237
+e0623cd7-5e62-4e35-91ce-18aa73461c04,e7e37b04-917a-4bb8-88fa-a3e6c2c974dd,Hotel Serra Azul,contato@hotelserraazul.com,(31) 94321-0987,280,952ec4a3-2e2f-495a-9991-13b95ba1200b,HOTEL,4337318
+a13b0560-a024-42ce-a294-e0cd4b1fc7e7,e8200302-3ba6-48f7-8ee6-6771709f47af,Pousada Recanto Verde,reservas@recantoverde.com,(41) 93456-7890,550,956d8373-f093-4a25-8c82-ff289cafe09f,HOTEL,434676
+0f65b3cc-f55f-4d57-a42a-75ace9bd819c,e82f62f7-be7f-49af-b3c7-2f4ce91a2632,Hotel Vila do Mar,contato@hotelviladomar.com,(48) 92109-8765,890,957255cf-59ee-421c-85a4-ee7784990847,HOTEL,13341380
+c00844ae-d973-403b-b49a-8f48623a6f40,e8813301-e511-44a7-93d9-ab751f049a54,Hotel Pôr do Sol,reservas@hotelpordosol.com.br,(81) 97890-1234,710,95f344bb-da58-4a37-8857-d8957fee4884,HOTEL,11073461
+e1d418b3-7a14-4f17-91b6-ea52dd288f93,e8c7ba6d-025e-44e4-ad3b-d1be3a3aa04c,Pousada Nascer do Sol,contato@pousadanascerdosol.com,(51) 95678-9012,390,96150f49-d252-4819-a366-4d4b296f0c06,HOTEL,4374096
+853e3c93-b4aa-4076-bfb3-c4012669dcfa,e8da3df3-026f-4717-9dcc-af67d0744bf6,Hotel Aconchego Mineiro,reservas@hotelaconchego.com,(34) 91098-7654,420,966b75d6-7790-46fb-b1ea-f73ce9506888,HOTEL,4761806
+442d9023-ab1d-4d3e-801d-3263875103a7,e9074260-1bc7-4aa8-b304-b1365683045a,Hotel Paraíso Tropical,info@hotelparaiso.com.br,(92) 99876-5432,1500,96b682b7-96d9-4918-8b04-224edc342462,HOTEL,946444
+075431cf-c9b0-442d-bb9a-5b5f9e2520d8,e9423c87-ece4-4e18-96ee-68cf5dcbf536,Pousada Tranquilidade,contato@pousadatranquilidade.com,(61) 91234-5678,600,96d46771-38c5-4e44-97fd-1f3196c2dfa0,HOTEL,8659138
+cefc2179-9432-46c5-9ad8-d05293d14cd5,e94c3bab-3251-40e9-9de6-a53ebc5cebcb,Hotel Mirante das Águas,reservas@hotelmirante.com.br,(62) 98765-4321,580,96e34900-b335-4b9e-8cf3-d7d8b4da9dc9,HOTEL,4932749
+caec990f-36c2-48ee-aa72-28ea28218a24,e94f9903-eeb5-436d-a107-c544f411d365,Hotel Lagoa Azul,contato@hotellagoazul.com,(67) 96543-2109,470,97119de0-49a0-4a82-af12-ddc9ad34bfe7,HOTEL,1306237
+34bc5c2f-ae3a-42fc-8d8e-0fd9f7670714,e9a70352-831c-4baa-8e04-ddbad7f99646,Pousada do Cerrado,reservas@pousadadocerrado.com,(65) 94321-0987,350,9795c7f8-459e-41a7-94c0-228e13a8c3f0,HOTEL,12280786
+2ccc3716-c908-4814-a8af-ab7a391f17aa,ea71de15-bd21-49bd-bf06-7ea8010a9ded,Hotel Pedra Branca,contato@hotelpedrabranca.com,(27) 93456-7890,750,97c3dfcc-9e23-4e02-af3b-3d21adc44ac8,HOTEL,4761806
+ac77f0de-0ecc-4aa5-890e-dc52c9c12593,ea9dd49f-0654-4eab-8493-78df3631ce2b,Hotel Mar e Areia,reservas@hotelares.com.br,(83) 92109-8765,920,97d81b97-749e-4d91-a0bf-1abf4cd9c6a9,HOTEL,10804695
+527653c6-622b-4648-8f0f-99ea88302d01,ead777a0-961c-4e22-bfb6-2f86b987ab3b,Pousada Sonho Dourado,contato@pousadasonho.com,(84) 97890-1234,680,97f4b0e6-acbd-42ba-b0b5-d59069c84a0b,HOTEL,4761806
+45418860-2247-4e3f-b998-f7b0ac3312c8,eb29c54b-64fd-45e9-9c20-00022329968c,Hotel Brisa do Mar,reservas@hotelbrisa.com.br,(91) 95678-9012,520,9803c45d-262c-4ad2-819f-cbb41fa51ad5,HOTEL,6270657
+c7afc682-16df-4acf-b764-9eba3621691d,ec1ca0fc-0640-4fda-b593-b41db7398c92,Hotel Vista Bela,info@hotelvistabela.com,(69) 91098-7654,480,982520b2-88ff-4731-8781-12c09a03d029,HOTEL,2101251
+ac11db24-b36d-4fe8-9ad7-e2e26bd23a46,ed617726-ddcc-4787-80cf-d530bd6239f7,Pousada do Rio,contato@pousadadorio.com,(68) 99876-5432,330,982ad495-d3d5-45d2-a20f-a5eb424b755b,HOTEL,8659138
+92c4502f-fdbe-45ca-b22c-b8d1ff021348,ed98f42f-159b-4651-af57-841414c74aa3,Hotel Colinas Verdes,reservas@hotelcolinas.com,(95) 91234-5678,410,9831603b-8538-4e45-9c66-aa2ee94df1db,HOTEL,6270657
+4593e79b-6206-4711-a7fd-a7f5687cafbd,edd0e553-a31f-4d47-94a0-bd8bb9fb0b6f,Hotel Floresta Viva,contato@hotelfloresta.com,(96) 98765-4321,290,987ec3c5-1e14-47f8-8239-973fa822e0e8,HOTEL,6270657
+3ad08d65-3a6f-497a-b302-f81797a4581a,ee15baab-e5d8-429c-bd89-f5861d0fc5ca,Hotel Vale dos Ventos,reservas@hotelvaledosventos.com,(79) 96543-2109,650,9895cb88-c312-46e6-8b0e-643178a68040,HOTEL,13341380
+26f781cd-2afd-49bd-8b1a-d89bfe23b990,ee6fbdb3-9562-45b3-8d22-5dbd7470df5e,Pousada do Sertão,contato@pousadasertao.com,(87) 94321-0987,250,98a7b8d7-806e-4e25-ac04-ddf7a25eb819,HOTEL,4905360
+9549f176-3a78-4978-b0a4-8faa3e93edaf,eeed5bce-e6c9-41bd-85dc-7c2fa14f90dc,Hotel Sol Nascente,reservas@hotelsolnascente.com,(86) 93456-7890,380,98c09e64-9988-4106-8c60-51d1ea59111f,HOTEL,8609630
+1aab6ade-3576-47b3-b333-98061eca75f7,efb63e86-62c8-484a-b18b-c4d0aced6054,Pousada das Águas Quentes,contato@pousadaaguasquentes.com,(64) 92109-8765,1100,98d1d48d-8dfa-4a63-bb2a-a50b72a1b406,HOTEL,5193043
+81734af5-de3c-47e6-929a-2fdd7b4bb0e5,f02366f3-b19b-4596-a9c8-3f46cc1d675f,Hotel Ouro Preto,reservas@hotelouropreto.com,(31) 97890-1234,570,99281262-d90e-48d6-9721-94a1a97c5c7a,HOTEL,4761806
+77d4cccd-bea4-4eb8-b1e1-fdc275bd08ac,f03c373b-1c37-432f-a91a-133a50996886,Pousada do Vale,contato@pousadadovale.com.br,(24) 95678-9012,700,994c1461-a1b2-46f3-a4af-9f239da71efe,HOTEL,1809728
+b8464b92-df26-40f5-bec7-413ea4da9ebf,f21b1bb5-17f5-4141-a8d6-f8d2026dafa6,Hotel da Praia,reservas@hoteldapraia.com,(54) 91098-7654,950,996cba98-7dc6-4288-8b8a-5b79ba477ac7,HOTEL,2835450
+7f726497-6ea1-49a5-93ca-5432650712ba,f3aa7368-cb08-4277-bb0c-69b0cdd6f0b7,Pousada Litoral,contato@pousadalitoral.com,(13) 99876-5432,340,9985f5c3-2d1b-45dc-9abe-f474468d64f4,HOTEL,379872
+11b46855-b055-4dee-a93b-8d33e06ff9b9,f4a2b8ee-e5b2-4a20-9c60-d8d91c49a7b5,Hotel do Bosque,reservas@hoteldobosque.com.br,(19) 91234-5678,490,9989ca57-9683-4ff9-ba55-68e4d4bd52d4,HOTEL,8659138
+ce2d0c57-8dbe-4aa7-86b5-5a1adefaa20d,f4d3505a-856e-4a97-8ea4-a340d6a5e046,Pousada da Serra,contato@pousadadaserra.com,(47) 98765-4321,620,9a87842d-62a8-4edb-bf33-1aa54ae45eb3,HOTEL,434676
+a8760572-5869-4275-9691-6754f83f8c75,f4eb843c-542e-4737-b82a-2ab09a35b0bf,Hotel do Mar,reservas@hoteldohmar.com,(82) 96543-2109,800,9a9c9f65-1d73-40ba-a504-ab1fb0a22228,HOTEL,14265763
+c1ec300c-90d4-4cab-a823-3acf765d4877,f58a435a-bda3-47e3-a34a-fba9391a4f33,Pousada do Sol,contato@pousadadosol.com,(75) 94321-0987,360,9b732bf8-1596-48a3-af8e-f07bad7341d4,HOTEL,10146399
+a9e70fcf-7004-4771-b699-5cdc5fae7d7f,f5cb496d-31b3-4a47-896e-1bf7abb23e35,Hotel do Rio Negro,reservas@hoteldorionegro.com,(92) 93456-7890,1300,9be6be89-2694-4797-aded-99c0322fa26c,HOTEL,2101251
+dd737943-1862-4b34-a908-78718caf8f17,f5f4e9fb-6ef7-463c-9f3b-8315a3d4caa8,Pousada do Pantanal,contato@pousadadopantanal.com,(67) 92109-8765,4500,9bfbaabb-f21d-4cf2-88ce-f64b847dba15,HOTEL,10146399
+06c7d4cf-b1f1-453d-a455-d39a8289a2a4,f6a6039c-f8ee-457f-83f2-b5b0e1c78f9b,Hotel das Dunas,reservas@hoteldasdunas.com.br,(85) 97890-1234,2500,9c30ce1d-eb86-434e-b28f-198d04228587,HOTEL,8371719
+337ba0ce-4ea8-4a5d-87b4-1f969e5a03f3,f72c8c79-d49c-4c87-b814-b31f34880d14,Pousada do Centro Histórico,contato@pousadahistorica.com,(21) 95678-9012,980,9c740b79-2c57-49ae-8a25-62afac6f6bf0,HOTEL,12280786
+ab3af695-8b29-45f3-bc40-da1b2892edd6,f755cb48-609e-4605-81f7-bd981c733aeb,Hotel das Cataratas,reservas@hotelcataratas.com,(45) 91098-7654,3200,9d127b40-6a1c-463f-9fa5-1cd4fcfb1b49,HOTEL,3813059
+6220cfb2-0bbe-4d39-9256-bcced348b628,f897816c-42b7-483e-9154-a6034073e6eb,Pousada do Lago,contato@pousadadolago.com,(61) 99876-5432,720,9d4b819e-4e80-4baa-8aa8-7b9fece6f753,HOTEL,1809728
+8532a58f-af52-458c-8c50-ccee3f55a6e0,f8b3856b-6373-46ff-8637-4373596a58a6,Hotel do Vale do Vinho,reservas@hoteldovale.com,(54) 91234-5678,1500,9da9e6e1-c870-437a-959c-04211ac7d605,HOTEL,2152819
+98256fd1-e93e-4caa-b669-7a01ca8bc66a,f9c93dc7-1d86-4cf5-8540-863be7160655,Pousada dos Ventos,contato@pousadadosventos.com,(88) 98765-4321,290,a52491a3-508e-4e83-9eaf-27454e2554cd,HOTEL,10528795
+1f8ca3d6-b548-4054-99a5-4110f565fb0d,f9d18462-73c4-4fde-bb31-539d8e3bf0dd,Hotel das Rochas,reservas@hoteldasrochas.com,(83) 96543-2109,370,a5962487-82bb-44d7-b71b-1c7d77945c57,HOTEL,801247
+4eb7c2f0-b233-4406-a301-625432b1613d,fa2d5248-f992-44b9-b9f3-fc4d576cba6e,Pousada da Mata,contato@pousadadamata.com,(32) 94321-0987,510,a5974d51-e83f-4116-8e71-afa47a2ca5ff,HOTEL,7920324
+17eee826-db47-4902-a055-26a4386aa3a2,fb11bd2f-be1b-4b03-9da2-9a5830ba868f,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,a5e6dcdc-629c-4acd-8bfd-d172dda32b40,HOTEL,5193043
+f15d7ed2-a613-4903-9e74-94774b812796,fb1fea60-e635-45a5-9a6d-62c993a7c8d4,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,a60905bc-f615-43d8-9e5a-74775c872858,HOTEL,4905360
+b2fe26c6-9dce-4a29-a0d4-de5f9981259e,fb7057ac-ca8b-434c-b0a9-754e97bdf9a9,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,a7118404-9e66-44bb-b754-8deb4446c4fc,HOTEL,5338549
+afb464ed-76ce-45f6-bb70-8abb51c1a079,fc286e52-2f6c-4ad2-8159-abb02d6a5e46,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,a7b5bc0e-e887-4001-8ea1-c27bd43a9ef0,HOTEL,11182797
+41081e50-419c-4a9b-aa76-3704a33bc4b9,fd4fc3fc-150e-4bee-928c-bf1405293d8e,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,a8215636-d35d-4c45-99d9-19bff9349f3a,HOTEL,4932749
+a94a87da-af82-4e7e-af9f-65c2c48590f5,fd97016f-4590-48ff-ac25-895c1eaa3674,Hotel do Peixe,reservas@hoteldopeixe.com,(92) 93456-7890,640,a869abbe-6c29-4009-8912-405d17b0558f,HOTEL,3813059
+b4814944-80af-4723-9d29-afd79f1ff976,fda38f9c-2460-476b-ba67-1d1f989d6314,Pousada da Montanha,contato@pousadamontanha.com,(47) 92109-8765,440,a8b1cbd4-f070-463b-bbe4-09e301a91f1e,HOTEL,4932749
+0447e91f-c7b2-438e-b339-19dd42493292,fdde4c3e-4576-4bf2-96e7-d28965810dac,Hotel da Floresta,reservas@hotelfloresta.com,(92) 97890-1234,1150,a8d04377-14c3-419a-8fd2-496d43099167,HOTEL,9436729
+cee33ebf-b216-4dd5-8e9a-e998b75423e4,fee7d1c2-abac-455c-82fe-45eeb4d82a52,Pousada do Sol Nascente,contato@pousadasolnascente.com,(84) 95678-9012,850,aecbd3d3-da48-4aa2-a145-1b9ef1d650f1,HOTEL,8617000
+60a7151b-22ed-4d47-934b-095a8b17be74,ff891e9c-6cd8-4d86-a11f-d890e87adae3,Hotel Maravilha,reservas@hotelmaravilha.com,(11) 91098-7654,2000,aed6457d-53d9-4b96-acbb-dd1df1dfb454,HOTEL,13654198
